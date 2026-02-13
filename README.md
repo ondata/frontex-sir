@@ -21,6 +21,9 @@ https://prd.frontex.europa.eu/?form-fields%5Bsearch%5D
 
 Su quella pagina cerca: **Serious Incident Reports**.
 
+Link diretto con filtro gia impostato su Serious Incident Reports:
+https://prd.frontex.europa.eu/?form-fields%5Bdocument-tag%5D%5B0%5D=409
+
 ## Cosa NON fa
 
 - Non fa OCR locale.
