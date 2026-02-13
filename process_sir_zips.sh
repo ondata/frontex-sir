@@ -85,25 +85,46 @@ while IFS= read -r line || [[ -n "$line" ]]; do
   [[ "$line" == \#* ]] && continue
 
   url="$line"
-  zip_name="$(basename "${url%%\?*}")"
-  zip_name="${zip_name// /_}"
-  zip_path="$ZIP_DIR/$zip_name"
-  zip_stem="${zip_name%.zip}"
-  out_dir="$PDF_DIR/$zip_stem"
-  mkdir -p "$out_dir"
+  file_name="$(basename "${url%%\?*}")"
+  file_name="${file_name// /_}"
+  file_path="$ZIP_DIR/$file_name"
 
-  if [[ -f "$zip_path" ]]; then
-    echo "[SKIP download] $zip_name"
+  if [[ -f "$file_path" ]]; then
+    echo "[SKIP download] $file_name"
     ((download_skipped+=1))
   else
-    echo "[DOWNLOAD] $url -> $zip_path"
-    curl -fL --retry 3 --retry-delay 2 -o "$zip_path" "$url"
+    echo "[DOWNLOAD] $url -> $file_path"
+    curl -fL --retry 3 --retry-delay 2 -o "$file_path" "$url"
     ((downloaded+=1))
   fi
 
+  # Direct PDF: copy into its own subfolder under PDF_DIR.
+  if [[ "${file_name,,}" == *.pdf ]]; then
+    stem="${file_name%.pdf}"
+    stem="${stem%.PDF}"
+    stem="${stem//.}"
+    out_dir="$PDF_DIR/$stem"
+    mkdir -p "$out_dir"
+    out_pdf="$out_dir/$file_name"
+    if [[ -f "$out_pdf" ]]; then
+      echo "  [SKIP PDF] $out_pdf"
+      ((pdf_skipped+=1))
+    else
+      cp -f "$file_path" "$out_pdf"
+      echo "  [PDF] $file_name -> $out_pdf"
+      ((pdf_extracted+=1))
+    fi
+    continue
+  fi
+
+  # ZIP: extract PDFs into subfolder.
+  zip_stem="${file_name%.zip}"
+  out_dir="$PDF_DIR/$zip_stem"
+  mkdir -p "$out_dir"
+
   tmp_dir="$(mktemp -d)"
-  if ! unzip -q -o "$zip_path" -d "$tmp_dir"; then
-    echo "[ERROR] Cannot extract $zip_path" >&2
+  if ! unzip -q -o "$file_path" -d "$tmp_dir"; then
+    echo "[ERROR] Cannot extract $file_path" >&2
     ((failures+=1))
     rm -rf "$tmp_dir"
     continue
@@ -127,7 +148,7 @@ while IFS= read -r line || [[ -n "$line" ]]; do
   done < <(find "$tmp_dir" -type f \( -iname '*.pdf' -o -iname '*.PDF' \) -print0 | sort -z)
 
   if [[ $found_pdf -eq 0 ]]; then
-    echo "  [WARN] No PDF found in $zip_name"
+    echo "  [WARN] No PDF found in $file_name"
   fi
 
   rm -rf "$tmp_dir"

@@ -65,7 +65,7 @@ analysis_output/
 
 ## Data model
 
-`SirRecord` (Pydantic): `sir_id` (format `DDDDD/YYYY`), `report_date`, `incident_date`, `location_details`, `dead_confirmed`, `injured_confirmed`, `missing_confirmed`, `dead_possible_min/max`, `note_contesto`, `evidenza_testuale`, `confidenza` (alta/media/bassa), `evidence_pages`.
+`SirRecord` (Pydantic): `sir_id` (format `DDDDD/YYYY`), `report_date`, `incident_date`, `location_details`, `dead_confirmed`, `injured_confirmed`, `missing_confirmed`, `dead_possible_min/max`, `note_contesto`, `libyan_coast_guard_involved` (bool|null), `evidenza_testuale`, `confidenza` (alta/media/bassa), `evidence_pages`.
 
 ## Git LFS
 

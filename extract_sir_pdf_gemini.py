@@ -31,6 +31,7 @@ class SirRecord(BaseModel):
     dead_possible_min: Optional[int] = Field(default=None, ge=0)
     dead_possible_max: Optional[int] = Field(default=None, ge=0)
     note_contesto: Optional[str] = None
+    libyan_coast_guard_involved: Optional[bool] = None
     evidenza_testuale: str = Field(min_length=1)
     confidenza: Confidence
     evidence_pages: list[int] = Field(default_factory=list)
@@ -268,6 +269,7 @@ def write_summary(
         "missing_confirmed",
         "dead_possible_min",
         "dead_possible_max",
+        "libyan_coast_guard_involved",
         "confidenza",
         "evidence_pages",
         "evidenza_testuale",

@@ -125,6 +125,7 @@ Restituisci SOLO JSON valido, senza markdown, con questa struttura:
       "dead_possible_min": 0 or null,
       "dead_possible_max": 0 or null,
       "note_contesto": "string or null",
+      "libyan_coast_guard_involved": true or false or null,
       "evidenza_testuale": "breve citazione dal documento",
       "confidenza": "alta|media|bassa",
       "evidence_pages": [1, 2]
@@ -141,6 +142,7 @@ Regole:
 - Se impossibile estrarre un valore, usa null.
 - sir_id deve essere nel formato XXXXX/YYYY.
 - evidence_pages: numeri di pagina del PDF dove hai trovato le informazioni.
+- libyan_coast_guard_involved: true se il documento menziona esplicitamente la guardia costiera libica (Libyan Coast Guard, LCG, guardia costiera della Libia) come attore presente o coinvolto nell'incidente; false se l'incidente è descritto senza alcun coinvolgimento libico; null se non è possibile determinarlo.
 ```
 
 Nel codice si trova in `extract_sir_pdf_gemini.py`, funzione `build_prompt()`.
@@ -235,3 +237,107 @@ Questo è un primo esperimento esplorativo.
 Il modello usato è `gemini-2.5-flash`: non è il più potente disponibile, ma permette di fare test iniziali a costo zero grazie al piano gratuito di Google AI Studio.
 
 Non è stata ancora fatta nessuna verifica della qualità dei dati estratti, né automatica né manuale. I risultati vanno trattati come bozza da validare.
+
+---
+
+## Script
+
+### `fetch_sir_zip_urls.py`
+
+Scarica l'elenco aggiornato di tutti i documenti SIR dal registro pubblico Frontex.
+
+Itera tutte le pagine del registro, raccoglie i metadati e i link di download da ogni scheda, e produce:
+
+- `zip_urls.txt` — un URL di download per riga (ZIP o PDF), append idempotente
+- `sir_documents.jsonl` — un record JSON per documento con i seguenti campi:
+
+| Campo | Descrizione |
+|---|---|
+| `doc_id` | ID interno del documento nel registro Frontex |
+| `title` | Titolo del documento |
+| `publication_date` | Data di pubblicazione (formato ISO `YYYY-MM-DD`) |
+| `language` | Lingua (es. `EN`) |
+| `document_format` | Formato del file (`ZIP` o `PDF`) |
+| `tags` | Tag associati (es. `PAD 2025`, `SIR`) |
+| `download_urls` | Lista di oggetti `{url, label}` con i link di download |
+| `document_page_url` | URL della pagina del documento sul sito Frontex |
+
+È sicuro da eseguire periodicamente (es. settimanalmente): aggiunge solo i documenti non già presenti.
+
+```bash
+# Vedi cosa ci sarebbe di nuovo senza scrivere nulla
+python3 fetch_sir_zip_urls.py --dry-run
+
+# Aggiorna zip_urls.txt e sir_documents.jsonl
+python3 fetch_sir_zip_urls.py
+```
+
+Opzioni:
+
+| Opzione | Descrizione |
+|---|---|
+| `--output FILE` | File URL list (default: `zip_urls.txt`) |
+| `--jsonl FILE` | File metadati (default: `sir_documents.jsonl`) |
+| `--dry-run` | Stampa i nuovi URL senza scrivere |
+| `--pages N` | Limita la scansione a N pagine (default: 20) |
+
+---
+
+### `process_sir_zips.sh`
+
+Scarica i file elencati in `zip_urls.txt` e li prepara per l'estrazione.
+
+- Per i **ZIP**: scarica in `rawdata/`, estrae i PDF in `pdfs/<nome-zip>/`
+- Per i **PDF diretti**: scarica in `rawdata/`, copia in `pdfs/<nome-file>/`
+
+I file già presenti vengono saltati (idempotente).
+
+```bash
+# Uso base
+./process_sir_zips.sh zip_urls.txt
+
+# Cartelle personalizzate
+./process_sir_zips.sh zip_urls.txt --zip-dir rawdata --pdf-dir pdfs
+```
+
+Opzioni:
+
+| Opzione | Descrizione |
+|---|---|
+| `--zip-dir DIR` | Dove salvare i file scaricati (default: `rawdata/`) |
+| `--pdf-dir DIR` | Dove estrarre i PDF (default: `pdfs/`) |
+
+---
+
+### `extract_sir_pdf_gemini.py`
+
+Legge ogni PDF con Gemini e produce dati strutturati in JSON e CSV.
+
+Carica il PDF su Gemini File API, invia il prompt di estrazione, valida la risposta con Pydantic e scrive un `.extracted.json` per ogni PDF più file di riepilogo per cartella e globali.
+
+```bash
+source .venv/bin/activate
+
+# Processa tutti i PDF
+python3 extract_sir_pdf_gemini.py pdfs --output-dir analysis_output
+
+# Forza la rielaborazione (ignora i file già esistenti)
+python3 extract_sir_pdf_gemini.py pdfs --output-dir analysis_output --no-skip-existing
+
+# Un singolo PDF
+python3 extract_sir_pdf_gemini.py pdfs/pad-2025-00419/somefile.pdf --output-dir analysis_output
+
+# Prompt alternativo (per A/B testing)
+python3 extract_sir_pdf_gemini.py pdfs --prompt-path prompts/extract_sir_v2.txt
+```
+
+Opzioni principali:
+
+| Opzione | Descrizione |
+|---|---|
+| `--model NAME` | Modello Gemini da usare (default: `gemini-2.5-flash`) |
+| `--output-dir DIR` | Cartella output (default: `analysis_output`) |
+| `--prompt-path FILE` | File prompt alternativo (default: `prompts/extract_sir.txt`) |
+| `--no-skip-existing` | Rielabora anche i PDF già processati |
+| `--exclude PATTERN` | Esclude file per pattern glob (ripetibile) |
+| `--min-seconds-between-calls N` | Pausa tra chiamate API (default: 4s) |

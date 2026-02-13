@@ -10,7 +10,6 @@ This document describes the requirements and characteristics of AI models used f
 
 **Specs:**
 - Context window: 1M tokens input, 65K output
-- File upload: max 10MB (via File API)
 - Temperature: 0-2 (default: 0 for deterministic extraction)
 - Thinking: supported
 - Structured output: `application/json`
@@ -31,8 +30,7 @@ This document describes the requirements and characteristics of AI models used f
 ### Gemini 2.5 Pro
 
 **Specs:**
-- Context window: 1M tokens input, 65K output
-- File upload: max 10MB (via File API)
+- Context window: 1M tokens input, 64K output
 - Temperature: 0-2 (default: 0 for deterministic extraction)
 - Thinking: supported
 - Structured output: `application/json`
@@ -52,10 +50,10 @@ This document describes the requirements and characteristics of AI models used f
 
 ### Alternative Models (for future testing)
 
-#### Gemini 3 Flash Preview
+#### Gemini 3 Flash
 - Context: 1M tokens
-- Latest model with enhanced reasoning
-- Experimental status
+- Outperforms 2.5 Pro on most benchmarks; default model in Gemini app
+- Input: $0.50/1M, Output: $3/1M
 
 #### Gemma 3 27B
 - Open model
@@ -65,14 +63,14 @@ This document describes the requirements and characteristics of AI models used f
 ## Cost Estimation
 
 ### Gemini 2.5 Flash
-- Input: ~$0.075/1M tokens
-- Output: ~$0.30/1M tokens
-- Estimated per PDF: $0.004-0.012 (assuming 5-15K input tokens, 500-2K output tokens)
+- Input: $0.30/1M tokens
+- Output: $2.50/1M tokens
+- Estimated per PDF: $0.003-0.010 (assuming 5-15K input tokens, 500-2K output tokens)
 
 ### Gemini 2.5 Pro
-- Input: ~$0.50/1M tokens
-- Output: ~$1.50/1M tokens
-- Estimated per PDF: $0.03-0.06
+- Input: $1.25/1M tokens (≤200K context), $2.50/1M (>200K)
+- Output: $10/1M tokens
+- Estimated per PDF: $0.011-0.040
 
 **Note:** These are rough estimates based on general Gemini pricing. Check actual pricing at https://ai.google.dev/pricing
 
@@ -92,7 +90,8 @@ This document describes the requirements and characteristics of AI models used f
 ## Technical Requirements
 
 ### File Upload
-- Max size: 10MB per file
+- Max size: 2GB per file (via Files API)
+- Inline data limit: 50MB for PDFs (use Files API for larger files)
 - Supported formats: PDF only
 - File remains uploaded for 48 hours (automatic cleanup needed)
 

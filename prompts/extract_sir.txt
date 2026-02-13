@@ -17,6 +17,7 @@ Restituisci SOLO JSON valido, senza markdown, con questa struttura:
       "dead_possible_min": 0 or null,
       "dead_possible_max": 0 or null,
       "note_contesto": "string or null",
+      "libyan_coast_guard_involved": true or false or null,
       "evidenza_testuale": "breve citazione dal documento",
       "confidenza": "alta|media|bassa",
       "evidence_pages": [1, 2]
@@ -33,3 +34,4 @@ Regole:
 - Se impossibile estrarre un valore, usa null.
 - sir_id deve essere nel formato XXXXX/YYYY.
 - evidence_pages: numeri di pagina del PDF dove hai trovato le informazioni.
+- libyan_coast_guard_involved: true se il documento menziona esplicitamente la guardia costiera libica (Libyan Coast Guard, LCG, guardia costiera della Libia) come attore presente o coinvolto nell'incidente; false se l'incidente è descritto senza alcun coinvolgimento libico; null se non è possibile determinarlo.
