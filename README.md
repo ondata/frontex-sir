@@ -16,6 +16,11 @@ Non devi programmare: il flusso base è in 2 comandi.
    - citazione testuale di evidenza
    - pagine del PDF usate come fonte
 
+Per cercare i file ZIP da scaricare, usa questa pagina:
+https://prd.frontex.europa.eu/?form-fields%5Bsearch%5D
+
+Su quella pagina cerca: **Serious Incident Reports**.
+
 ## Cosa NON fa
 
 - Non fa OCR locale.
@@ -227,4 +232,3 @@ Questo è un primo esperimento esplorativo.
 Il modello usato è `gemini-2.5-flash`: non è il più potente disponibile, ma permette di fare test iniziali a costo zero grazie al piano gratuito di Google AI Studio.
 
 Non è stata ancora fatta nessuna verifica della qualità dei dati estratti, né automatica né manuale. I risultati vanno trattati come bozza da validare.
-
