@@ -216,6 +216,15 @@ Ogni PDF viene inviato a Gemini: considera tempi di esecuzione e costi API in ba
   Link: https://curl.se/docs/  
   Perche utile: scarica gli ZIP Frontex dagli URL nel file `zip_urls.txt`.
 
-- `unzip`  
-  Link: https://infozip.sourceforge.net/UnZip.html  
+- `unzip`
+  Link: https://infozip.sourceforge.net/UnZip.html
   Perche utile: estrae i PDF dagli ZIP mantenendo una struttura ordinata in `pdfs/<nome-zip>/`.
+
+## Note finali
+
+Questo è un primo esperimento esplorativo.
+
+Il modello usato è `gemini-2.5-flash`: non è il più potente disponibile, ma permette di fare test iniziali a costo zero grazie al piano gratuito di Google AI Studio.
+
+Non è stata ancora fatta nessuna verifica della qualità dei dati estratti, né automatica né manuale. I risultati vanno trattati come bozza da validare.
+
