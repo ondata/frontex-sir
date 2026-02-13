@@ -1,4 +1,3 @@
 old/
 .venv/
-rawdata/*.zip
 __pycache__/
