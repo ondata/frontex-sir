@@ -137,12 +137,42 @@ Regole:
 
 Nel codice si trova in `extract_sir_pdf_gemini.py`, funzione `build_prompt()`.
 
+## Esempio di output: summary_totals.json
+
+Generato processando i 3 ZIP in `zip_urls.txt`:
+
+- `https://prd.frontex.europa.eu/wp-content/uploads/pad-2025-00427.zip` (SIR 2017)
+- `https://prd.frontex.europa.eu/wp-content/uploads/pad-2025-00419.zip` (SIR 2021)
+- `https://prd.frontex.europa.eu/wp-content/uploads/pad-2025-00475.zip` (SIR 2022/2024)
+
+```json
+{
+  "generated_at_utc": "2026-02-13T07:23:16.169626+00:00",
+  "model": "gemini-2.5-flash",
+  "input_path": "pdfs",
+  "files_processed": 14,
+  "files_failed": 0,
+  "records_total": 30,
+  "dead_confirmed_total": 59,
+  "injured_confirmed_total": 23,
+  "missing_confirmed_total": 9,
+  "dead_possible_total_min": 8,
+  "dead_possible_total_max": 120
+}
+```
+
 ## Dove guardare i risultati
 
 - Vista sintetica globale: `analysis_output/summary.csv`
 - Totali globali: `analysis_output/summary_totals.json`
 - Dettaglio per batch: `analysis_output/<cartella>/summary.csv`
 - Dettaglio per documento: `analysis_output/<cartella>/<file>.extracted.json`
+
+## Nota su Git LFS
+
+I file PDF e ZIP sono tracciati con [Git LFS](https://git-lfs.com/) perché GitHub non accetta file binari oltre 100 MB nel repository ordinario. Con LFS i binari sono archiviati separatamente: nel repo restano solo puntatori leggeri.
+
+Per clonare il repo con i file binari inclusi è sufficiente avere `git-lfs` installato: il download avviene in automatico durante `git clone` o `git pull`.
 
 ## Struttura cartelle
 
