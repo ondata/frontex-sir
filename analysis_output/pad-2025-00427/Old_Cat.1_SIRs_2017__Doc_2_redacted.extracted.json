@@ -1,0 +1,97 @@
+{
+  "source_file": "pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_2_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-13T07:21:03.386272+00:00",
+  "records": [
+    {
+      "sir_id": "10292/2017",
+      "report_date": "2017-03-18",
+      "incident_date": "2017-03-17",
+      "location_details": "Lesvos SE area",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "SAR activated for an incident involving 52 estimated people on board a rubber boat. No dead, injured, or missing persons are reported in the dedicated fields or details.",
+      "evidenza_testuale": "Dead persons (empty), Injured persons (empty), Missing persons (empty), Estimated people on board 52",
+      "confidenza": "alta",
+      "evidence_pages": [
+        1
+      ]
+    },
+    {
+      "sir_id": "10280/2017",
+      "report_date": "2017-02-18",
+      "incident_date": "2017-02-14",
+      "location_details": "N of Lesvos Island in GRC territorial waters",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "Report details a close encounter between a Frontex asset and another entity. No dead, injured, or missing persons are reported in the dedicated fields or details.",
+      "evidenza_testuale": "Dead persons (empty), Injured persons (empty), Missing persons (empty)",
+      "confidenza": "alta",
+      "evidence_pages": [
+        3
+      ]
+    },
+    {
+      "sir_id": "10279/2017",
+      "report_date": "2017-02-18",
+      "incident_date": "2017-02-15",
+      "location_details": "Text removed - Operational Area",
+      "dead_confirmed": null,
+      "injured_confirmed": 2,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "Two unaccompanied minors (UAM) attempted suicide and were transferred to hospital. The report states 'No serious injuries were detected', implying physical injuries were not severe, but the suicide attempt itself indicates distress.",
+      "evidenza_testuale": "Two attempted suicides by UAM in Text removed - Operational Area, two unaccompanied minors (UAM) made suicide attempts, transferred to hospital, No serious injuries were detected.",
+      "confidenza": "alta",
+      "evidence_pages": [
+        5
+      ]
+    },
+    {
+      "sir_id": "10276/2017",
+      "report_date": "2017-01-30",
+      "incident_date": "2017-01-30",
+      "location_details": "Hotspot, Text removed - Operational Area",
+      "dead_confirmed": 1,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "A migrant was found dead in his tent in a hotspot, reportedly asphyxiated by fumes from a 'heating system'. Frontex staff were not involved.",
+      "evidenza_testuale": "Migrant found dead in his tent, there was found a dead body in one of the tents in hotspot, the person was asphyxiated by fumes from \"heating system\".",
+      "confidenza": "alta",
+      "evidence_pages": [
+        7
+      ]
+    },
+    {
+      "sir_id": "10273/2017",
+      "report_date": "2017-01-28",
+      "incident_date": "2017-01-28",
+      "location_details": "Hotspot",
+      "dead_confirmed": 1,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "A 32-year-old Syrian national, male, was found dead in a tent in a hotspot. The incident caused tensions among migrants.",
+      "evidenza_testuale": "Dead body found in Hotspot, there was found dead body in one of the tents. As reported by Hellenic Police Coordinator, the dead person is a 32 year old SYR national, male.",
+      "confidenza": "alta",
+      "evidence_pages": [
+        9
+      ]
+    }
+  ],
+  "dead_confirmed_total": 2,
+  "injured_confirmed_total": 2,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0
+}

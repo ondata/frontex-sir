@@ -1,0 +1,97 @@
+{
+  "source_file": "pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_5_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-13T07:22:23.923828+00:00",
+  "records": [
+    {
+      "sir_id": "10248/2017",
+      "report_date": "2017-11-02",
+      "incident_date": "2017-11-02",
+      "location_details": "Text removed - Operational Area",
+      "dead_confirmed": 1,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "An HP officer deployed by Frontex was found dead in his hotel room, supposedly due to a heart attack.",
+      "evidenza_testuale": "The HP officer who was working as a (deployment co-financed by Frontex) in has been found dead in his hotel room. Supposedly, the officer has died from heart attack.",
+      "confidenza": "alta",
+      "evidence_pages": [
+        1
+      ]
+    },
+    {
+      "sir_id": "10247/2017",
+      "report_date": "2017-11-02",
+      "incident_date": "2017-11-02",
+      "location_details": "Text removed - Operational Area",
+      "dead_confirmed": 0,
+      "injured_confirmed": null,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "A fight between migrants resulted in at least two injuries, pending confirmation, with no serious injuries reported.",
+      "evidenza_testuale": "At least two migrants have been injured (TBC). Initial medical examination provided by doctors in the camp (no serious injuries reported).",
+      "confidenza": "media",
+      "evidence_pages": [
+        3
+      ]
+    },
+    {
+      "sir_id": "10231/2017",
+      "report_date": "2017-10-26",
+      "incident_date": "2017-10-25",
+      "location_details": "Text removed - Operational Area",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "A migrant attempted suicide by cutting veins, sustained non-life-threatening injuries, and was hospitalized.",
+      "evidenza_testuale": "migrant accommodated in tried to commit suicide by cutting veins. was taken to hospital but iinjuries are not life threatening.",
+      "confidenza": "alta",
+      "evidence_pages": [
+        5
+      ]
+    },
+    {
+      "sir_id": "10229/2017",
+      "report_date": "2017-10-23",
+      "incident_date": "2017-10-23",
+      "location_details": "Text removed - Operational Area",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "A protest by migrants over slow asylum procedures, with no reported casualties.",
+      "evidenza_testuale": "Arabic and Kurdish migrants (group around 40-50 persons) have started a protest... situation seems to be calm. No Frontex staff involved.",
+      "confidenza": "alta",
+      "evidence_pages": [
+        7
+      ]
+    },
+    {
+      "sir_id": "10228/2017",
+      "report_date": "2017-10-21",
+      "incident_date": "2017-10-20",
+      "location_details": "Text removed - Operational Area",
+      "dead_confirmed": 0,
+      "injured_confirmed": 2,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "Tensions between Iraqi and Kurdish migrants resulted in two slightly injured migrants.",
+      "evidenza_testuale": "HP handled the situation, 2 migrants were slightly injured, some items inside the containers were damaged.",
+      "confidenza": "alta",
+      "evidence_pages": [
+        9
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 3,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0
+}

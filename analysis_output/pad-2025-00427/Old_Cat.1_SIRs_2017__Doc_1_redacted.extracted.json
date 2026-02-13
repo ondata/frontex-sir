@@ -1,0 +1,29 @@
+{
+  "source_file": "pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_1_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-13T07:20:38.655494+00:00",
+  "records": [
+    {
+      "sir_id": "10272/2017",
+      "report_date": "2017-01-28",
+      "incident_date": "2017-01-24",
+      "location_details": null,
+      "dead_confirmed": 1,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "A 22-year-old male Egyptian migrant was found dead in his tent. The cause of death is unknown, pending autopsy and further examinations for possible causes like inhaling fumes or other gases. False information about the death spread in the camp, causing concerns.",
+      "evidenza_testuale": "a 22 years old male Egyptian migrant was found unconscious by another migrant in his tent. An immediate called doctor in could only diagnose his death.",
+      "confidenza": "alta",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0
+}

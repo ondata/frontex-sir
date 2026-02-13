@@ -1,0 +1,29 @@
+{
+  "source_file": "pdfs/pad-2025-00475/11267_2024_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-13T07:22:58.097769+00:00",
+  "records": [
+    {
+      "sir_id": "11267/2024",
+      "report_date": "2024-03-27",
+      "incident_date": "2024-03-25",
+      "location_details": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "One person involved in the operation was hospitalized, leading to a reduction in workforce and affecting Frontex missions. The illness was not connected to Frontex activities.",
+      "evidenza_testuale": "On Tue 26 Mar, ICC Poseidon Sea informed by email the FSC/ that one of the had been hospitalized",
+      "confidenza": "alta",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0
+}

@@ -1,0 +1,32 @@
+{
+  "source_file": "pdfs/pad-2025-00475/13045_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-13T07:23:16.167880+00:00",
+  "records": [
+    {
+      "sir_id": "13045/2022",
+      "report_date": "2023-01-11",
+      "incident_date": "2022-06-05",
+      "location_details": "Libyan Search and Rescue Region (SRR), Maltese SRR. Migrant boat departed from Libya. Rescue by Libyan vessel.",
+      "dead_confirmed": null,
+      "injured_confirmed": 2,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "Frontex surveillance aircraft detected a migrant boat in the Libyan/Maltese SRR. A Libyan vessel performed the rescue. Instances of violence against two migrants by Libyan crew members were observed. The Fundamental Rights Office expressed concern regarding the ill-treatment and the lack of clarity from Maltese authorities on SAR coordination and non-refoulement, noting Libya is not a safe port.",
+      "evidenza_testuale": "reported instances of violence against two (2) migrants by at least three (3) crew members of the Libyan vessel",
+      "confidenza": "alta",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 2,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0
+}

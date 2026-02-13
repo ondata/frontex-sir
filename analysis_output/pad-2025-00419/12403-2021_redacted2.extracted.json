@@ -1,0 +1,30 @@
+{
+  "source_file": "pdfs/pad-2025-00419/12403-2021_redacted2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-13T07:19:41.252037+00:00",
+  "records": [
+    {
+      "sir_id": "12403/2021",
+      "report_date": "2021-07-04",
+      "incident_date": "2021-07-02",
+      "location_details": "Tunisia SRR",
+      "dead_confirmed": 43,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "Shipwreck off Tunisia reported by Tunisian Red Crescent with 43 migrants drowned and 84 rescued.",
+      "evidenza_testuale": "Dead persons 43. Subject: 43 migrants allegedly drowned. Information/Allegations: at least 43 migrants drowned.",
+      "confidenza": "alta",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 43,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0
+}

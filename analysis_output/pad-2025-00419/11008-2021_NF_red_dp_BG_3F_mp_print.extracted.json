@@ -1,0 +1,30 @@
+{
+  "source_file": "pdfs/pad-2025-00419/11008-2021_NF_red_dp_BG_3F_mp_print.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-13T07:18:40.021362+00:00",
+  "records": [
+    {
+      "sir_id": "11008/2021",
+      "report_date": "2021-03-27",
+      "incident_date": "2021-03-24",
+      "location_details": "Andalusia, Spain",
+      "dead_confirmed": null,
+      "injured_confirmed": 2,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "note_contesto": "Five Algerian migrants arrived by boat. Two presented visible signs of violence; one with a bruise around his left eye, the other with dry blood on face and ears, alleging beating by Guardia Civil personnel in San Jose (Almeria). Frontex considers these alleged facts could amount to serious breaches of fundamental rights.",
+      "evidenza_testuale": "Injured persons: 2. Two of them presented visible signs of violence; The first one, with a bruise around his left eye... The second one (he could barely walk and had dry blood on his face and ears) reported to be beaten by Guardia Civil personnel in San Jose (Almeria);",
+      "confidenza": "alta",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 2,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0
+}

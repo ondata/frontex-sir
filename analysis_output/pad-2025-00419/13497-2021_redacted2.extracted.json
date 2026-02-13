@@ -1,0 +1,30 @@
+{
+  "source_file": "pdfs/pad-2025-00419/13497-2021_redacted2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-13T07:19:59.605474+00:00",
+  "records": [
+    {
+      "sir_id": "13497/2021",
+      "report_date": "2021-09-18",
+      "incident_date": "2021-09-17",
+      "location_details": "road between and the Turkish border",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "note_contesto": "Il rapporto dell'ufficiale Frontex descrive un uomo con graffi e che è stato colpito alla testa e calciato alla gamba. Le autorità bulgare, tuttavia, non hanno confermato l'uso della forza.",
+      "evidenza_testuale": "I observed that he had many scratches on his left arm... One of them pounded his head from behind and kicked him in the leg. He did not react.",
+      "confidenza": "media",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0
+}
