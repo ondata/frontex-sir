@@ -1,0 +1,13 @@
+{
+  "generated_at_utc": "2026-02-13T07:22:42.893305+00:00",
+  "model": "gemini-2.5-flash",
+  "input_path": "pdfs/pad-2025-00427",
+  "files_processed": 6,
+  "files_failed": 0,
+  "records_total": 22,
+  "dead_confirmed_total": 5,
+  "injured_confirmed_total": 18,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0
+}
