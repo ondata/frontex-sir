@@ -79,7 +79,9 @@ def read_pdf_targets(path_arg: str) -> list[Path]:
     return sorted(p for p in src.rglob("*.pdf") if p.is_file())
 
 
-def group_targets_by_top_folder(targets: list[Path], input_path: str) -> dict[str, list[Path]]:
+def group_targets_by_top_folder(
+    targets: list[Path], input_path: str
+) -> dict[str, list[Path]]:
     src = Path(input_path)
     if src.is_file():
         return {".": sorted(targets)}
@@ -110,44 +112,10 @@ def should_exclude(path: Path, patterns: list[str]) -> bool:
     return False
 
 
-def build_prompt() -> str:
-    return """\
-Sei un analista OSINT/data-journalism.
-Analizza questo documento PDF contenente uno o più Serious Incident Reports Frontex.
-
-Obiettivo: quantificare vittime per ciascun SIR presente nel documento.
-
-Restituisci SOLO JSON valido, senza markdown, con questa struttura:
-{
-  "records": [
-    {
-      "sir_id": "12345/2021",
-      "report_date": "YYYY-MM-DD or null",
-      "incident_date": "YYYY-MM-DD or null",
-      "location_details": "string or null",
-      "dead_confirmed": 0 or null,
-      "injured_confirmed": 0 or null,
-      "missing_confirmed": 0 or null,
-      "dead_possible_min": 0 or null,
-      "dead_possible_max": 0 or null,
-      "note_contesto": "string or null",
-      "evidenza_testuale": "breve citazione dal documento",
-      "confidenza": "alta|media|bassa",
-      "evidence_pages": [1, 2]
-    }
-  ]
-}
-
-Regole:
-- Identifica ogni blocco "Serious Incident Report no. XXXXX/YYYY".
-- Dai priorità ai campi Dead/Injured/Missing persons nel form.
-- Se i campi non hanno numeri, usa Details / Information/Allegations / Assessment.
-- Non inventare numeri.
-- Distingui confermato vs possibile/non confermato.
-- Se impossibile estrarre un valore, usa null.
-- sir_id deve essere nel formato XXXXX/YYYY.
-- evidence_pages: numeri di pagina del PDF dove hai trovato le informazioni.
-"""
+def build_prompt(prompt_path: Path) -> str:
+    if not prompt_path.exists():
+        raise FileNotFoundError(f"Prompt file not found: {prompt_path}")
+    return prompt_path.read_text(encoding="utf-8")
 
 
 def extract_json(text: str) -> dict:
@@ -240,6 +208,7 @@ def process_file(
     pdf_file: Path,
     out_dir: Path,
     skip_existing: bool,
+    prompt_path: Path,
 ) -> tuple[Path, BatchOutput]:
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / f"{pdf_file.stem}.extracted.json"
@@ -249,7 +218,7 @@ def process_file(
         existing = BatchOutput.model_validate_json(out_path.read_text(encoding="utf-8"))
         return out_path, existing
 
-    prompt = build_prompt()
+    prompt = build_prompt(prompt_path)
     uploaded = upload_pdf(client, pdf_file)
     try:
         raw_json = call_gemini(client, model, uploaded, prompt)
@@ -280,7 +249,9 @@ def process_file(
     return out_path, result
 
 
-def write_summary(records: list[dict], totals: dict, out_dir: Path) -> tuple[Path, Path]:
+def write_summary(
+    records: list[dict], totals: dict, out_dir: Path
+) -> tuple[Path, Path]:
     out_dir.mkdir(parents=True, exist_ok=True)
     csv_path = out_dir / "summary.csv"
     json_path = out_dir / "summary_totals.json"
@@ -307,10 +278,14 @@ def write_summary(records: list[dict], totals: dict, out_dir: Path) -> tuple[Pat
         writer.writeheader()
         for row in records:
             row = row.copy()
-            row["evidence_pages"] = ",".join(str(x) for x in row.get("evidence_pages", []))
+            row["evidence_pages"] = ",".join(
+                str(x) for x in row.get("evidence_pages", [])
+            )
             writer.writerow(row)
 
-    json_path.write_text(json.dumps(totals, ensure_ascii=False, indent=2), encoding="utf-8")
+    json_path.write_text(
+        json.dumps(totals, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
     return csv_path, json_path
 
 
@@ -353,6 +328,11 @@ def main() -> int:
         action="store_false",
         help="Re-process PDFs even if output already exists.",
     )
+    parser.add_argument(
+        "--prompt-path",
+        default="prompts/extract_sir.txt",
+        help="Path to prompt file (default: prompts/extract_sir.txt)",
+    )
     args = parser.parse_args()
 
     api_key = os.getenv("GEMINI_API_KEY")
@@ -374,6 +354,7 @@ def main() -> int:
     model = normalize_model_name(args.model)
     client = genai.Client(api_key=api_key)
     out_dir = Path(args.output_dir)
+    prompt_path = Path(args.prompt_path)
     groups = group_targets_by_top_folder(targets, args.input_path)
 
     failures = 0
@@ -393,7 +374,9 @@ def main() -> int:
         # If a folder-level summary exists, assume that folder was already processed.
         group_summary_csv = group_out_dir / "summary.csv"
         if args.skip_existing and group_summary_csv.exists():
-            group_label = group_name if group_name != "." else Path(args.input_path).name or "."
+            group_label = (
+                group_name if group_name != "." else Path(args.input_path).name or "."
+            )
             print(f"[SKIP GROUP] {group_label} (found {group_summary_csv})")
             continue
 
@@ -412,7 +395,11 @@ def main() -> int:
             needs_api_call = not (args.skip_existing and group_out_json.exists())
 
             try:
-                if needs_api_call and api_calls_made > 0 and args.min_seconds_between_calls > 0:
+                if (
+                    needs_api_call
+                    and api_calls_made > 0
+                    and args.min_seconds_between_calls > 0
+                ):
                     print(f"[WAIT] sleeping {args.min_seconds_between_calls:.1f}s")
                     time.sleep(args.min_seconds_between_calls)
 
@@ -422,6 +409,7 @@ def main() -> int:
                     pdf_file,
                     group_out_dir,
                     args.skip_existing,
+                    prompt_path,
                 )
                 if needs_api_call:
                     api_calls_made += 1
@@ -447,7 +435,9 @@ def main() -> int:
                 group_failures += 1
                 print(f"[ERROR] {pdf_file}: {exc}", file=sys.stderr)
 
-        group_input_label = args.input_path if group_name == "." else f"{args.input_path}/{group_name}"
+        group_input_label = (
+            args.input_path if group_name == "." else f"{args.input_path}/{group_name}"
+        )
         group_totals = {
             "generated_at_utc": datetime.now(timezone.utc).isoformat(),
             "model": model,

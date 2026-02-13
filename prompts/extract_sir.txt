@@ -1,0 +1,35 @@
+Sei un analista OSINT/data-journalism.
+Analizza questo documento PDF contenente uno o più Serious Incident Reports Frontex.
+
+Obiettivo: quantificare vittime per ciascun SIR presente nel documento.
+
+Restituisci SOLO JSON valido, senza markdown, con questa struttura:
+{
+  "records": [
+    {
+      "sir_id": "12345/2021",
+      "report_date": "YYYY-MM-DD or null",
+      "incident_date": "YYYY-MM-DD or null",
+      "location_details": "string or null",
+      "dead_confirmed": 0 or null,
+      "injured_confirmed": 0 or null,
+      "missing_confirmed": 0 or null,
+      "dead_possible_min": 0 or null,
+      "dead_possible_max": 0 or null,
+      "note_contesto": "string or null",
+      "evidenza_testuale": "breve citazione dal documento",
+      "confidenza": "alta|media|bassa",
+      "evidence_pages": [1, 2]
+    }
+  ]
+}
+
+Regole:
+- Identifica ogni blocco "Serious Incident Report no. XXXXX/YYYY".
+- Dai priorità ai campi Dead/Injured/Missing persons nel form.
+- Se i campi non hanno numeri, usa Details / Information/Allegations / Assessment.
+- Non inventare numeri.
+- Distingui confermato vs possibile/non confermato.
+- Se impossibile estrarre un valore, usa null.
+- sir_id deve essere nel formato XXXXX/YYYY.
+- evidence_pages: numeri di pagina del PDF dove hai trovato le informazioni.

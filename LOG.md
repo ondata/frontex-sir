@@ -8,3 +8,4 @@
 - Modello usato: `gemini-2.5-flash` (piano gratuito)
 - Aggiunto `CLAUDE.md` con guida operativa
 - Discussion aperta in `ondata/attivita` (Idee #107)
+- Prompt esterno: spostato prompt in `prompts/extract_sir.txt`, aggiunto flag `--prompt-path` per versionamento e A/B testing

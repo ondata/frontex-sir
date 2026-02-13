@@ -34,6 +34,9 @@ python3 extract_sir_pdf_gemini.py pdfs --output-dir analysis_output --no-skip-ex
 
 # Process a single PDF
 python3 extract_sir_pdf_gemini.py pdfs/pad-2025-00419/somefile.pdf --output-dir analysis_output
+
+# Use custom prompt file (for A/B testing)
+python3 extract_sir_pdf_gemini.py pdfs --prompt-path prompts/extract_sir_v2.txt
 ```
 
 ## Key files
@@ -41,6 +44,7 @@ python3 extract_sir_pdf_gemini.py pdfs/pad-2025-00419/somefile.pdf --output-dir 
 - `extract_sir_pdf_gemini.py` — main script; uploads each PDF to Gemini File API, validates response with Pydantic (`SirRecord`, `ExtractionPayload`, `BatchOutput`), writes `.extracted.json` + summary CSV/JSON
 - `process_sir_zips.sh` — downloads ZIPs from `zip_urls.txt`, extracts PDFs into `pdfs/<zip_stem>/`
 - `zip_urls.txt` — one ZIP URL per line; `#` = comment
+- `prompts/extract_sir.txt` — system prompt for Gemini extraction (versioned for A/B testing)
 
 ## Output structure
 
