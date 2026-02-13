@@ -9,3 +9,4 @@
 - Aggiunto `CLAUDE.md` con guida operativa
 - Discussion aperta in `ondata/attivita` (Idee #107)
 - Prompt esterno: spostato prompt in `prompts/extract_sir.txt`, aggiunto flag `--prompt-path` per versionamento e A/B testing
+- Documento requisiti modelli: creato `docs/model-requirements.md` con specifiche tecniche, costi stimate e raccomandazioni per scalare
