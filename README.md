@@ -230,6 +230,28 @@ Ogni PDF viene inviato a Gemini: considera tempi di esecuzione e costi API in ba
   Link: https://infozip.sourceforge.net/UnZip.html
   Perche utile: estrae i PDF dagli ZIP mantenendo una struttura ordinata in `pdfs/<nome-zip>/`.
 
+## Dimensioni dell'archivio
+
+I documenti pubblicati da Frontex sono in due formati: **ZIP** (batch di più SIR) e **PDF** (documento singolo).
+
+### File scaricati (`rawdata/`)
+
+| | Numero | Dimensione |
+|---|---|---|
+| ZIP | 56 | |
+| PDF | 41 | |
+| **Totale** | **97** | **~1,3 GB** |
+
+### PDF estratti (`pdfs/`)
+
+| | Numero | Dimensione |
+|---|---|---|
+| PDF | 418 | **~1,4 GB** |
+
+I 418 PDF sono il risultato dell'estrazione degli ZIP (ognuno ne contiene più di uno) più i 41 PDF singoli.
+
+---
+
 ## Note finali
 
 Questo è un primo esperimento esplorativo.
@@ -237,6 +259,25 @@ Questo è un primo esperimento esplorativo.
 Il modello usato è `gemini-2.5-flash`: non è il più potente disponibile, ma permette di fare test iniziali a costo zero grazie al piano gratuito di Google AI Studio.
 
 Non è stata ancora fatta nessuna verifica della qualità dei dati estratti, né automatica né manuale. I risultati vanno trattati come bozza da validare.
+
+---
+
+## Setup
+
+PDF e ZIP sono tracciati via **Git LFS**. Serve `git-lfs` installato prima del clone — il download avviene in automatico.
+
+```bash
+# Installa git-lfs (una tantum)
+# macOS:  brew install git-lfs
+# Ubuntu: apt install git-lfs
+
+git clone https://github.com/ondata/frontex-sir
+cd frontex-sir
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+export GEMINI_API_KEY="..."
+```
 
 ---
 
@@ -335,7 +376,7 @@ Opzioni principali:
 
 | Opzione | Descrizione |
 |---|---|
-| `--model NAME` | Modello Gemini da usare (default: `gemini-2.5-flash`) |
+| `--model NAME` | Modello Gemini usato (default: `gemini-2.5-flash`) |
 | `--output-dir DIR` | Cartella output (default: `analysis_output`) |
 | `--prompt-path FILE` | File prompt alternativo (default: `prompts/extract_sir.txt`) |
 | `--no-skip-existing` | Rielabora anche i PDF già processati |
