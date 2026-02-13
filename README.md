@@ -170,7 +170,7 @@ Generato processando i 3 ZIP in `zip_urls.txt`:
 
 ## Nota su Git LFS
 
-I file PDF e ZIP sono tracciati con [Git LFS](https://git-lfs.com/) perché GitHub non accetta file binari oltre 100 MB nel repository ordinario. Con LFS i binari sono archiviati separatamente: nel repo restano solo puntatori leggeri.
+I file PDF e ZIP sono tracciati con [Git LFS](https://git-lfs.com/). Sono documenti statici pubblicati da Frontex: non cambiano nel tempo e non ha senso versionarli. LFS li archivia separatamente, tenendo nel repository solo puntatori leggeri ed evitando di appesantire la storia dei commit.
 
 Per clonare il repo con i file binari inclusi è sufficiente avere `git-lfs` installato: il download avviene in automatico durante `git clone` o `git pull`.
 
