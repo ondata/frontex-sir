@@ -14,10 +14,21 @@ from typing import Literal, Optional
 
 from google import genai
 from google.genai import types
-from pydantic import BaseModel, Field, ValidationError, model_validator
+from pydantic import (
+    AliasChoices,
+    BaseModel,
+    Field,
+    ValidationError,
+    field_validator,
+    model_validator,
+)
 
 
-Confidence = Literal["alta", "media", "bassa"]
+Confidence = Literal["high", "medium", "low"]
+LocationType = Literal["sea", "land", "facility", "mixed", "unknown"]
+PrecisionLevel = Literal["exact", "approximate", "broad", "unknown"]
+Geocodable = Literal["yes", "no"]
+SIR_ID_PATTERN = re.compile(r"\b\d{5}/\d{4}\b")
 
 
 class SirRecord(BaseModel):
@@ -25,16 +36,126 @@ class SirRecord(BaseModel):
     report_date: Optional[str] = None
     incident_date: Optional[str] = None
     location_details: Optional[str] = None
+    where_clear: Optional[str] = None
+    location_text_raw: Optional[str] = None
+    country_or_area: Optional[str] = None
+    location_type: Optional[LocationType] = None
+    precision_level: Optional[PrecisionLevel] = None
+    geocodable: Optional[Geocodable] = None
+    geocodable_query: Optional[str] = None
+    lat: Optional[float] = Field(default=None, ge=-90, le=90)
+    lon: Optional[float] = Field(default=None, ge=-180, le=180)
+    uncertainty_note: Optional[str] = None
     dead_confirmed: Optional[int] = Field(default=None, ge=0)
     injured_confirmed: Optional[int] = Field(default=None, ge=0)
     missing_confirmed: Optional[int] = Field(default=None, ge=0)
     dead_possible_min: Optional[int] = Field(default=None, ge=0)
     dead_possible_max: Optional[int] = Field(default=None, ge=0)
-    note_contesto: Optional[str] = None
+    context_note: Optional[str] = Field(
+        default=None, validation_alias=AliasChoices("context_note", "note_contesto")
+    )
     libyan_coast_guard_involved: Optional[bool] = None
-    evidenza_testuale: str = Field(min_length=1)
-    confidenza: Confidence
+    evidence_quote: str = Field(
+        min_length=1,
+        validation_alias=AliasChoices("evidence_quote", "evidenza_testuale"),
+    )
+    confidence: Confidence = Field(
+        validation_alias=AliasChoices("confidence", "confidenza")
+    )
     evidence_pages: list[int] = Field(default_factory=list)
+
+    @field_validator("confidence", mode="before")
+    @classmethod
+    def normalize_confidence(cls, value: object) -> str:
+        mapping = {
+            "alta": "high",
+            "media": "medium",
+            "bassa": "low",
+            "high": "high",
+            "medium": "medium",
+            "low": "low",
+        }
+        key = str(value).strip().lower()
+        if key not in mapping:
+            raise ValueError(f"Invalid confidence value: {value}")
+        return mapping[key]
+
+    @field_validator("location_type", mode="before")
+    @classmethod
+    def normalize_location_type(cls, value: object) -> object:
+        if value is None:
+            return None
+        key = str(value).strip().lower()
+        mapping = {
+            "sea": "sea",
+            "land": "land",
+            "facility": "facility",
+            "mixed": "mixed",
+            "unknown": "unknown",
+        }
+        if key not in mapping:
+            raise ValueError(f"Invalid location_type value: {value}")
+        return mapping[key]
+
+    @field_validator("precision_level", mode="before")
+    @classmethod
+    def normalize_precision_level(cls, value: object) -> object:
+        if value is None:
+            return None
+        key = str(value).strip().lower()
+        mapping = {
+            "exact": "exact",
+            "approximate": "approximate",
+            "broad": "broad",
+            "unknown": "unknown",
+        }
+        if key not in mapping:
+            raise ValueError(f"Invalid precision_level value: {value}")
+        return mapping[key]
+
+    @field_validator("geocodable", mode="before")
+    @classmethod
+    def normalize_geocodable(cls, value: object) -> object:
+        if value is None:
+            return None
+        if isinstance(value, bool):
+            return "yes" if value else "no"
+        key = str(value).strip().lower()
+        mapping = {
+            "yes": "yes",
+            "no": "no",
+            "true": "yes",
+            "false": "no",
+        }
+        if key not in mapping:
+            raise ValueError(f"Invalid geocodable value: {value}")
+        return mapping[key]
+
+    @field_validator("lat", "lon", mode="before")
+    @classmethod
+    def normalize_decimal_coordinate(cls, value: object) -> object:
+        if value is None:
+            return None
+        if isinstance(value, (int, float)):
+            return float(value)
+
+        s = str(value).strip()
+        if not s or s.lower() in {"null", "none", "na", "n/a"}:
+            return None
+
+        # Enforce decimal numeric format only, no cardinal/dms annotations.
+        if any(ch in s.lower() for ch in ["n", "s", "e", "w", "°", "'", '"']):
+            raise ValueError(
+                "Coordinate must be decimal numeric value without N/E/S/W or DMS symbols"
+            )
+
+        s = s.replace(",", ".")
+        try:
+            return float(s)
+        except ValueError as exc:
+            raise ValueError(
+                f"Coordinate must be decimal numeric value: {value}"
+            ) from exc
 
     @model_validator(mode="after")
     def check_possible_range(self) -> "SirRecord":
@@ -61,6 +182,7 @@ class BatchOutput(BaseModel):
     missing_confirmed_total: int = Field(ge=0)
     dead_possible_total_min: int = Field(ge=0)
     dead_possible_total_max: int = Field(ge=0)
+    records_invalid_skipped: int = Field(default=0, ge=0)
 
 
 def normalize_model_name(model: str) -> str:
@@ -203,6 +325,67 @@ def sum_max_possible(records: list[SirRecord]) -> int:
     return total
 
 
+def extract_numeric_sir_id(value: object) -> Optional[str]:
+    if value is None:
+        return None
+    match = SIR_ID_PATTERN.search(str(value))
+    if not match:
+        return None
+    return match.group(0)
+
+
+def parse_valid_sir_records(
+    raw_json: dict, pdf_file: Path
+) -> tuple[list[SirRecord], int]:
+    if not isinstance(raw_json, dict):
+        raise ValueError("Model response JSON root must be an object")
+
+    raw_records = raw_json.get("records", [])
+    if raw_records is None:
+        raw_records = []
+    if not isinstance(raw_records, list):
+        raise ValueError("Model response field 'records' must be an array")
+
+    valid_records: list[SirRecord] = []
+    skipped = 0
+    examples: list[str] = []
+
+    for idx, raw_rec in enumerate(raw_records, start=1):
+        if not isinstance(raw_rec, dict):
+            skipped += 1
+            if len(examples) < 3:
+                examples.append(f"#{idx}: non-object record")
+            continue
+
+        normalized = raw_rec.copy()
+        sir_id = extract_numeric_sir_id(normalized.get("sir_id"))
+        if not sir_id:
+            skipped += 1
+            if len(examples) < 3:
+                raw_id = str(normalized.get("sir_id", "null"))[:60]
+                examples.append(f"#{idx}: invalid sir_id={raw_id!r}")
+            continue
+        normalized["sir_id"] = sir_id
+
+        try:
+            valid_records.append(SirRecord.model_validate(normalized))
+        except ValidationError as exc:
+            skipped += 1
+            if len(examples) < 3:
+                first = str(exc).splitlines()[0]
+                examples.append(f"#{idx} {sir_id}: {first}")
+            continue
+
+    if skipped:
+        detail = f" Examples: {', '.join(examples)}." if examples else ""
+        print(
+            f"  [WARN] {pdf_file.name}: skipped {skipped} non-SIR/invalid records.{detail}",
+            file=sys.stderr,
+        )
+
+    return valid_records, skipped
+
+
 def process_file(
     client: genai.Client,
     model: str,
@@ -229,8 +412,7 @@ def process_file(
         except Exception:
             pass
 
-    payload = ExtractionPayload.model_validate(raw_json)
-    records = payload.records
+    records, records_invalid_skipped = parse_valid_sir_records(raw_json, pdf_file)
     result = BatchOutput(
         source_file=str(pdf_file),
         model=model,
@@ -241,6 +423,7 @@ def process_file(
         missing_confirmed_total=sum_opt(records, "missing_confirmed"),
         dead_possible_total_min=sum_opt(records, "dead_possible_min"),
         dead_possible_total_max=sum_max_possible(records),
+        records_invalid_skipped=records_invalid_skipped,
     )
 
     out_path.write_text(
@@ -264,16 +447,26 @@ def write_summary(
         "report_date",
         "incident_date",
         "location_details",
+        "where_clear",
+        "location_text_raw",
+        "country_or_area",
+        "location_type",
+        "precision_level",
+        "geocodable",
+        "geocodable_query",
+        "lat",
+        "lon",
+        "uncertainty_note",
         "dead_confirmed",
         "injured_confirmed",
         "missing_confirmed",
         "dead_possible_min",
         "dead_possible_max",
         "libyan_coast_guard_involved",
-        "confidenza",
+        "confidence",
         "evidence_pages",
-        "evidenza_testuale",
-        "note_contesto",
+        "evidence_quote",
+        "context_note",
     ]
     with csv_path.open("w", encoding="utf-8", newline="") as fh:
         writer = csv.DictWriter(fh, fieldnames=fields)
@@ -293,7 +486,7 @@ def write_summary(
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Extract SIR victim fields from PDF using Gemini File API + Pydantic schema."
+        description="Extract SIR victim + location fields from PDF using Gemini File API + Pydantic schema."
     )
     parser.add_argument("input_path", help="PDF file or directory containing PDF files")
     parser.add_argument(
@@ -335,7 +528,35 @@ def main() -> int:
         default="prompts/extract_sir.txt",
         help="Path to prompt file (default: prompts/extract_sir.txt)",
     )
+    parser.add_argument(
+        "--skip-completed-groups",
+        action="store_true",
+        default=True,
+        help="Skip groups/folders that already have summary.csv (default: on).",
+    )
+    parser.add_argument(
+        "--no-skip-completed-groups",
+        dest="skip_completed_groups",
+        action="store_false",
+        help="Do not skip groups by summary.csv; useful for incremental daily batches.",
+    )
+    parser.add_argument(
+        "--max-new-files",
+        type=int,
+        default=0,
+        help="Process at most N new files requiring API calls (0 = no limit).",
+    )
     args = parser.parse_args()
+
+    if args.max_new_files < 0:
+        print("--max-new-files must be >= 0", file=sys.stderr)
+        return 1
+
+    if args.max_new_files > 0 and args.skip_completed_groups:
+        print(
+            "[INFO] --max-new-files detected: disabling group-summary skip for incremental processing."
+        )
+        args.skip_completed_groups = False
 
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
@@ -367,6 +588,8 @@ def main() -> int:
     total_missing_confirmed = 0
     total_dead_possible_min = 0
     total_dead_possible_max = 0
+    total_records_invalid_skipped = 0
+    files_skipped_by_limit = 0
     api_calls_made = 0
     groups_with_work = 0
 
@@ -375,7 +598,11 @@ def main() -> int:
 
         # If a folder-level summary exists, assume that folder was already processed.
         group_summary_csv = group_out_dir / "summary.csv"
-        if args.skip_existing and group_summary_csv.exists():
+        if (
+            args.skip_existing
+            and args.skip_completed_groups
+            and group_summary_csv.exists()
+        ):
             group_label = (
                 group_name if group_name != "." else Path(args.input_path).name or "."
             )
@@ -391,10 +618,22 @@ def main() -> int:
         group_missing_confirmed = 0
         group_dead_possible_min = 0
         group_dead_possible_max = 0
+        group_records_invalid_skipped = 0
+        group_skipped_by_limit = 0
 
         for pdf_file in group_targets:
             group_out_json = group_out_dir / f"{pdf_file.stem}.extracted.json"
             needs_api_call = not (args.skip_existing and group_out_json.exists())
+
+            if (
+                needs_api_call
+                and args.max_new_files > 0
+                and api_calls_made >= args.max_new_files
+            ):
+                group_skipped_by_limit += 1
+                files_skipped_by_limit += 1
+                print(f"[SKIP LIMIT] {pdf_file}")
+                continue
 
             try:
                 if (
@@ -423,6 +662,7 @@ def main() -> int:
                 group_missing_confirmed += result.missing_confirmed_total
                 group_dead_possible_min += result.dead_possible_total_min
                 group_dead_possible_max += result.dead_possible_total_max
+                group_records_invalid_skipped += result.records_invalid_skipped
                 for rec in result.records:
                     row = rec.model_dump(mode="json")
                     row["source_file"] = result.source_file
@@ -452,6 +692,8 @@ def main() -> int:
             "missing_confirmed_total": group_missing_confirmed,
             "dead_possible_total_min": group_dead_possible_min,
             "dead_possible_total_max": group_dead_possible_max,
+            "records_invalid_skipped": group_records_invalid_skipped,
+            "files_skipped_by_limit": group_skipped_by_limit,
         }
         csv_path, json_path = write_summary(group_rows, group_totals, group_out_dir)
         print(f"[SUMMARY] {csv_path}")
@@ -463,6 +705,7 @@ def main() -> int:
         total_missing_confirmed += group_missing_confirmed
         total_dead_possible_min += group_dead_possible_min
         total_dead_possible_max += group_dead_possible_max
+        total_records_invalid_skipped += group_records_invalid_skipped
         all_rows.extend(group_rows)
 
     if groups_with_work == 0:
@@ -481,6 +724,8 @@ def main() -> int:
         "missing_confirmed_total": total_missing_confirmed,
         "dead_possible_total_min": total_dead_possible_min,
         "dead_possible_total_max": total_dead_possible_max,
+        "records_invalid_skipped": total_records_invalid_skipped,
+        "files_skipped_by_limit": files_skipped_by_limit,
     }
 
     # When processing multiple top-level folders, also emit one global summary at output root.
