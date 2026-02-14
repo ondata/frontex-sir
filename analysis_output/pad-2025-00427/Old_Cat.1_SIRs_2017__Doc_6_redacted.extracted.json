@@ -1,21 +1,32 @@
 {
-  "source_file": "pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_6_redacted.pdf",
+  "source_file": "/tmp/seed3/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_6_redacted.pdf",
   "model": "gemini-2.5-flash",
-  "generated_at_utc": "2026-02-13T07:22:42.892854+00:00",
+  "generated_at_utc": "2026-02-14T17:43:21.579693+00:00",
   "records": [
     {
       "sir_id": "10256/2017",
       "report_date": "2017-11-20",
       "incident_date": "2017-11-19",
-      "location_details": null,
-      "dead_confirmed": 0,
+      "location_details": "Text removed - Operational Area",
+      "where_clear": "Reception and Identification Centre (RIC) in Greece",
+      "location_text_raw": "RIC",
+      "country_or_area": "Greece (RIC)",
+      "location_type": "facility",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Reception and Identification Centre, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific Reception and Identification Centre (RIC) not identified, but context (Hellenic Police intervention, Operation Poseidon) strongly indicates Greece.",
+      "dead_confirmed": null,
       "injured_confirmed": 0,
-      "missing_confirmed": 0,
+      "missing_confirmed": null,
       "dead_possible_min": null,
       "dead_possible_max": null,
-      "note_contesto": "A riot occurred in RIC, causing property damage. The report explicitly states no information about injured people was available, and no Frontex staff were involved. No mention of dead or missing persons.",
-      "evidenza_testuale": "No information about injured people during the incident.",
-      "confidenza": "media",
+      "context_note": "A riot occurred in a Reception and Identification Centre (RIC), provoked by Arabic-speaking migrants. Equipment of NGOs and UNHCR was damaged. The Hellenic Police (HP) intervened to restore public order. No Frontex staff were involved, and no injured people were reported.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 19.11.2017 at approx. a protest took place in RIC . The riot started close to the minors Section and it was provoked by few Arabic speaking migrants. ... The Anti-Riot Unit of the HP intervened in order to re-establish the public order. ... No information about injured people during the incident.",
+      "confidence": "medium",
       "evidence_pages": [
         1
       ]
@@ -25,5 +36,6 @@
   "injured_confirmed_total": 0,
   "missing_confirmed_total": 0,
   "dead_possible_total_min": 0,
-  "dead_possible_total_max": 0
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
 }

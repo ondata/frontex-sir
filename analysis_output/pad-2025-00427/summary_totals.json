@@ -1,13 +1,14 @@
 {
-  "generated_at_utc": "2026-02-13T07:22:42.893305+00:00",
+  "generated_at_utc": "2026-02-14T17:43:21.580600+00:00",
   "model": "gemini-2.5-flash",
-  "input_path": "pdfs/pad-2025-00427",
-  "files_processed": 6,
+  "input_path": "/tmp/seed3/pad-2025-00427",
+  "files_processed": 1,
   "files_failed": 0,
-  "records_total": 22,
-  "dead_confirmed_total": 5,
-  "injured_confirmed_total": 18,
+  "records_total": 1,
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
   "missing_confirmed_total": 0,
   "dead_possible_total_min": 0,
-  "dead_possible_total_max": 0
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
 }
