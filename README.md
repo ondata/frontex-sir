@@ -11,7 +11,8 @@ Non devi programmare: il flusso base è in 2 comandi.
 3. Legge ogni PDF con Gemini e produce un output strutturato con:
    - ID del SIR
    - date
-   - luogo
+   - luogo (descrizione chiara + granularità)
+   - geocodificabilità (`yes/no`) e query suggerita
    - morti/feriti/dispersi (confermati o possibili)
    - citazione testuale di evidenza
    - pagine del PDF usate come fonte
@@ -109,7 +110,9 @@ Questo è il prompt che lo script invia a Gemini insieme al PDF:
 Sei un analista OSINT/data-journalism.
 Analizza questo documento PDF contenente uno o più Serious Incident Reports Frontex.
 
-Obiettivo: quantificare vittime per ciascun SIR presente nel documento.
+Obiettivo:
+1) quantificare vittime per ciascun SIR presente nel documento;
+2) estrarre in forma strutturata dove avviene ogni incidente.
 
 Restituisci SOLO JSON valido, senza markdown, con questa struttura:
 {
@@ -119,15 +122,25 @@ Restituisci SOLO JSON valido, senza markdown, con questa struttura:
       "report_date": "YYYY-MM-DD or null",
       "incident_date": "YYYY-MM-DD or null",
       "location_details": "string or null",
+      "where_clear": "short clear location statement in English or null",
+      "location_text_raw": "short raw location wording from the document or null",
+      "country_or_area": "country, SAR/SRR area, island, hotspot, camp, sea area, or null",
+      "location_type": "sea|land|facility|mixed|unknown or null",
+      "precision_level": "exact|approximate|broad|unknown or null",
+      "geocodable": "yes|no or null",
+      "geocodable_query": "best query string to geocode this location, or null",
+      "lat": "number or null",
+      "lon": "number or null",
+      "uncertainty_note": "why location is uncertain, or null",
       "dead_confirmed": 0 or null,
       "injured_confirmed": 0 or null,
       "missing_confirmed": 0 or null,
       "dead_possible_min": 0 or null,
       "dead_possible_max": 0 or null,
-      "note_contesto": "string or null",
+      "context_note": "string or null",
       "libyan_coast_guard_involved": true or false or null,
-      "evidenza_testuale": "breve citazione dal documento",
-      "confidenza": "alta|media|bassa",
+      "evidence_quote": "short quote from the document",
+      "confidence": "high|medium|low",
       "evidence_pages": [1, 2]
     }
   ]
@@ -135,14 +148,21 @@ Restituisci SOLO JSON valido, senza markdown, con questa struttura:
 
 Regole:
 - Identifica ogni blocco "Serious Incident Report no. XXXXX/YYYY".
+- Prima fase di detection: verifica se esistono SIR con ID nel formato numerico `XXXXX/YYYY`.
+- Se nel documento non ci sono SIR numerici validi, restituisci `{"records":[]}`.
 - Dai priorità ai campi Dead/Injured/Missing persons nel form.
 - Se i campi non hanno numeri, usa Details / Information/Allegations / Assessment.
 - Non inventare numeri.
 - Distingui confermato vs possibile/non confermato.
 - Se impossibile estrarre un valore, usa null.
-- sir_id deve essere nel formato XXXXX/YYYY.
+- sir_id deve essere solo nel formato numerico `XXXXX/YYYY`.
+- Non usare ID operativi o testuali (es. `POSEIDON_001/2021`, `THEMIS_001/2021`).
 - evidence_pages: numeri di pagina del PDF dove hai trovato le informazioni.
 - libyan_coast_guard_involved: true se il documento menziona esplicitamente la guardia costiera libica (Libyan Coast Guard, LCG, guardia costiera della Libia) come attore presente o coinvolto nell'incidente; false se l'incidente è descritto senza alcun coinvolgimento libico; null se non è possibile determinarlo.
+- Non inventare coordinate: lat/lon devono essere null salvo coordinate esplicite nel documento.
+- Se coordinate esplicite sono in gradi decimali, riportale solo come numeri decimali (senza `N/E/S/W` o simboli di grado).
+- Se non sono in decimali (o non chiaramente convertibili), lascia `lat` e `lon` a null.
+- geocodable: yes solo se una query cartografica praticabile e delimitata è possibile; no se luogo troppo generico/redatto/ambiguo.
 ```
 
 Nel codice si trova in `extract_sir_pdf_gemini.py`, funzione `build_prompt()`.
@@ -370,6 +390,9 @@ python3 extract_sir_pdf_gemini.py pdfs/pad-2025-00419/somefile.pdf --output-dir 
 
 # Prompt alternativo (per A/B testing)
 python3 extract_sir_pdf_gemini.py pdfs --prompt-path prompts/extract_sir_v2.txt
+
+# Batch incrementale: processa al massimo 5 nuovi PDF per run (senza rifare i già fatti)
+python3 extract_sir_pdf_gemini.py pdfs --output-dir analysis_output --max-new-files 5
 ```
 
 Opzioni principali:
@@ -382,3 +405,5 @@ Opzioni principali:
 | `--no-skip-existing` | Rielabora anche i PDF già processati |
 | `--exclude PATTERN` | Esclude file per pattern glob (ripetibile) |
 | `--min-seconds-between-calls N` | Pausa tra chiamate API (default: 4s) |
+| `--max-new-files N` | Processa al massimo N nuovi file per esecuzione (0 = nessun limite) |
+| `--no-skip-completed-groups` | Non saltare cartelle con `summary.csv` (utile per batch incrementali) |
