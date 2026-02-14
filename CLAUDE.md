@@ -58,6 +58,18 @@ analysis_output/
     └── <filename>.extracted.json  # per-PDF output
 ```
 
+## Preferred analysis tool
+
+Per analizzare e fare sintesi di file `jsonl` e `csv`, usare DuckDB come prima scelta.
+
+Esempi:
+
+```bash
+duckdb :memory: "SELECT count(*) FROM 'sir_documents.jsonl';"
+duckdb :memory: "SELECT substr(publication_date,1,4) AS year, count(*) FROM 'sir_documents.jsonl' GROUP BY 1 ORDER BY 1;"
+duckdb :memory: "SELECT * FROM 'analysis_output/summary.csv' LIMIT 20;"
+```
+
 ## Skip logic
 
 - Folder skipped if `analysis_output/<batch>/summary.csv` exists
@@ -65,8 +77,20 @@ analysis_output/
 
 ## Data model
 
-`SirRecord` (Pydantic): `sir_id` (format `DDDDD/YYYY`), `report_date`, `incident_date`, `location_details`, `dead_confirmed`, `injured_confirmed`, `missing_confirmed`, `dead_possible_min/max`, `note_contesto`, `libyan_coast_guard_involved` (bool|null), `evidenza_testuale`, `confidenza` (alta/media/bassa), `evidence_pages`.
+`SirRecord` (Pydantic): `sir_id` (format `DDDDD/YYYY`), `report_date`, `incident_date`, `location_details`, `where_clear`, `location_text_raw`, `country_or_area`, `location_type`, `precision_level`, `geocodable` (`yes|no`), `geocodable_query`, `lat`, `lon`, `uncertainty_note`, `dead_confirmed`, `injured_confirmed`, `missing_confirmed`, `dead_possible_min/max`, `context_note`, `libyan_coast_guard_involved` (bool|null), `evidence_quote`, `confidence` (`high|medium|low`), `evidence_pages`.
 
 ## Git LFS
 
 PDFs (`*.pdf`) and ZIPs (`*.zip`) are tracked via Git LFS (configured in `.gitattributes`).
+
+## GitHub discussions ondata
+
+Le discussioni di ondata sono nel repo `ondata/attivita`. Usare GraphQL (non REST) per interagire:
+
+```bash
+# Leggere una discussion
+gh api graphql -f query='{ repository(owner: "ondata", name: "attivita") { discussion(number: 107) { id title } } }'
+
+# Commentare una discussion (serve il node ID della discussion)
+gh api graphql -f query='mutation { addDiscussionComment(input: { discussionId: "D_kwDOKQU8-M4AkIAA", body: "testo" }) { comment { url } } }'
+```
