@@ -1,7 +1,10 @@
 Sei un analista OSINT/data-journalism.
 Analizza questo documento PDF contenente uno o più Serious Incident Reports Frontex.
 
-Obiettivo: quantificare vittime per ciascun SIR presente nel documento.
+Obiettivo:
+1) quantificare vittime per ciascun SIR;
+2) definire in modo strutturato il luogo in cui avviene l'incidente.
+3) classificare SOLO record che sono realmente SIR con ID numerico.
 
 Restituisci SOLO JSON valido, senza markdown, con questa struttura:
 {
@@ -11,15 +14,25 @@ Restituisci SOLO JSON valido, senza markdown, con questa struttura:
       "report_date": "YYYY-MM-DD or null",
       "incident_date": "YYYY-MM-DD or null",
       "location_details": "string or null",
+      "where_clear": "short clear location statement in English or null",
+      "location_text_raw": "short raw location wording from the document or null",
+      "country_or_area": "country, SAR/SRR area, island, hotspot, camp, sea area, or null",
+      "location_type": "sea|land|facility|mixed|unknown or null",
+      "precision_level": "exact|approximate|broad|unknown or null",
+      "geocodable": "yes|no or null",
+      "geocodable_query": "best query string to geocode this location, or null",
+      "lat": "number or null",
+      "lon": "number or null",
+      "uncertainty_note": "why location is uncertain, or null",
       "dead_confirmed": 0 or null,
       "injured_confirmed": 0 or null,
       "missing_confirmed": 0 or null,
       "dead_possible_min": 0 or null,
       "dead_possible_max": 0 or null,
-      "note_contesto": "string or null",
+      "context_note": "string or null",
       "libyan_coast_guard_involved": true or false or null,
-      "evidenza_testuale": "breve citazione dal documento",
-      "confidenza": "alta|media|bassa",
+      "evidence_quote": "short quote from the document",
+      "confidence": "high|medium|low",
       "evidence_pages": [1, 2]
     }
   ]
@@ -27,11 +40,28 @@ Restituisci SOLO JSON valido, senza markdown, con questa struttura:
 
 Regole:
 - Identifica ogni blocco "Serious Incident Report no. XXXXX/YYYY".
+- Prima fase di detection: verifica se esistono SIR con ID nel formato numerico `XXXXX/YYYY`.
+- Se nel documento non ci sono SIR numerici validi, restituisci `{"records":[]}`.
 - Dai priorità ai campi Dead/Injured/Missing persons nel form.
 - Se i campi non hanno numeri, usa Details / Information/Allegations / Assessment.
 - Non inventare numeri.
 - Distingui confermato vs possibile/non confermato.
 - Se impossibile estrarre un valore, usa null.
-- sir_id deve essere nel formato XXXXX/YYYY.
+- sir_id deve essere solo nel formato numerico `XXXXX/YYYY`.
+- Non usare ID operativi o testuali (es. `POSEIDON_001/2021`, `THEMIS_001/2021`): questi NON sono SIR validi per questo output.
 - evidence_pages: numeri di pagina del PDF dove hai trovato le informazioni.
 - libyan_coast_guard_involved: true se il documento menziona esplicitamente la guardia costiera libica (Libyan Coast Guard, LCG, guardia costiera della Libia) come attore presente o coinvolto nell'incidente; false se l'incidente è descritto senza alcun coinvolgimento libico; null se non è possibile determinarlo.
+- Non inventare coordinate: `lat` e `lon` devono essere null a meno che siano esplicitamente presenti nel documento.
+- Se coordinate esplicite sono presenti in gradi decimali, riporta solo numeri decimali (es. `35.12345`, `24.98765`).
+- Non usare formati con `N/E/S/W`, simboli di grado o stringhe testuali nelle coordinate.
+- Se le coordinate non sono in decimali o non sono chiaramente convertibili, usa `lat=null` e `lon=null`.
+
+Rubrica confidence (stretta):
+- high: luogo esplicito e chiaramente identificabile (o area marittima ben delimitata) con evidenza testuale diretta.
+- medium: luogo parzialmente inferito dal contesto (operazione, città vicina, soggetti coinvolti), con ambiguità moderata.
+- low: luogo generico/redatto/ambiguo o con indizi confliggenti.
+
+Regola geocodable:
+- `yes` solo se è possibile costruire una query cartografica praticabile e relativamente delimitata.
+- `no` se il luogo è troppo generico/redatto/ambiguo per geocodifica affidabile.
+- Se `geocodable` è `no`, `geocodable_query` deve essere null.
