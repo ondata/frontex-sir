@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-02-13T07:23:16.168511+00:00",
+  "generated_at_utc": "2026-02-14T17:44:02.477306+00:00",
   "model": "gemini-2.5-flash",
-  "input_path": "pdfs/pad-2025-00475",
+  "input_path": "/tmp/seed3/pad-2025-00475",
   "files_processed": 2,
   "files_failed": 0,
   "records_total": 2,
@@ -9,5 +9,6 @@
   "injured_confirmed_total": 3,
   "missing_confirmed_total": 0,
   "dead_possible_total_min": 0,
-  "dead_possible_total_max": 0
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
 }

@@ -1,21 +1,32 @@
 {
-  "source_file": "pdfs/pad-2025-00475/11267_2024_redacted.pdf",
+  "source_file": "/tmp/seed3/pad-2025-00475/11267_2024_redacted.pdf",
   "model": "gemini-2.5-flash",
-  "generated_at_utc": "2026-02-13T07:22:58.097769+00:00",
+  "generated_at_utc": "2026-02-14T17:43:37.239313+00:00",
   "records": [
     {
       "sir_id": "11267/2024",
       "report_date": "2024-03-27",
       "incident_date": "2024-03-25",
       "location_details": null,
-      "dead_confirmed": 0,
+      "where_clear": null,
+      "location_text_raw": null,
+      "country_or_area": null,
+      "location_type": "unknown",
+      "precision_level": "unknown",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Location details are redacted in the document.",
+      "dead_confirmed": null,
       "injured_confirmed": 1,
-      "missing_confirmed": 0,
+      "missing_confirmed": null,
       "dead_possible_min": null,
       "dead_possible_max": null,
-      "note_contesto": "One person involved in the operation was hospitalized, leading to a reduction in workforce and affecting Frontex missions. The illness was not connected to Frontex activities.",
-      "evidenza_testuale": "On Tue 26 Mar, ICC Poseidon Sea informed by email the FSC/ that one of the had been hospitalized",
-      "confidenza": "alta",
+      "context_note": "A Frontex surveillance aircraft mission was reduced because one person was hospitalized. The incident was reported by ICC Poseidon Sea. The hospitalization led to a reduction in workforce. No indication that the illness was connected to Frontex activities or facilities, and no identified impact.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "one of the had been hospitalized",
+      "confidence": "low",
       "evidence_pages": [
         1
       ]
@@ -25,5 +36,6 @@
   "injured_confirmed_total": 1,
   "missing_confirmed_total": 0,
   "dead_possible_total_min": 0,
-  "dead_possible_total_max": 0
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
 }
