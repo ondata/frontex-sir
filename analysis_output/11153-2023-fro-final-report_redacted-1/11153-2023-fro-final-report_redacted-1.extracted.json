@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/11153-2023-fro-final-report_redacted-1/11153-2023-fro-final-report_redacted-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-14T17:56:53.427252+00:00",
+  "records": [
+    {
+      "sir_id": "11153/2023",
+      "report_date": "2024-07-19",
+      "incident_date": "2023-03-15",
+      "location_details": "The incident occurred in the Albanian-Greek border area. The migrant reported being apprehended by Albanian police, transferred to a detention center (redacted), and later transported to a location with a small wooden bridge and a monastery nearby (redacted) before being directed back towards Greece. The Fundamental Rights Office corroborated the existence of an abandoned bridge and a monastery close to the alleged return location.",
+      "where_clear": "Albanian-Greek border area, near a small wooden bridge and monastery",
+      "location_text_raw": "detention center in the vicinity of [redacted], location with a small wooden bridge and a monastery nearby, closer to the Greek border, Greek-Albanian border, area of [redacted]",
+      "country_or_area": "Albania / Greece border area",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Albanian-Greek border, small wooden bridge, monastery",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific names of the detention center, bridge, and monastery are redacted. The official Albanian Reception Center is stated to be 140km away from the alleged detention location. The exact apprehension and return points are not precisely specified.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "context_note": "A migrant alleged apprehension by Albanian police on 15/03/2023, followed by detention and subsequent irregular return to Greece. The Fundamental Rights Office found it possible that the group of migrants was irregularly returned by Albanian officers, noting consistency with previous similar allegations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Incident reported: The Fundamental Rights Office received information from Frontex operational staff about a migrant who alleged being apprehended by Albanian police on 15/03/2023.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

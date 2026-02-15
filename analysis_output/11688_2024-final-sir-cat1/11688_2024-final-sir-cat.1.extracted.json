@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/11688_2024-final-sir-cat1/11688_2024-final-sir-cat.1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-14T17:58:24.680120+00:00",
+  "records": [
+    {
+      "sir_id": "11688/2024",
+      "report_date": "2024-08-06",
+      "incident_date": "2024-04-07",
+      "location_details": "Frontex team detected five migrants close to the Serbian border in Bulgaria. The migrants alleged they were apprehended in Serbia, had their belongings taken, and were forced back to Bulgaria.",
+      "where_clear": "Near the Serbian border in Bulgaria, following an alleged pushback from Serbia.",
+      "location_text_raw": "deployed in [redacted], Bulgaria... close to the Serbian border... from the Serbian border in the position [redacted]... apprehended in Serbia... forced to cross the border to Bulgaria.",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria Serbian border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details within Bulgaria and Serbia are redacted. The exact point of alleged pushback from Serbia to Bulgaria is not specified.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "context_note": "Five male migrants, including three minors, were detected by Frontex and Bulgarian officers near the Serbian border in Bulgaria. They were exhausted, and one had no shoes. They alleged that Serbian border police officers destroyed their documents, took valuables, and forced them back to Bulgaria from Serbia. The Fundamental Rights Office finds it plausible that the incident occurred as alleged, despite denials from Serbian authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "the Frontex team detected five migrants close to the Serbian border. The migrants alleged that Serbian border police officers destroyed their documents, took all their valuables, and forced them to cross back to Bulgaria earlier the same day. The migrants were exhausted, one of them had no shoes on.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

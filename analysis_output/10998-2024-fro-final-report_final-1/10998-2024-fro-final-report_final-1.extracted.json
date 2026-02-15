@@ -1,0 +1,44 @@
+{
+  "source_file": "pdfs/10998-2024-fro-final-report_final-1/10998-2024-fro-final-report_final-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-14T17:52:58.537640+00:00",
+  "records": [
+    {
+      "sir_id": "10998/2024",
+      "report_date": "2024-08-22",
+      "incident_date": "2024-02-19",
+      "location_details": "South of Lesvos in Greek territorial waters, near coordinates 38.887833, 26.446500. Other reported locations for potentially matching incidents include Lesvos island inside Turkish TTW at 38.8, 26.438333 and 38.773333, 26.438333, and southeast of Plomari, Lesvos south, 8.35 km from shoreline.",
+      "where_clear": "South of Lesvos, Aegean Sea",
+      "location_text_raw": "south of Lesvos in Greek territorial waters ... additional coordinates (38.887833, 26.446500)",
+      "country_or_area": "Lesvos island, Aegean Sea, Greece/Turkey maritime border",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "38.887833, 26.446500",
+      "lat": 38.887833,
+      "lon": 26.4465,
+      "uncertainty_note": "Multiple slightly different coordinates and descriptions are provided for the same incident, all in the general area south of Lesvos, near the Greek/Turkish maritime border. The chosen coordinates are from the NGO's initial report.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "context_note": "A migrant boat with approximately 50 individuals (men, women, several children) was in distress. A Frontex vessel (Bulgarian asset) was identified in the vicinity. Allegations by an NGO include the Hellenic Coast Guard towing the migrant boat to Turkish waters, destroying its engine, and confiscating phones. The FRO notes that the alleged modus operandi is consistent with previously highlighted HCG practices.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 19/02/2024, the Fundamental Rights Office received information from an NGO about a migrant boat in distress south of Lesvos along with videos taken by the migrants. The same day, the NGO posted on X and Facebook additional coordinates (38.887833, 26.446500).",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        4,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

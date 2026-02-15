@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-02-14T17:53:30.529805+00:00",
+  "generated_at_utc": "2026-02-14T17:50:15.109692+00:00",
   "model": "gemini-2.5-flash",
-  "input_path": "pdfs/pad-2025-00427",
+  "input_path": "pdfs/1-reg-656_frontex-annual-report-of-jos-2021-with-fro-observations-1",
   "files_processed": 1,
   "files_failed": 0,
-  "records_total": 1,
+  "records_total": 0,
   "dead_confirmed_total": 0,
   "injured_confirmed_total": 0,
   "missing_confirmed_total": 0,
   "dead_possible_total_min": 0,
   "dead_possible_total_max": 0,
   "records_invalid_skipped": 0,
-  "files_skipped_by_limit": 5
+  "files_skipped_by_limit": 0
 }

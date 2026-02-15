@@ -1,0 +1,44 @@
+{
+  "source_file": "pdfs/2020.05.01_final-sir-report_11095.2020-_final-redacted-1/2020.05.01_Final_SIR__Report_11095.2020__final_redacted-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-15T09:09:47.060763+00:00",
+  "records": [
+    {
+      "sir_id": "11095/2020",
+      "report_date": "2020-04-30",
+      "incident_date": "2020-04-18",
+      "location_details": "The incident occurred in the Eastern Aegean Sea, specifically at 39°16′N 026°35'E, which is near the maritime border between Greece and Turkey, close to the island of Lesvos. A migrant boat was sighted north of Lesvos and later found adrift at the specified coordinates.",
+      "where_clear": "Eastern Aegean Sea, at 39°16′N 026°35'E, near the Greek and Turkish maritime border close to Lesvos island.",
+      "location_text_raw": "Eastern Aegean",
+      "country_or_area": "Eastern Aegean Sea (Greece/Turkey border)",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "39.266666666666666, 26.583333333333332",
+      "lat": 39.266666666666666,
+      "lon": 26.583333333333332,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "context_note": "A Frontex surveillance aircraft sighted a migrant boat with 20-30 persons on board near the Greek-Turkish maritime border. The boat was later found adrift without an engine at 39°16′N 026°35'E after migrants were reportedly transferred from an HCG patrol vessel back to the rubber boat. The incident is suspected to have characteristics of an unprocessed return and violation of the principle of non-refoulement, although migrants eventually landed safely on Turkish shores.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "SIR incident: 11095/2020: FORMAL SIR - Frontex Surveillance Aircraft's Sighting in Eastern Aegean",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -557,6 +557,7 @@ def main() -> int:
             "[INFO] --max-new-files detected: disabling group-summary skip for incremental processing."
         )
         args.skip_completed_groups = False
+    incremental_mode = args.max_new_files > 0
 
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
@@ -592,8 +593,12 @@ def main() -> int:
     files_skipped_by_limit = 0
     api_calls_made = 0
     groups_with_work = 0
+    limit_reached = False
 
     for group_name, group_targets in groups.items():
+        if limit_reached:
+            break
+
         group_out_dir = out_dir if group_name == "." else out_dir / group_name
 
         # If a folder-level summary exists, assume that folder was already processed.
@@ -619,21 +624,23 @@ def main() -> int:
         group_dead_possible_min = 0
         group_dead_possible_max = 0
         group_records_invalid_skipped = 0
-        group_skipped_by_limit = 0
+        group_had_activity = False
 
         for pdf_file in group_targets:
             group_out_json = group_out_dir / f"{pdf_file.stem}.extracted.json"
             needs_api_call = not (args.skip_existing and group_out_json.exists())
 
+            # Incremental mode: ignore already-processed files to avoid reloading/rewriting summaries.
+            if incremental_mode and not needs_api_call:
+                continue
+
             if (
                 needs_api_call
-                and args.max_new_files > 0
+                and incremental_mode
                 and api_calls_made >= args.max_new_files
             ):
-                group_skipped_by_limit += 1
-                files_skipped_by_limit += 1
-                print(f"[SKIP LIMIT] {pdf_file}")
-                continue
+                limit_reached = True
+                break
 
             try:
                 if (
@@ -656,6 +663,7 @@ def main() -> int:
                     api_calls_made += 1
 
                 print(f"[OK] {pdf_file} -> {out_path}")
+                group_had_activity = True
                 group_files_processed += 1
                 group_dead_confirmed += result.dead_confirmed_total
                 group_injured_confirmed += result.injured_confirmed_total
@@ -671,11 +679,16 @@ def main() -> int:
             except (ValidationError, ValueError, json.JSONDecodeError) as exc:
                 failures += 1
                 group_failures += 1
+                group_had_activity = True
                 print(f"[ERROR] {pdf_file}: {exc}", file=sys.stderr)
             except Exception as exc:
                 failures += 1
                 group_failures += 1
+                group_had_activity = True
                 print(f"[ERROR] {pdf_file}: {exc}", file=sys.stderr)
+
+        if not group_had_activity:
+            continue
 
         group_input_label = (
             args.input_path if group_name == "." else f"{args.input_path}/{group_name}"
@@ -693,11 +706,13 @@ def main() -> int:
             "dead_possible_total_min": group_dead_possible_min,
             "dead_possible_total_max": group_dead_possible_max,
             "records_invalid_skipped": group_records_invalid_skipped,
-            "files_skipped_by_limit": group_skipped_by_limit,
+            "files_skipped_by_limit": 0,
         }
-        csv_path, json_path = write_summary(group_rows, group_totals, group_out_dir)
-        print(f"[SUMMARY] {csv_path}")
-        print(f"[SUMMARY] {json_path}")
+        groups_with_work += 1
+        if not incremental_mode:
+            csv_path, json_path = write_summary(group_rows, group_totals, group_out_dir)
+            print(f"[SUMMARY] {csv_path}")
+            print(f"[SUMMARY] {json_path}")
 
         files_processed += group_files_processed
         total_dead_confirmed += group_dead_confirmed
@@ -709,7 +724,10 @@ def main() -> int:
         all_rows.extend(group_rows)
 
     if groups_with_work == 0:
-        print("[DONE] Nothing to process: all folders already have summary.csv")
+        if incremental_mode:
+            print("[DONE] Incremental batch: no new files found.")
+        else:
+            print("[DONE] Nothing to process: all folders already have summary.csv")
         return 0
 
     totals = {
@@ -728,8 +746,14 @@ def main() -> int:
         "files_skipped_by_limit": files_skipped_by_limit,
     }
 
+    # In incremental mode avoid writing partial summaries.
+    if incremental_mode:
+        limit_text = f"/{args.max_new_files}" if args.max_new_files > 0 else ""
+        print(
+            f"[DONE] Incremental batch processed {files_processed}{limit_text} new files; failures={failures}."
+        )
     # When processing multiple top-level folders, also emit one global summary at output root.
-    if len(groups) > 1 or "." not in groups:
+    elif len(groups) > 1 or "." not in groups:
         csv_path, json_path = write_summary(all_rows, totals, out_dir)
         print(f"[SUMMARY ALL] {csv_path}")
         print(f"[SUMMARY ALL] {json_path}")

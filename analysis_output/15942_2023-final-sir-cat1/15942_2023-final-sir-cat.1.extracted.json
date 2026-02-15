@@ -1,0 +1,46 @@
+{
+  "source_file": "pdfs/15942_2023-final-sir-cat1/15942_2023-final-sir-cat.1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-15T09:09:20.988619+00:00",
+  "records": [
+    {
+      "sir_id": "15942/2023",
+      "report_date": "2024-07-24",
+      "incident_date": "2023-11-27",
+      "location_details": "The group crossed from Bulgaria to Serbia on 25/11/2023, walking in a mountainous area, encountering a train track, a small guardhouse, and crossing between/through two electric cables acting as border lines. The encounter with Serbian authorities occurred in Serbia, close to a bridge with a river, a village, a highway, and a parking lot in the vicinity. The migrants were later transferred to a location close to a river and thrown into the river to cross to Bulgaria.",
+      "where_clear": "Serbia-Bulgaria border area, specifically in Serbian territory near a river, village, highway, and train track, with forced return to Bulgaria.",
+      "location_text_raw": "from Bulgaria to Serbia, Serbian territory, mountainous area, train track, small guardhouse, border lines, close to a bridge with a river, a village, a highway, and a parking lot, location close to a river, throwing the migrants into the river to cross to Bulgaria.",
+      "country_or_area": "Serbia",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The incident date for apprehension and mistreatment varies between 27/11/2023 and 28/11/2023, with a possibility of an earlier encounter before/on 26/11/2023. The exact crossing point and location of encounter within Serbia are unknown, described generically as a mountainous area near a train track, bridge, river, village, highway, and parking lot.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "context_note": "Five screened persons (part of an initial group of seven) reported physical mistreatment (kicking, sticks, batons, taser, 'boxing' manner) on three occasions, confiscation of personal belongings (including mobile phones), and collective expulsion from Serbia to Bulgaria by Serbian police officers. A Frontex officer observed bruises on the screened persons, and a photo showed one victim with a hand in plaster. Serbian authorities deny any record of the incident and state electro shockers are not standard equipment. Bulgarian authorities reported detaining a group of 7 on 26/11/2023 in a different location, which might be related to the initial group.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "During a screening interview performed by Frontex five screened persons stated that on 25/11/2023, they crossed irregularly from Bulgaria to Serbia, and that on 27/11/2023 or 28/11/2023, they were apprehended by the Serbian police and subsequently physically mistreated and returned to Bulgaria. ... The Fundamental Rights Office considers the statements of the alleged victims (one of whom the Office interviewed extensively) generally credible and consistent and further takes note of the observation of a Frontex officer who observed bruises on them. ... The Fundamental Rights Office concludes as possoble that a group of five persons was apprehended in Serbia by the Serbian police, and subsequently ill-treated, had personal belongings removed and finally was collectively expelled to Bulgaria.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

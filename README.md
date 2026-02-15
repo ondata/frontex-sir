@@ -407,3 +407,45 @@ Opzioni principali:
 | `--min-seconds-between-calls N` | Pausa tra chiamate API (default: 4s) |
 | `--max-new-files N` | Processa al massimo N nuovi file per esecuzione (0 = nessun limite) |
 | `--no-skip-completed-groups` | Non saltare cartelle con `summary.csv` (utile per batch incrementali) |
+
+Nota: quando usi `--max-new-files`, lo script lavora in modalità incrementale:
+- processa solo file nuovi (non già estratti);
+- si ferma appena raggiunge il limite;
+- non aggiorna i summary CSV/JSON globali o per cartella, per evitare riepiloghi parziali.
+
+#### Modalità incrementale (`--max-new-files`)
+
+Permette di processare i PDF a piccoli blocchi, senza dover lanciare tutto in una volta. Utile quando l'archivio è grande e si vuole distribuire le chiamate API nel tempo (es. per rispettare quote o costi).
+
+**Come funziona:**
+
+1. Lo script trova tutti i PDF non ancora processati (senza `.extracted.json`).
+2. Ne processa al massimo `N` per ogni lancio.
+3. Si ferma raggiunto il limite, senza scrivere summary parziali.
+4. Al lancio successivo riparte dai PDF ancora da fare.
+
+I PDF già estratti non vengono mai rilavorati, anche se la cartella non ha ancora un `summary.csv`.
+
+**Esempio — processare 10 PDF alla volta:**
+
+```bash
+# Primo lancio: processa i primi 10 nuovi
+python3 extract_sir_pdf_gemini.py pdfs --output-dir analysis_output --max-new-files 10
+
+# Secondo lancio: processa i successivi 10
+python3 extract_sir_pdf_gemini.py pdfs --output-dir analysis_output --max-new-files 10
+
+# Terzo lancio: e così via, fino a esaurimento dei PDF
+```
+
+Ogni lancio stampa quanti file ha processato:
+
+```
+[DONE] Incremental batch processed 10/10 new files; failures=0.
+```
+
+Quando non ci sono più PDF da processare:
+
+```
+[DONE] Incremental batch: no new files found.
+```

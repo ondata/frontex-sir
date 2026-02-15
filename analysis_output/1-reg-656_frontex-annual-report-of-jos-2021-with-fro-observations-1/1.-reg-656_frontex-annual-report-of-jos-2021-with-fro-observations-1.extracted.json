@@ -1,0 +1,12 @@
+{
+  "source_file": "pdfs/1-reg-656_frontex-annual-report-of-jos-2021-with-fro-observations-1/1.-reg-656_frontex-annual-report-of-jos-2021-with-fro-observations-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-14T17:50:15.108722+00:00",
+  "records": [],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/13546_2023-final-sir-cat-1/13546_2023-final-sir-cat-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-15T09:07:23.029595+00:00",
+  "records": [
+    {
+      "sir_id": "13546/2023",
+      "report_date": "2024-06-28",
+      "incident_date": "2023-07-21",
+      "location_details": "The incident occurred within the premises of the Pournara First Reception Centre in Cyprus, specifically in one of the containers not usually used for interviewing.",
+      "where_clear": "Pournara First Reception Centre, Cyprus",
+      "location_text_raw": "Pournara First Reception Centre in Cyprus.",
+      "country_or_area": "Cyprus",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Pournara First Reception Centre, Cyprus",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "context_note": "A migrant alleged ill-treatment, including being slapped 4-5 times on the head and neck and forced to sign a false statement about his origin, by four unidentified officers at the Pournara First Reception Centre in Cyprus. The Fundamental Rights Office considers the allegations relatively credible but could not independently corroborate them due to lack of cooperation from Cypriot authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "a migrant alleging ill-treatment when interviewed by unidentified officers at the premises of Pournara First Reception Centre in Cyprus. According to the migrant's account, on 21/07/2023 he was \"interrogated\" by four police officers inside the Reception Centre. Allegedly the persons were not wearing uniforms or badges, nor did they identify themselves. During this \"interrogation\" the migrant was slapped 4-5 times on the head and neck and was forced to sign a statement that he had departed from Lebanon and not Syria as he had claimed before.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

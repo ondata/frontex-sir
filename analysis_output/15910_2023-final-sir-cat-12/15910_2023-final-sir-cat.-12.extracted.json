@@ -1,0 +1,50 @@
+{
+  "source_file": "pdfs/15910_2023-final-sir-cat-12/15910_2023-final-sir-cat.-12.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-15T09:07:53.949642+00:00",
+  "records": [
+    {
+      "sir_id": "15910/2023",
+      "report_date": "2024-07-08",
+      "incident_date": "2023-09-21",
+      "location_details": "Registration activities in a Reception Center during Joint Operation Ledra 2023 in Cyprus.",
+      "where_clear": "Reception Center in Cyprus",
+      "location_text_raw": "Joint Operation (JO) Ledra 2023, [REDACTED] Reception Center",
+      "country_or_area": "Cyprus",
+      "location_type": "facility",
+      "precision_level": "approximate",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific reception center name is redacted. Location is identified as a reception center in Cyprus during JO Ledra 2023.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "context_note": "Two incidents reported: on 21/09/2023, a Frontex officer forced a female to remove her hijab; on 29/09/2023, the same officer allegedly forced another female to remove her hijab and coerced her by threatening return to country of origin. The officer denied the threat but admitted to asking for full hijab removal based on informal instructions and language barriers might have led to misunderstanding.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "It was reported that during the procedure of taking facial images in the context of the registration activities performed by Frontex in Joint Operation (JO) Ledra 2023, on 21/09/2023, a Frontex officer forced a female to remove her hijab¹. Similarly, on 29/09/2023, the same Frontex officer performing the same activity allegedly forced another female to remove her hijab and coerced her into compliance by threatening her that she would be returned to her country of origin, if she did not take off the hijab.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

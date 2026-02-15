@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/15914_2023-final-sir-cat1/15914_2023-final-sir-cat.1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-15T09:08:19.760631+00:00",
+  "records": [
+    {
+      "sir_id": "15914/2023",
+      "report_date": "2024-07-24",
+      "incident_date": "2023-12-01",
+      "location_details": "Seven migrants were apprehended by Serbian police near the Serbia-Bulgaria border, specifically near the Pirot Reception Centre, and allegedly subjected to ill-treatment and forced expulsion back to Bulgaria across a river.",
+      "where_clear": "Serbia-Bulgaria border area, near Pirot Reception Centre",
+      "location_text_raw": "apprehended near [REDACTED] by the Serbian police who took the group back to the border with Bulgaria",
+      "country_or_area": "Serbia, Bulgaria",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Pirot Reception Centre, Serbia near Bulgaria border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location redacted, described as 'near [REDACTED]' and 'border with Bulgaria', later refined to 'near the Pirot Reception Centre'.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "context_note": "Alleged ill-treatment (physical violence, forced removal of clothes, forced river crossing) and collective expulsion of seven migrants by Serbian police officers at the Serbia-Bulgaria border. Photographic evidence of injuries on one migrant's feet supports the account, though direct causation by Serbian police could not be independently corroborated.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "on 01/12/2023, they were apprehended near [REDACTED] by the Serbian police who took the group back to the border with Bulgaria, forced them to remove their clothes, physically mistreated the group, and ordered them to cross the river into Bulgaria.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

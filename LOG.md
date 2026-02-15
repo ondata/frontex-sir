@@ -1,5 +1,11 @@
 # LOG
 
+## 2026-02-15
+
+- Aggiunta modalità incrementale `--max-new-files N` a `extract_sir_pdf_gemini.py`: processa N PDF nuovi per run, salta già estratti, non scrive summary parziali
+- Processati 10 nuovi PDF con modalità incrementale (0 errori)
+- README: aggiunta sezione dedicata alla modalità incrementale con esempio d'uso
+
 ## 2026-02-13
 
 - Creato repo pubblico `ondata/frontex-sir` con Git LFS per PDF e ZIP
