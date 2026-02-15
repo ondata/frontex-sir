@@ -102,70 +102,11 @@ In pratica:
 
 Questo approccio è utile anche per PDF senza testo OCR incorporato.
 
-## Prompt usato (testo completo)
+## Prompt usato
 
-Questo è il prompt che lo script invia a Gemini insieme al PDF:
+Il prompt inviato a Gemini insieme al PDF è in [`prompts/extract_sir.txt`](prompts/extract_sir.txt).
 
-```text
-Sei un analista OSINT/data-journalism.
-Analizza questo documento PDF contenente uno o più Serious Incident Reports Frontex.
-
-Obiettivo:
-1) quantificare vittime per ciascun SIR presente nel documento;
-2) estrarre in forma strutturata dove avviene ogni incidente.
-
-Restituisci SOLO JSON valido, senza markdown, con questa struttura:
-{
-  "records": [
-    {
-      "sir_id": "12345/2021",
-      "report_date": "YYYY-MM-DD or null",
-      "incident_date": "YYYY-MM-DD or null",
-      "location_details": "string or null",
-      "where_clear": "short clear location statement in English or null",
-      "location_text_raw": "short raw location wording from the document or null",
-      "country_or_area": "country, SAR/SRR area, island, hotspot, camp, sea area, or null",
-      "location_type": "sea|land|facility|mixed|unknown or null",
-      "precision_level": "exact|approximate|broad|unknown or null",
-      "geocodable": "yes|no or null",
-      "geocodable_query": "best query string to geocode this location, or null",
-      "lat": "number or null",
-      "lon": "number or null",
-      "uncertainty_note": "why location is uncertain, or null",
-      "dead_confirmed": 0 or null,
-      "injured_confirmed": 0 or null,
-      "missing_confirmed": 0 or null,
-      "dead_possible_min": 0 or null,
-      "dead_possible_max": 0 or null,
-      "context_note": "string or null",
-      "libyan_coast_guard_involved": true or false or null,
-      "evidence_quote": "short quote from the document",
-      "confidence": "high|medium|low",
-      "evidence_pages": [1, 2]
-    }
-  ]
-}
-
-Regole:
-- Identifica ogni blocco "Serious Incident Report no. XXXXX/YYYY".
-- Prima fase di detection: verifica se esistono SIR con ID nel formato numerico `XXXXX/YYYY`.
-- Se nel documento non ci sono SIR numerici validi, restituisci `{"records":[]}`.
-- Dai priorità ai campi Dead/Injured/Missing persons nel form.
-- Se i campi non hanno numeri, usa Details / Information/Allegations / Assessment.
-- Non inventare numeri.
-- Distingui confermato vs possibile/non confermato.
-- Se impossibile estrarre un valore, usa null.
-- sir_id deve essere solo nel formato numerico `XXXXX/YYYY`.
-- Non usare ID operativi o testuali (es. `POSEIDON_001/2021`, `THEMIS_001/2021`).
-- evidence_pages: numeri di pagina del PDF dove hai trovato le informazioni.
-- libyan_coast_guard_involved: true se il documento menziona esplicitamente la guardia costiera libica (Libyan Coast Guard, LCG, guardia costiera della Libia) come attore presente o coinvolto nell'incidente; false se l'incidente è descritto senza alcun coinvolgimento libico; null se non è possibile determinarlo.
-- Non inventare coordinate: lat/lon devono essere null salvo coordinate esplicite nel documento.
-- Se coordinate esplicite sono in gradi decimali, riportale solo come numeri decimali (senza `N/E/S/W` o simboli di grado).
-- Se non sono in decimali (o non chiaramente convertibili), lascia `lat` e `lon` a null.
-- geocodable: yes solo se una query cartografica praticabile e delimitata è possibile; no se luogo troppo generico/redatto/ambiguo.
-```
-
-Nel codice si trova in `extract_sir_pdf_gemini.py`, funzione `build_prompt()`.
+Contiene: schema JSON atteso, regole di estrazione, rubrica per il campo `confidence`, regole per `geocodable` e coordinate.
 
 ## Esempio di output: summary_totals.json
 
