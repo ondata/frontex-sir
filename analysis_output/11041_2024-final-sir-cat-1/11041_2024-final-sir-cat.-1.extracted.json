@@ -1,29 +1,46 @@
 {
   "source_file": "pdfs/11041_2024-final-sir-cat-1/11041_2024-final-sir-cat.-1.pdf",
   "model": "gemini-2.5-flash",
-  "generated_at_utc": "2026-02-14T17:53:30.370561+00:00",
+  "generated_at_utc": "2026-02-16T15:45:42.326478+00:00",
   "records": [
     {
       "sir_id": "11041/2024",
       "report_date": "2024-09-30",
       "incident_date": "2024-02-26",
-      "location_details": "A group of ten migrants, starting from Belgrade, Serbia, were transported by Serbian police from a reception centre south of Belgrade to a shallow river near Dimitrovgrad, at the Serbian-Bulgarian border, and forced to cross into Bulgaria. They were subsequently apprehended by Bulgarian police in a village territory in Bulgaria, near the border.",
+      "location_details": "Migrants were transported from a reception centre in Serbia (south of Belgrade, possibly Obrenovac or Bogovadja Asylum Centre) to a shallow river near the Serbian-Bulgarian border, after passing Dimitrovgrad. They were then forced to cross the river into Bulgarian territory.",
       "where_clear": "Serbian-Bulgarian border, near Dimitrovgrad",
-      "location_text_raw": "at the [REDACTED] in Bulgaria, public park in Belgrade, reception centre located 1.5-hour drive south of Belgrade, after passing Dimitrovgrad, the van reached a shallow river, what migrants assumed to be by the border with Bulgaria, territory of the village of [REDACTED] found and arrested ten persons without documents, location of the apprehension in Bulgaria [REDACTED] from the border with Serbia)",
-      "country_or_area": "Serbia, Bulgaria",
-      "location_type": "mixed",
+      "location_text_raw": "shallow river, what migrants assumed to be by the border with Bulgaria",
+      "country_or_area": "Serbia/Bulgaria border",
+      "location_type": "land",
       "precision_level": "approximate",
       "geocodable": "yes",
       "geocodable_query": "Serbian-Bulgarian border near Dimitrovgrad",
       "lat": null,
       "lon": null,
-      "uncertainty_note": "Specific river name and village in Bulgaria are redacted.",
+      "uncertainty_note": "The exact river is not named, but its location relative to Dimitrovgrad and the border is described.",
       "dead_confirmed": 0,
-      "injured_confirmed": 0,
+      "injured_confirmed": 1,
       "missing_confirmed": 0,
       "dead_possible_min": 0,
       "dead_possible_max": 0,
-      "context_note": "A group of ten migrants was apprehended by Serbian police in Serbia, transported from a reception centre to the Serbian-Bulgarian border near Dimitrovgrad, and allegedly subjected to ill-treatment, theft of phones/documents, and forced collective expulsion into Bulgaria. They were subsequently apprehended by Bulgarian police.",
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol No 4 to the European Convention on Human Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Protection of property",
+          "legal_basis": "Article 1 of Protocol No 1 to the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office concludes that a group of ten migrants was likely subjected to collective expulsion from Serbia to Bulgaria. Allegations of ill-treatment and seizure of property could not be independently corroborated but are considered possible. Serbian authorities denied the allegations based on internal checks, but the FRO regrets that questions regarding regular police involvement remained unanswered and findings were based on the absence of internal records. The FRO emphasizes the need for thorough, independent investigations into fundamental rights violations.",
       "libyan_coast_guard_involved": false,
       "evidence_quote": "The Fundamental Rights Office concludes as likely that a group of ten migrants was apprehended by the Serbian police in Serbia, transported from the reception centre to the border with Bulgaria, and subsequently forced to cross the border.",
       "confidence": "high",
@@ -31,12 +48,13 @@
         1,
         2,
         3,
-        4
+        4,
+        5
       ]
     }
   ],
   "dead_confirmed_total": 0,
-  "injured_confirmed_total": 0,
+  "injured_confirmed_total": 1,
   "missing_confirmed_total": 0,
   "dead_possible_total_min": 0,
   "dead_possible_total_max": 0,

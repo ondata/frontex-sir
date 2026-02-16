@@ -1,31 +1,48 @@
 {
   "source_file": "pdfs/12784_2023_final-report_redacted-1/12784_2023_final-report_redacted-1.pdf",
   "model": "gemini-2.5-flash",
-  "generated_at_utc": "2026-02-14T17:58:59.509041+00:00",
+  "generated_at_utc": "2026-02-16T15:59:48.652483+00:00",
   "records": [
     {
       "sir_id": "12784/2023",
       "report_date": "2024-03-12",
       "incident_date": "2023-05-23",
-      "location_details": "Inside the Maltese Search and Rescue Region, near coordinates 34 55 N, 19 45 E. The boat was later towed towards Libya.",
+      "location_details": "Inside the Maltese Search and Rescue Zone, specifically at 34 55 N, 19 45 E, where a migrant boat was sighted and later intercepted by the Tareq Bin Zeyad vessel.",
       "where_clear": "Maltese Search and Rescue Region",
-      "location_text_raw": "Maltese Search and Rescue zone, Maltese Search and Rescue Region, 34 55 N, 19 45 E",
-      "country_or_area": "Maltese Search and Rescue Region (SRR)",
+      "location_text_raw": "inside the Maltese Search and Rescue zone on 24/05/2023. Frontex sighting 490 of a migrant boat inside the Maltese Search and Rescue Zone on 23/05/2023. Position (34 55 N, 19 45 E), inside the Maltese Search and Rescue Region. Tracked at N 34 51 E 19 46 at 6:10h CEST of 24 May.",
+      "country_or_area": "Maltese Search and Rescue Region",
       "location_type": "sea",
       "precision_level": "exact",
       "geocodable": "yes",
-      "geocodable_query": "34 55 N, 19 45 E, Maltese Search and Rescue Region",
+      "geocodable_query": "34.916667, 19.75, Maltese Search and Rescue Region",
       "lat": 34.916667,
       "lon": 19.75,
       "uncertainty_note": null,
       "dead_confirmed": null,
       "injured_confirmed": null,
       "missing_confirmed": null,
-      "dead_possible_min": 600,
+      "dead_possible_min": null,
       "dead_possible_max": null,
-      "context_note": "An NGO reported about SOS messages from a vessel with approximately 500 persons on board, later observed by Frontex with approx. 600+ POB inside the Maltese Search and Rescue Zone. The vessel was subsequently intercepted and towed by a 'Libyan sea military unit' (Tareq Bin Zeyad vessel) towards Libya. Relatives later reported forced return to Benghazi.",
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of torture and inhuman or degrading treatment or punishment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to liberty and security",
+          "legal_basis": "Article 6 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Principle of non-refoulment",
+          "legal_basis": "Article 19 (2) of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "An NGO reported about SOS messages from a vessel with approximately 500 persons on board, later updated to 600+ POB by Frontex, which was allegedly returned to Libya from within the Maltese Search and Rescue zone. A 'Libyan sea military unit' (Tareq Bin Zeyad vessel) was observed towing the migrant boat.",
       "libyan_coast_guard_involved": true,
-      "evidence_quote": "An NGO reported online about SOS messages received from a vessel with approximately 500 persons on board and claimed that they where later returned to Libya from within the Maltese Search and Rescue zone on 24/05/2023. Frontex further received photographs from EUNAVFOR MED reporting that an aerial asset had observed the towing of a migrant boat by a \"Libyan sea military unit\" the same day. The migrant boat depicted corresponds to Frontex sighting 490 of a migrant boat inside the Maltese Search and Rescue Zone on 23/05/2023.",
+      "evidence_quote": "An NGO reported online about SOS messages received from a vessel with approximately 500 persons on board and claimed that they where later returned to Libya from within the Maltese Search and Rescue zone on 24/05/2023. Frontex further received photographs from EUNAVFOR MED reporting that an aerial asset had observed the towing of a migrant boat by a \"Libyan sea military unit\" the same day.",
       "confidence": "high",
       "evidence_pages": [
         1,
@@ -40,35 +57,53 @@
       "sir_id": "13079/2023",
       "report_date": null,
       "incident_date": "2023-07-07",
-      "location_details": "Sighted in the Libyan Search and Rescue Region, with interception occurring in the Maltese Search and Rescue Region.",
-      "where_clear": "Libyan SRR (interception in Maltese SRR)",
+      "location_details": "Interception occurred in the Libyan Search and Rescue Region, with the interception itself taking place in the Maltese Search and Rescue Region.",
+      "where_clear": "Libyan SRR, intercepted in Maltese SRR",
       "location_text_raw": "in the Libyan SRR (interception in Maltese SRR)",
-      "country_or_area": "Libyan Search and Rescue Region (SRR), Maltese Search and Rescue Region (SRR)",
+      "country_or_area": "Libyan Search and Rescue Region, Maltese Search and Rescue Region",
       "location_type": "sea",
       "precision_level": "broad",
       "geocodable": "yes",
       "geocodable_query": "Libyan Search and Rescue Region, Maltese Search and Rescue Region",
       "lat": null,
       "lon": null,
-      "uncertainty_note": "Sighting in Libyan SRR, interception in Maltese SRR.",
+      "uncertainty_note": "Interception occurred across two SAR regions, specific coordinates not provided.",
       "dead_confirmed": null,
       "injured_confirmed": null,
       "missing_confirmed": null,
       "dead_possible_min": null,
       "dead_possible_max": null,
-      "context_note": "This incident is mentioned as one of several occasions where Tareq Bin Zeyad intervened following a Frontex sighting, with the interception occurring in the Maltese SRR after a sighting in the Libyan SRR.",
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of torture and inhuman or degrading treatment or punishment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to liberty and security",
+          "legal_basis": "Article 6 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Principle of non-refoulment",
+          "legal_basis": "Article 19 (2) of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "This incident is cited as another case where Tareq Bin Zeyad was involved following a Frontex sighting, with allegations of migrants being returned to Libya. The same vessel was reportedly seen in NGO video footage.",
       "libyan_coast_guard_involved": true,
-      "evidence_quote": "07/07/2023, in the Libyan SRR (interception in Maltese SRR), Frontex not present [SIR 13079/2023];",
+      "evidence_quote": "It further notes that in a later incident (SIR 13079/2023), that equally looked into allegations of migrants being returned to Libya, the same vessel, Tareq Bin Zeyad, can be seen at the scene in the video footage of an NGO.",
       "confidence": "medium",
       "evidence_pages": [
-        3
+        3,
+        4
       ]
     }
   ],
   "dead_confirmed_total": 0,
   "injured_confirmed_total": 0,
   "missing_confirmed_total": 0,
-  "dead_possible_total_min": 600,
-  "dead_possible_total_max": 600,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
   "records_invalid_skipped": 0
 }

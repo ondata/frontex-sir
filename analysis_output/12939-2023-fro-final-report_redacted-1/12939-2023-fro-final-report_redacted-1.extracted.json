@@ -1,38 +1,44 @@
 {
   "source_file": "pdfs/12939-2023-fro-final-report_redacted-1/12939-2023-fro-final-report_redacted-1.pdf",
   "model": "gemini-2.5-flash",
-  "generated_at_utc": "2026-02-14T17:59:20.793519+00:00",
+  "generated_at_utc": "2026-02-16T16:00:17.243262+00:00",
   "records": [
     {
       "sir_id": "12939/2023",
       "report_date": "2024-01-29",
       "incident_date": "2023-07-07",
-      "location_details": "A migrant boat was detected in the Libyan Search and Rescue Region (SRR), 77 miles from Khoms. The NGO vessel Ocean Viking was 30 nautical miles northwest of the migrant boat.",
-      "where_clear": "Libyan Search and Rescue Region, 77 miles from Khoms",
+      "location_details": "A migrant boat was detected in the Libyan Search and Rescue Region (SRR), 77 miles from Khoms, Libya. The incident involved NGO speedboats and the Libyan Coast Guard.",
+      "where_clear": "77 miles offshore Khoms, Libyan Search and Rescue Region",
       "location_text_raw": "Libyan Search and Rescue Region (SRR)",
-      "country_or_area": "Libyan Search and Rescue Region",
+      "country_or_area": "Libyan Search and Rescue Region (SRR)",
       "location_type": "sea",
       "precision_level": "approximate",
       "geocodable": "yes",
-      "geocodable_query": "77 miles from Khoms, Libya",
+      "geocodable_query": "77 miles offshore Khoms, Libya",
       "lat": null,
       "lon": null,
       "uncertainty_note": null,
       "dead_confirmed": 0,
       "injured_confirmed": 0,
       "missing_confirmed": 0,
-      "dead_possible_min": 0,
-      "dead_possible_max": 0,
-      "context_note": "Frontex surveillance aircraft detected a migrant boat in the Libyan SRR. NGO speedboats were rescuing 11 migrants when the Libyan Coast Guard performed dangerous manoeuvres and fired several shots at close range in the direction of the speedboats, risking the lives and safety of those on board.",
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Frontex surveillance aircraft detected a migrant boat in the Libyan SRR and informed Libyan MRCC and Coast Guard. NGO speedboats were rescuing eleven people when the Libyan Coast Guard (LCG) performed dangerous manoeuvres and fired shots at close range. The Fundamental Rights Office considers this a frequent practice by Libyan authorities, posing risks to fundamental rights. This incident highlights the risks of sending alerts to the Libyan MRCC, leading to disembarkation in a country not considered a place of safety. Previous SIRs also document similar violent interceptions and ill-treatment by LCG.",
       "libyan_coast_guard_involved": true,
-      "evidence_quote": "the Libyan Coast Guard (LCG) began a series of dangerous manoeuvres and fired several shots at close range in direction of the speed boats.",
+      "evidence_quote": "LCG began a series of dangerous manoeuvres and fired several shots at close range in direction of the speed boats.",
       "confidence": "high",
       "evidence_pages": [
         1,
         2,
         3,
-        4,
-        5
+        4
       ]
     }
   ],

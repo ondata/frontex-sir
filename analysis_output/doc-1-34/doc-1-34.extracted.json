@@ -1,0 +1,73 @@
+{
+  "source_file": "pdfs/doc-1-34/doc-1-34.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-16T16:05:43.051386+00:00",
+  "records": [
+    {
+      "sir_id": "10870/2021",
+      "report_date": "2021-03-17",
+      "incident_date": "2021-03-17",
+      "location_details": "Location of the incident: Text Removed - Operational Area, Romania. Latitude: Text Removed - Operational Area. Longitude: Text Removed - Operational Area. Reference to the operational area: Yes.",
+      "where_clear": "Operational Area in Romania",
+      "location_text_raw": "Text Removed - Operational Area, Romania",
+      "country_or_area": "Romania",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "An individual tested positive for COVID-19 in an immediate deployment location in Romania. The person self-isolated and colleagues who shared the same office were tested. The individual later tested negative.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 17.03.2021, around 19:00 LT, Text Removed - Human Resources informed Text Removed - Human Resources about his \"positive\" status on COVID-19.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "10729/2021",
+      "report_date": "2021-03-07",
+      "incident_date": "2021-03-07",
+      "location_details": "Location of the incident: Text Removed - Operational Area, Romania. Latitude: Text Removed - Operational Area. Longitude: Text Removed - Operational Area. Reference to the operational area: Yes.",
+      "where_clear": "Operational Area in Romania, near Timisoara",
+      "location_text_raw": "Text Removed - Operational Area, Romania",
+      "country_or_area": "Romania",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Timisoara, Romania",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location within the operational area is redacted, but medical treatment occurred in Timisoara.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "An individual was injured during recreational skiing, falling 6 meters and sustaining a dislocated leg and hip, broken cheek bones, broken nose, and a hematoma. The person was transported to Timisoara County Hospital for treatment and remained in hospital under observation, then took medical leave before returning to duties.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 07.03.2021 around 19:28 LT Text Removed - Human Resources informed Text Removed - Human Resources that Text Removed - Human Resources had an accident during his free time. While he was skiing, he slipped on a wet snow or piece of ice, he lost a balance and control, falling 6 meters into the depth, hitting the ground with his face and frontal part of the body.",
+      "confidence": "high",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

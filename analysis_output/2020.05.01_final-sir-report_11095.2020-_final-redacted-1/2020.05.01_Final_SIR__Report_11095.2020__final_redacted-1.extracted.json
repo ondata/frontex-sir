@@ -1,36 +1,54 @@
 {
   "source_file": "pdfs/2020.05.01_final-sir-report_11095.2020-_final-redacted-1/2020.05.01_Final_SIR__Report_11095.2020__final_redacted-1.pdf",
   "model": "gemini-2.5-flash",
-  "generated_at_utc": "2026-02-15T09:09:47.060763+00:00",
+  "generated_at_utc": "2026-02-16T16:03:58.218301+00:00",
   "records": [
     {
       "sir_id": "11095/2020",
       "report_date": "2020-04-30",
       "incident_date": "2020-04-18",
-      "location_details": "The incident occurred in the Eastern Aegean Sea, specifically at 39°16′N 026°35'E, which is near the maritime border between Greece and Turkey, close to the island of Lesvos. A migrant boat was sighted north of Lesvos and later found adrift at the specified coordinates.",
-      "where_clear": "Eastern Aegean Sea, at 39°16′N 026°35'E, near the Greek and Turkish maritime border close to Lesvos island.",
-      "location_text_raw": "Eastern Aegean",
-      "country_or_area": "Eastern Aegean Sea (Greece/Turkey border)",
+      "location_details": "Between the Greek and Turkish maritime border near the island of Lesvos, in the Eastern Aegean Sea. Specifically, the rubber boat was adrift at 39°16′N 026°35'E, inside Greek Territorial Waters initially, then towed towards Turkish Territorial Waters.",
+      "where_clear": "Eastern Aegean Sea, near Lesvos, at 39.2666N, 26.5833E",
+      "location_text_raw": "between the Greek and Turkish maritime border near the island of Lesvos",
+      "country_or_area": "Eastern Aegean Sea (Greece/Turkey)",
       "location_type": "sea",
       "precision_level": "exact",
       "geocodable": "yes",
-      "geocodable_query": "39.266666666666666, 26.583333333333332",
+      "geocodable_query": "39.2666N 26.5833E, Eastern Aegean Sea",
       "lat": 39.266666666666666,
       "lon": 26.583333333333332,
       "uncertainty_note": null,
       "dead_confirmed": 0,
       "injured_confirmed": 0,
       "missing_confirmed": 0,
-      "dead_possible_min": 0,
-      "dead_possible_max": 0,
-      "context_note": "A Frontex surveillance aircraft sighted a migrant boat with 20-30 persons on board near the Greek-Turkish maritime border. The boat was later found adrift without an engine at 39°16′N 026°35'E after migrants were reportedly transferred from an HCG patrol vessel back to the rubber boat. The incident is suspected to have characteristics of an unprocessed return and violation of the principle of non-refoulement, although migrants eventually landed safely on Turkish shores.",
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Unprocessed return",
+          "legal_basis": "principle of non-refoulement",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Violation of Fundamental Rights",
+          "legal_basis": "principle of non-refoulment",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Violation of international protection obligations",
+          "legal_basis": "principle of non-refoulment",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A Frontex surveillance aircraft sighted a migrant boat with 20-30 POB near Lesvos. Greek Coast Guard (HCG) assets were involved, towing the boat with migrants towards Turkish Territorial Waters after initially taking migrants on board and then placing them back in the rubber boat, which was left adrift without an engine. The migrants eventually landed safely on Turkish shores. The incident raised concerns about possible unprocessed return and violations of fundamental rights and non-refoulement.",
       "libyan_coast_guard_involved": false,
-      "evidence_quote": "SIR incident: 11095/2020: FORMAL SIR - Frontex Surveillance Aircraft's Sighting in Eastern Aegean",
+      "evidence_quote": "Based on the initial information it is suspected that the incident has characteristics of a case of an unprocessed return and violation of the principle of non-refoulement. ... there is a strong believe that presented facts support an allegation of possible violation of Fundamental Rights or international protection obligations such as the principle of non-refoulment.",
       "confidence": "high",
       "evidence_pages": [
         1,
         2,
         3,
+        5,
         6
       ]
     }

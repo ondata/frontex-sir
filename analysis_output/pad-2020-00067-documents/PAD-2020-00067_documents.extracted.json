@@ -1,0 +1,94 @@
+{
+  "source_file": "pdfs/pad-2020-00067-documents/PAD-2020-00067_documents.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-16T16:54:44.438411+00:00",
+  "records": [
+    {
+      "sir_id": "10036/2019",
+      "report_date": "2019-05-07",
+      "incident_date": "2019-05-06",
+      "location_details": "The incident occurred at the GRC-TUR border section. Specific coordinates are listed as 0.0, which is likely a placeholder or redaction.",
+      "where_clear": "Greece-Turkey border section",
+      "location_text_raw": "GRC-TUR border section",
+      "country_or_area": "Greece-Turkey border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Greece-Turkey border",
+      "lat": 0.0,
+      "lon": 0.0,
+      "uncertainty_note": "Coordinates are 0.0, likely a placeholder or redaction. The actual location is broadly defined as the GRC-TUR border section.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Alleged pushback",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "The incident involves an alleged pushback at the GRC-TUR border section.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Alleged pushback at the GRC-TUR border section",
+      "confidence": "medium",
+      "evidence_pages": [
+        1
+      ]
+    },
+    {
+      "sir_id": "10025/2019",
+      "report_date": "2019-04-08",
+      "incident_date": "2019-04-08",
+      "location_details": "The incident involves multiple locations: a detection centre, movements towards the Serbia border, transport from Istanbul to the border with Greece, apprehension by Greek Police on the Greek side, transfer to a Police Station, and eventually being taken to a river bank and then to Turkish territory. Specific coordinates are listed as 0.0, likely a placeholder or redaction.",
+      "where_clear": "Multiple locations including a detection center, Greek-Turkish border, and a river bank, with movements between Greece and Turkey.",
+      "location_text_raw": "detection centre, GRC-TUR border, Serbia border, Istanbul, Greece, Greek Police, river bank of the river, Turkish territory",
+      "country_or_area": "Greece, Turkey, Serbia (border area), Istanbul",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": 0.0,
+      "lon": 0.0,
+      "uncertainty_note": "Coordinates are 0.0, likely a placeholder or redaction. The incident spans multiple locations and countries, making a single precise location impossible to determine from the provided text.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Alleged Fundamental Right violation reported by an Afghan male migrant",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "An Afghan male migrant reported an alleged Fundamental Right violation. The narrative describes apprehension by Greek Police, confiscation of mobile phones without protocol, lack of registration at a Police Station, and subsequent transfer to Turkish territory after being taken to a river bank.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Alleged Fundamental Right violation reported by an Afghan male migrant",
+      "confidence": "low",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

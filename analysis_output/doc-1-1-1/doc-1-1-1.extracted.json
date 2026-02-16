@@ -1,0 +1,73 @@
+{
+  "source_file": "pdfs/doc-1-1-1/doc-1-1-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-16T16:05:21.661537+00:00",
+  "records": [
+    {
+      "sir_id": "11022/2020",
+      "report_date": "2020-04-13",
+      "incident_date": "2020-04-10",
+      "location_details": null,
+      "where_clear": "Central Mediterranean Sea, off Malta's coast",
+      "location_text_raw": "Latitude: 33.420278, Longitude: 14.616667",
+      "country_or_area": "Central Mediterranean Sea",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "33.420278, 14.616667",
+      "lat": 33.420278,
+      "lon": 14.616667,
+      "uncertainty_note": null,
+      "dead_confirmed": 5,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "Four migrant boats reported to Rescue Coordination Centres in the Central Mediterranean, including RCC Libya and MRCC Tunis. A magisterial inquiry cleared the Maltese Prime Minister and involved parties of criminal wrongdoing regarding the death of 5 migrants off Malta's coast.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "death of 5 migrants off Malta's coast.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "10240/2016",
+      "report_date": "2016-06-13",
+      "incident_date": "2016-06-11",
+      "location_details": "At/around maritime border line between Turkey and Greece",
+      "where_clear": "Maritime border between Turkey and Greece, Aegean Sea",
+      "location_text_raw": "At/around maritime border line between Turkey and Greece",
+      "country_or_area": "Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "maritime border Turkey Greece Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact coordinates are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "61 migrants on a rubber boat were intercepted at the maritime border between Turkey and Greece and subsequently transhipped to a Turkish Warship P 1201.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The 61 migrants on board of the rubber boat were transhipped to the deck of the Text Removed - Technical Equipment by its Text Removed - Reporting Tools with the assistance of Text Removed - Technical Equipment. At about Text Removed - Reporting Tools the 61 migrants on board of the Text Removed - Technical Equipment were transhipped to the TUR Warship P 1201.",
+      "confidence": "high",
+      "evidence_pages": [
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 5,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

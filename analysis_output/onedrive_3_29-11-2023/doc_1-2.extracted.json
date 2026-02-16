@@ -1,0 +1,46 @@
+{
+  "source_file": "pdfs/onedrive_3_29-11-2023/doc_1-2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-16T16:07:41.886429+00:00",
+  "records": [
+    {
+      "sir_id": "11695/2023",
+      "report_date": "2023-04-29",
+      "incident_date": "2023-04-22",
+      "location_details": "The incident started in Greek territorial waters near Lesvos island, where a migrant boat was intercepted by a Frontex vessel. The boat then headed towards the Turkish coast, with a handover to HCG near the border line between Türkiye and Greece, and eventually migrants were apprehended by the Turkish Coast Guard in Turkish territorial waters off Çanakkale's Ayvacık district.",
+      "where_clear": "Sea area north of Lesvos island, near the border line between Greece and Türkiye, off Çanakkale's Ayvacık district.",
+      "location_text_raw": "near Lesvos; near Çanakkale's Ayvacık district; sea area north of Lesvos island. inside Turkish territorial waters; approx. half-way between the border line and the Greek coast; heading north towards Türkiye; inside Greek territorial waters; borderline between Türkiye and Greece; Greek territorial waters; Turkish territorial waters; Greek waters.",
+      "country_or_area": "Aegean Sea (Greece/Türkiye border area), Lesvos island, Çanakkale's Ayvacık district",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Sea area north of Lesvos island, Aegean Sea, near Çanakkale's Ayvacık district",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The incident involved movement across Greek and Turkish territorial waters and a handover at the border line, making a single precise coordinate impossible without more specific data.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "The Fundamental Rights Office investigated an incident involving a migrant boat detected in Greek territorial waters near Lesvos, intercepted by a Frontex vessel, and subsequently handed over to the Hellenic Coast Guard near the border with Türkiye, eventually leading to apprehension by the Turkish Coast Guard. Allegations of ill-treatment, engine damage, and use of weapons were disproven, and no fundamental rights violations were found to have occurred by Frontex or HCG personnel.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Office established with certainty that the migrant boat was intercepted by the Frontex vessel in Greek territorial waters. The migrant boat subsequently turned and headed back to Türkiye by its own means, being followed by the Frontex vessel. The Hellenic Coast Guard took over the migrant boat from the Frontex vessel near the border line. The Greek officials instructed the Frontex vessel to leave the scene and continue patrolling. The migrant boat was few minutes later picked up by the Turkish Coast Guard from Turkish territorial waters.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

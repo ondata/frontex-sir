@@ -1,15 +1,15 @@
 {
   "source_file": "pdfs/15910_2023-final-sir-cat-12/15910_2023-final-sir-cat.-12.pdf",
   "model": "gemini-2.5-flash",
-  "generated_at_utc": "2026-02-15T09:07:53.949642+00:00",
+  "generated_at_utc": "2026-02-16T16:01:35.141141+00:00",
   "records": [
     {
       "sir_id": "15910/2023",
       "report_date": "2024-07-08",
       "incident_date": "2023-09-21",
-      "location_details": "Registration activities in a Reception Center during Joint Operation Ledra 2023 in Cyprus.",
-      "where_clear": "Reception Center in Cyprus",
-      "location_text_raw": "Joint Operation (JO) Ledra 2023, [REDACTED] Reception Center",
+      "location_details": "Registration activities at a Reception Center in the context of Joint Operation Ledra 2023.",
+      "where_clear": "Reception Center, Joint Operation Ledra, Cyprus",
+      "location_text_raw": "registration activities performed by Frontex in Joint Operation (JO) Ledra 2023",
       "country_or_area": "Cyprus",
       "location_type": "facility",
       "precision_level": "approximate",
@@ -17,16 +17,38 @@
       "geocodable_query": null,
       "lat": null,
       "lon": null,
-      "uncertainty_note": "Specific reception center name is redacted. Location is identified as a reception center in Cyprus during JO Ledra 2023.",
+      "uncertainty_note": "Specific name of the reception center is redacted.",
       "dead_confirmed": 0,
       "injured_confirmed": 0,
       "missing_confirmed": 0,
       "dead_possible_min": 0,
       "dead_possible_max": 0,
-      "context_note": "Two incidents reported: on 21/09/2023, a Frontex officer forced a female to remove her hijab; on 29/09/2023, the same officer allegedly forced another female to remove her hijab and coerced her by threatening return to country of origin. The officer denied the threat but admitted to asking for full hijab removal based on informal instructions and language barriers might have led to misunderstanding.",
+      "possible_violations": [
+        {
+          "violation_name": "Freedom of thought, conscience and religion",
+          "legal_basis": "Article 10 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Non-discrimination",
+          "legal_basis": "Article 21 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Respect for private and family life",
+          "legal_basis": "Article 7 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Coercion/Threats",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Two incidents reported where a Frontex officer allegedly forced female migrants to remove their hijab during facial image taking for registration. In the second incident, a threat of return to country of origin was also alleged. The officer denied direct threats but admitted to using imprecise language. Lack of training and interpreter availability were identified as contributing factors. Cypriot authorities confirmed retaking a photo for one incident where the migrant's hijab was removed.",
       "libyan_coast_guard_involved": false,
-      "evidence_quote": "It was reported that during the procedure of taking facial images in the context of the registration activities performed by Frontex in Joint Operation (JO) Ledra 2023, on 21/09/2023, a Frontex officer forced a female to remove her hijab¹. Similarly, on 29/09/2023, the same Frontex officer performing the same activity allegedly forced another female to remove her hijab and coerced her into compliance by threatening her that she would be returned to her country of origin, if she did not take off the hijab.",
-      "confidence": "high",
+      "evidence_quote": "a Frontex officer forced a female to remove her hijab",
+      "confidence": "medium",
       "evidence_pages": [
         1,
         2,
@@ -37,6 +59,8 @@
         7,
         8,
         9,
+        10,
+        11,
         12
       ]
     }

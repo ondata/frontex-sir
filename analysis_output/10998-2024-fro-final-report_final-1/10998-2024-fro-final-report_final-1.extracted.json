@@ -1,37 +1,58 @@
 {
   "source_file": "pdfs/10998-2024-fro-final-report_final-1/10998-2024-fro-final-report_final-1.pdf",
   "model": "gemini-2.5-flash",
-  "generated_at_utc": "2026-02-14T17:52:58.537640+00:00",
+  "generated_at_utc": "2026-02-16T15:45:15.960373+00:00",
   "records": [
     {
       "sir_id": "10998/2024",
       "report_date": "2024-08-22",
       "incident_date": "2024-02-19",
-      "location_details": "South of Lesvos in Greek territorial waters, near coordinates 38.887833, 26.446500. Other reported locations for potentially matching incidents include Lesvos island inside Turkish TTW at 38.8, 26.438333 and 38.773333, 26.438333, and southeast of Plomari, Lesvos south, 8.35 km from shoreline.",
+      "location_details": "Information from an NGO about a migrant boat in distress south of Lesvos in Greek territorial waters. NGO posted additional coordinates (38.887833, 26.446500). Turkish Coast Guard rescue records indicate 10:55 am LT off the coast of İzmir's Karaburun district. NGO later published a more detailed version stating the boat was in distress 'deep inside Greek waters, southeast of Plomari, Lesvos south' at first light on 19/02/2024, 8.35 km distance from the shoreline of Lesvos. Greek authorities reported two incidents at 38° 48' 00\" N 026° 26' 18\" E and 38° 46' 24\" N, 026° 26' 18\" E, both 'Lesvos island inside Turkish TTW'.",
       "where_clear": "South of Lesvos, Aegean Sea",
-      "location_text_raw": "south of Lesvos in Greek territorial waters ... additional coordinates (38.887833, 26.446500)",
-      "country_or_area": "Lesvos island, Aegean Sea, Greece/Turkey maritime border",
+      "location_text_raw": "south of Lesvos in Greek territorial waters",
+      "country_or_area": "Aegean Sea, Lesvos",
       "location_type": "sea",
-      "precision_level": "exact",
+      "precision_level": "approximate",
       "geocodable": "yes",
-      "geocodable_query": "38.887833, 26.446500",
+      "geocodable_query": "38.887833, 26.446500 south of Lesvos",
       "lat": 38.887833,
       "lon": 26.4465,
-      "uncertainty_note": "Multiple slightly different coordinates and descriptions are provided for the same incident, all in the general area south of Lesvos, near the Greek/Turkish maritime border. The chosen coordinates are from the NGO's initial report.",
+      "uncertainty_note": "Multiple coordinates provided by different sources (NGO, Greek authorities) with slight variations. The exact point of the alleged incident is not definitively confirmed, but the general area is consistent.",
       "dead_confirmed": null,
       "injured_confirmed": null,
       "missing_confirmed": null,
       "dead_possible_min": null,
       "dead_possible_max": null,
-      "context_note": "A migrant boat with approximately 50 individuals (men, women, several children) was in distress. A Frontex vessel (Bulgarian asset) was identified in the vicinity. Allegations by an NGO include the Hellenic Coast Guard towing the migrant boat to Turkish waters, destroying its engine, and confiscating phones. The FRO notes that the alleged modus operandi is consistent with previously highlighted HCG practices.",
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office established that Frontex encountered the migrant boat but could not verify the timeline of events preceding the rescue by the Turkish Coast Guard. The alleged modus operandi (engine destruction, towing to Turkish waters) is consistent with previously highlighted practices of the Hellenic Coast Guard. Concerns were raised about incomplete Frontex operational reporting and insufficient cooperation from Greek authorities. Recommendations were made to both Frontex and Greek authorities to improve reporting, safeguards, and investigation of fundamental rights violations.",
       "libyan_coast_guard_involved": false,
-      "evidence_quote": "On 19/02/2024, the Fundamental Rights Office received information from an NGO about a migrant boat in distress south of Lesvos along with videos taken by the migrants. The same day, the NGO posted on X and Facebook additional coordinates (38.887833, 26.446500).",
+      "evidence_quote": "Based on the available information, the Fundamental Rights Office has established that Frontex encountered the migrant boat in question and considers likely that this encounter happened in the morning hours of 19/02/2024",
       "confidence": "high",
       "evidence_pages": [
         1,
         2,
+        3,
         4,
-        6
+        5,
+        6,
+        7,
+        8
       ]
     }
   ],

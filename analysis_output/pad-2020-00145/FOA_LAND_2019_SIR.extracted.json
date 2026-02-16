@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2020-00145/FOA_LAND_2019_SIR.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-16T17:04:06.483657+00:00",
+  "records": [
+    {
+      "sir_id": "10071/2020",
+      "report_date": "2020-01-09",
+      "incident_date": "2020-01-08",
+      "location_details": "Dead body found in Evros River. Hellenic Police Officers detected a dead body (male), age between 20-25 years old in Evros Area.",
+      "where_clear": "Evros River area, Greece",
+      "location_text_raw": "Evros River / Evros Area",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Evros River area, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 1,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "On 08.01.2020 at 13:30 Hellenic Police Officers detected a dead body (male), age between 20-25 years old in Evros Area. No travel document found. Body transferred to Alexandroupolis hospital for autopsy to identify reason of death. The result of autopsy will be available in a follow-up SIR.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Dead body found in Evros River. Dead persons: 1. On 08.01.2020 at 13:30 Hellenic Police Officers of Text Removed - Justification 4, who were patrolling the operational area Text Removed - Justification 4, detected a dead body (male), age betwen 20-25 years old in Evros Area.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

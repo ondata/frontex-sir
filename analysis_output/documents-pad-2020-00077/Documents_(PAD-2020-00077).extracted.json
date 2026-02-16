@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/documents-pad-2020-00077/Documents_(PAD-2020-00077).pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-16T16:06:06.850863+00:00",
+  "records": [
+    {
+      "sir_id": "10175/2017",
+      "report_date": "2017-05-13",
+      "incident_date": "2017-05-12",
+      "location_details": "The incident occurred in RIC Pyli, a Reception and Identification Centre on Kos island, Greece.",
+      "where_clear": "Reception and Identification Centre Pyli, Kos island, Greece",
+      "location_text_raw": "RIC Pyli",
+      "country_or_area": "Kos, Greece",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "RIC Pyli, Kos, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Sexual abuse of unaccompanied minor",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "An unaccompanied minor (13-year-old Pakistani) was sexually abused by an adult Pakistani migrant in the RIC Pyli. Initially, three adult Pakistani migrants were reported to be involved, with two binding the minor's hands. The alleged perpetrators were apprehended and transferred to the HP Station in Kos. The minor was to receive medical and psychological assistance.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Sexual abuse of PAK unaccompanied minor... in RIC Pyli 01 PAK UAM (13 year old) was rapped by an adult PAK migrant.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

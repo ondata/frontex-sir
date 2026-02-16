@@ -1,29 +1,46 @@
 {
   "source_file": "pdfs/10998-2024-fro-final-report_final/10998-2024-fro-final-report_final.pdf",
   "model": "gemini-2.5-flash",
-  "generated_at_utc": "2026-02-14T17:51:52.438599+00:00",
+  "generated_at_utc": "2026-02-16T15:44:01.265262+00:00",
   "records": [
     {
       "sir_id": "10998/2024",
       "report_date": "2024-08-22",
       "incident_date": "2024-02-19",
-      "location_details": "Migrant boat in distress south of Lesvos in Greek territorial waters, near coordinates 38.887833, 26.446500. Later identified off the coast of İzmir's Karaburun district after rescue by Turkish Coast Guard. Also mentioned as 'deep inside Greek waters, southeast of Plomari, Lesvos south' and 'Lesvos island inside Turkish TTW'.",
-      "where_clear": "South of Lesvos island, Aegean Sea",
-      "location_text_raw": "south of Lesvos in Greek territorial waters, additional coordinates (38.887833, 26.446500), off the coast of İzmir's Karaburun district, Lesvos island inside Turkish TTW, in pos 38° 48' 00\" N 026° 26' 18\" E, Lesvos island inside Turkish TTW, in pos 38° 46' 24\" N, 026° 26' 18\" E, deep inside Greek waters, southeast of Plomari, Lesvos south, 8.35 km distance from the shoreline of Lesvos, in the area Lesvos",
-      "country_or_area": "Aegean Sea (Greece/Turkey TTW)",
+      "location_details": "Information from an NGO about a migrant boat in distress south of Lesvos, in Greek territorial waters. NGO provided coordinates 38.887833, 26.446500. Turkish Coast Guard rescued migrants off the coast of İzmir's Karaburun district. Greek authorities reported two incidents with approximately 50 migrants each, at positions 38° 48' 00\" N 026° 26' 18\" E and 38° 46' 24\" N, 026° 26' 18\" E, in the sea area Lesvos island inside Turkish TTW. The NGO later claimed the boat was in distress 'deep inside Greek waters, southeast of Plomari, Lesvos south', 8.35 km from Lesvos shoreline. Frontex confirmed its vessel encountered the migrant boat in the area of Lesvos.",
+      "where_clear": "South of Lesvos, near Greek-Turkish maritime border, Aegean Sea.",
+      "location_text_raw": "south of Lesvos in Greek territorial waters, 38.887833, 26.446500",
+      "country_or_area": "Aegean Sea, Lesvos, Greek-Turkish maritime border, Turkey",
       "location_type": "sea",
-      "precision_level": "exact",
+      "precision_level": "approximate",
       "geocodable": "yes",
-      "geocodable_query": "38.887833, 26.446500",
+      "geocodable_query": "38.887833, 26.446500 Lesvos Aegean Sea",
       "lat": 38.887833,
       "lon": 26.4465,
-      "uncertainty_note": null,
+      "uncertainty_note": "The exact location of the alleged incident is described with multiple coordinates and textual descriptions, some of which are slightly different but all point to the same general area in the Aegean Sea near Lesvos and the Greek-Turkish maritime border. The rescue by Turkish Coast Guard occurred in Turkish waters, further complicating the precise incident location.",
       "dead_confirmed": null,
       "injured_confirmed": null,
       "missing_confirmed": null,
       "dead_possible_min": null,
       "dead_possible_max": null,
-      "context_note": "Migrant boat in distress with approximately 50 migrants on board. Allegedly towed to Turkish waters by Hellenic Coast Guard, engine destroyed, and phones confiscated. A Frontex vessel (Bulgarian asset) was confirmed to be in the vicinity. Migrants were eventually rescued by the Turkish Coast Guard.",
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "An NGO reported a migrant boat in distress with approximately 50 migrants on board. Videos showed a blue patrol vessel and a black inflatable boat in the vicinity. Frontex identified its vessel (a Bulgarian asset) as the one in the videos and confirmed an encounter with the migrant boat. The NGO alleged that a Hellenic Coast Guard vessel towed the migrant boat to Turkish waters, destroyed its engine, and confiscated phones. Frontex noted that the alleged modus operandi is consistent with practices highlighted in previous SIRs involving the Hellenic Coast Guard. Greek authorities denied the allegations and refused to provide detailed responses. Frontex noted reporting gaps from its own staff.",
       "libyan_coast_guard_involved": false,
       "evidence_quote": "On 19/02/2024, the Fundamental Rights Office received information from an NGO about a migrant boat in distress south of Lesvos along with videos taken by the migrants. The videos showed a blue patrol vessel in the vicinity and a seemingly black inflatable boat with two persons on board close to the migrant boat. The Fundamental Rights Office identified the migrant group in photographs taken during a rescue by the Turkish Coast Guard on 19/02/2024.",
       "confidence": "high",
@@ -34,7 +51,8 @@
         4,
         5,
         6,
-        7
+        7,
+        8
       ]
     }
   ],
