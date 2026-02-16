@@ -25,10 +25,54 @@ from pydantic import (
 
 
 Confidence = Literal["high", "medium", "low"]
+ViolationAssessment = Literal["likely", "possible", "unclear", "not_stated"]
 LocationType = Literal["sea", "land", "facility", "mixed", "unknown"]
 PrecisionLevel = Literal["exact", "approximate", "broad", "unknown"]
 Geocodable = Literal["yes", "no"]
 SIR_ID_PATTERN = re.compile(r"\b\d{5}/\d{4}\b")
+ANNUAL_REPORT_PATTERN = re.compile(
+    r"(?<![a-z0-9])annual[\s_-]*report(?=[^a-z0-9]|$)", flags=re.IGNORECASE
+)
+
+
+class PossibleViolation(BaseModel):
+    violation_name: str = Field(
+        min_length=1,
+        validation_alias=AliasChoices("violation_name", "name", "violazione"),
+    )
+    legal_basis: Optional[str] = None
+    assessment: ViolationAssessment = "not_stated"
+
+    @field_validator("assessment", mode="before")
+    @classmethod
+    def normalize_assessment(cls, value: object) -> str:
+        if value is None:
+            return "not_stated"
+
+        key = str(value).strip().lower()
+        key = re.sub(r"[\s\-]+", "_", key)
+        key = re.sub(r"[^\w_]", "", key)
+        mapping = {
+            "likely": "likely",
+            "plausible": "likely",
+            "probable": "likely",
+            "possible": "possible",
+            "unclear": "unclear",
+            "not_stated": "not_stated",
+            "notstated": "not_stated",
+            "unknown": "not_stated",
+            "none": "not_stated",
+            "null": "not_stated",
+            "na": "not_stated",
+            "n_a": "not_stated",
+            "non_specificato": "not_stated",
+            "non_specificata": "not_stated",
+            "non_indicato": "not_stated",
+            "non_indicata": "not_stated",
+        }
+        if key not in mapping:
+            raise ValueError(f"Invalid possible violation assessment: {value}")
+        return mapping[key]
 
 
 class SirRecord(BaseModel):
@@ -51,6 +95,14 @@ class SirRecord(BaseModel):
     missing_confirmed: Optional[int] = Field(default=None, ge=0)
     dead_possible_min: Optional[int] = Field(default=None, ge=0)
     dead_possible_max: Optional[int] = Field(default=None, ge=0)
+    possible_violations: list[PossibleViolation] = Field(
+        default_factory=list,
+        validation_alias=AliasChoices(
+            "possible_violations",
+            "possible_viollations",
+            "possible_violations_enquired",
+        ),
+    )
     context_note: Optional[str] = Field(
         default=None, validation_alias=AliasChoices("context_note", "note_contesto")
     )
@@ -233,6 +285,10 @@ def should_exclude(path: Path, patterns: list[str]) -> bool:
         if Path(s).match(pat) or Path(name).match(pat):
             return True
     return False
+
+
+def is_annual_report_pdf(path: Path) -> bool:
+    return bool(ANNUAL_REPORT_PATTERN.search(str(path)))
 
 
 def build_prompt(prompt_path: Path) -> str:
@@ -462,6 +518,8 @@ def write_summary(
         "missing_confirmed",
         "dead_possible_min",
         "dead_possible_max",
+        "possible_violations_count",
+        "possible_violations_json",
         "libyan_coast_guard_involved",
         "confidence",
         "evidence_pages",
@@ -475,6 +533,11 @@ def write_summary(
             row = row.copy()
             row["evidence_pages"] = ",".join(
                 str(x) for x in row.get("evidence_pages", [])
+            )
+            violations = row.pop("possible_violations", [])
+            row["possible_violations_count"] = len(violations)
+            row["possible_violations_json"] = json.dumps(
+                violations, ensure_ascii=False
             )
             writer.writerow(row)
 
@@ -546,6 +609,18 @@ def main() -> int:
         default=0,
         help="Process at most N new files requiring API calls (0 = no limit).",
     )
+    parser.add_argument(
+        "--skip-annual-reports",
+        action="store_true",
+        default=True,
+        help="Skip PDFs that appear to be annual reports by filename/path pattern (default: on).",
+    )
+    parser.add_argument(
+        "--no-skip-annual-reports",
+        dest="skip_annual_reports",
+        action="store_false",
+        help="Do not skip annual report PDFs.",
+    )
     args = parser.parse_args()
 
     if args.max_new_files < 0:
@@ -591,6 +666,7 @@ def main() -> int:
     total_dead_possible_max = 0
     total_records_invalid_skipped = 0
     files_skipped_by_limit = 0
+    files_skipped_annual_report = 0
     api_calls_made = 0
     groups_with_work = 0
     limit_reached = False
@@ -624,9 +700,16 @@ def main() -> int:
         group_dead_possible_min = 0
         group_dead_possible_max = 0
         group_records_invalid_skipped = 0
+        group_files_skipped_annual_report = 0
         group_had_activity = False
 
         for pdf_file in group_targets:
+            if args.skip_annual_reports and is_annual_report_pdf(pdf_file):
+                print(f"[SKIP ANNUAL REPORT] {pdf_file}")
+                files_skipped_annual_report += 1
+                group_files_skipped_annual_report += 1
+                continue
+
             group_out_json = group_out_dir / f"{pdf_file.stem}.extracted.json"
             needs_api_call = not (args.skip_existing and group_out_json.exists())
 
@@ -706,6 +789,7 @@ def main() -> int:
             "dead_possible_total_min": group_dead_possible_min,
             "dead_possible_total_max": group_dead_possible_max,
             "records_invalid_skipped": group_records_invalid_skipped,
+            "files_skipped_annual_report": group_files_skipped_annual_report,
             "files_skipped_by_limit": 0,
         }
         groups_with_work += 1
@@ -743,6 +827,7 @@ def main() -> int:
         "dead_possible_total_min": total_dead_possible_min,
         "dead_possible_total_max": total_dead_possible_max,
         "records_invalid_skipped": total_records_invalid_skipped,
+        "files_skipped_annual_report": files_skipped_annual_report,
         "files_skipped_by_limit": files_skipped_by_limit,
     }
 
