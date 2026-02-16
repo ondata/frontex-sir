@@ -1,5 +1,11 @@
 # LOG
 
+## 2026-02-16
+
+- Creato `docs/PRD.md` dedotto dallo stato reale del progetto (obiettivi, scope, requisiti, metriche, rischi, DoD)
+- Creati `docs/tasks/open.md` e `docs/tasks/in-progress.md` per avviare la gestione operativa del backlog
+- Creato `docs/phases/phases.md` con fase corrente, milestone e baseline numerica (96 documenti, 418 PDF, 29 estratti)
+
 ## 2026-02-15
 
 - Aggiunta modalità incrementale `--max-new-files N` a `extract_sir_pdf_gemini.py`: processa N PDF nuovi per run, salta già estratti, non scrive summary parziali
