@@ -29,6 +29,13 @@ Restituisci SOLO JSON valido, senza markdown, con questa struttura:
       "missing_confirmed": 0 or null,
       "dead_possible_min": 0 or null,
       "dead_possible_max": 0 or null,
+      "possible_violations": [
+        {
+          "violation_name": "string",
+          "legal_basis": "string or null",
+          "assessment": "likely|possible|unclear|not_stated"
+        }
+      ],
       "context_note": "string or null",
       "libyan_coast_guard_involved": true or false or null,
       "evidence_quote": "short quote from the document",
@@ -55,6 +62,10 @@ Regole:
 - Se coordinate esplicite sono presenti in gradi decimali, riporta solo numeri decimali (es. `35.12345`, `24.98765`).
 - Non usare formati con `N/E/S/W`, simboli di grado o stringhe testuali nelle coordinate.
 - Se le coordinate non sono in decimali o non sono chiaramente convertibili, usa `lat=null` e `lon=null`.
+- Se il report contiene la sezione "Possible violation(s) of fundamental rights enquired", estrai OGNI voce in `possible_violations` come elemento separato.
+- `possible_violations` deve essere `[]` se la sezione non e presente.
+- `assessment` in `possible_violations` deve essere normalizzato a: `likely|possible|unclear|not_stated`.
+- Se non c'e valutazione esplicita per una voce, usa `not_stated`.
 
 Rubrica confidence (stretta):
 - high: luogo esplicito e chiaramente identificabile (o area marittima ben delimitata) con evidenza testuale diretta.
