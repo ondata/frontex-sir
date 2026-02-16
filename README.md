@@ -13,6 +13,7 @@ Non devi programmare: il flusso base è in 2 comandi.
    - date
    - luogo (descrizione chiara + granularità)
    - geocodificabilità (`yes/no`) e query suggerita
+   - possibili violazioni dei diritti fondamentali (array strutturato per SIR)
    - morti/feriti/dispersi (confermati o possibili)
    - citazione testuale di evidenza
    - pagine del PDF usate come fonte
@@ -85,6 +86,9 @@ Lo script `extract_sir_pdf_gemini.py` salta automaticamente:
 2. **Singolo file già processato**  
    Se trova `<nomefile>.extracted.json`, salta quel PDF.
 
+3. **Annual report (non-SIR)**  
+   Se il path/nome del PDF contiene pattern tipo `annual_report` / `annual-report` / `annual report`, il file viene saltato prima della chiamata API.
+
 Se vuoi forzare la riesecuzione:
 
 ```bash
@@ -106,7 +110,7 @@ Questo approccio è utile anche per PDF senza testo OCR incorporato.
 
 Il prompt inviato a Gemini insieme al PDF è in [`prompts/extract_sir.txt`](prompts/extract_sir.txt).
 
-Contiene: schema JSON atteso, regole di estrazione, rubrica per il campo `confidence`, regole per `geocodable` e coordinate.
+Contiene: schema JSON atteso, regole di estrazione, rubrica per il campo `confidence`, regole per `geocodable` e coordinate, ed estrazione di `possible_violations`.
 
 ## Esempio di output: summary_totals.json
 
@@ -315,7 +319,7 @@ Opzioni:
 
 Legge ogni PDF con Gemini e produce dati strutturati in JSON e CSV.
 
-Carica il PDF su Gemini File API, invia il prompt di estrazione, valida la risposta con Pydantic e scrive un `.extracted.json` per ogni PDF più file di riepilogo per cartella e globali.
+Carica il PDF su Gemini File API, invia il prompt di estrazione, valida la risposta con Pydantic e scrive un `.extracted.json` per ogni PDF. Nei run completi (non incrementali) scrive anche i file di riepilogo per cartella e globali.
 
 ```bash
 source .venv/bin/activate
@@ -334,6 +338,9 @@ python3 extract_sir_pdf_gemini.py pdfs --prompt-path prompts/extract_sir_v2.txt
 
 # Batch incrementale: processa al massimo 5 nuovi PDF per run (senza rifare i già fatti)
 python3 extract_sir_pdf_gemini.py pdfs --output-dir analysis_output --max-new-files 5
+
+# Comando base consigliato: 20 PDF per volta (senza summary globali/parziali)
+python3 extract_sir_pdf_gemini.py pdfs --output-dir analysis_output --max-new-files 20
 ```
 
 Opzioni principali:
@@ -348,6 +355,7 @@ Opzioni principali:
 | `--min-seconds-between-calls N` | Pausa tra chiamate API (default: 4s) |
 | `--max-new-files N` | Processa al massimo N nuovi file per esecuzione (0 = nessun limite) |
 | `--no-skip-completed-groups` | Non saltare cartelle con `summary.csv` (utile per batch incrementali) |
+| `--no-skip-annual-reports` | Non saltare i PDF annual report (default: vengono saltati) |
 
 Nota: quando usi `--max-new-files`, lo script lavora in modalità incrementale:
 - processa solo file nuovi (non già estratti);
