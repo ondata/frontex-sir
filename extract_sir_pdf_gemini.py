@@ -486,13 +486,25 @@ def process_file(
     uploaded = upload_pdf(client, pdf_file)
     try:
         raw_json = call_gemini(client, model, uploaded, prompt)
+        records, records_invalid_skipped = parse_valid_sir_records(raw_json, pdf_file)
+        if not records:
+            retry_prompt = (
+                prompt
+                + "\n\nNOTA: il tentativo precedente non ha trovato SIR. "
+                "Ricontrolla con attenzione: il documento potrebbe contenere SIR con ID "
+                "solo numerico (es. 'no. 911') o senza numero. "
+                "Se esistono blocchi 'Serious Incident Report', estraili."
+            )
+            print(f"  [RETRY EMPTY] {pdf_file.name} — second attempt")
+            raw_json2 = call_gemini(client, model, uploaded, retry_prompt)
+            records2, skipped2 = parse_valid_sir_records(raw_json2, pdf_file)
+            if records2:
+                raw_json, records, records_invalid_skipped = raw_json2, records2, skipped2
     finally:
         try:
             client.files.delete(name=uploaded.name)
         except Exception:
             pass
-
-    records, records_invalid_skipped = parse_valid_sir_records(raw_json, pdf_file)
     result = BatchOutput(
         source_file=str(pdf_file),
         model=model,
