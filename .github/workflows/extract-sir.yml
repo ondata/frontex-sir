@@ -1,0 +1,45 @@
+name: Extract SIR
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_new_files:
+        description: "Max PDFs to process (0 = all unprocessed)"
+        required: false
+        default: "10"
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout with LFS
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Extract SIR from PDFs
+        run: |
+          python3 extract_sir_pdf_gemini.py pdfs \
+            --output-dir analysis_output \
+            --max-new-files ${{ github.event.inputs.max_new_files }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add analysis_output/
+          git diff --cached --quiet || git commit -m "auto: extract SIR batch (max=${{ github.event.inputs.max_new_files }})"
+          git push
