@@ -1,0 +1,65 @@
+{
+  "source_file": "pdfs/pad-2025-00371/11538_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:21:24.858328+00:00",
+  "records": [
+    {
+      "sir_id": "11538/2022",
+      "report_date": null,
+      "incident_date": "2022-04-09",
+      "location_details": "Four migrants were intercepted by Lithuanian border guards and Frontex Standing Corps Officers after crossing the border from Belarus into Lithuanian territory, near a Frontier Station. They were subsequently removed from Lithuanian territory and sent back to Belarus.",
+      "where_clear": "Lithuanian-Belarusian border area",
+      "location_text_raw": "Lithuanian territory",
+      "country_or_area": "Lithuania",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Lithuanian-Belarusian border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 3 of the European Convention on Human Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol 4 to the European Convention on Human Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "art. 19 (2) of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "On 9 April 2022, four migrants were intercepted by Lithuanian border guards and Frontex Standing Corps Officers after crossing the border from Belarus into Lithuanian territory. Despite having been granted interim measures by the European Court of Human Rights, the migrants were removed from Lithuanian territory and sent back to Belarus. They were later detained again in Lithuania on April 13, 2022, and allowed to apply for asylum.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 09 April 2022, four migrants of personal data nationalities were removed from the Lithuanian territory and sent back to Belarus by Lithuanian border guards in application of para. 2 and 3 of Decision No. 10V-20 despite having been granted interim measures by the European Court of Human Rights.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

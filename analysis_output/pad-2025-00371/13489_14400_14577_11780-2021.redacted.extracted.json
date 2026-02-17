@@ -1,0 +1,176 @@
+{
+  "source_file": "pdfs/pad-2025-00371/13489_14400_14577_11780-2021.redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:33:05.089522+00:00",
+  "records": [
+    {
+      "sir_id": "13489/2021",
+      "report_date": "2022-10-28",
+      "incident_date": "2021-09-15",
+      "location_details": "Frontex Surveillance Aircraft Heron 1 detected a blue wooden boat at [redacted] with 20+ migrants on board in the Libyan Search and Rescue Region. The boat had one engine and was travelling with 6kts and course 360°. A LBY PV was in vicinity.",
+      "where_clear": "Libyan Search and Rescue Region (SRR)",
+      "location_text_raw": "Libyan Search and Rescue Region (SRR)",
+      "country_or_area": "Libyan SRR",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates redacted, only broad SRR mentioned.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to integrity of the person",
+          "legal_basis": "Article 3 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "The obligation to conduct rescue operations in accordance with international human rights standards and maritime law obligations",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Frontex Surveillance Aircraft recorded the Libyan Coast Guard shooting at migrants during a search and rescue operation. Excessive force was used by Libyan authorities, violating fundamental rights. Concern about safety of rescued migrants upon disembarkation in Libya, which is not considered a place of safety.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "Frontex Surveillance Aircraft recorded the Libyan Coast Guard shooting at migrants during a search and rescue operation conducted in the Libyan Search and Rescue Region (SRR) on 15/09/2021.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "sir_id": "14400/2021",
+      "report_date": "2022-10-28",
+      "incident_date": "2021-11-16",
+      "location_details": "Heron 1 spotted a white wooden boat adrift with 100+ migrants on board inside the Libyan search and rescue zone, after having received respective information by the Italian Search and Rescue (SAR) expert on a possible overcrowded migrant boat in distress and people in the water. Three Mayday calls were broadcasted on maritime CH16 by Heron 1. Migrants were rescued by the NGO Geo Barents and disembarked in Messina port (IT). Reportedly, 10 people were found dead at the bottom of the boat.",
+      "where_clear": "Libyan search and rescue zone, disembarkation in Messina port (Italy)",
+      "location_text_raw": "Libyan search and rescue zone",
+      "country_or_area": "Libyan SRR, Messina (Italy)",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Libyan Search and Rescue Region, Messina, Italy",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Incident location is broad (Libyan SRR), specific coordinates not provided. Disembarkation port is exact.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 10,
+      "dead_possible_max": 10,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to integrity of the person",
+          "legal_basis": "Article 3 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Frontex aircraft detected a migrant boat in distress in the Libyan SRR. NGO Geo Barents rescued migrants, 10 people reportedly found dead. FRO could not conclusively establish the cause of death. Frontex acted in line with procedures, but communication/coordination with MRCCs was lacking.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "On 16 November 2021 at 10:41 UTC, Heron 1 spotted a white wooden boat adrift with 100+ migrants on board inside the Libyan search and rescue zone... Reportedly, 10 people were found dead at the bottom of the boat.",
+      "confidence": "high",
+      "evidence_pages": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "sir_id": "14577/2021",
+      "report_date": "2022-10-20",
+      "incident_date": "2021-11-24",
+      "location_details": "Alarm Phone alleged that the Libyan Coast Guard was shooting at migrants during a search and rescue operation in the Maltese Search and Rescue Region (SRR) on 24/11/2021. Frontex Heron 1 detected a blue wooden boat at [redacted] (Libyan SAR zone) and later at [redacted] (Maltese SAR) with a Libyan PV approximately 4 NM away.",
+      "where_clear": "Maltese Search and Rescue Region (SRR) and Libyan SAR zone",
+      "location_text_raw": "Maltese Search and Rescue Region (SRR)",
+      "country_or_area": "Maltese SRR, Libyan SRR",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates redacted, only broad SRRs mentioned. Frontex asset did not witness the alleged shooting.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to integrity of the person",
+          "legal_basis": "Article 3 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union, Article 7 of the International Covenant on Civil and Political Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Obligation to conduct rescue operations in accordance with international human rights standards and maritime law obligations, including disembarkation in a place of safety (SAR and SOLAS Conventions)",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Alarm Phone alleged Libyan Coast Guard shooting at migrants in Maltese SRR. Frontex asset sighted a migrant boat in the area but did not witness any Libyan intervention, so the incident could not be corroborated using internal data. FRO expresses concern about similar incidents and disembarkation in Libya.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "Alarm Phone alleged that the Libyan Coast Guard was shooting at migrants during a search and rescue operation in the Maltese Search and Rescue Region (SRR) on 24/11/2021.",
+      "confidence": "medium",
+      "evidence_pages": [
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 10,
+  "dead_possible_total_max": 10,
+  "records_invalid_skipped": 1
+}

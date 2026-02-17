@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/sir-10553-1/SIR_10553.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:52:37.661277+00:00",
+  "records": [
+    {
+      "sir_id": "10533/2020",
+      "report_date": "2020-02-21",
+      "incident_date": "2020-02-19",
+      "location_details": "Alexandroupolis, Nomós Évrou, Greece. Latitude: 40.8475000000, Longitude: 25.8744444444. Reference to the operational area: No.",
+      "where_clear": "Alexandroupolis, Nomós Évrou, Greece",
+      "location_text_raw": "Alexandroupolis, Nomós Évrou, Greece",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Alexandroupolis, Nomós Évrou, Greece",
+      "lat": 40.8475,
+      "lon": 25.8744444444,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": 1,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "During patrol activity on 20th of February 2020, one of the crew members, while attempting to take a towing rubber boat, slid off the stairs and injured his right leg knee. In the morning, the knee was swollen and an x-ray was taken during the hospital examination and nothing was broken, but according to the doctor, there was a possibility that the ligaments had stretched. A more detailed diagnosis would be given after 7 days of rest and cooling of the knee. In the morning, the knee was swollen and an x-ray was taken during the hospital examination and nothing was broken, but according to the doctor, there was a possibility that the ligaments had stretched.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "one of the crew members, while attempting to take a towing rubber boat, slid off the stairs and injured his right leg knee.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

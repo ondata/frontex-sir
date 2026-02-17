@@ -1,0 +1,65 @@
+{
+  "source_file": "pdfs/pad-2025-00371/14717-2021.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:36:57.612342+00:00",
+  "records": [
+    {
+      "sir_id": "14717/2021",
+      "report_date": "2021-12-13",
+      "incident_date": "2021-08-05",
+      "location_details": null,
+      "where_clear": "Samos island, Greece",
+      "location_text_raw": "Sámos, Greece",
+      "country_or_area": "Greece (Samos island)",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Samos island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact location on Samos island and subsequent journey points are redacted or not precisely specified.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Violation of Fundamental Rights or international protection obligations",
+          "legal_basis": "EU and international law, human dignity, principle of non-refoulement, prohibition of collective expulsion",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Lack of access to an effective remedy",
+          "legal_basis": "Article 47 of the EU Charter",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "The incident involves allegations of a 'pushback' operation by the Hellenic Coast Guard, where migrants were allegedly apprehended on a small island near Samos, transported by various boats, and ultimately transferred to a Turkish boat. The report highlights potential violations of fundamental rights, including collective expulsion, degrading treatment, and lack of effective remedy, despite national authorities stating no evidence to corroborate the allegations. FRO emphasizes the risks in such incidents and recommends actions for Hellenic authorities and Frontex regarding transparency, training, safeguards, and potential deployment of Fundamental Rights Monitors.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The incident involves allegations on so called „pushback\" of migrants conducted by the Hellenic Coast Guard to the border with Turkey without taking into consideration the personal circumstances of people present on board.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,69 @@
+{
+  "source_file": "pdfs/pad-2025-00419/11008-2021_NF_red_dp_BG_3F_mp_print.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:37:16.650964+00:00",
+  "records": [
+    {
+      "sir_id": "11008/2021",
+      "report_date": "2021-03-27",
+      "incident_date": "2021-03-24",
+      "location_details": "Andalusia, Spain. Migrants screened in Almeria. Alleged beating in San Jose (Almeria).",
+      "where_clear": "San Jose, Almeria, Andalusia, Spain",
+      "location_text_raw": "Andalusia, Spain; Almeria; San Jose (Almeria)",
+      "country_or_area": "Spain",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "San Jose, Almeria, Spain",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 2,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Integrity",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of torture and inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "Article 47 of the EU Charter",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "5 Algerian migrants arrived in Spain by boat. Two presented visible signs of violence during screening in Almeria. One had a bruise around his left eye, no explanation given. The second reported being beaten by Guardia Civil personnel in San Jose (Almeria), showing dry blood on face/ears and difficulty walking. The migrant refused to file a complaint. FRO considers the alleged facts could amount to serious breaches of fundamental rights and degrading treatment, but also notes that the information provided by Spanish authorities was not sufficient to corroborate or refute the allegations, leading to the recommendation for closure of the SIR.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The second one (he could barely walk and had dry blood on his face and ears) reported to be beaten by Guardia Civil personnel in San Jose (Almeria);",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 2,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

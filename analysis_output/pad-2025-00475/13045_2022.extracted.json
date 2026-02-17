@@ -1,0 +1,67 @@
+{
+  "source_file": "pdfs/pad-2025-00475/13045_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:49:53.327079+00:00",
+  "records": [
+    {
+      "sir_id": "13045/2022",
+      "report_date": "2023-01-11",
+      "incident_date": "2022-06-05",
+      "location_details": "The incident occurred inside the Libyan Search and Rescue Region (SRR) and later the boat was updated to be in the Maltese SRR. The boat departed from Libya.",
+      "where_clear": "Sea area within Libyan and Maltese Search and Rescue Regions",
+      "location_text_raw": "inside the Libyan Search and Rescue Region (SRR) according to initial estimates. Frontex unmanned aerial aircraft updated the position of the boat in the Maltese SRR.",
+      "country_or_area": "Libyan SRR, Maltese SRR",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Libyan Search and Rescue Region, Maltese Search and Rescue Region",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The boat was initially reported in Libyan SRR, then updated to be in Maltese SRR, making the exact location within these broad areas uncertain.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights and Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of refoulment and the protection in the event of removal, expulsion or extradition",
+          "legal_basis": "Article 19(2) of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Based on video footage, the Fundamental Rights Office (FRO) could not assess sea or boat conditions to determine if the migrant boat was in need of assistance. However, FRO concluded the boat departed from Libya, was in the Maltese SRR, and some migrants rescued by the Libyan vessel were victims of ill-treatment by crew members. FRO acknowledges Frontex's contribution to SAR but underlines the importance of balancing saving lives with the risk of interacting with third-country authorities with poor human rights records, which could lead to disembarkation in unsafe ports like Libya. FRO notes similar cases of abuse by the Libyan Coast Guard in previous SIRs and suggests that information sharing could be indirect involvement in refoulement practices, with legal and reputational risks. FRO expresses concern at instances of violence recorded by Frontex surveillance aircraft, confirming two migrants were ill-treated by at least three crew members onboard the Libyan vessel, which may violate human dignity and prohibition of inhuman/degrading treatment.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "Frontex surveillance aircraft observed the onboarding of the migrants for approximately 20 minutes and reported instances of violence against two (2) migrants by at least three (3) crew members of the Libyan vessel",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

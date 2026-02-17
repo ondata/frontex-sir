@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2025-00419/12350-2021_NF3_red_dp_BG_3F_mp.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:38:11.263013+00:00",
+  "records": [
+    {
+      "sir_id": "12350/2021",
+      "report_date": "2021-06-30",
+      "incident_date": "2021-06-30",
+      "location_details": "_ampedusa",
+      "where_clear": "Near Lampedusa, Sicily, Italy",
+      "location_text_raw": "Lampedusa (Lampedusa e Linosa), Sicilia, Italy",
+      "country_or_area": "Italy",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Lampedusa, Sicily, Italy",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 7,
+      "injured_confirmed": null,
+      "missing_confirmed": 9,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Potential violation of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A wooden boat carrying approximately 62-63 migrants from Tunisia (Sidi Mansur area) sank near Lampedusa. Italian authorities rescued 46 persons and recovered 7 bodies (sub-Saharan women). 9 people are considered missing. SAR operations were conducted but yielded negative results. While initial assessments indicated potential Fundamental Rights violations, the final conclusion stated that no link between authorities' actions and the deaths/disappearances could be identified, and potential violations could not be identified.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "7 people drowned and 9 people missing in shipwreck near Lampedusa",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 7,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 9,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

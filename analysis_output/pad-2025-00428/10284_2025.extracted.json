@@ -1,0 +1,51 @@
+{
+  "source_file": "pdfs/pad-2025-00428/10284_2025.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:43:38.410918+00:00",
+  "records": [
+    {
+      "sir_id": "10284/2025",
+      "report_date": "2025-09-18",
+      "incident_date": "2025-02-01",
+      "location_details": "Three migrants detected by Frontex officers approximately ten kilometres from the Bulgarian border in Serbia. They were later registered in Pirot, Serbia.",
+      "where_clear": "Serbian-Bulgarian border area, Serbia",
+      "location_text_raw": "approximately ten kilometres from the Bulgarian border",
+      "country_or_area": "Serbia",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Serbian-Bulgarian border, Serbia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact location of detection is approximate (10km from border), and the specific area where migrants were allegedly beaten is redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 3,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office considers established that three migrants were injured, with visible bruises and swellings, but was unable to independently corroborate whether these injuries resulted from ill-treatment by Serbian officers, as alleged by the migrants and denied by Serbian authorities. The Serbian authorities claimed injuries were sustained while escaping police or from smugglers, but provided no evidence. Frontex officers observed and photographed the injuries.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "a Frontex team detected three migrants approximately ten kilometres from the Bulgarian border. The migrants had visible bruises and swellings, and according to their account shared with the Frontex officers, three days earlier they had been beaten by Serbian police officers",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 3,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

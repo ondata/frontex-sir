@@ -1,0 +1,59 @@
+{
+  "source_file": "pdfs/pad-2025-00371/13370_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:31:22.823166+00:00",
+  "records": [
+    {
+      "sir_id": "13370/2022",
+      "report_date": "2022-10-06",
+      "incident_date": "2022-05-01",
+      "location_details": "A group of migrants crossed illegally by boat the sea border between Turkey and Greece, landed in an unknown area in Greece, and were subsequently put back at sea by Greek officials and forced to return to Turkish territorial waters.",
+      "where_clear": "Sea border between Turkey and Greece, unknown area in Greece, Turkish territorial waters.",
+      "location_text_raw": "sea border between Turkey and Greece, unknown area in Greece, Turkish territorial waters",
+      "country_or_area": "Aegean Sea (between Turkey and Greece), Greece, Turkey",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Aegean Sea between Turkey and Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Incident location is stated as 'unknown'. Specific landing area in Greece is not identified.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19(1) of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office could not corroborate the migrant's statements due to scarcity of information, but noted that the allegations are consistent with similar reports of forced returns by Greek authorities at sea. These allegations are a cause for serious concern, potentially leading to serious violations of migrant's rights and damaging the reputation of the Hellenic Coast Guard and Frontex.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "he together with a group of more than 100 person, achieved to cross illegally by boat the sea border between Turkey and Greece. ... He alleged that they were then put back at sea onboard a grey inflated boat by Greek officials and were forced to return to Turkish territorial waters.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

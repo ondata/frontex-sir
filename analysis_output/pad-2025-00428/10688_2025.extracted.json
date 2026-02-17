@@ -1,0 +1,57 @@
+{
+  "source_file": "pdfs/pad-2025-00428/10688_2025.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:44:48.532109+00:00",
+  "records": [
+    {
+      "sir_id": "10688/2025",
+      "report_date": "2025-08-29",
+      "incident_date": "2025-04-25",
+      "location_details": "Frontex surveillance aircraft sighted a migrant boat in pursuit by three Tunisian Garde Nationale patrol boats in the Tunisian and Libyan search and rescue regions. The boat was initially sighted 26 NM from the shore of Tunisia, and later its position was updated to 28 NM from the shore of Tunisia, 5 NM north from the previous position.",
+      "where_clear": "Approximately 26-28 nautical miles north of the shore of Tunisia, within the Libyan and Tunisian search and rescue regions.",
+      "location_text_raw": "in the Tunisian and Libyan search and rescue regions (the two countries' search and rescue regions overlap in this area).",
+      "country_or_area": "Tunisian and Libyan search and rescue regions, off Tunisia",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "27 NM north of Tunisia, within Libyan and Tunisian search and rescue regions",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates are redacted, but nautical miles from shore and SAR regions are provided.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 1,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 6 of the International Covenant on Civil and Political Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of torture or cruel, inhuman or degrading treatment or punishment",
+          "legal_basis": "Article 7 of the International Covenant on Civil and Political Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Tunisian Garde Nationale patrol boats pursued an overcrowded migrant boat, performing dangerous manoeuvres including ramming and riding over its rear, endangering the lives of more than 25 people on board. One migrant was mistreated by crew members after transfer to a patrol boat. Frontex surveillance aircraft observed the incident.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Frontex surveillance aircraft sighted three Tunisian Garde Nationale patrol boats in pursuit of an overcrowded migrant boat in the Tunisian and Libyan search and rescue regions (the two countries' search and rescue regions overlap in this area).",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 1,
+  "dead_possible_total_max": 1,
+  "records_invalid_skipped": 0
+}

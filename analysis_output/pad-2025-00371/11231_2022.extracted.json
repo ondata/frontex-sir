@@ -1,0 +1,66 @@
+{
+  "source_file": "pdfs/pad-2025-00371/11231_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:19:23.439225+00:00",
+  "records": [
+    {
+      "sir_id": "11231/2022",
+      "report_date": null,
+      "incident_date": "2022-03-20",
+      "location_details": "Four migrants crossed illegally the border from Belarus to Lithuania by jumping over a border line fence. They were apprehended by Lithuanian border guards and redirected to Belarus.",
+      "where_clear": "Border between Belarus and Lithuania",
+      "location_text_raw": "border from Belarus to Lithuania",
+      "country_or_area": "Belarus-Lithuania border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Belarus-Lithuania border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol 4 to the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "art. 19 (2) of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "On 20 March 2022, four migrants crossed illegally from Belarus to Lithuania, were apprehended by Lithuanian border guards, and subsequently returned to Belarus under Decision No. 42 of 2 August 2021. Frontex was requested for support but the migrants were arrested by another team.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 20 March 2022, four migrants who crossed illegally the border from Belarus to Lithuania were apprehended and returned to Belarus in application of Decision No. 42 of 2 August 2021",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

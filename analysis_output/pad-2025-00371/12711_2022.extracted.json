@@ -1,0 +1,60 @@
+{
+  "source_file": "pdfs/pad-2025-00371/12711_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:26:47.259225+00:00",
+  "records": [
+    {
+      "sir_id": "12711/2022",
+      "report_date": null,
+      "incident_date": "2022-06-29",
+      "location_details": "Lithuania, operational area X2, in a wooden area in vicinity of BCU [redacted]",
+      "where_clear": "Wooden area in Lithuania near a redacted border crossing unit (BCU) in operational area X2.",
+      "location_text_raw": "wooden area in vicinity of BCU [redacted]",
+      "country_or_area": "Lithuania",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific border crossing unit (BCU) is redacted, and 'operational area X2' is a general designation, making precise geocoding impossible.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Inhuman and degrading treatment",
+          "legal_basis": "art. 3 of the European Convention on Human Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "art. 19 (2) of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "On 29.06.2022, Frontex officers observed a migrant in a wooden area near a redacted border crossing unit in Lithuania. Lithuanian border guards apprehended the individual and subsequently redirected them to Belarus as a 'preventive measure' under national legislation. The Fundamental Rights Office concluded that this action, while aligned with national law, is incompatible with EU law and asylum policy, potentially constituting serious breaches of fundamental rights, including inhuman and degrading treatment, right to asylum, and non-refoulement, and poses a risk to Frontex's reputation. The FRO recommended that Frontex not participate in such activities and urged Lithuanian authorities to ensure effective access to asylum, define clear procedures for identifying vulnerable people, and conduct individual assessments to prevent refoulement.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 29.06.2022 at 08:35 LT, two Frontex officers identified a migrant running across the road in a wooden area in vicinity of BCU [redacted]. They informed Lithuanian border guards and following on from this, Lithuanian border guards apprehended the migrant. Lithuanian authorities later confirmed that preventive measures were applied, meaning that the migrant had been redirected from the territory of Lithuania back to Belarus.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

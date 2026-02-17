@@ -1,0 +1,65 @@
+{
+  "source_file": "pdfs/pad-2025-00371/12328_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:24:50.056634+00:00",
+  "records": [
+    {
+      "sir_id": "12328/2022",
+      "report_date": null,
+      "incident_date": "2022-05-29",
+      "location_details": "Incident occurred at the barbed wire barrier from Belarus to Lithuania, within the Lithuania Operational area. On 29.05.2022, seven migrants were recorded crossing, and Lithuanian authorities confirmed ten irregular migrants crossed, applying preventive measures (redirection) on 29.05.2022 for five persons and on 30.05.2022 for another five persons.",
+      "where_clear": "Border between Belarus and Lithuania",
+      "location_text_raw": "barbed wire barrier from Belarus to Lithuania",
+      "country_or_area": "Lithuania-Belarus border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Lithuania Belarus border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Inhuman and degrading treatment",
+          "legal_basis": "art. 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol 4 to the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "art. 19 (2) of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "On 29.05.2022, ten irregular migrants crossed the barbed wire barrier from Belarus into Lithuania. Lithuanian authorities applied 'preventive measures,' redirecting the migrants back to Belarus. The Fundamental Rights Office concluded that these measures, while in observation of national legislation, are incompatible with Lithuania's obligations under EU law and asylum policy, potentially amounting to serious breaches of fundamental rights and posing a risk to Frontex's reputation.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 29.05.2022 at [redacted], seven (7) migrants were recorded by [redacted] crossing the barbed wire barrier from Belarus to Lithuania. Lithuanian authorities confirmed that in fact ten (10) irregular migrants illegally crossed the border and were automatically redirected back to Belarus.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

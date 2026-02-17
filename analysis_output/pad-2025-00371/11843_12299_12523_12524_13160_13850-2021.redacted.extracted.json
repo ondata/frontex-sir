@@ -1,0 +1,277 @@
+{
+  "source_file": "pdfs/pad-2025-00371/11843_12299_12523_12524_13160_13850-2021.redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:23:41.696047+00:00",
+  "records": [
+    {
+      "sir_id": "12523/2021",
+      "report_date": "2021-07-13",
+      "incident_date": "2021-07-13",
+      "location_details": "Kotoka International Airport, Accra, Ghana",
+      "where_clear": "Kotoka International Airport, Accra, Ghana",
+      "location_text_raw": "Kotoka International Airport, Accra, Ghana",
+      "country_or_area": "Ghana",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Kotoka International Airport, Accra, Ghana",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": "Articles 3 and 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Situations of potential violations of Codes of Conduct provisions",
+          "legal_basis": "Articles 3 (b), 4, 6 (a), 18(3) of the Code of Conduct; Articles 4 (1), 7 (1) (2) of the Code of Conduct for return operations",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Upon the landing of the main charter in Accra, Ghana - the destination of the referenced NRO - before the aircraft doors were opened, one of the returnees attempted to strike several escort agents ('EO') with his fists. The assigned escort team, with the support of the back-up team, brought the returnee back under control. According to the forced-return monitoring officer, the returnee was not handcuffed at the time of being struck by the EO, but was still under the control exercised by the respective escorts.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Potential Fundamental rights and Frontex CoC violation by host (organising MS) staff",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "sir_id": "13850/2021",
+      "report_date": "2021-10-13",
+      "incident_date": "2021-09-05",
+      "location_details": "border, Albania",
+      "where_clear": "Albanian border near Kakavia",
+      "location_text_raw": "border, Albania",
+      "country_or_area": "Albania",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia border crossing, Albania",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and Longitude are redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": 0,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": "EU or international law, Articles 3 and 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Serious breaches of the Frontex Code of Conduct and fundamental rights violations",
+          "legal_basis": "Frontex Code of Conduct",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Migrants claimed to have been beaten by the Albanian Police on the evening of 05/09/2021 at the border of Kakavia. A group of 21 migrants from [redacted] including several minors, were on their way to Gjirocaster from the Greek side. Albanian police found them in a green area in the evening and apprehended them as they were getting into cars provided by traffickers. The migrants were then escorted in police cars to [redacted], where they spent the night. The next morning, during screening and debriefing activities, some of them reported being beaten by the police.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Migrants claimed to have been beaten by the Albanian Police on the evening of 05/09/2021 at the border of Kakavia",
+      "confidence": "high",
+      "evidence_pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "sir_id": "12524/2021",
+      "report_date": "2021-07-13",
+      "incident_date": "2021-07-13",
+      "location_details": "Korçë, Albania",
+      "where_clear": "Korçë, Albania",
+      "location_text_raw": "Korçë, Albania",
+      "country_or_area": "Albania",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Korçë, Albania",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and Longitude are redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": "Fundamental Rights violations (Cat.1)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Degrading treatment of person in a vulnerable situation (a child)",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Situations of potential violations of Codes of Conduct provisions",
+          "legal_basis": "Code of Conduct, Article 10, 18 (Cat.2)",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "An Albanian officer from [redacted] patrol, arrested a group of 3 irregular migrants claiming to be [redacted] citizens. The patrol was joined by a local pastor's son (apparently an 8-10 years old boy) who provided information about this arrest case and previous searches in that area of operations and offered help in identifying the location of the migrants. At [redacted] the Albanian officer from [redacted] approached the child's location and started talking to the child in Albanian. [redacted] could not understand anything of the content of the conversation. Suddenly and out of nowhere, the Albanian officer struck the boy with his right hand flat on his left cheek. After the first hit, [redacted] immediately ran to their location and saw that the Albanian officer used his left hand to hold the boy on his shirt while hitting him with his right hand flat again. [redacted] began yelling at him to stop as he reached their position. He dragged the Albanian officer away from the child, who started screaming and crying at the same time and eventually ran away.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "the Albanian officer struck the boy with his right hand flat on his left cheek.",
+      "confidence": "high",
+      "evidence_pages": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "sir_id": "13160/2021",
+      "report_date": "2021-08-27",
+      "incident_date": "2021-08-24",
+      "location_details": null,
+      "where_clear": "Lithuanian border with Belarus",
+      "location_text_raw": "Operational area",
+      "country_or_area": "Lithuania",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Lithuania-Belarus border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates are redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": "EU or international law, Fundamental Rights and international protection obligations",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol No. 4 to the ECHR and Article 19 (1) of the EU Charter",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "During the [redacted] flight [redacted] detected 53 illegal migrants (50 adults, 3 children) close to position [redacted]. The incident was reported by [redacted] in the [redacted] cross-checked this incident and compared it with the Daily Report provided by LTU authority. Additionally, [redacted] sent a request to LTU authorities for clarification. Based on LTU Daily Report the incident case was classified as prevention from illegal entry from BLR. LTU reported this incident occured [redacted] so on 25/08/2021.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "detected 53 illegal migrants (50 adults, 3 children)",
+      "confidence": "medium",
+      "evidence_pages": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "sir_id": "11843/2021",
+      "report_date": "2021-05-25",
+      "incident_date": "2021-05-16",
+      "location_details": "Samos, Samos, Greece",
+      "where_clear": "Sea area near Samos, Greece",
+      "location_text_raw": "Samos, Samos, Greece",
+      "country_or_area": "Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Samos island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and Longitude are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of refoulement and collective expulsions",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "27 migrants allegedly pushed back to Turkey from Samos by HCG. Aegean Boat Report informed on the 16th of May 2021 about a boat that arrived in the early morning on [redacted] Samos [redacted] carrying at least 27 people, amongst them many very small children. Five hours later they were found drifting in two (2) life rafts [redacted] Seferihisar, Turkey. On the 17th of May Aegean Boat Report adds the following: 'From a video published today by the Turkish coast guard, it is seen a Lambro Halmatic 60, SAR vessel Nr 513, belonging to the Hellenic coast guard, stationed on Samos. They deploy two (2) life rafts filled with 32 people, many of them small children, and leave them in great haste.'",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "27 migrants allegedly pushed back to Turkey from Samos by HCG",
+      "confidence": "high",
+      "evidence_pages": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "sir_id": "12299/2021",
+      "report_date": "2021-06-27",
+      "incident_date": "2021-06-16",
+      "location_details": "Agathonisi - Samos",
+      "where_clear": "Sea area near Agathonisi and Samos, Greece",
+      "location_text_raw": "Agathonisi - Samos",
+      "country_or_area": "Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Agathonisi island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and Longitude are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": "right to life, integrity, asylum, human dignity, prohibition of torture and inhuman and degrading treatment, collective expulsion",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Lack of effective remedy",
+          "legal_basis": "Article 47 of the EU Charter",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "84 migrants allegedly pushed back to Turkey in two liferafts from Samos by HCG. Aegean Boat Report informed on the 18th of June 2021 that: 'On the evening of 16 June, the Turkish coast guard found and rescued 84 refugees from two life rafts drifting outside Turkey.' 'Where these people came from is so far unknown, but to journalists they say that the Greek coast guard put them in these rafts...'",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "84 migrants allegedly pushed back to Turkey in two liferafts from Samos by HCG",
+      "confidence": "high",
+      "evidence_pages": [
+        17,
+        18,
+        19,
+        20
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

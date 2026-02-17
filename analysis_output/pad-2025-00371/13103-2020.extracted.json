@@ -1,0 +1,64 @@
+{
+  "source_file": "pdfs/pad-2025-00371/13103-2020.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:30:32.433398+00:00",
+  "records": [
+    {
+      "sir_id": "13103/2020",
+      "report_date": "2020-12-25",
+      "incident_date": "2020-11-28",
+      "location_details": "Text Removed - Operational Area in Greece",
+      "where_clear": "A river crossing between Greece and Turkey, near a village on the Turkish side.",
+      "location_text_raw": "Greece, -, Greece; Text Removed - Operational Area; Text Removed - Operational Area in Greece; on the Greek side; on the Turkish side, the small village of Text Removed Operational Area",
+      "country_or_area": "Greece, Turkey",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Greece Turkey border river crossing",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates are redacted, but the general area of a river crossing between Greece and Turkey is described.",
+      "dead_confirmed": 3,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "right to integrity",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "human dignity",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "right to life",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of torture and inhuman and degrading treatment",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Three men drowned while attempting an illegal border-crossing from Turkey to Greece by crossing a river in a rubber dinghy. Greek border police allegedly shot at the boat after multiple back-and-forths with Turkish border police. The deceased were three Afghans who could not swim. The incident occurred on 28.11.2020. Frontex Human Resources considered the alleged facts could amount to serious breaches of fundamental rights.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "three Afghans of the interviewees could not swim and drowned in the river.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 3,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

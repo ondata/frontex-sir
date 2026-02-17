@@ -1,0 +1,59 @@
+{
+  "source_file": "pdfs/pad-2025-00428/10611_2025.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:44:21.631376+00:00",
+  "records": [
+    {
+      "sir_id": "10611/2025",
+      "report_date": "2025-08-20",
+      "incident_date": "2025-03-30",
+      "location_details": "On the Belarusian side of the border, approximately 60 m from the border with Lithuania, near BCP Šalčininkai.",
+      "where_clear": "Šalčininkai Border Crossing Point area, on the Belarusian side of the border, Lithuania/Belarus border.",
+      "location_text_raw": "BCP Šalčininkai, Lithuania; 54°16′21″N 025°22′34″E [Note. On the Belarusian side of the border, approximately 60 m from the border with Lithuania. Note Ends.]",
+      "country_or_area": "Lithuania/Belarus border",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "54.2725, 25.376111",
+      "lat": 54.2725,
+      "lon": 25.376111,
+      "uncertainty_note": "The incident occurred on the Belarusian side of the border, approximately 60 m from the border with Lithuania, near BCP Šalčininkai.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "Article 18 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "Article 47 of the EU of Fundamental Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Five individuals (two females, two males, one minor) from Sudan and Kenya reportedly sought asylum at BCP Šalčininkai, Lithuania, but were denied entry and turned back to Belarus. The child among them later developed fever and pain. The Fundamental Rights Office finds it likely that access to asylum was denied and the right to an effective remedy was violated, citing lack of proper documentation and video evidence.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The local officers allegedly ignored the asylum requests and turned the group back to Belarus.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2025-00371/14272-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:35:40.038572+00:00",
+  "records": [
+    {
+      "sir_id": "14272/2022",
+      "report_date": "2022-12-13",
+      "incident_date": "2022-09-24",
+      "location_details": "The incident occurred in a detention facility within the JO Indalo Operational Area in Spain. Migrants were under detention, and a room search was conducted by the National Police Corps (CNP). The incident date is stated as 24/25.09.2022, with migrants claiming 24.09.2022 and Spanish authorities claiming 25.09.2022. The report notes the incident occurred anytime between the evening of 24.09.2022 and the early morning hours of 25.09.2022.",
+      "where_clear": "Detention facility in JO Indalo Operational Area, Spain",
+      "location_text_raw": "JO Indalo Operational Area",
+      "country_or_area": "Spain",
+      "location_type": "facility",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "JO Indalo Operational Area, Spain",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 3,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights and Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Three migrants claimed they were beaten with rubber batons by officers of the Spanish National Police Corps (CNP) after a room search in a detention facility. The search was initiated because one migrant was smoking a cigarette. Frontex observed injuries on the migrants. The Fundamental Rights Office was unable to establish if the use of force was necessary and proportionate and noted that Spanish authorities did not confirm a formal investigation into the allegations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Three (3) migrants claimed that on 24.09.2022 they had been beaten up with a rubber baton by officers of the National Police Corps (CNP) while in [redacted] (Spain).",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 3,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

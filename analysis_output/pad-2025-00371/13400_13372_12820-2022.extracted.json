@@ -1,0 +1,122 @@
+{
+  "source_file": "pdfs/pad-2025-00371/13400_13372_12820-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:31:53.691344+00:00",
+  "records": [
+    {
+      "sir_id": "13400/2022",
+      "report_date": "2022-08-10",
+      "incident_date": "2022-07-20",
+      "location_details": "Islet and bank in Evros river, Greek side of border",
+      "where_clear": "Islet and bank in Evros river, Greek side of border, near Orestiada",
+      "location_text_raw": "Islet and bank in Evros river, Greek side of border",
+      "country_or_area": "Evros river, Greece",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros river, Orestiada, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 1,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": 3,
+      "possible_violations": [
+        {
+          "violation_name": "Potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": "EU or international law",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "40 migrants stranded and pushed back in Evros region. The Fundamental Rights Office considers that the Hellenic authorities were, in fact, at times between 14/07 and 15/08/2022 aware of the whereabouts of the group of migrants but failed to reach them to provide assistance. In view of the Fundamental Rights Office, the authorities' failure to act to rescue the group over an extended period may have contributed to the death and injuries of some of the migrants. Regarding the allegations of violent pushbacks on 14/07, 26/07 and 01/08/2022, the Fundamental Rights Office considers the reports of pushbacks by migrants as relatively credible due to the detailed nature of the accounts, consistency of information reported from different sources, and correspondence with similar allegations reported in the past by various NGOs, IOs including the UNHCR, and raised in SIR procedures. The Fundamental Rights Office notes with serious concern that allegations of the involvement of Greek officers and unidentified other men (masked, Arabic and Kurdish speakers) accessing the migrants, despite the authorities' claims that the migrants could not be located, in order to violently push them back out of Greek territory, are numerous in Evros region. So are the reports of detention in the Greek territory without following proper registration procedures, and subsequent pushback. Such and other activities have been alleged, inter alia, in [redacted]. Against the backdrop of the overall credibility of migrants' accounts taken together, as well as other documentary evidence, the Fundamental Rights Office believes that the Greek authorities' blanket dismissal of all allegations raised in the framework of this SIR remains an important obstacle to a meaningful follow up in the form of effective investigations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "40 migrants stranded and pushed back in Evros region",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "sir_id": "13372/2022",
+      "report_date": "2022-08-09",
+      "incident_date": "2021-07-15",
+      "location_details": "Evros river",
+      "where_clear": "Evros river, Greece",
+      "location_text_raw": "Evros, Evros, Greece",
+      "country_or_area": "Evros river, Greece",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Evros river, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Allegation of pushback from Greece to Turkey",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Allegation of pushback from Greece to Turkey. On 4 August 2022, during a brief conversation with a migrant of [redacted] who had disembarked in Roccella Ionica stated that on two occasions, in July 2021 and April 2022, together with a group of three migrants, managed to illegally cross the border between Turkey and Greece by swimming in the Evros River. He claimed that in both cases they stayed in Greece for several hours hiding in a forest before being arrested. He further stated that they were then forced by police officers to return to Turkey by crossing the Evros River again. The Fundamental Rights Office is not able to comment on the veracity of the alleged facts, nor conclude whether fundamental rights of the migrants have been violated. The Fundamental Rights Office observes that allegations of involvement of Greek authorities in the irregular return of migrants to Turkey are frequent and have previously been reported in the framework of SIR. As regards the incidents alleged in this SIR 13372/2022, however, the Fundamental Rights Office could not corroborate the migrant's statements, owing to incomplete information provided at the time of interview in Rocella Ionica. The Greek authorities have likewise been unable to identify the alleged incidents for the same reason.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Allegation of pushback from Greece to Turkey",
+      "confidence": "medium",
+      "evidence_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "sir_id": "12820/2022",
+      "report_date": "2022-07-07",
+      "incident_date": "2022-06-15",
+      "location_details": "Islets in Evros river, Turkey/Greece border",
+      "where_clear": "Islets in Evros river, Turkey/Greece border",
+      "location_text_raw": "Islets in Evros river, Turkey/Greece border",
+      "country_or_area": "Evros river, Turkey/Greece border",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros river islets, Turkey Greece border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Delayed rescue of migrants stranded on islets in Evros river",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Incident reported: Since 10/05/2022, the Greek authorities have been made repeatedly aware by monitoring NGOs of the presence of a group of 17 migrants stranded on islets in Evros river. At least since 15/06/2022, the authorities have been aware of the alleged location of this group and additional 18 migrants on one of the islets. All 35 migrants have been protected by ECtHR interim measures and their health situation has been gradually deteriorating over time. On 15/06/2022, the group is alleged to have had a violent encounter with a group of military-clad Greek-speaking persons, prompting it to change location. Video evidence provided to the Fundamental Rights Office suggests that during the period 10/05-23/06/2022, the authorities have been in the vicinity of and at least on one occasion in contact with the migrants. Until 23/06/2022, these 35 [redacted]",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Delayed rescue of migrants stranded on islets in Evros river",
+      "confidence": "high",
+      "evidence_pages": [
+        7
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 3,
+  "records_invalid_skipped": 0
+}

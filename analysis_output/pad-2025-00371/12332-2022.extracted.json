@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2025-00371/12332-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:25:17.397936+00:00",
+  "records": [
+    {
+      "sir_id": "12332/2022",
+      "report_date": "2022-08-19",
+      "incident_date": "2022-06-03",
+      "location_details": "A group of twelve migrants was transported by Albanian police officers to a location 200m from the border with Greece, near Kapshtice and Trestenik, and coerced to cross the border irregularly on foot.",
+      "where_clear": "Albania-Greece border area near Kapshtice",
+      "location_text_raw": "near the border between Albania and Greece, area of BCU Kapshtice, from Trestenik to the border, a location 200m from border with Greece",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kapshtice, Albania near Greece border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact coordinates not provided, but the incident occurred 200m from the Albania-Greece border in the Kapshtice/Trestenik area.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Article 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Albanian authorities transported a group of twelve migrants to the border with Greece and coerced them to cross irregularly, with one officer holding a baton. The incident's veracity was confirmed by Albanian authorities, leading to disciplinary measures against the implicated officers. The Fundamental Rights Office notes this practice is consistent with other SIRs and urges Albanian authorities to address it.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Albanian authorities transported a group of twelve migrants to the border and escorted them on foot until they crossed the border to Greece, while threatening the use of force.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

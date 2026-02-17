@@ -1,0 +1,56 @@
+{
+  "source_file": "pdfs/pad-2025-00428/13822_2024_-_Final_Report_SIR_Cat_1_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:45:27.570128+00:00",
+  "records": [
+    {
+      "sir_id": "13822/2024",
+      "report_date": "2025-10-10",
+      "incident_date": "2024-08-23",
+      "location_details": "Incident occurred in the sea area northwest of Symi island, within Hellenic territorial waters, heading towards the Greek coasts.",
+      "where_clear": "Sea area northwest of Symi island, Greece",
+      "location_text_raw": "Symi island",
+      "country_or_area": "Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "sea area northwest of Symi island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 1,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "On 23/08/2024, a fatal incident occurred near Symi island involving the Hellenic Coast Guard and a migrant boat. The Hellenic Coast Guard allegedly shot and killed a migrant during a pursuit, claiming the migrant boat performed dangerous manoeuvres and rammed their vessel. Migrant testimonies suggest they were trying to avoid arrest. The Fundamental Rights Office concluded that the use of lethal force was disproportionate and excessive, violating the right to life.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 23/08/2024, a fatal incident occurred at Symi island, involving the Hellenic Coast Guard and a migrant boat. It is alleged that the Hellenic Coast Guard shot and killed a migrant during a pursuit.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2024-00429/Redacted_SIR_11713_2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:16:09.731773+00:00",
+  "records": [
+    {
+      "sir_id": "11713/2024",
+      "report_date": "2024-04-27",
+      "incident_date": "2024-04-26",
+      "location_details": null,
+      "where_clear": "Theft from a rental car in North Macedonia, in front of the officer's apartment.",
+      "location_text_raw": "JO North Macedonia Land 2024, in front of his apartment in [redacted]",
+      "country_or_area": "North Macedonia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "North Macedonia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location within North Macedonia is redacted, but the joint operation name indicates the country of deployment where the incident occurred.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Potential violations of Codes of Conduct provisions",
+          "legal_basis": "Frontex CoC",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Situations with serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "An SC Officer, deployed to North Macedonia, traveled off-duty in a service rental car. The following day, the car's rear window was found broken, and a personal bag containing parts of his uniform was stolen from the trunk. The officer reported the incident late and with confusing statements to local authorities, leading to no penal procedure. All stolen uniform parts were later recovered by the officer.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Stolen service equipment and damages to rental car used for service purposes",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

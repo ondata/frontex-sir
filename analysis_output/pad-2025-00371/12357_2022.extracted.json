@@ -1,0 +1,59 @@
+{
+  "source_file": "pdfs/pad-2025-00371/12357_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:25:38.640784+00:00",
+  "records": [
+    {
+      "sir_id": "12357/2022",
+      "report_date": "2022-09-29",
+      "incident_date": "2022-05-07",
+      "location_details": "A group of migrants landed in Kos and was allegedly attacked and ill-treated by masked armed men. They were later transferred to Kos' reception and identification centre (RIC). Apprehended in a rocky area of the island of Kos.",
+      "where_clear": "Kos island, Greece",
+      "location_text_raw": "Kos",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Kos, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 3,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Human Dignity",
+          "legal_basis": "Article 1 of the EU Charter of Fundamental Rights",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Respect for private and family life",
+          "legal_basis": "art. 7 of the EU Charter of Fundamental Rights",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "On 07 May 2022, a group of migrants that had landed in Kos was allegedly attacked and ill-treated by masked armed men. The group was later transferred by the Greek Hellenic Coast Guard to Kos' reception and identification centre (RIC). The Fundamental Rights Office expresses serious concern at the numerous allegations of fundamental rights violations against migrants that follow similar patterns and lack of follow-up by the Greek authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 07 May 2022, a group of migrants that had landed in Kos was allegedly the target of attacks and ill-treatment by a group of masked armed men.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 3,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

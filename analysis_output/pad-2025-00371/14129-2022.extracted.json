@@ -1,0 +1,66 @@
+{
+  "source_file": "pdfs/pad-2025-00371/14129-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:34:56.892003+00:00",
+  "records": [
+    {
+      "sir_id": "14129/2022",
+      "report_date": "2022-12-13",
+      "incident_date": "2022-08-13",
+      "location_details": "Turkish-Bulgarian border in Edirne area, Bulgarian territory, including a farmhouse and a forest close to the border.",
+      "where_clear": "Turkish-Bulgarian border near Edirne, Bulgaria",
+      "location_text_raw": "Turkish-Bulgarian border in Edirne area",
+      "country_or_area": "Bulgaria / Turkey border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Turkish-Bulgarian border near Edirne",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location of farmhouse and forest not identified, only general area near Edirne. FRO research to locate the apprehension site was inconclusive.",
+      "dead_confirmed": 0,
+      "injured_confirmed": null,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "Article 1 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of forced labour",
+          "legal_basis": "Article 5(2) of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19(1) of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A group of 28 migrants irregularly crossed the Turkish-Bulgarian border in Edirne area. They were apprehended by Bulgarian police, taken to a farmhouse, beaten by military, forced to work for seven hours, had arms broken, and were pushed back to Turkey on 13 or 14/08/2022. Bulgarian authorities denied the allegations, and the FRO could not independently corroborate all facts, but considers the allegations relatively credible based on patterns.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Bulgarian soldiers beat the migrants from both groups, took their belongings (phones, money, shoes, documents) and forced them to work at the farmhouse for seven hours. The military then took all the migrants into a forest close to the border. There, the officers broke the arms of some of the migrants before pushing all of them across the border to Turkey (on 13 or 14/08/2022).",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

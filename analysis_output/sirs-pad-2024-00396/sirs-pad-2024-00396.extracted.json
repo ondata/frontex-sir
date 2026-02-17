@@ -1,0 +1,381 @@
+{
+  "source_file": "pdfs/sirs-pad-2024-00396/sirs-pad-2024-00396.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:56:09.714743+00:00",
+  "records": [
+    {
+      "sir_id": "11153/2023",
+      "report_date": "2024-07-19",
+      "incident_date": "2023-03-15",
+      "location_details": "A migrant alleged being apprehended by Albanian police on 15/03/2023. After apprehension, he and his group were transferred to a detention center in the vicinity of [REDACTED]. They spent a few hours there, received food and water, and were photographed but not fingerprinted. Later, Albanian officers transported them to a location with a small wooden bridge and a monastery nearby. From this location, they continued on foot for approximately 10 minutes. When closer to the Greek border, Albanian officers returned personal belongings and showed them the direction to proceed towards Greece. The incident occurred after crossing the Greek-Albanian border on foot in the area of [REDACTED].",
+      "where_clear": "Greek-Albanian border area, near a detention center, small wooden bridge and monastery",
+      "location_text_raw": "Greek-Albanian border on foot in the area of [REDACTED], a detention center in the vicinity of [REDACTED] (location identified by the migrant as: [REDACTED]), a location with a small wooden bridge and a monastery nearby (estimated location according to the migrant: [REDACTED])",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific locations are redacted, making precise geocoding impossible.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "The Office remains concerned about such practice and underlines that similar allegations had been raised in the framework of SIRs several times.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Based on the available information the Fundamental Rights Office finds it possible that the group of migrants in the case under scrutiny was irregularly returned to Greece by Albanian officers.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "sir_id": "11676/2024",
+      "report_date": "2024-08-31",
+      "incident_date": "2024-03-24",
+      "location_details": "A group of 16 migrants left Bodrum, Türkiye, towards Kos Island, Greece, in a rigid hull inflatable boat. The boat was intercepted by a Greek vessel and later by a Hellenic Coast Guard (HCG) vessel. Migrants were forced to board the HCG vessel, beaten, and had personal belongings confiscated. They were then transferred back to their rubber boat, towed for about 30 minutes, and left adrift at sea after the HCG crew damaged the boat. Eventually, they were rescued by a Turkish Coast Guard vessel.",
+      "where_clear": "Sea area between Bodrum, Türkiye and Kos Island, Greece",
+      "location_text_raw": "Bodrum, Türkiye in the direction of Kos Island",
+      "country_or_area": "Aegean Sea (Greece/Türkiye)",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Aegean Sea between Bodrum, Turkey and Kos Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 16,
+      "dead_possible_max": 16,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 (1) of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office notes the incorrect reporting by the Greek authorities of the incident as [REDACTED] which fails to take into account that the migrants were not merely sighted but brought to Turkish territorial waters.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Regarding the migrant's attempt to reach Kos on 24/03/2024, the Fundamental Rights Office cannot confirm with certainty but considers likely that the group of 16 migrants was subjected to collective expulsion from Kos to Turkish territorial waters where they were abandoned at sea by the Hellenic Coast Guard.",
+      "confidence": "high",
+      "evidence_pages": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "10346/2024",
+      "report_date": "2024-07-23",
+      "incident_date": "2024-01-13",
+      "location_details": "A group of eleven migrants was stopped by Serbian police after crossing into Serbia from Bulgaria. They were taken to a police station, ordered to strip naked, and later transported to a forest where they were beaten. Police officers allegedly destroyed their phones and directed them towards Bulgaria. The migrants later reached a village in Bulgaria.",
+      "where_clear": "Serbia-Bulgaria border area, including a police station and a forest in Serbia",
+      "location_text_raw": "on the [REDACTED] by a police vehicle, after crossing into Serbia from Bulgaria",
+      "country_or_area": "Serbia, Bulgaria",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific locations are redacted or described generically, making precise geocoding impossible.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 11,
+      "dead_possible_max": 11,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Protection of property",
+          "legal_basis": "Article 1 of Protocol No 1 to the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol No 4 of the European Convention on Human Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "The Office takes note of the conclusion of an internal investigation rejecting allegations but regrets that this finding is based primarily on the absence of internal records of any wrongdoing.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office concludes as likely that a group of eleven migrants was apprehended by the Serbian police in Serbia, and subsequently forced to cross the border to Bulgaria.",
+      "confidence": "medium",
+      "evidence_pages": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "sir_id": "11041/2024",
+      "report_date": "2024-09-30",
+      "incident_date": "2024-02-26",
+      "location_details": "A group of ten migrants, after spending two nights in a public park in Belgrade, was directed by police officers towards a reception centre south of Belgrade. On 26/02/2024, they were put into a police van, escorted by police cars, and driven past Dimitrovgrad to a shallow river at the border with Bulgaria. One officer slapped a migrant, and officers allegedly took phones and documents before ordering them to cross the river into Bulgarian territory.",
+      "where_clear": "Serbia-Bulgaria border area, including Belgrade, a reception center south of Belgrade, Dimitrovgrad, and a shallow river at the border",
+      "location_text_raw": "public park in Belgrade",
+      "country_or_area": "Serbia, Bulgaria",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia-Bulgaria border near Dimitrovgrad, including Belgrade and a reception center south of Belgrade",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 10,
+      "dead_possible_max": 10,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol No 4 to the European Convention on Human Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Protection of property",
+          "legal_basis": "Article 1 of Protocol No 1 to the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "The Office takes note of the conclusion of the internal checks rejecting allegations but regrets that questions related to the alleged involvement of the regular police remained unanswered and the findings are based primarily on the absence of internal records of any wrongdoing.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office concludes as likely that a group of ten migrants was apprehended by the Serbian police in Serbia, transported from the reception centre to the border with Bulgaria, and subsequently forced to cross the border.",
+      "confidence": "medium",
+      "evidence_pages": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "sir_id": "11688/2024",
+      "report_date": "2024-08-06",
+      "incident_date": "2024-04-07",
+      "location_details": "A Frontex team detected five migrants close to the Serbian border in Bulgaria during regular patrol activities on 07/04/2024. The migrants alleged that Serbian border police officers destroyed their documents, took their valuables, and forced them to cross back to Bulgaria earlier the same day. The migrants were exhausted, and one had no shoes.",
+      "where_clear": "Serbian-Bulgarian border area",
+      "location_text_raw": "close to the Serbian border",
+      "country_or_area": "Serbia, Bulgaria",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Serbian-Bulgarian border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location on the border is redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 5,
+      "dead_possible_max": 5,
+      "possible_violations": [
+        {
+          "violation_name": "Protection of property",
+          "legal_basis": "Article 1 of Protocol No 1 to the European Convention on Human Rights",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 Protocol No 4 to the European Convention on Human Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "The Office regrets the lack of detailed response by the Serbian authorities and highlights the importance of thorough national investigations into all such allegations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Against this backdrop, the Office finds it possible that a group of five migrants was apprehended in Serbia by the Serbian authorities, had their personal belongings taken or destroyed, and was subsequently forced to cross the border to Bulgaria.",
+      "confidence": "medium",
+      "evidence_pages": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "sir_id": "15914/2023",
+      "report_date": "2024-07-24",
+      "incident_date": "2023-12-01",
+      "location_details": "Seven migrants crossed irregularly from Bulgaria to Serbia on 27/11/2023. On 01/12/2023, they were apprehended near [REDACTED] by Serbian police, who took them back to the border with Bulgaria, forced them to remove their clothes, physically mistreated them (kicking and beating with stick/baton), and ordered them to cross a river into Bulgaria.",
+      "where_clear": "Serbia-Bulgaria border area, near a river",
+      "location_text_raw": "apprehended near [REDACTED] by the Serbian police",
+      "country_or_area": "Serbia, Bulgaria",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia-Bulgaria border river crossing",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location on the border is redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 7,
+      "dead_possible_max": 7,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol No 4 to the European Convention on Human Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "The Office takes note of the denial of any wrongdoing but underlines the need for an independent investigation into the matter.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office considers likely that a group of seven migrants was apprehended by the Serbian police officers in Serbia, transferred by police car to the riverbank, and subsequently forced to cross the border into Bulgaria.",
+      "confidence": "medium",
+      "evidence_pages": [
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "sir_id": "10957/2024",
+      "report_date": "2024-09-13",
+      "incident_date": "2024-02-15",
+      "location_details": "A group of 20 nationals was detained for ten days in Serbia. On 15/02/2024, they were allegedly transferred to the Serbia-Bulgaria border, where Serbian police confiscated belongings, forced them to remove clothes, and ordered them to cross to Bulgaria. Due to disorientation, the interviewee reached Pirot, Serbia, where he was apprehended on 16/02/2024, physically mistreated, and forced to return to Bulgaria. The migrant had bruises and swelling on feet and knees.",
+      "where_clear": "Serbia-Bulgaria border area, including a detention center in Belgrade, Pirot, and a border crossing point",
+      "location_text_raw": "Belnanwaz detention center in Belgrade",
+      "country_or_area": "Serbia, Bulgaria",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia-Bulgaria border area, including Belgrade and Pirot",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 20,
+      "dead_possible_max": 20,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol No 4 to the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Protection of property",
+          "legal_basis": "Article 1 of Protocol No 1 to the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "Article 13 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "The Office however notes that this incident was enquired against the backdrop of a total of 25 independent allegations of violent collective expulsions by the Serbian authorities that were reported to the Office since December 2023, with which pattern the allegations in the present SIR align. This trend raises important concerns about migrants' rights being violated at Serbia's border with Bulgaria.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Despite relative credibility of the migrant's statements, the Office considers it unclear whether on 15/02/2024 the Serbian police confiscated the belongings of a group of 20 persons, forced them to remove their clothes, and ordered them to return to Bulgaria. It is equally unclear whether on 16/02/2024 the interviewee was apprehended by the Serbian police, physically ill-treated, and informally returned to Bulgaria.",
+      "confidence": "low",
+      "evidence_pages": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "sir_id": "15942/2023",
+      "report_date": "2024-07-24",
+      "incident_date": "2023-11-27",
+      "location_details": "A group of seven migrants crossed irregularly from Bulgaria to Serbia on 25/11/2023. On 27/11/2023, they encountered Serbian authorities near a bridge, river, village, highway, and parking lot. They were physically mistreated, had personal belongings confiscated, and were forced to board a police car, then a military truck, and finally thrown into a river to cross back to Bulgaria. The migrants later surrendered to Bulgarian police on 28/11/2023.",
+      "where_clear": "Serbia-Bulgaria border area, near a bridge and river",
+      "location_text_raw": "crossed to Serbia on foot on 25/11/2023",
+      "country_or_area": "Serbia, Bulgaria",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia-Bulgaria border river crossing",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 7,
+      "dead_possible_max": 7,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 Protocol No 4 to the ECHR",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "This incident was enquired against the backdrop of a total 25 independent allegations of violent collective expulsions by the Serbian authorities that were reported to the Office since December 2023 which raise important concerns about the possibility of a respective practice of migrants' rights being violated at Serbia's border with Bulgaria.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office, even though it is not in position to independently establish with certainty the accuracy of the allegations, considers possible that the group was apprehended by the Serbian police, and subsequently ill-treated and collectively expelled to Bulgaria.",
+      "confidence": "medium",
+      "evidence_pages": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 76,
+  "dead_possible_total_max": 76,
+  "records_invalid_skipped": 2
+}

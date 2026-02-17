@@ -1,0 +1,65 @@
+{
+  "source_file": "pdfs/pad-2025-00371/12584.2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:26:00.226053+00:00",
+  "records": [
+    {
+      "sir_id": "12584/2022",
+      "report_date": "2022-10-18",
+      "incident_date": null,
+      "location_details": "The incident(s) occurred in the Samos, Chios, Leros (Greek islands) and Evros regions. Specific events mentioned include landings on Chios (23/03/2020), Leros (03/04/2022), Samos (mid-May 2022), and multiple attempts to cross via Evros river (approx. October 2020).",
+      "where_clear": "Samos, Chios, Leros islands and Evros region, Greece",
+      "location_text_raw": "Samos, Chios, Leros (Greek islands), Evros",
+      "country_or_area": "Greece",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Samos, Chios, Leros, Evros, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "human dignity",
+          "legal_basis": "article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "right to life",
+          "legal_basis": "article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": "article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A migrant reported multiple pushbacks by Greek authorities and masked men between 2020-2022 in the Samos, Chios, Leros, and Evros regions. The report details several incidents, including being forced onto vessels and returned to Turkey, handcuffing, and confiscation of money. The Fundamental Rights Office could not conclusively establish the facts but expressed concern over frequent allegations of collective expulsion and lack of thorough investigations by Greek authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A migrant orally reported to a Fundamental Rights Monitor multiple pushbacks by Greek authorities and masked men when attempting to reach Greece over a timespan from 2020-2022 in the Samos, Chios, Leros and Evros regions.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

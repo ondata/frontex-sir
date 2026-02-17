@@ -1,0 +1,129 @@
+{
+  "source_file": "pdfs/pad-2025-00428/SIR_14196.2024_Final_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:48:28.365359+00:00",
+  "records": [
+    {
+      "sir_id": "14196/2024",
+      "report_date": "2025-09-22",
+      "incident_date": "2024-09-10",
+      "location_details": "A migrant was detected near a police station in Evros, Greece, close to the Greece-North Macedonia border. The migrant was later taken away by Hellenic Police, with conflicting accounts of the destination (bus station, hotel, or border area).",
+      "where_clear": "Near a police station in Evros, Greece, close to the Greece-North Macedonia border.",
+      "location_text_raw": "near the police station o, near the Greece-North Macedonia border, Evros, police station, somewhere close to the border with North Macedonia, taken to an unknown location near the Greece-North Macedonia border, taken to the bus station, taken to an accommodation in a nearby hotel, station where the Frontex officers were deployed",
+      "country_or_area": "Greece",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Contradictory information regarding the exact location of the police station and the final destination of the migrant (bus station, hotel, or border area).",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Access to asylum",
+          "legal_basis": "Article 18 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Protection in the event of removal, expulsion or extradition",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Rights of the child",
+          "legal_basis": "Article 24 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Right to healthcare/medical treatment",
+          "legal_basis": "Article 35 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A single migrant, limping and seeking asylum/medical treatment, was detected by Frontex officers near a police station in Evros, Greece. The migrant was handed over to Hellenic Police and subsequently taken away, but the exact destination and procedures followed remain unclear and contradictory. The Fundamental Rights Office concluded that proper identification, registration, and medical assistance procedures were likely not applied.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 12/09/2024 the Fundamental Rights Office received information reported by a Frontex officer deployed at the [redacted]. The report alleged that in at least one instance (incident on 10/09/2024) when Frontex detected a migrant near the police station o [redacted] Hellenic Police officers from [redacted] failed to correctly identify, register and provide medical assistance.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "sir_id": "14196/2024",
+      "report_date": "2025-09-22",
+      "incident_date": "2024-09-07",
+      "location_details": "A group of eight migrants, including a minor, was encountered by Frontex officers near a police station in Greece, after being refused entry to North Macedonia. They were handed over to Hellenic Police and later taken away by a police bus to an unknown location, with conflicting claims of a nearby hotel or the North Macedonian border.",
+      "where_clear": "Near a police station in Greece, close to the North Macedonia border.",
+      "location_text_raw": "near the police station, taken to an unknown location, taken to the North Macedonian border, police station, taken to an accommodation in a nearby hotel, taken to a hotel a few km away, station where the Frontex officers were deployed",
+      "country_or_area": "Greece",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Contradictory information regarding the exact location of the police station and the final destination of the migrants (nearby hotel or North Macedonian border).",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Access to asylum",
+          "legal_basis": "Article 18 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Protection in the event of removal, expulsion or extradition",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Rights of the child",
+          "legal_basis": "Article 24 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to healthcare/medical treatment",
+          "legal_basis": "Article 35 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A group of eight migrants, including a minor, was apprehended by Frontex officers near a police station in Greece after being refused entry to North Macedonia. They were handed over to Hellenic Police, who allegedly failed to conduct proper identification and vulnerability assessments. The migrants were subsequently taken away by a police bus to an unknown location, with conflicting accounts of their destination. The Fundamental Rights Office concluded that proper identification, registration, and special needs assessment, particularly for the minor, were likely not applied.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "During its investigation, the Fundamental Rights Office collected information on an additional similar incident (on 07/09/2024) where the Hellenic authorities [redacted] reportedly didn't register a group of eight [redacted] migrants including a minor, who were apprehended/brought by Frontex to the police station.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "pdfs/pad-2025-00428/14175_2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:46:25.787697+00:00",
+  "records": [
+    {
+      "sir_id": "14175/2024",
+      "report_date": "2025-08-25",
+      "incident_date": "2024-09-04",
+      "location_details": "A migrant boat was initially detected in the Maltese Search and Rescue Region, 37 NM south from Lampedusa, at coordinates 34°53'00.0\"N 12°37'00.0″E. It was subsequently sighted at 30 NM and 26 NM from Lampedusa, still within the Maltese SRR. The rescue operation took place 10 NM from Lampedusa in Italian territorial waters. The boat departed from Sabratha, Libya.",
+      "where_clear": "Maltese Search and Rescue Region, initially 37 NM south of Lampedusa (34.883333N, 12.616667E), moving towards Lampedusa; rescue occurred 10 NM south of Lampedusa in Italian territorial waters.",
+      "location_text_raw": "ten NM from Lampedusa (Italian territorial waters), 26 NM from Lampedusa (Maltese search and rescue region), 34°53'00.0\"N 12°37'00.0″E (Maltese search and rescue region, 37 NM south from Lampedusa), 34°59′00″N 012°35′00″E (Maltese SRR, 30 NM from Lampedusa), 35°04′00″N 012°33′00″E (Maltese SRR, 26 NM from Lampedusa), 35°00'00\"N 012°32'00'E",
+      "country_or_area": "Maltese Search and Rescue Region, Italian territorial waters, Lampedusa, Sabratha (Libya - departure point)",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "34.883333N 12.616667E, Maltese SAR, 37 NM south of Lampedusa",
+      "lat": 34.883333,
+      "lon": 12.616667,
+      "uncertainty_note": "Multiple positions reported over time, final rescue location described by distance from Lampedusa. Coordinates refer to initial detection.",
+      "dead_confirmed": 6,
+      "injured_confirmed": null,
+      "missing_confirmed": 21,
+      "dead_possible_min": 6,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A migrant boat with approximately 30 people departed from Sabratha, Libya. It was detected on 02/09/2024 in the Maltese SAR region by NGO Sea-Watch, which reported it to Maltese and Italian authorities. The boat capsized multiple times due to bad weather, leading to at least 6 confirmed deaths and 21 missing persons. Seven migrants were rescued on 04/09/2024 by Italian Coast Guard in Italian territorial waters, two days after initial detection. The Fundamental Rights Office is investigating the delayed rescue and potential violation of the right to life due to alleged inaction and lack of coordination by authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 04/09/2024, seven migrants were rescued by Italian Coast Guard vessel (Frontex asset) from a capsized boat ten NM from Lampedusa (Italian territorial waters). ... At least six people drowned including three minors. ... 21 persons missing: Italian non-assistance likely leads to shipwreck",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 6,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 21,
+  "dead_possible_total_min": 6,
+  "dead_possible_total_max": 6,
+  "records_invalid_skipped": 0
+}

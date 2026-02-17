@@ -1,0 +1,62 @@
+{
+  "source_file": "pdfs/pad-2025-00371/11553_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:21:50.701793+00:00",
+  "records": [
+    {
+      "sir_id": "11553/2022",
+      "report_date": "2022-05-10",
+      "incident_date": "2022-04-11",
+      "location_details": "A bus station near the border with Belarus in Lithuania. Specific location redacted.",
+      "where_clear": "Bus station near the Lithuanian-Belarusian border",
+      "location_text_raw": "at a bus station close to [redacted] about [redacted] away from the border with Belarus.",
+      "country_or_area": "Lithuania",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific bus station and distance from border are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to Asylum",
+          "legal_basis": "art.18 of the Charter of Fundamental Rights of the EU",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of refoulement",
+          "legal_basis": "art. 19 (2) of the Charter of Fundamental Rights of the EU",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A Moroccan migrant was apprehended at a bus station near the Lithuanian-Belarusian border by a joint patrol including Frontex officers. The migrant, who was observed limping, was subsequently directed back to Belarus. This action raised concerns about possible violations of the right to asylum, non-refoulement, and prohibition of inhuman and degrading treatment.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 11 April 2022, a joint patrol composed of a Lithuanian border guard and two Frontex officers were asked to assist in the search for an unknown person... The person was found, apprehended... and identified as a migrant... he was directed from the territory of Lithuania back to Belarus.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

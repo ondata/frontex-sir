@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2025-00371/11083-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:18:34.655819+00:00",
+  "records": [
+    {
+      "sir_id": "11083/2022",
+      "report_date": "2022-05-12",
+      "incident_date": "2022-03-01",
+      "location_details": "Migrants were apprehended near Durres, Albania, then transported to a detention center near Kakavia on the Albanian side of the border, and allegedly pushed back to Greece from an abandoned area near Kakavia.",
+      "where_clear": "Apprehension near Durres, Albania; detention and alleged pushback near Kakavia, Albania-Greece border.",
+      "location_text_raw": "close to Durres (Albania); detention center close to Kakavia on the Albanian side of the border; abandoned area, near Kakavia, 5-minute walk from the BCP",
+      "country_or_area": "Albania, Greece border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Durres, Albania; Kakavia border crossing, Albania-Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Multiple locations involved, described as 'close to' or 'near' specific points. Incident details are based on migrant claims.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "SIR 11083/2022 alleges that Albanian authorities transported migrants to the border with Greece and made them follow a path to the Greek side. While this allegation is consistent with accounts in other Serious Incident reports, its veracity could not be established within the framework of FRO investigation into the case. Given limited information, including also as to what the registration of the migrants entailed in detail, the Fundamental Rights Office was not able to establish that a fundamental rights violation occurred.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Two migrants claim that they were apprehended by Albanian authorites close to Durres (Albania) on 01/03/2022 and brought to a detention center close to Kakavia where they were registered and fingerprinted. In the morning of 02/03/2022, they were allegedly brought by Albanian authorities to a footpath in an abandoned area, near Kakavia, 5-minute walk from the BCP and \"pushed\" them back to Greece.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

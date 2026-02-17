@@ -1,0 +1,51 @@
+{
+  "source_file": "pdfs/pad-2025-00419/11386-2021_redacted2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:37:49.062211+00:00",
+  "records": [
+    {
+      "sir_id": "11386/2021",
+      "report_date": "2021-04-22",
+      "incident_date": "2021-04-21",
+      "location_details": "Tripoli, Tripoli, Libya; 40 nautical miles North East of Tripoli(Libya)",
+      "where_clear": "40 nautical miles North East of Tripoli, Libya (Central Mediterranean Sea)",
+      "location_text_raw": "Tripoli, Tripoli, Libya; 32.895278; 13.181111; 40 nautical miles North East of Tripoli(Libya)",
+      "country_or_area": "Libya (Central Mediterranean Sea)",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "32.895278, 13.181111",
+      "lat": 32.895278,
+      "lon": 13.181111,
+      "uncertainty_note": null,
+      "dead_confirmed": 4,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 8,
+      "dead_possible_max": 120,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "On 21st April, a grey rubber boat with about 80 persons on board was sighted adrift 40 nautical miles North East of Tripoli, Libya. FSA informed MRCC Rome, Malta, Tunis, and Libya. Due to deteriorating weather, distress communications were broadcasted. Libyan Coast Guard requested Italian MRCC to divert ships. Merchant vessels \"ALK\", \"LISBETH\", and \"MY ROSE\" proceeded to assist. On 22nd April, an empty, partially deflated rubber boat was spotted approximately 51 nautical miles North of Tripoli. A floating body was sighted. NGO vessel \"OCEAN VIKING\" and merchant vessel \"MY ROSE\" were also in the area. \"MY ROSE\" communicated finding three additional bodies, bringing their total to eight. Media outlets reported up to 120 migrants might have died. Frontex surveillance aircraft performed three flights on 21-22 April. The shipwreck likely occurred between the return of the Frontex aircraft on 21.04 and the arrival of merchant vessels. Italian authorities confirmed that under Libyan Rescue Center coordination, three merchant ships assisted, and a Libyan patrol boat rescued 104 people from one of two boats.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "FSA Sighting in Central Med capsize of a rubber boat, 4 bodies found... Merchant vessel \"MY ROSE\" spotted eight bodies in the area... Several media outlets reported that 120 migrants might have died in a shipwreck off Libya.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 4,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 8,
+  "dead_possible_total_max": 120,
+  "records_invalid_skipped": 0
+}

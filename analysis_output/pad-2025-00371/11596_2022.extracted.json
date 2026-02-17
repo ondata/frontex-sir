@@ -1,0 +1,66 @@
+{
+  "source_file": "pdfs/pad-2025-00371/11596_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:22:33.224007+00:00",
+  "records": [
+    {
+      "sir_id": "11596/2022",
+      "report_date": "2022-04-21",
+      "incident_date": "2022-04-08",
+      "location_details": "A group of 5 migrants crossed illegally the border from Belarus to Lithuania and were later returned to Belarus by Lithuanian Border Guards as part of a seven persons group.",
+      "where_clear": "Lithuania-Belarus border",
+      "location_text_raw": "border from Belarus to Lithuania",
+      "country_or_area": "Lithuania-Belarus border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Lithuania Belarus border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol 4 to the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "art. 19 (2) of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "On 08 April 2022, five migrants crossed illegally the border from Belarus to Lithuania. They were later returned to Belarus by Lithuanian Border Guards as part of a seven persons group in application of Decision No. 42 of 2 August 2021. The Fundamental Rights Office found that the Lithuanian State Border Guard did not conduct individual vulnerability assessments before returning the migrants, potentially leading to serious breaches of fundamental rights.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "a group of 5 migrants crossed illegally the border from Belarus to Lithuania were [REDACTED] by Frontex SCO. The five migrants were then redirected to Belarus by Lithuanian border guards as part of a seven persons group in application of Decision No. 42 of 2 August 2021.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

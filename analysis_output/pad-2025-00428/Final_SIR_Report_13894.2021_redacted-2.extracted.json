@@ -1,0 +1,51 @@
+{
+  "source_file": "pdfs/pad-2025-00428/Final_SIR_Report_13894.2021_redacted-2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:47:16.868695+00:00",
+  "records": [
+    {
+      "sir_id": "13894/2021",
+      "report_date": "2025-07-04",
+      "incident_date": "2021-10-08",
+      "location_details": "The incident occurred in the sea area near Lesvos Island, within Hellenic Territorial Waters, specifically in the southern area near Airport-Agrilias. The boat was later reported to be in the vicinity of the border line, moving towards Turkish coasts, and eventually immobilized within Turkish Territorial Waters.",
+      "where_clear": "Sea area south-east of Lesvos Island, within Hellenic Territorial Waters, near the border with Turkey, eventually ending in Turkish Territorial Waters.",
+      "location_text_raw": "near Lesvos Island, Hellenic Territorial Waters, south-east of Lesvos island, Turkish Territorial Waters, southern area of Lesvos, in the stretch of sea called Airport-Agrilias, sea area East of Lesvos island inside TTW, within Greek territorial waters, vicinity of the border line, towards the Turkish coasts, within Turkish territorial waters",
+      "country_or_area": "Greece (Lesvos Island), Turkey, Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "sea area south-east of Lesvos Island near Turkish border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "It is not clear how the apprehended rubber boat ended back inside the Turkish Territorial Waters, and the exact location of the interception is disputed between Greek and Italian authorities.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19(1) of EU Charter",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "An Italian Frontex vessel intercepted a rubber boat with migrants near Lesvos Island in Hellenic Territorial Waters. The Hellenic Coast Guard took over, and allegations arose of engine destruction and towing the boat to Turkish territorial waters. The Fundamental Rights Office notes similar methods by HCG in previous SIRs and expresses concern over attempts by Italian authorities to influence reporting. The Hellenic Coast Guard claims the boat moved towards Turkish waters on its own to avoid arrest. No corroborating evidence for engine destruction or towing was found, but if confirmed, it would constitute collective expulsion.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "According to the people on board, Frontex asset handed them over to a grey Greek-flagged boat, whose crew destroyed the migrant boat's engine and towed the migrants back towards Turkey where they had been left adrift.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

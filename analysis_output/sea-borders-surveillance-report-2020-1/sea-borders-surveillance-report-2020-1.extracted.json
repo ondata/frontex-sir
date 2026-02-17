@@ -1,0 +1,271 @@
+{
+  "source_file": "pdfs/sea-borders-surveillance-report-2020-1/sea-borders-surveillance-report-2020-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:51:58.298752+00:00",
+  "records": [
+    {
+      "sir_id": "11095/2020",
+      "report_date": "2020-04-30",
+      "incident_date": "2020-04-18",
+      "location_details": "Greek Territorial waters, towed towards Turkish Territorial waters, at the Greek-Turkish border.",
+      "where_clear": "Greek Territorial waters near the Greek-Turkish border, Aegean Sea",
+      "location_text_raw": "Greek Territorial waters... towards Turkish Territorial waters... at the Greek-Turkish border.",
+      "country_or_area": "Aegean Sea (Greek/Turkish border)",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Greek-Turkish border, Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The demarcation of the territorial waters of Greece and Turkey hasn't been agreed yet. The Working Group could not conclusively assess the status of the rubber boat's engine or the presence of Turkish Coast Guard vessels at the scene.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged pushback / non-refoulement violation",
+          "legal_basis": "Article 80(2) of Regulation (EU) 2019/1896, principle of non-refoulement",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Unclear status of rubber boat's engine and seaworthiness",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A Frontex Surveillance Aircraft observed an empty rubber boat being towed by a Hellenic Coast Guard vessel towards Turkish Territorial waters. Approximately 20-30 people were on board the Hellenic Coast Guard vessel and were retransferred onto the rubber boat at the Greek-Turkish border. The Hellenic Coast Guard stated the Turkish Coast Guard took over responsibility, but this could not be corroborated.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "In the night of 18 April 2020, a Frontex Surveillance Aircraft observed a rubber boat in Greek Territorial waters. The rubber boat was empty and being towed by a Hellenic Coast Guard vessel towards Turkish Territorial waters. Approximately 20-30 people were on board the Hellenic Coast Guard vessel that was towing the rubber boat. After some time, these people were retransferred onto the rubber boat at the Greek-Turkish border.",
+      "confidence": "medium",
+      "evidence_pages": [
+        21,
+        22,
+        19,
+        30
+      ]
+    },
+    {
+      "sir_id": "11860/2020",
+      "report_date": null,
+      "incident_date": "2020-07-27",
+      "location_details": "near Chios Island within Greek Territorial waters.",
+      "where_clear": "Greek Territorial waters near Chios Island, Aegean Sea",
+      "location_text_raw": "near Chios Island within Greek Territorial waters.",
+      "country_or_area": "Chios Island, Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Chios Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Disagreement between involved European entities concerning initial sighting coordinates. Contradiction between Danish and Greek presentations of mutual communication could not be resolved.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged pushback / non-refoulement violation",
+          "legal_basis": "Article 80(2) of Regulation (EU) 2019/1896, principle of non-refoulement",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Patrol boat passing at high speed near migrant boat",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A Danish helicopter detected a rubber boat with people on board near Chios Island in Greek Territorial waters. The boat was intercepted by a Hellenic Coast Guard Patrol boat. The Hellenic Coast Guard stated the migrant boat altered its course on its own towards Turkish Territorial waters.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 27 July 2020 at 06:21 LT, a Danish helicopter deployed to Joint Operation Poseidon 2020 detected a rubber boat with people on board during a patrol near Chios Island within Greek Territorial waters. After the detection by the Danish helicopter, the rubber boat was intercepted by a Hellenic Coast Guard Patrol boat.",
+      "confidence": "medium",
+      "evidence_pages": [
+        23,
+        19,
+        30
+      ]
+    },
+    {
+      "sir_id": "11934/2020",
+      "report_date": null,
+      "incident_date": "2020-08-05",
+      "location_details": "Greek Territorial waters, eastward towards Turkish Territorial waters.",
+      "where_clear": "Greek Territorial waters, towed eastward towards Turkish Territorial waters, Aegean Sea",
+      "location_text_raw": "in Greek Territorial waters... eastward towards Turkish Territorial waters.",
+      "country_or_area": "Aegean Sea (Greek/Turkish border)",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Greek-Turkish border, Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The actual events could not be conclusively clarified due to contradictory information and evidence not clarifying circumstances in relation to Hellenic Coast Guard statements.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 30,
+      "dead_possible_max": 60,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged pushback / non-refoulement violation",
+          "legal_basis": "Article 80(2) of Regulation (EU) 2019/1896, principle of non-refoulement",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "No possibility for asking for international protection",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A Frontex Surveillance Aircraft sighted a rubber boat in Greek Territorial waters, which was intercepted and presumably towed by a Hellenic Coast Guard Patrol Boat towards Turkish Territorial waters. The number of migrants was contradictory (30 or about 60, likely 60). Hellenic Coast Guard stated the boat had a working engine, people were non-cooperative, and it returned to Turkish waters on its own.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 8 August 2020 during the night, a Frontex Surveillance Aircraft reported the sighting of a rubber boat in Greek Territorial waters, which had been intercepted and presumably towed by a Hellenic Coast Guard Patrol Boat eastward towards Turkish Territorial waters. Initial information on the incident was contradictory as to the number of migrants on board (30 or about 60).",
+      "confidence": "low",
+      "evidence_pages": [
+        24,
+        10,
+        19,
+        30
+      ]
+    },
+    {
+      "sir_id": "12604/2020",
+      "report_date": null,
+      "incident_date": "2020-10-30",
+      "location_details": "inside Greek Territorial waters, moving towards Turkish Territorial waters.",
+      "where_clear": "Greek Territorial waters, near the Greek-Turkish border, Aegean Sea",
+      "location_text_raw": "inside Greek Territorial waters... towards the Turkish Territorial waters.",
+      "country_or_area": "Aegean Sea (Greek/Turkish border)",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Greek-Turkish border, Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Information gaps remain regarding Hellenic Coast Guard's measures. The incident was inconsistently categorized as 'Prevention of Departure' despite occurring in Greek Territorial waters.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged pushback / non-refoulement violation",
+          "legal_basis": "Article 80(2) of Regulation (EU) 2019/1896, principle of non-refoulement",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Inconsistent classification of incident as 'Prevention of Departure'",
+          "legal_basis": null,
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "No possibility for asking for international protection",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A Swedish Coast Guard vessel detected a rubber boat in Greek Territorial waters and handed it over to Hellenic Coast Guard. The boat was later observed moving towards Turkish Territorial waters. The Hellenic Coast Guard stated the boat was seaworthy and people were non-cooperative, preventing requests for international protection.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 30 October 2020, a Swedish Coast Guard vessel detected a rubber boat inside Greek Territorial waters. After intercepting the rubber boat, the Swedish Coast Guard Vessel handed the incident over to Hellenic Coast Guard.",
+      "confidence": "low",
+      "evidence_pages": [
+        25,
+        26,
+        10,
+        19,
+        30
+      ]
+    },
+    {
+      "sir_id": "12790/2020",
+      "report_date": null,
+      "incident_date": "2020-11-09",
+      "location_details": "Kos Island, Greek territorial waters.",
+      "where_clear": "Greek territorial waters near Kos Island, Aegean Sea",
+      "location_text_raw": "on Kos Island... in Greek territorial waters.",
+      "country_or_area": "Kos Island, Greece",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kos Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Statements and allegations could neither be substantiated nor dispelled. The Serious Incident Report is still ongoing.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged pushback / non-refoulement violation",
+          "legal_basis": "Article 80(2) of Regulation (EU) 2019/1896, principle of non-refoulement",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Alleged threatening behaviour by Hellenic Coast Guard officers",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Migrants reported to Frontex Team Members on Kos Island that a Hellenic Coast Guard Patrol Boat created large waves and made gestures implying return to Turkey upon their arrival in Greek territorial waters. The Hellenic Coast Guard presented a different chronology of events. Allegations of threatening behavior could not be substantiated from video footage for the depicted timeframe.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "During a screening procedure on Kos Island, migrants reported to Frontex Team Members that on 9 November 2020, upon their arrival with a rubber boat in Greek territorial waters, a Hellenic Coast Guard Patrol Boat arrived on scene, created large waves and made the rubber boat rock from side to side. One Border Guard Officer from the Hellenic Coast Guard made gestures with a large pointy object to imply their return back to Turkey.",
+      "confidence": "low",
+      "evidence_pages": [
+        27,
+        10,
+        19,
+        30
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": null,
+      "incident_date": "2020-04-29",
+      "location_details": "vicinity of Samos (Bellingcat report) or vicinity of Lesvos (Frontex incident No 406283).",
+      "where_clear": "Aegean Sea, vicinity of Samos or Lesvos, Greece",
+      "location_text_raw": "vicinity of Samos... vicinity of Lesvos",
+      "country_or_area": "Aegean Sea, Greece",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Samos or Lesvos, Aegean Sea, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The Working Group concluded that Frontex was not notified of or linked to the Bellingcat incident (alleged pushback near Samos). The sole Frontex-reported incident (No 406283) for that period was near Lesvos and did not raise specific concerns. However, the overall conclusion for this incident, along with others, was that it could not be completely resolved beyond reasonable doubt.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged pushback / non-refoulement violation (as reported by Bellingcat)",
+          "legal_basis": "Article 80(2) of Regulation (EU) 2019/1896, principle of non-refoulement",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "An incident involving a boat with approx. 20 persons was reported by the Agency on 29 April 2020. The Working Group examined if this was linked to a Bellingcat report of a 'maritime pushback' near Samos. It was concluded that Frontex was not notified of or linked to the Bellingcat incident. The only Frontex-reported incident (No 406283) for that period was near Lesvos and did not raise specific concerns.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "According to the information provided by the Agency, an incident, which involved a boat with approx. 20 persons on board, was reported on 29 April 2020 by the Agency.",
+      "confidence": "low",
+      "evidence_pages": [
+        28,
+        19,
+        20,
+        30
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 30,
+  "dead_possible_total_max": 60,
+  "records_invalid_skipped": 0
+}

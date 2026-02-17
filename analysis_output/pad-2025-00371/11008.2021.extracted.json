@@ -1,0 +1,85 @@
+{
+  "source_file": "pdfs/pad-2025-00371/11008.2021.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:16:29.985149+00:00",
+  "records": [
+    {
+      "sir_id": "11008/2021",
+      "report_date": null,
+      "incident_date": "2021-03-25",
+      "location_details": "Migrants screened in Almeria; one migrant reported being beaten by Guardia Civil in San Jose (Almeria).",
+      "where_clear": "Almeria and San Jose, Spain",
+      "location_text_raw": "Almeria; San Jose (Almeria)",
+      "country_or_area": "Spain",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Almeria, Spain; San Jose, Almeria, Spain",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life and human dignity",
+          "legal_basis": "Articles 1 and 2 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to integrity of the person",
+          "legal_basis": "Article 3 of EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Fundamental rights",
+          "legal_basis": "Article 4 - Frontex Code of Conduct",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Responsibility",
+          "legal_basis": "Article 7 - Frontex Code of Conduct",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Behavioural standards",
+          "legal_basis": "Article 10 (a) – Frontex Code of Conduct",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of abuse of authority and position",
+          "legal_basis": "Article 11 - Frontex Code of Conduct",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Excessive use of force",
+          "legal_basis": "Article 18 (3) - Frontex Code of Conduct",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "On 25 March 2021, 5 Algerian migrants arrived in Spain by boat. During screening in Almeria by Frontex staff, two showed signs of violence. One migrant had a bruise around his left eye without explanation. The second migrant, who could barely walk and had dry blood on his face and ears, reported being beaten by Guardia Civil personnel in San Jose (Almeria). The migrant refused to file a complaint. The Fundamental Rights Office (FRO) initiated an inquiry. Spanish authorities launched an internal investigation, reporting that two migrants were aggressive, one self-harmed, and they denied medical assistance. FRO found the Spanish authorities' information insufficient to corroborate or refute the allegations and recommended SIR closure, while emphasizing potential risks of such incidents and the importance of proper investigation and effective remedies.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The second migrant (who could barely walk and had dry blood on his face, and ears) reported to be beaten by the Guardia Civil personnel in San Jose (Almeria).",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

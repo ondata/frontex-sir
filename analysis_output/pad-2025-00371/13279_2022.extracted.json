@@ -1,0 +1,65 @@
+{
+  "source_file": "pdfs/pad-2025-00371/13279_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:31:00.636549+00:00",
+  "records": [
+    {
+      "sir_id": "13279/2022",
+      "report_date": "2022-10-04",
+      "incident_date": "2022-06-16",
+      "location_details": "The incident occurred deep inside Greek territorial waters, less than [REDACTED] the coast of Symi, involving a migrant boat that was intercepted by Frontex and later handed over to the Hellenic Coast Guard. The boat subsequently altered course and ended up in Turkish territorial waters. The interception point was described as being near Symi island, inside HTW (Hellenic Territorial Waters), and all points of detection, interception, and handover were deep inside Greek territorial waters, less than [REDACTED] the Greek coastline.",
+      "where_clear": "Near Symi island, Greek territorial waters, ending in Turkish territorial waters.",
+      "location_text_raw": "deep inside the Greek territorial waters less than [REDACTED] the coast of Symi, Turkish territorial waters, Symi island inside HTW, TTW, deep inside Greek territorial waters, all points less than [REDACTED] the Greek coastline.",
+      "country_or_area": "Greece, Turkey, Symi island, Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Symi island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates or exact distance from Symi are redacted. The precise point of entry into Turkish waters is not specified.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "human dignity",
+          "legal_basis": "article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "right to life",
+          "legal_basis": "article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": "article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office (FRO) investigated a possible pushback incident involving a migrant boat intercepted by Frontex in Greek territorial waters near Symi, which subsequently ended up in Turkish territorial waters after being handed over to the Hellenic Coast Guard (HCG). The FRO found discrepancies between Frontex's report of an 'interception' and HCG's report of 'detection'. Despite HCG's claim that the migrants voluntarily altered course, the FRO concluded that a voluntary return was unlikely given evidence of physical contact between vessels and the skipper's actions. The FRO cannot exclude that Frontex Standing Corps Officers were implicated in a pushback by Greek authorities, highlighting concerns about reporting clarity and potential violations of fundamental rights, including collective expulsion and inhuman treatment. Greek authorities provided standardized, unspecific responses to detailed questions, using identical phrasing across multiple SIRs.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Frontex [...] intercepted a migrant boat deep inside the Greek territorial waters less than [...] the coast of Symi. [...] the migrant boat ended up in Turkish territorial waters. [...] the Fundamental Rights Office cannot exclude that Frontex Standing Corps Officers, by no fault of their own, were implicated in a so-called pushback by Greek authorities.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

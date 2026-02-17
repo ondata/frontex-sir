@@ -1,0 +1,50 @@
+{
+  "source_file": "pdfs/pad-2025-00419/12403-2021_redacted2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:38:45.357577+00:00",
+  "records": [
+    {
+      "sir_id": "12403/2021",
+      "report_date": "2021-07-04",
+      "incident_date": "2021-07-02",
+      "location_details": "Tunisia SRR",
+      "where_clear": "At sea, 8 nautical miles off the coast of Tunisia, within the Tunisian Search and Rescue Region (SRR) and Flight Information Region (FIR).",
+      "location_text_raw": "Tunisi,, Tunisia",
+      "country_or_area": "Tunisia SRR",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "34.000000, 9.000000, Tunisia SRR",
+      "lat": 34.0,
+      "lon": 9.0,
+      "uncertainty_note": null,
+      "dead_confirmed": 43,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": "EU or international law",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Frontex Surveillance Aircraft (FSA) detected a boat with approximately 100 people in the Tunisian SRR. The boat was later involved in a shipwreck off Tunisia, resulting in 43 alleged drownings. Frontex informed relevant authorities (Tunisian, Libyan, Maltese, Italian). The incident happened in Tunisian territorial waters. Frontex concluded it took all possible steps and was not responsible for the event.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "FSA sighting in Central Med - shipwreck off Tunisia, 43 migrants allegedly drowned",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 43,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

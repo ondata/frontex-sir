@@ -1,0 +1,116 @@
+{
+  "source_file": "pdfs/pad-2025-00371/12779_13038-2020_and_10113_10824_10904_10908_11099_11446_11776_11750-2021.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:29:11.699619+00:00",
+  "records": [
+    {
+      "sir_id": "11776/2021",
+      "report_date": "2021-05-20",
+      "incident_date": "2021-04-13",
+      "location_details": "North of Lesvos",
+      "where_clear": "North of Lesvos, Greece",
+      "location_text_raw": "Lesvos, Lesvos, Greece; North of Lesvos; north east of Korakas, Lesvos north",
+      "country_or_area": "Lesvos, Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "North of Lesvos, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates are redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of refoulement",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Death penalty, torture or other ill-treatment",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Alleged pushback of 46 migrants by Hellenic Coast Guard (HCG) from north of Lesvos to Turkish waters. Information from Aegean Boat Report and Alarm Phone. The HCG vessel LS-609 is mentioned. Turkish Coast Guard confirmed picking up migrants. Frontex internal assessment notes potential risks of fundamental rights violations, including collective expulsion and refoulement.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "46 migrants allegedly pushed back to Turkey by HCG north of Lesvos",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "sir_id": "11750/2021",
+      "report_date": "2021-05-19",
+      "incident_date": "2020-10-30",
+      "location_details": "Greek Waters",
+      "where_clear": "Symi, Dodekaniso, Greek Waters",
+      "location_text_raw": "Symi, Dodekaniso, Greece; Greek Waters",
+      "country_or_area": "Symi, Dodekaniso, Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Symi, Dodekaniso, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates are redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of refoulement",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Death penalty, torture or other ill-treatment",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Alleged pushback of migrants (Syrian and Palestinian nationals) by Greek military ship and HCG. Migrants were reportedly pulled towards the Greek ship, then returned to their damaged boat and pushed away in orange liferafts. Turkish Coast Guard reported rescuing 18-19 migrants. Frontex internal assessment notes potential risks of fundamental rights violations, including collective expulsion and refoulement.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Group of migrants pushed back to Turkey in liferafts by HCG",
+      "confidence": "high",
+      "evidence_pages": [
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 7
+}

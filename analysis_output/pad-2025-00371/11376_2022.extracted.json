@@ -1,0 +1,66 @@
+{
+  "source_file": "pdfs/pad-2025-00371/11376_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:20:07.950495+00:00",
+  "records": [
+    {
+      "sir_id": "11376/2022",
+      "report_date": "2022-05-24",
+      "incident_date": "2022-03-31",
+      "location_details": "11 migrants crossed illegally the border from Belarus to Lithuania in the area of BCU (redacted), were apprehended and returned to Belarus by Lithuanian State Border Guards.",
+      "where_clear": "Lithuanian border with Belarus",
+      "location_text_raw": "Lithuanian territory from Belarus in the area of BCU",
+      "country_or_area": "Lithuania",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Lithuanian border with Belarus",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific area (BCU) is redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 3 of the European Convention on Human Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol 4 to the European Convention on Human Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "art. 19 (2) of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "On 31st March 2022, 11 migrants who had crossed illegally the border from Belarus to Lithuania were apprehended and returned to Belarus by Lithuanian State Border Guards in application of Decision No. 42 of 2 August 2021.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 31st March 2022, 11 migrants who had crossed illegally the border from Belarus to Lithuania were apprehended and returned to Belarus in application of Decision No. 42 of 2 August 2021",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

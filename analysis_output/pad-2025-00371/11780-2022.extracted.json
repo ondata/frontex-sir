@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2025-00371/11780-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:22:52.394960+00:00",
+  "records": [
+    {
+      "sir_id": "11780/2022",
+      "report_date": "2022-07-13",
+      "incident_date": "2022-04-16",
+      "location_details": "The alleged incident involved a migrant being detained in Montenegro, transferred to Albanian authorities, held in custody in Albania, transported to the Albanian-Greek border, and instructed to cross into Greece. The migrant was later stopped by Greek authorities near Ktismata and transported to Delvinaki A, Greece.",
+      "where_clear": "Montenegro, Albania, Albanian-Greek border, Greece (near Ktismata and Delvinaki A)",
+      "location_text_raw": "Montenegro, Albanian territory, Albanian - Greek border, BCU Delvinaki A, Greece, Ktismata",
+      "country_or_area": "Montenegro, Albania, Greece",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Montenegro, Albania, Albanian-Greek border, Ktismata, Delvinaki A, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The exact location of the detention in Montenegro, the transfer point to Albania, and the precise crossing point at the Albanian-Greek border are not specified. The incident spans multiple countries and locations.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A migrant claimed to have been detained in Montenegro, handed over to Albanian authorities, held in custody, then transported to the Albanian-Greek border and instructed to cross irregularly into Greece. The veracity of this specific allegation could not be established by the Fundamental Rights Office, but it is consistent with similar events described in other Serious Incident Reports, raising concerns about potential fundamental rights violations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "In a debriefing interview, a migrant claimed that after being detained in Montenegro, he was handed over by the police of Montenegro to the Albanian authorities. After being fingerprinted and held in custody on Albanian territory for about 1,5 days, on 16/04/2022, the migrant was transported by the Albanian police to the Albanian - Greek border and was instructed to irregularly cross it.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

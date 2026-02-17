@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2025-00371/14692_2021.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:36:37.634796+00:00",
+  "records": [
+    {
+      "sir_id": "14692/2021",
+      "report_date": "2021-12-10",
+      "incident_date": "2020-03-01",
+      "location_details": "Chios Island",
+      "where_clear": "Sea area near Chios Island, Greece, after crossing from Turkish territorial waters.",
+      "location_text_raw": "Greece, , Greece; Chios Island; Turkish territorial waters; Chios Island inside TTW; Hellenic territorial waters",
+      "country_or_area": "Greece; Türkiye; Chios Island",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Chios Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact coordinates are redacted. Incident involved crossing from Turkish to Greek territorial waters near Chios Island. Initial reports mentioned towing back to Turkey, but final outcome states rescue to Chios Island.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion / Pushback",
+          "legal_basis": "Article 19 of the EU Charter; European Court of Human Rights (ECtHR) rulings",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter; European Court of Human Rights (ECtHR) definition",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Incident involved a rubber boat with 8 migrants detected near Chios Island. Initial reports suggested an attempt to tow the boat back to Turkey, but the final outcome, corroborated by Hellenic authorities, states all migrants were rescued and transferred to Chios Island by an HCG asset. Frontex recommends closing the SIR.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Serious Incident Report no. 14692/2021. Subject: Incoming flow incident with possible infringements to fundamental rights. All eight persons on board were finally rescued and transferred to Chios Island by an HCG asset. FRO recommends the closure of the SIR.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

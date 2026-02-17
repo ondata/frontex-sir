@@ -1,0 +1,74 @@
+{
+  "source_file": "pdfs/pad-2025-00371/14149-2021.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:35:16.502480+00:00",
+  "records": [
+    {
+      "sir_id": "14149/2021",
+      "report_date": "2022-08-10",
+      "incident_date": "2021-10-26",
+      "location_details": "Incident occurred in the Aegean Sea, specifically in the sea area of Chios Island, near Gridia, within Hellenic territorial waters.",
+      "where_clear": "Off Chios Island, Aegean Sea, Greece",
+      "location_text_raw": "outside Gridia, Chios South East / Aegean Sea / sea area of Chios Island inside the Hellenic territorial waters",
+      "country_or_area": "Greece, Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Chios Island, Aegean Sea, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 4,
+      "injured_confirmed": 0,
+      "missing_confirmed": 2,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life and human dignity",
+          "legal_basis": "Articles 1 and 2 of the EU Charter of Fundamental Rights - \"the EU Charter\"",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Right to integrity of the person",
+          "legal_basis": "Article 3 of EU Charter",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19(1) of EU Charter",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "Article 18 of EU Charter",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "Article 19 (2) of EU Charter",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A boat reportedly carrying 27 people was in distress off Chios Island, Greece. A Search and Rescue (SAR) operation was launched involving the Hellenic Coast Guard, a German NATO vessel, and helicopters. The operation resulted in 22 people rescued, 4 dead bodies recovered (3 children and 1 woman), and 2 people remaining missing. The report also highlights potential fundamental rights violations and the response from Hellenic authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The SAR operation was concluded with the following result: 22 migrants rescued, 4 corpses recovered, 2 migrants missing.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 4,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 2,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

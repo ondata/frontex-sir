@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2025-00371/12044-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:24:01.688270+00:00",
+  "records": [
+    {
+      "sir_id": "12044/2022",
+      "report_date": "2022-08-30",
+      "incident_date": "2022-05-14",
+      "location_details": "Incident occurred in the Alboran Sea, within the JO Indalo operational area, near Almeria, Spain. The boat was reportedly in the Moroccan SAR zone at the time of its disappearance.",
+      "where_clear": "Alboran Sea, near Almeria, Spain, within Moroccan SAR zone.",
+      "location_text_raw": "Almeria, Spain; Alboran sea; Moroccan SAR zone; JO Indalo operational area",
+      "country_or_area": "Spain; Morocco (SAR zone); Alboran Sea",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Alboran Sea, near Almeria, Spain",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The exact location of the incident is broad, spanning the Alboran Sea, near Almeria, Spain, and reportedly within the Moroccan SAR zone/SRR at the time of disappearance.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 8,
+      "dead_possible_max": 8,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office regrets not having received additional information from Spanish authorities to understand how a boat could have been lost in the Alboran Sea for seven days without detection by competent MRCC. While Frontex involvement was not found, it remains unclear if Spanish MRCC was informed of the boat's disappearance on May 7, 2022, and if deaths could be related to a delayed SAR operation, especially as the boat was reportedly in Moroccan SRR.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 14 May 2022, A Spanish Navy Vessel rescued three migrants on a boat [redacted] Almeria. The migrants reported to Spanish authorities that eight other people were initially on the boat with them but that they all died and were thrown at sea.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 8,
+  "dead_possible_total_max": 8,
+  "records_invalid_skipped": 0
+}

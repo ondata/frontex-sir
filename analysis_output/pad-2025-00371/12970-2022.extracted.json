@@ -1,0 +1,67 @@
+{
+  "source_file": "pdfs/pad-2025-00371/12970-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:30:12.399340+00:00",
+  "records": [
+    {
+      "sir_id": "12970/2022",
+      "report_date": "2022-10-19",
+      "incident_date": "2022-04-21",
+      "location_details": "A Collecting Return Operation (CRO) involving a main charter flight and a preceding flight. Incidents occurred during transport to the airport, before take-off at an airport, and during the in-flight phase. Specific locations (departure, destination, collection point) are redacted.",
+      "where_clear": "During a return flight operation, involving multiple airports and in-flight incidents.",
+      "location_text_raw": "main charter from [redacted] to [redacted] and a preceding flight departing from [redacted] bringing the returnees to the collection point in [redacted]. during their transport to the airport and before and during the first flight. Before take-off at [redacted] airport. waiting area at [redacted] airport.",
+      "country_or_area": null,
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Key locations (departure, destination, collection point, participating Member States) are redacted, making precise geographical identification impossible. The incident spans multiple phases of an air return operation.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 3,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "right to asylum",
+          "legal_basis": "Article 18 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "safeguards pending returns",
+          "legal_basis": "Article 14 of the Return Directive (2008/115/EC)",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A Collecting Return Operation (CRO) involving multiple flights and airports. Incidents include excessive use of force by escorts against one returnee (Returnee 1) during transport to the airport and in-flight, involving kicks and a chokehold while restrained, resulting in physical injuries (hyperemia, scratches, swelling, pain). Separately, a family reported physical and verbal abuse by police officers during transport to the airport, including forced sedatives on the woman. Another returnee (Returnee 2) raised concerns about access to medicine and an alleged asylum application, leading to the suspension of his return. The Fundamental Rights Office found the excessive force against Returnee 1 to be well-established and likely disproportionate, recommending investigation. For the family and Returnee 2's asylum claim, the FRO could not establish further details.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "the Fundamental Rights Office considers that the kicks and the hold similar to a chokehold likely did not meet the criteria of necessity and proportionality amounting to excessive use of force by the [redacted] escort.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 3,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

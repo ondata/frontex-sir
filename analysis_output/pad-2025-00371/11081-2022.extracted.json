@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2025-00371/11081-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:17:55.494990+00:00",
+  "records": [
+    {
+      "sir_id": "11081/2022",
+      "report_date": "2022-05-12",
+      "incident_date": "2022-02-28",
+      "location_details": "The incident involves a migrant apprehended twice by Albanian authorities. Both times, the migrant was taken to a camp/facility and later to the border near Kakavia, where they were shown a path to return to Greece. Specific locations mentioned include Delvinaki (Greece), Sarande (Albania), an unknown camp near the border with Greece, the border line in Kakavia, and a place near Kakavia. The Gjirokaster Region in Albania is also referenced.",
+      "where_clear": "Albanian-Greek border area near Kakavia and Delvinaki",
+      "location_text_raw": "border near Kakavia, Delvinaki (Greece), Sarande, Gjirokaster Region, Greek border",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia border crossing, Albania-Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "SIR 11081/2022 alleges two accounts of Albanian authorities transporting migrants to the border with Greece near Kakavia and instructing them to cross the border. This allegation is supported by tracking data from the migrant's phone and consistency with several other Serious Incident reports. However, due to limited information, the Fundamental Rights Office could not conclusively establish the veracity of allegations or whether a fundamental rights violation occurred.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "an interviewed migrant claimed to have been apprehended twice by Albanian authorities both of which times he was brought to a camp/facility first and later to the border near Kakavia where he was shown a path to return to Greece by Albanian authorities.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

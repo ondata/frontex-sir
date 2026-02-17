@@ -1,0 +1,51 @@
+{
+  "source_file": "pdfs/pad-2025-00428/Final_SIR_14676_2024_redacted2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:46:50.584321+00:00",
+  "records": [
+    {
+      "sir_id": "14676/2024",
+      "report_date": "2025-08-28",
+      "incident_date": "2024-10-01",
+      "location_details": "The incident occurred during screening activities on shore at Cala Pañon Cortado, Cuevas del Almanzora, Almería, Spain, involving a group of 17 Algerian migrants.",
+      "where_clear": "Cala Pañon Cortado, Cuevas del Almanzora, Almería, Spain",
+      "location_text_raw": "on shore at Cala Pañon Cortado, Cuevas del Almanzora (Almería)",
+      "country_or_area": "Spain",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Cala Pañon Cortado, Cuevas del Almanzora, Almería, Spain",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A migrant reported being slapped, hit/pushed, and forced to carry a box by a Spanish officer during screening activities on shore in Almería. The Fundamental Rights Office finds it unclear if the ill-treatment occurred, as the migrant had no visible injuries and declined medical assistance.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "a migrant reported having been slapped in the face, hit/pushed in the stomach and pushed in the back by a Spanish officer.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

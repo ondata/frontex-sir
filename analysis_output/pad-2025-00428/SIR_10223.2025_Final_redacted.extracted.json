@@ -1,0 +1,59 @@
+{
+  "source_file": "pdfs/pad-2025-00428/SIR_10223.2025_Final_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:47:47.595414+00:00",
+  "records": [
+    {
+      "sir_id": "10223/2025",
+      "report_date": "2025-09-22",
+      "incident_date": "2025-01-22",
+      "location_details": "Alleged irregular return of migrants from Bulgaria to Greece. Migrants initially crossed Türkiye-Greece border near Edirne, then allegedly apprehended in Bulgaria and pushed back to Greece. Later apprehended by Hellenic police in Greece. Exact locations of apprehension and pushback are disputed and unclear.",
+      "where_clear": "Disputed Bulgaria-Greece border area",
+      "location_text_raw": "irregular return of migrants from Bulgaria to Greece, Bulgaria-Greece border area",
+      "country_or_area": "Bulgaria-Greece border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The exact location of the alleged apprehension and pushback is highly disputed between migrant testimony, Hellenic authorities, and Bulgarian authorities. The Fundamental Rights Office could not confirm the migrant's presence in Bulgarian territory. Many details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19(1) of the EU Charter for Fundamental Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to property",
+          "legal_basis": "Article 17(1) of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "On 24/01/2025, the Fundamental Rights Office received information about an alleged irregular return of 8 migrants from Bulgaria to Greece, conducted by masked police officers. Migrants were allegedly body-searched, had belongings confiscated, loaded into a police vehicle, driven, released, and commanded to walk towards Greece. They were later apprehended by Hellenic Police in Greece. The Fundamental Rights Office could not independently verify the incident. Migrant's testimony is not corroborated by Bulgarian authorities or other evidence. Bulgarian authorities deny any apprehension in their territory, while Hellenic authorities reported migrants crossed from Bulgaria to Greece. The Office notes similarities with a previous SIR (13800/2022) involving alleged pushbacks by Bulgarian border police.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office was not able to independently verify that the incident happened as alleged by the migrant. The migrant's testimony, supported by the account from the Hellenic authorities, is not corroborated by the information provided by the Bulgarian authorities nor by any other available evidence.",
+      "confidence": "low",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

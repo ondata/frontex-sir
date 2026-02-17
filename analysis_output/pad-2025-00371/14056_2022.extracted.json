@@ -1,0 +1,67 @@
+{
+  "source_file": "pdfs/pad-2025-00371/14056_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:34:28.875537+00:00",
+  "records": [
+    {
+      "sir_id": "14056/2022",
+      "report_date": "2022-12-15",
+      "incident_date": "2022-09-09",
+      "location_details": "The incident occurred in the sea area near Samos Island, within International Waters and the Greek SAR Region, involving a migrant boat that was initially detected near Samos and later observed moving towards Turkish Territorial Waters, with physical contact and escorting by a Hellenic Coast Guard asset.",
+      "where_clear": "Sea area near Samos Island, International Waters, Greek SAR Region, moving towards Turkish Territorial Waters.",
+      "location_text_raw": "Samos Island, Turkish coasts, Turkish Territorial Waters, International Waters, Greek SAR Region, JO Poseidon 2022",
+      "country_or_area": "Greece, Turkey, International Waters, Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Aegean Sea near Samos Island",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "art. 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "art. 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19(1) of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "This SIR details significant discrepancies between reports from Frontex and the Hellenic Coast Guard (HCG) regarding a migrant boat incident near Samos Island. While Greek authorities stated the boat voluntarily altered course towards Turkish waters, video evidence and crew testimonies indicated physical contact and escorting by HCG in a northerly direction, suggesting an interception and potential pushback. The report highlights concerns about frequent allegations of pushbacks by HCG and a lack of transparency from Greek authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "the video evidence contradicts this by clearly showing the migrant boat and [redacted] in physical contact side-by-side while moving north.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,84 @@
+{
+  "source_file": "pdfs/pad-2025-00419/14036-2021_redacted2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:39:29.843397+00:00",
+  "records": [
+    {
+      "sir_id": "14036/2021",
+      "report_date": "2021-10-25",
+      "incident_date": "2021-10-01",
+      "location_details": "Operational area",
+      "where_clear": "Ormenio village, Evros, Greece",
+      "location_text_raw": "Ormenio, Evros, Greece",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Ormenio, Evros, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Breaches of the right to life",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Breaches of integrity",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Breaches of asylum",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Breaches of human dignity",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of torture and inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Lack of effective remedy",
+          "legal_basis": "Article 47 of the EU Charter",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Ten irregular migrants apprehended by Greek Police in Ormenio village, Evros, Greece, alleged robbery and violent deportation from Bulgaria by Bulgarian police, including being forced to abandon clothes, shoes, and telephones. FRO assessed these allegations could amount to serious breaches of fundamental rights, including degrading treatment, collective expulsion, and lack of effective remedy.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "allegedly victims of robbery and violent deportation from Bulgaria to Greece, by the Bulgarian police authorities; (ii) that they were reportedly forced to leave their clothes, shoes and telephones in Bulgaria.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

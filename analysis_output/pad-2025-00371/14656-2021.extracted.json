@@ -1,0 +1,80 @@
+{
+  "source_file": "pdfs/pad-2025-00371/14656-2021.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:36:10.200130+00:00",
+  "records": [
+    {
+      "sir_id": "14656/2021",
+      "report_date": "2021-12-08",
+      "incident_date": "2021-12-01",
+      "location_details": null,
+      "where_clear": "Varėna district, Alytus County, Lithuania",
+      "location_text_raw": "Varėnos rajono savivaldybė, Alytaus Apskritis, Lithuania",
+      "country_or_area": "Lithuania",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Varėnos rajono savivaldybė, Alytaus Apskritis, Lithuania",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location within the district is redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Potential violation of EU and international law, related to Fundamental Rights and international protection obligations, human dignity, principle of non-refoulement, prohibition of collective expulsion, and the rights of the child, with particular concern for the right to life and health of vulnerable persons (children, one seriously ill) in harsh winter conditions.",
+          "legal_basis": "EU and international law",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Potential violation of the Frontex Code of Conduct",
+          "legal_basis": "Frontex Code of Conduct (CoC)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "National emergency measures derogating from the EU asylum acquis must be necessary and proportionate as well as consistent with Lithuania's human and fundamental rights obligations.",
+          "legal_basis": "EU asylum acquis, Lithuania's human and fundamental rights obligations",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Failure to ensure asylum-seekers have a right to lodge an asylum application",
+          "legal_basis": "EU obligations (Article 6 (2) of the APD)",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Practices of \"prevention of entry\" amounting to a breach of the prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol No. 4 to the ECHR and Article 19 (1) of the EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Failure to take specific needs of vulnerable persons into consideration",
+          "legal_basis": "Article 24(3) of the APD",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Asylum-seekers denied entry at the Lithuanian border exposed to a serious risk of \"chain-refoulement\" and inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the ECHR and 19(2) of the EU Charter",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "MSF reported a group of migrants with children denied asylum and expelled from Lithuania to Belarus on Dec 1, 2021, after temporary admission and basic assistance. One child was seriously ill, and harsh winter conditions prevailed. Lithuania claims the family voluntarily returned. The incident is linked to new Lithuanian border management procedures and potential derogations from human rights obligations during a public emergency.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "a group of migrants with children who reported that they had been denied the right to apply for asylum and were expelled from Lithuania to Belarus",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2025-00419/13497-2021_redacted2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:39:05.926350+00:00",
+  "records": [
+    {
+      "sir_id": "13497/2021",
+      "report_date": "2021-09-18",
+      "incident_date": "2021-09-17",
+      "location_details": "road between and the Turkish border",
+      "where_clear": "Road near the Turkish border in Bulgaria",
+      "location_text_raw": "road between and the Turkish border",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Road near Turkish border, Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific road and starting point are redacted/unspecified.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Potential violation of EU or international law, in particular related to Fundamental Rights and international protection obligations",
+          "legal_basis": "EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Potential violation of the Frontex Code of Conduct (CoC)",
+          "legal_basis": "Frontex Code of Conduct",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A Frontex patrol observed a man walking near the Turkish border in Bulgaria. The man, who spoke Arabic, had scratches on his arm. Later, two Bulgarian border police officers arrived and allegedly pounded the man's head and kicked him in the leg. The Bulgarian authorities later claimed the person was a Bulgarian national, not a migrant, and denied the alleged use of force, contradicting the Frontex officer's account. The Fundamental Rights Office could neither confirm nor disprove the allegations due to conflicting reports.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "One of them pounded his head from behind and kicked him in the leg.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

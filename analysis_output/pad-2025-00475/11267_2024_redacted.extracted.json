@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2025-00475/11267_2024_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:49:24.880620+00:00",
+  "records": [
+    {
+      "sir_id": "11267/2024",
+      "report_date": "2024-03-27",
+      "incident_date": "2024-03-25",
+      "location_details": null,
+      "where_clear": null,
+      "location_text_raw": null,
+      "country_or_area": null,
+      "location_type": "unknown",
+      "precision_level": "unknown",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Location details, latitude, longitude, and operational area are redacted or not provided. The report only mentions 'ICC Poseidon Sea' which is a coordination center, not the incident location.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A Frontex surveillance aircraft mission was reduced due to the hospitalization of one person. The incident led to a reduction in workforce. No connection between the illness and Frontex activities or facilities was identified, and no impact was noted.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Frontex Surveillance Aircraft reduced missions due to hospitalization... one of the had been hospitalized",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

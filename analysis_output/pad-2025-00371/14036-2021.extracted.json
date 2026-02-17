@@ -1,0 +1,84 @@
+{
+  "source_file": "pdfs/pad-2025-00371/14036-2021.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:34:00.738859+00:00",
+  "records": [
+    {
+      "sir_id": "14036/2021",
+      "report_date": "2021-10-25",
+      "incident_date": "2021-10-01",
+      "location_details": "Evros, Greece",
+      "where_clear": "Evros, Greece",
+      "location_text_raw": "Evros, Greece",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Evros, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and Longitude are redacted in the document.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to life",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Integrity",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Asylum",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of torture and inhuman and degrading treatment",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Lack of access to an effective remedy",
+          "legal_basis": "Article 47 of the EU Charter",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Ten irregular migrants apprehended in Evros, Greece, alleged robbery, violent deportation from Bulgaria to Greece by Bulgarian police, and forced abandonment of belongings. FRO assessed potential serious breaches of fundamental rights, including degrading treatment, right to life, integrity, asylum, human dignity, prohibition of torture, collective expulsion, and lack of effective remedy, citing EU Charter articles. Bulgarian authorities' information was insufficient to corroborate or refute allegations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 01/10/2021 apprehended ten irregular migrants of Greek Police officers. All of them stated: i) that they were allegedly victims of robbery and violent deportation from Bulgaria to Greece, by the Bulgarian police authorities; (ii) that they were reportedly forced to leave their clothes, shoes and telephones in Bulgaria.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

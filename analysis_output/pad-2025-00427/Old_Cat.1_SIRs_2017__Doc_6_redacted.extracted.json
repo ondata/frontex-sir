@@ -1,0 +1,42 @@
+{
+  "source_file": "pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_6_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:42:16.623496+00:00",
+  "records": [
+    {
+      "sir_id": "10256/2017",
+      "report_date": "2017-11-20",
+      "incident_date": "2017-11-19",
+      "location_details": "Text removed - Operational Area",
+      "where_clear": "Reception and Identification Centre (RIC) in Greece, within the Joint Operation Poseidon area.",
+      "location_text_raw": "RIC",
+      "country_or_area": "Greece, Aegean Sea",
+      "location_type": "facility",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Reception and Identification Centre, Greece, Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific RIC name is redacted, but context points to a facility in Greece, Aegean Sea area of operation for JO Poseidon.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "A protest and riot occurred in a Reception and Identification Centre (RIC) during Joint Operation Poseidon 2017, involving Arabic-speaking migrants. Equipment of NGOs and UNHCR was damaged, and an Anti-Riot Unit intervened to restore order. No Frontex staff were involved, and no injuries were reported.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 19.11.2017 at approx. [redacted] a protest took place in RIC [redacted]. The riot started close to the minors Section and it was provoked by few Arabic speaking migrants. There are damages of the equipment of some NGOs and UNHCR. The outside window of FX [redacted] container is broken. The Anti-Riot Unit of the HP intervened in order to re-establish the public order. At about [redacted] this morning the protest stopped. At the moment the situation is calm. No Frontex staff was involved in the incident. No information about injured people during the incident.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

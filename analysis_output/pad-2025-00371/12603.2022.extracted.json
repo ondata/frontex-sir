@@ -1,0 +1,64 @@
+{
+  "source_file": "pdfs/pad-2025-00371/12603.2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:26:25.166978+00:00",
+  "records": [
+    {
+      "sir_id": "12603/2022",
+      "report_date": "2022-09-21",
+      "incident_date": "2022-06-15",
+      "location_details": "Incident occurred in the sea area near Samos island, within Hellenic Territorial Waters, close to Turkish Territorial Waters. A rubber boat with 8-10 migrants was intercepted by Frontex and Greek Coast Guard assets, eventually heading towards and being taken over by a Turkish Coast Guard patrol boat.",
+      "where_clear": "Sea area near Samos island, Hellenic Territorial Waters, close to Turkish Territorial Waters.",
+      "location_text_raw": "at the sea area island inside Hellenic Territorial Waters.",
+      "country_or_area": "Samos, Greece, Turkey (Territorial Waters)",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Samos island, Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Threat to right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "possible violations of human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office (FRO) investigated an incident involving a migrant boat with 8-10 individuals in Hellenic Territorial Waters near Samos, which eventually ended up in Turkish Territorial Waters. The FRO noted inconsistencies between Frontex and HCG reports. Greek authorities stated migrants voluntarily moved to TTW to avoid interception, a claim the FRO could not cross-check. The FRO could not exclude the possibility of voluntary movement but also noted the boat was stationary at handover. Both Frontex and Greek border guards perceived the boat was not in distress, though the presence of vulnerable persons remains unclear. The FRO regrets not receiving a reply from Greek authorities regarding the specifics of their actions.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Based on information by the Greek Land Observatory, intercepted, on 15/06/2022 at a boat with 8 migrants at the sea area island inside Hellenic Territorial Waters. A stationary migrant boat to the Hellenic Coast Guard. The migrants later ended up in Turkish Territorial Waters.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

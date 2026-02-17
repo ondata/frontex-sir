@@ -1,0 +1,73 @@
+{
+  "source_file": "pdfs/pad-2025-00371/13856-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:33:34.646106+00:00",
+  "records": [
+    {
+      "sir_id": "13856/2022",
+      "report_date": "2022-08-26",
+      "incident_date": null,
+      "location_details": "Apprehension of an unaccompanied boy by Frontex officers in the forest, followed by handover to Bulgarian Border Police, in the border region of Bulgaria with Turkey. Bulgarian authorities deny any record of the incident or the boy's whereabouts.",
+      "where_clear": "Bulgaria-Turkey border region",
+      "location_text_raw": "in the forest, operational area, border region of Bulgaria's border with Turkey",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria Turkey border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details and coordinates are redacted in the document.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": 1,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights, art. 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "right to respect for private and family life",
+          "legal_basis": "Article 8, ECHR",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the CFREU, art. 4 Protocol 4 to the ECHR",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "rights of the child",
+          "legal_basis": "Article 24, CFREU",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "obligation to ensure primary consideration of best interests of the child",
+          "legal_basis": "Article 24 paragraph 2 of the CFREU",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Frontex officers apprehended an unaccompanied minor and handed him over to Bulgarian Border Guards. Bulgarian authorities deny any record of the incident or the boy's detention, and the boy's whereabouts remain unknown. The Fundamental Rights Office expresses high concern over the disappearance and the likely violation of the child's rights, as well as the lack of transparency and investigation from Bulgarian authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Against the backdrop of the disappearance of the boy and Bulgarian authorities' claim that they boy was not in their care despite contrary Frontex witness reports, the Fundamental Rights Office concludes that it is highly likely that the basic rights of the child in question were infringed",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 1,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,56 @@
+{
+  "source_file": "pdfs/pad-2025-00428/SIR_14995_2024_.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:49:06.631949+00:00",
+  "records": [
+    {
+      "sir_id": "14995/2024",
+      "report_date": "2025-10-10",
+      "incident_date": "2024-03-06",
+      "location_details": "The rescue occurred in the Tunisian and Libyan SRR, approximately 30 NM from Libyan shore, 25 NM from Tunisian, 120 NM from Lampedusa, Italy and 190 NM from Malta. Medical evacuation was performed in the Maltese SRR, 26 NM from Lampedusa and 110 NM from Malta, 95 NM from the position where the migrant boat was rescued. Disembarkation initially assigned to Ravenna (800 NM away), later changed to Pozzallo, Sicily.",
+      "where_clear": "Tunisian and Libyan Search and Rescue Region (SRR), near the borders of Maltese SRR, Central Mediterranean Sea.",
+      "location_text_raw": "Tunisian and Libyan search and rescue region (SRR), approximately 30 NM from Libyan shore, 25 NM from Tunisian, 120 NM from Lampedusa, Italy and 190 NM from Malta. Medical evacuation in the Maltese SRR, 26 NM from Lampedusa and 110 NM from Malta.",
+      "country_or_area": "Tunisian and Libyan SRR, Maltese SRR",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Tunisian and Libyan SRR, 30 NM from Libyan shore, 25 NM from Tunisian shore, 120 NM from Lampedusa, 190 NM from Malta",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The Office cannot determine whether, and to what extent, the alleged inaction by the Italian and Maltese authorities could have contributed to the reportedly delayed medical evacuation, resulting in violation of the right to life.",
+      "dead_confirmed": 1,
+      "injured_confirmed": 4,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Frontex surveillance aircraft detected a migrant boat in the Tunisian and Libyan SRR. NGO Sea-Watch rescued 56 migrants. Five migrants initially required medical evacuation, but authorities allegedly delayed. One person was pronounced dead two hours after the initial request for medical evacuation. Four critically injured persons were later evacuated from the Maltese SRR by the Italian Coast Guard. Allegations against Frontex for not sharing information were made by Sea-Watch, but the Fundamental Rights Office found them groundless and Frontex actions in line with obligations.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "On 06/03/2024, Frontex surveillance aircraft detected a migrant boat in the Tunisian and Libyan search and rescue region (SRR). ... Two hours after the first urgent evacuation request one rescued person was pronounced dead. Other four people in critical condition were evacuated from the Maltese SRR in the evening of the same day by the Italian Coast Guard.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 4,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

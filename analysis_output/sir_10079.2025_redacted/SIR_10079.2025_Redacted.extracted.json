@@ -1,0 +1,44 @@
+{
+  "source_file": "pdfs/sir_10079.2025_redacted/SIR_10079.2025_Redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T13:53:31.944947+00:00",
+  "records": [
+    {
+      "sir_id": "10079/2025",
+      "report_date": "2025-03-20",
+      "incident_date": "2025-01-12",
+      "location_details": "An assault occurred in Serbia, involving a person off duty from JO SERBIA 2024. The victim was hospitalized and an official investigation was opened. The exact location of the assault is redacted.",
+      "where_clear": "An assault occurred in Serbia, involving a person off duty from JO SERBIA 2024, who was hospitalized and an investigation was opened.",
+      "location_text_raw": "reported in the frame of JO SERBIA 2024",
+      "country_or_area": "Serbia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The exact location of the assault is redacted in the document.",
+      "dead_confirmed": null,
+      "injured_confirmed": 1,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "An off-duty individual involved in JO SERBIA 2024 was assaulted, hospitalized, and an official investigation was initiated.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Assault on [redacted] while off duty reported in the frame of JO SERBIA 2024",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}
