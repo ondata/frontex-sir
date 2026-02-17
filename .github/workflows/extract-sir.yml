@@ -19,14 +19,13 @@ jobs:
           lfs: true
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
         with:
-          python-version: "3.11"
-          cache: "pip"
+          enable-cache: true
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: uv pip install --system -r requirements.txt
 
       - name: Extract SIR from PDFs
         run: |
