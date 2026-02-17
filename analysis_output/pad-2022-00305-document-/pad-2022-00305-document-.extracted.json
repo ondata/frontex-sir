@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2022-00305-document-/pad-2022-00305-document-.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:27:11.766189+00:00",
+  "records": [
+    {
+      "sir_id": "10380/2019",
+      "report_date": "2019-10-19",
+      "incident_date": "2019-10-19",
+      "location_details": "Samos Island",
+      "where_clear": "Samos Island, Vathy town",
+      "location_text_raw": "Samos Island",
+      "country_or_area": "Samos Island",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Vathy, Samos Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "Migrants (approx. 130) arrived in 3 boats, screened at Text Removed - Reporting Tools premises due to closed hotspot. An attempt to transport them to the camp failed because a group of Africans started a fire. Another large group of migrants descended from the camp to Vathy town to protest bad living conditions at the reception centre, heading towards Text Removed - Reporting Tools premises for registration, escorted by Text Removed - Reporting Tools. The situation in Samos Island hotspot was deteriorating with potential conflicts. By 19:00 LT in Vathy and 20:00 LT in the Samos hotspot, the situation returned to normal. Migrants were transported to the hotspot, and fingerprinting activities began.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Currently Text Removed - Reporting Tools is screening the migrants who arrived in 3 boats (approx. 130 migrants) from the previous days in the premises of Text Removed - Reporting Tools due to closed hotspot. After the migrants from 1st boat were fully screened, Text Removed - Reporting Tools tried to transport them to the camp, but unfortunately they had to return because a group of Africans started fire once again when they saw the transportation van.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}
