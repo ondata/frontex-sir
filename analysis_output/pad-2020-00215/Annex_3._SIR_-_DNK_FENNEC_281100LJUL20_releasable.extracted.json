@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2020-00215/Annex_3._SIR_-_DNK_FENNEC_281100LJUL20_releasable.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:02:31.661920+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": "2020-07-28",
+      "incident_date": "2020-07-27",
+      "location_details": "Incident occurred in Greek Territorial Waters near Chios, Greece, within Operational Area J. Coordinates were requested to be changed to outside Greek Territorial Waters by HCG, but denied.",
+      "where_clear": "Near Chios, Greece, in Greek Territorial Waters",
+      "location_text_raw": "Chios, Greece",
+      "country_or_area": "Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Chios, Greece, Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact coordinates were redacted in the document, but the incident is stated to be within Greek Territorial Waters near Chios. There was also a request from HCG to change coordinates to outside Greek Territorial Waters, which was denied.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Potential non-access to the asylum procedure by removal",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A rubberboat with migrants was detected by a Danish Fennec Helicopter in Greek Territorial Waters near Chios. The Hellenic Coast Guard (HCG) intercepted the boat. HCG later requested the Danish detachment to change the reported coordinates to indicate the incident took place outside Greek Territorial Waters, but this request was denied. The Danish detachment assessed this request was not a misunderstanding.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Danish detachment assesses that the request from HCG to change the reported coordinates of the incident was not a case of misunderstanding.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

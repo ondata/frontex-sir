@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2020-00246/SIR_12604_releasable.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:58:53.109682+00:00",
+  "records": [
+    {
+      "sir_id": "12604/2020",
+      "report_date": "2020-10-30",
+      "incident_date": "2020-10-30",
+      "location_details": "The incident occurred in the sea area near Chios Port, approximately 1 to 1.5 nautical miles from the Turkish borderline. The Frontex patrol observed an inflatable rubber boat carrying migrants moving from East to West towards Chios Port. The Hellenic Coast Guard (HCG) later arrived and moved the vessel towards the Turkish borderline.",
+      "where_clear": "Sea area near Chios, approximately 1.5 nautical miles from the Turkish borderline.",
+      "location_text_raw": "1 NM distance from the border, coming from the E on its way to the W (towards Chios Port). Approximately 1,5 nautical miles from the Turkish borderline.",
+      "country_or_area": "Aegean Sea (near Chios, Greece / Turkey border)",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Sea area near Chios, Greece, close to Turkish border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact coordinates removed, location described relative to Chios Port and Turkish borderline.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A Frontex patrol observed an inflatable rubber boat with at least 20 migrants (men, women, children) approximately 1 NM from the border, heading towards Chios Port. The boat was black, had no lights, was fully afloat and maneuverable, and not in distress. The Hellenic Coast Guard (HCG) was called and took over the situation. The Frontex vessel observed the HCG vessel moving towards the Turkish borderline with the migrant boat's echo, which then stopped moving at the borderline. No SAR operation was initiated, and no migrants arrived in Chios on that day.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On the radarscreen we could follow the echo from the HCG Vessel, slowly moving towards the TUR borderline and not the other direction (to port). Therefore we followed the radarecho from their vessel. The echo stopped moving at the borderline.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,48 @@
+{
+  "source_file": "pdfs/pad-2020-00215/Releasable__Annex_ii_12604.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:32:30.901975+00:00",
+  "records": [
+    {
+      "sir_id": "12604/2020",
+      "report_date": "2020-10-30",
+      "incident_date": "2020-10-30",
+      "location_details": "Sea area near the border line, 1-1.5 NM from the border, in the Southern part of the operational area of a patrol starting from Chios Port. The target was moving from east towards West (Chios Port).",
+      "where_clear": "Sea area near Chios, 1-1.5 NM from the border line, Southern operational area.",
+      "location_text_raw": "1nm from the border line, 1.5 NM from the border line, Southern part of their operational area, Chios Port, border line",
+      "country_or_area": "Aegean Sea, near Chios, Greece/Turkey border area",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Sea area 1.5 NM from border line near Chios, Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact border line not specified, but context points to the sea border between Greece and Turkey near Chios.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 20,
+      "dead_possible_max": 20,
+      "possible_violations": [
+        {
+          "violation_name": "Violation of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A SWE CPB patrol observed a rubber boat with 20 migrants 1-1.5 NM from the border line. The boat was fully operational and not in distress. Hellenic Coast Guard took over the situation, and the SWE crew observed the HCG patrol boat moving towards the border line and stopping there. No SAR operation was initiated, and no migrants arrived in Chios.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "12604/2020 JO Poseidon 2020 - Serious Incident Report - Observations regarding migrants who already had crossed the border to Hellenic territory in a rubber boat. Possible violation of Fundamental Rights or international protection obligations",
+      "confidence": "high",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 20,
+  "dead_possible_total_max": 20,
+  "records_invalid_skipped": 0
+}

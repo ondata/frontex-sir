@@ -1,0 +1,265 @@
+{
+  "source_file": "pdfs/pad-2020-00037-1/PAD-2020-00037-Documents.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T07:36:54.674111+00:00",
+  "records": [
+    {
+      "sir_id": "19/2015",
+      "report_date": "2015-04-10",
+      "incident_date": "2015-02-24",
+      "location_details": null,
+      "where_clear": null,
+      "location_text_raw": "Text Removed- Justification 3",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location redacted, only country (Bulgaria) is known.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Female migrants allegedly beaten by Bulgarian police guard",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Female migrants, including a young Iraqi woman, reported being pushed and beaten by a female Bulgarian police guard after being intercepted. Other female migrants also reported similar incidents. An investigation in cooperation with the Host Nation is planned.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Female migrants allegedly beaten by Bulgarian police guard",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": null,
+      "incident_date": "2015-01-12",
+      "location_details": null,
+      "where_clear": null,
+      "location_text_raw": "Text Removed - Justification 3/ Bulgaria",
+      "country_or_area": "Bulgaria",
+      "location_type": "facility",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific facility redacted, only country (Bulgaria) is known.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Allegations on violation of Fundamental Rights",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A Syrian migrant claimed that after apprehension, a policeman took him to the WC, asked for money, took his phone, and punched him in the neck. The migrant declined to report officially.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "This policeman punched him on the back side of the migrants neck.",
+      "confidence": "medium",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "sir_id": "3884/2015",
+      "report_date": "2015-08-05",
+      "incident_date": "2015-08-04",
+      "location_details": "Operational Area of JO EPN Minerva, inside port of Ceuta",
+      "where_clear": "Port of Ceuta",
+      "location_text_raw": "Operational Area of JO EPN Minerva, inside port of Ceuta",
+      "country_or_area": "Ceuta, Spain",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Port of Ceuta, Spain",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Fundamental Rights",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Two MAR nationals, claiming to be minors, were found hiding in a truck in the port of Ceuta. A CNP officer handcuffed them and hit them in the face twice. Frontex personnel intervened. Internal procedures against the officer have been initiated, and the migrants were taken to a Children Protection Centre.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The CNP officer hit the migrants in the face twice.",
+      "confidence": "high",
+      "evidence_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Elhovo, BULGARIA",
+      "where_clear": "Elhovo",
+      "location_text_raw": "Elhovo, BULGARIA",
+      "country_or_area": "Bulgaria",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Elhovo, Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violation of Fundamental Rights",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "An Iraqi national reported multiple attempts to cross borders. In one instance, he claimed Bulgarian police apprehended his group, took their cell phones and money (around 2000€), and told them to walk towards what they said was Greece but was actually Turkey. He also mentioned being beaten and threatened by Turkish border police in a previous attempt. The migrant declined to file an official complaint.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "They took their cell phones (around 6) and all the money they had (around 2000€). It was Turkey, not Greece, and they were arrested.",
+      "confidence": "high",
+      "evidence_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "15/2015",
+      "report_date": "2015-04-04",
+      "incident_date": "2015-03-28",
+      "location_details": null,
+      "where_clear": null,
+      "location_text_raw": "Text Removed - Justification 3",
+      "country_or_area": "Bulgaria/Turkey border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location redacted, only border area (Bulgaria/Turkey) is known.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "SIR with suspected violation of fundamental rights/international protection obligations - BGR police allegedly returned migrants to TUR",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "An IRQ migrant claimed that Bulgarian police arrested him and other migrants, took their belongings (phones, jewels, sunglasses), and returned them to Turkey through a border fence. A police officer fired a shot in the air. The migrant expressed willingness to report officially.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "BGR police allegedly returned migrants to TUR",
+      "confidence": "medium",
+      "evidence_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "sir_id": "18/2015",
+      "report_date": "2015-04-10",
+      "incident_date": "2015-02-11",
+      "location_details": null,
+      "where_clear": null,
+      "location_text_raw": "Text Removed - Justification 3",
+      "country_or_area": "Elhovo, Bulgaria",
+      "location_type": "facility",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Elhovo, Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific facility redacted, but town (Elhovo) and country (Bulgaria) are known.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violation of Fundamental Rights",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "An Iraqi national, apprehended for carrying a forged passport, claimed a Bulgarian Border Police officer asked him for money (400$) to avoid passport control. When he said he only had 200$, the officer hit him (slaps and kicks). The migrant was then taken to BCP facilities. He declined to file an official complaint.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "the officer started hitting him (several slaps in his face and kicks in the back).",
+      "confidence": "medium",
+      "evidence_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "sir_id": "48/2015",
+      "report_date": "2015-05-12",
+      "incident_date": "2015-05-06",
+      "location_details": null,
+      "where_clear": null,
+      "location_text_raw": "Text Removed - Justification 3",
+      "country_or_area": "Orestiada, Greece",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Orestiada, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location redacted, but town (Orestiada) and country (Greece) are known, near a trilateral border.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Claimed violation of fundamental rights",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A Syrian national claimed to have crossed a river with his family near the trilateral border (Greece, Bulgaria, Turkey) and was apprehended. He provided information that 'appears to be a violation of Fundamental Rights'. It is unclear when and where the group was detected, and the interviewee could not identify the nationality of the officers who initially stopped them.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "the migrant provided information of what it appears to be a violation of Fundamental Rights.",
+      "confidence": "low",
+      "evidence_pages": [
+        13,
+        14
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

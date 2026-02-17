@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2020-00215/Email_4.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:23:23.981046+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": "2020-11-20",
+      "incident_date": "2020-11-09",
+      "location_details": "Incident occurred upon entering Greek waters near Kos, involving a boat with migrants. The boat was later escorted to Kos.",
+      "where_clear": "Greek waters near Kos island",
+      "location_text_raw": "Greek waters",
+      "country_or_area": "Greece, Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kos island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Pushback / Non-refoulement violation",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Endangerment / Ill-treatment",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Internal report forwarding allegations from migrants about Hellenic Coast Guard actions in Greek waters near Kos on 2020-11-09. Migrants reported HCG creating dangerous waves and attempting to force their boat back to Turkey with threatening gestures. The incident involved 31 African migrants. The report notes these are 'not documented incidents but merely the migrant's view of the incident'.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "upon entering Greek waters monday 9th of November they were met by Hellenic Coast Guard who sailed around them creating large waves making the boat rock from side to side. One of the Greek officers even took out a large pointy object and gesticulated with his hands for them to turn back to Turkey.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

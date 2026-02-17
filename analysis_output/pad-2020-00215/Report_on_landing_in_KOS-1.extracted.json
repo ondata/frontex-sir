@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2020-00215/Report_on_landing_in_KOS-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:32:50.158495+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": "2020-11-20",
+      "incident_date": "2020-11-09",
+      "location_details": "Migrants in a boat in Greek waters near Kos were intercepted by the Hellenic Coast Guard, who attempted to push them back towards Turkey before escorting them to Kos.",
+      "where_clear": "Greek waters near Kos",
+      "location_text_raw": "Greek waters, Kos, Turkey",
+      "country_or_area": "Greece (Kos)",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Greek waters near Kos",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Ill-treatment",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Attempted pushback",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Allegations by migrants of ill-treatment and attempted pushback by the Hellenic Coast Guard (HCG) patrol boat in Greek waters near Kos. The HCG allegedly created large waves, gesticulated with a pointy object, and instructed migrants to turn back to Turkey. The incident concluded with the HCG escorting the boat to Kos after the Turkish Coast Guard approached.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "upon entering Greek waters monday 9th of November they were met by Hellenic Coast Guard who sailed around them creating large waves making the boat rock from side to side. One of the Greek officers even took out a large pointy object and gesticulated with his hands for them to turn back to Turkey.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

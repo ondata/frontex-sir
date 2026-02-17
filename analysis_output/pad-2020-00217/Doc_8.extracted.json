@@ -1,0 +1,73 @@
+{
+  "source_file": "pdfs/pad-2020-00217/Doc_8.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:55:58.997951+00:00",
+  "records": [
+    {
+      "sir_id": "11251/2020",
+      "report_date": "2020-05-13",
+      "incident_date": "2020-05-12",
+      "location_details": "Tychero, Evros, Greece. Shots heard from the Turkish side.",
+      "where_clear": "Shooting incident in Tychero, Evros, Greece, near the Turkish border.",
+      "location_text_raw": "Tychero, Evros, Greece",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Tychero, Evros, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Shots heard from Turkish side, but exact firing location uncertain.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "Four shots heard from the Turkish side near Tychero, Evros, Greece. No Turkish Land Forces or other persons observed. Greek authorities found it difficult to assess the exact origin of the shots. Frontex personnel in the area heard the shots but were not directly affected.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "4 (four) shots heard on 12.05.2020 at 23:30 from the Turkish side. No Turkish Land Forces were observed nor other persons. According to Greek authority it is hardly to assess where the shots were fired from.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "11199/2020",
+      "report_date": "2020-05-06",
+      "incident_date": "2020-05-06",
+      "location_details": "Evros, Greece. Specific location redacted. Involves Turkish patrol boats.",
+      "where_clear": "Shooting incidents in Evros, Greece, involving Turkish patrol boats.",
+      "location_text_raw": "Text Removed - Justification 3, Evros, Greece",
+      "country_or_area": "Greece",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Evros, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location within Evros is redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "Two shooting incidents reported in Evros, Greece. The first involved 2 gunshots from a Turkish patrol boat with three persons on board at 14:40. The second involved 4 gunshots from another Turkish patrol boat with six persons on board at 14:45. These incidents occurred in the same location as a previous shooting incident.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "two new shooting incidents in Text Removed Justification 3, in the same location where shooting incident took place a few days ago: 1- 14:40 hours, 2 gunshots, from a Turkish patrol boat with three persons on board. 2- 14:45 hours, 4 gunshots, from another Turkish patrol boat with six persons on board.",
+      "confidence": "medium",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,193 @@
+{
+  "source_file": "pdfs/pad-2020-00089-documents/PAD-2020-00089-Documents.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T07:54:14.773345+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": "2015-12-17",
+      "incident_date": "2015-12-10",
+      "location_details": "Onboard the main charter org by DE during the flight leg; Dusseldorf-Tirana approx. time 14:10hrs- 16:30hrs",
+      "where_clear": "Onboard a charter flight from Dusseldorf, Germany to Tirana, Albania",
+      "location_text_raw": "Onboard the main charter org by DE during the flight leg; Dusseldorf-Tirana approx. time 14:10hrs- 16:30hrs",
+      "country_or_area": "Germany, Albania (in transit)",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Dusseldorf to Tirana flight path",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violation of Code of Conduct",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "An escort allegedly slapped a returnee on the face/head during a flight from Dusseldorf to Tirana.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "one of the Text Removed - Justification 2 escorts had observed how one of the Text Removed - Justification 2 escorts had slapped a returnee Text Removed - Justification 5 on the face/head during the flight leg Dusseldorf-Tirana.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "124/2015",
+      "report_date": "2015-08-31",
+      "incident_date": "2015-08-29",
+      "location_details": "Location of the incident: Text Removed Justification 4. Reference to the operational area: Yes.",
+      "where_clear": "Sea area, likely near Rhodes, Greece",
+      "location_text_raw": "Text Removed Justification 4",
+      "country_or_area": "Aegean Sea (near Rhodes, Greece)",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Aegean Sea near Rhodes, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location redacted, inferred from context of body transfer to Rhodes hospital.",
+      "dead_confirmed": 1,
+      "injured_confirmed": 1,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Use of firearms, injury of HCG officer and fatal injury of one minor migrant",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A suspicious motor yacht was intercepted, warning shots were fired, and a facilitator attacked an officer. A 17-year-old minor migrant was found dead, possibly from a gunshot, and transferred to Rhodes hospital.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "one dead 17 years old IRQ male minor was found and according to oral information provided by Health center at Text Removed - Justification 4, the fatal injury of the minor was possibly caused by a gun shot.",
+      "confidence": "medium",
+      "evidence_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "sir_id": "151/2015",
+      "report_date": "2015-09-04",
+      "incident_date": "2015-09-04",
+      "location_details": "Location of the incident: Athens Airport. Reference to the operational area: No.",
+      "where_clear": "Athens Airport, Greece",
+      "location_text_raw": "Athens Airport",
+      "country_or_area": "Greece",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Athens Airport, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violation of fundamental rights",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Two passengers from Istanbul to Athens were taken to a second line check at Athens Airport. A witness heard shouting and slapping noises from the searching room where Greek police officers were interrogating a third-country citizen.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "what I heard was shouting and noise of slapping/hitting. I don't know what really happened in the room but I heard noises.",
+      "confidence": "high",
+      "evidence_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "184/2015",
+      "report_date": "2015-10-02",
+      "incident_date": "2015-09-13",
+      "location_details": "Location of the incident: Sofia, Bulgaria. Reference to the operational area: No.",
+      "where_clear": "Sofia, Bulgaria",
+      "location_text_raw": "Sofia, Bulgaria",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Sofia, Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violation of fundamental rights - unprocessed return",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A migrant claimed Bulgarian police officers took their money and phones, then transported them back to Turkey. The investigation found no facts or evidence to confirm the claims of illegal border crossing, abuse, or return on 13.09.2015.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "During the interview the migrant claimed that the Bulgarian police officers had took their money and phones and after that transported them back to Turkey.",
+      "confidence": "high",
+      "evidence_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "sir_id": "226/2015",
+      "report_date": "2015-11-18",
+      "incident_date": "2015-11-18",
+      "location_details": "Location of the incident: Text Removed Justification 4. Reference to the operational area: No.",
+      "where_clear": "Bulgarian-Turkish border area",
+      "location_text_raw": "Text Removed Justification 4",
+      "country_or_area": "Bulgaria, Turkey",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgarian-Turkish border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location redacted, but context indicates Bulgarian-Turkish border.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violation of fundamental rights - unprocessed return",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A Syrian migrant claimed they were arrested by Bulgarian police and military near the city center (redacted) and sent back to the Turkish border. An investigation found no information regarding date and location to allow an investigation.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "He thinks these people called the police, but few minutes later a Bulgarian police patrol arrived and arrested all of them. They waited there for a half an hour and a Bulgarian military truck (Text Removed - Justification 5) arrived and sent them back to the Turkish border.",
+      "confidence": "medium",
+      "evidence_pages": [
+        11,
+        12
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

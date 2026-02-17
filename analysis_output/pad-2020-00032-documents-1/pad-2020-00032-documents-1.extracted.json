@@ -1,0 +1,183 @@
+{
+  "source_file": "pdfs/pad-2020-00032-documents-1/pad-2020-00032-documents-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T07:36:15.374702+00:00",
+  "records": [
+    {
+      "sir_id": "360/2016",
+      "report_date": "2016-04-12",
+      "incident_date": "2016-04-12",
+      "location_details": "Bulgarian Turkish land border (unknown location). The location appears to be in Bulgaria and the persons in the background are talking in Bulgarian. The video is titled \"Citizen's arrest of migrants in Strandza\" (Strandza is the mountain in the Eastern part of the BGR-TUR border).",
+      "where_clear": "Bulgarian-Turkish land border, Strandzha mountain area",
+      "location_text_raw": "Bulgarian Turkish land border (unknown location)",
+      "country_or_area": "Bulgaria-Turkey border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Strandzha mountain, Bulgaria-Turkey border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact location on the border is unknown, but the general area (Strandzha mountain) is mentioned.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Citizen's arrest of migrants",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Footage released online showed individuals 'arresting' migrants and forcing them to return to Turkey. The incident occurred in the Strandzha mountain area on the Bulgarian-Turkish border. Bulgarian authorities condemned the actions and initiated legal proceedings against the person who made the video.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "There has been footage released in internet showing some persons \"arresting\" some migrants and requesting them to leave Bulgaria and go back to Turkey.",
+      "confidence": "medium",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "sir_id": "361/2016",
+      "report_date": "2016-04-12",
+      "incident_date": "2016-04-08",
+      "location_details": "Turkish-Bulgarian border. The interviewee could only describe the scene as hilly and woody; he saw no technical obstacle.",
+      "where_clear": "Turkish-Bulgarian land border",
+      "location_text_raw": "Bulgarian Turkish land border",
+      "country_or_area": "Bulgaria-Turkey border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Turkish-Bulgarian land border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The exact area and day of the incident are not remembered by the interviewee. The location is broadly described as the Turkish-Bulgarian border.",
+      "dead_confirmed": null,
+      "injured_confirmed": 1,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Assault and robbery by armed men",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A group of 15 migrants and a facilitator were stopped by three armed men on the Turkish-Bulgarian border. The men, believed to be Bulgarian, robbed the migrants, beat the facilitator, and ordered them to wait for Bulgarian Police Forces. The migrants later released themselves. Bulgarian authorities were unable to collect concrete details due to lack of initial information.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Finally these men bond the men and furthermore hit the facilitator with a hard object and broke his arm.",
+      "confidence": "medium",
+      "evidence_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "sir_id": "488/2016",
+      "report_date": "2016-10-28",
+      "incident_date": "2016-10-24",
+      "location_details": "Open refugee camp in Kiskunhalas Hungary (interview location). Incidents occurred at the Greek-Turkish and Bulgarian-Turkish land borders. Detention in a closed camp/prison and then an open camp in the area of Sofia, Bulgaria.",
+      "where_clear": "Bulgarian-Turkish and Greek-Turkish land borders, and Kiskunhalas refugee camp, Hungary",
+      "location_text_raw": "Bulgarian Turkish and Greek Turkish land border",
+      "country_or_area": "Bulgaria-Turkey border, Greece-Turkey border, Hungary",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgarian-Turkish border, Greek-Turkish border, Kiskunhalas, Hungary",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The exact date and place of the border incidents (both GRC-TUR and BGR-TUR) are not known, estimated 3-4 months prior to the interview. The detention facility is implied to be in Bulgaria (possibly Elhovo) and then an open camp in Sofia.",
+      "dead_confirmed": 0,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Forced undressing and humiliation",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Theft of belongings",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Forced asylum application and fingerprinting",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Physical assault (beating)",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Unlawful detention/imprisonment",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A 30-year-old woman reported multiple attempts to cross the Greece-Turkey and Bulgaria-Turkey land borders, being pushed back to Istanbul. On a later attempt, she and her children were arrested by Bulgarian police, forced to undress, had belongings stolen, were beaten for refusing asylum, and detained for 21 days before being moved to an open camp in Sofia. The exact dates and locations of the border incidents are unclear.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "When they arrived at this police station they had to undress themselves until they were totally naked. They even forced the children to take off their clothes. It was humiliating! The Bulgarian police took all their belongings, documents, clothes and cell phones.",
+      "confidence": "low",
+      "evidence_pages": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "sir_id": "542/2017",
+      "report_date": "2017-02-08",
+      "incident_date": "2017-02-06",
+      "location_details": "Bulgarian Turkish land border (unknown location). Migrant interviewed in Svilengrad (BGR). Detained in BCU Kapitan Andreevo.",
+      "where_clear": "Bulgarian-Turkish land border, Svilengrad area, BCU Kapitan Andreevo",
+      "location_text_raw": "Bulgarian Turkish land border (unknown location)",
+      "country_or_area": "Bulgaria-Turkey border",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Svilengrad, Bulgaria-Turkey border, Kapitan Andreevo",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The exact time and place of the incident are not confirmed. The migrant was interviewed in Svilengrad and reported being detained in BCU Kapitan Andreevo.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Use of force (beating with a wire)",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Lack of food and water during detention",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "An Afghan male migrant interviewed in Svilengrad reported being beaten with a wire by local authorities and not provided with food or water while detained in BCU Kapitan Andreevo, near the Bulgarian-Turkish border. The investigation was obstructed due to insufficient details.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "He told that he was beaten with a wire. Migrant also said that food and water were not provided while he was detained in BCU Kapitan Andreevo.",
+      "confidence": "medium",
+      "evidence_pages": [
+        13,
+        14
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2020-00215/3a._20200724_ED_reply_to_LIBE_Chairman.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:01:34.274371+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Incident observed by aerial surveillance at the sea border between Turkey and Greece, involving people transferred from a vessel to a rubber boat and subsequently rescued by Turkish authorities. This occurred during the Rapid Border Intervention Aegean 2020.",
+      "where_clear": "Sea border between Turkey and Greece (Aegean Sea)",
+      "location_text_raw": "border between Turkey and Greece",
+      "country_or_area": "Aegean Sea (Greece/Turkey border)",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Aegean Sea between Greece and Turkey",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Push-back/Illegal collective expulsion",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Failure to render assistance to persons in distress at sea",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "An incident observed by aerial surveillance, where people were transferred from a vessel to a rubber boat and subsequently rescued by Turkish authorities. This incident, occurring during the Rapid Border Intervention Aegean 2020, led to Frontex notifying the Hellenic Coast Guard, who then launched an internal inquiry. The incident is raised in the context of potential push-backs and people left in distress at sea.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A Serious Incident Report ('SIR') was created based on a sighting of an incident by aerial surveillance where people were transferred on a rubber boat from a vessel and later on rescued by Turkish authorities.",
+      "confidence": "medium",
+      "evidence_pages": [
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

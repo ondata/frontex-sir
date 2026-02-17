@@ -1,0 +1,60 @@
+{
+  "source_file": "pdfs/pad-2020-00217/Doc_17.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:52:13.949337+00:00",
+  "records": [
+    {
+      "sir_id": "863/2019",
+      "report_date": "2019-08-06",
+      "incident_date": "2019-08-01",
+      "location_details": "The incident took place at the Greek border with North Macedonia, specifically at BCP Evzoni, under JO Focal Points 2019 Land.",
+      "where_clear": "BCP Evzoni, Greece-North Macedonia border",
+      "location_text_raw": "BCP Evzoni",
+      "country_or_area": "Greece / North Macedonia border",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "BCP Evzoni, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Code of Conduct",
+          "legal_basis": "Code of Conduct",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Vulgar, obscene or otherwise offensive speech",
+          "legal_basis": "Art. 10 d) of Frontex Code of Conduct",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Physical assault and violence",
+          "legal_basis": "Code of Conduct",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A Frontex officer (TM) at BCP Evzoni allegedly became aggressive, insulted a traveler, used offensive gestures, physically assaulted another passenger, slammed a car door, kicked a car, and caused physical and verbal violence to the traveler's wife. The officer admitted being pushed to his limits due to stress, overcrowding, and high temperatures. Measures included repatriation, disciplinary investigations, provisional suspension, and a recommendation for stress management training or psychological debriefing. The SIR case is closed from Frontex's perspective.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Alleged violations of Code of Conduct. The incident started with a traveller asking a border guard (whom he identified as Text Removed - Justification 1 officer) with a Frontex armband who he was, after the border guard allowed a line of cars to pass ahead of the traveller. The border guard did not answer the question. He became aggressive and started insulting the traveller verbally and using offensive gestures.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

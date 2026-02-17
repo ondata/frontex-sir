@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2020-00215/Releasable_SIR_Chios_301020.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:32:11.183583+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": "2020-10-30",
+      "incident_date": "2020-10-30",
+      "location_details": "The incident occurred outside of/east of Chios Port, Chios, approximately 1.5 nautical miles from the Turkish borderline. The Frontex patrol was operating in the southern part of their operational area, near the border.",
+      "where_clear": "East of Chios Port, Chios, Greece, approximately 1.5 nautical miles from the Turkish borderline.",
+      "location_text_raw": "Outside of/east of Chios Port, Chios, appr 1,5 nautical miles from the Turkish borderline",
+      "country_or_area": "Chios, Greece / Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "East of Chios Port, Chios, Greece, 1.5 nautical miles from Turkish border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "A Frontex patrol detected a rubber boat with at least 20 migrants (men, women, and children) east of Chios Port, approximately 1.5 nautical miles from the Turkish borderline. The boat was moving fast towards Chios Port. Migrants waved and shouted. Frontex assessed the boat was fully afloat, maneuverable, and not in distress. The Hellenic Coastguard (HCG) was called and took over the situation. Frontex observed the HCG vessel moving towards the Turkish borderline. No SAR operation was initiated, and no migrants were confirmed to have arrived in Chios on that day.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Outside of/east of Chios Port, Chios, appr 1,5 nautical miles from the Turkish borderline. The boat were fully afloat and manouverable, and I made the assessment that they were not in distress. Frontex observed the HCG vessel moving towards the Turkish borderline.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

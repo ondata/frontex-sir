@@ -1,0 +1,157 @@
+{
+  "source_file": "pdfs/pad-2020-00157-documents/PAD-2020-00157-documents.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T07:56:23.537640+00:00",
+  "records": [
+    {
+      "sir_id": "520/2016",
+      "report_date": "2016-12-14",
+      "incident_date": "2016-12-12",
+      "location_details": "Souda Camp - Chios Island",
+      "where_clear": "Souda Camp, Chios Island, Greece",
+      "location_text_raw": "Souda Camp - Chios Island",
+      "country_or_area": "Chios Island, Greece",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Souda Camp, Chios Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and longitude explicitly stated as unknown.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Child abuse",
+          "legal_basis": "Fundamental Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "An IRQ migrant was arrested for physically abusing his 4-year-old son at Souda Camp on Chios. The case was investigated by Hellenic Police, and the accused was found guilty of domestic physical damage and violence, receiving a five-year imprisonment sentence without suspension.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "1 IRQ migrant has been arrested in the Souda camp on 12.12.2016 by Hellenic Police officers for having abused physically his 4 year old son.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "542/2017",
+      "report_date": "2017-02-08",
+      "incident_date": "2017-02-06",
+      "location_details": "Bulgarian Turkish land border (unknown location)",
+      "where_clear": "Bulgarian-Turkish land border, near Kapitan Andreevo",
+      "location_text_raw": "Bulgarian Turkish land border (unknown location)",
+      "country_or_area": "Bulgarian-Turkish border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgarian-Turkish land border near Kapitan Andreevo",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact location and time of incident are unknown and cannot be confirmed. Latitude and longitude explicitly stated as unknown.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Use of force against migrant",
+          "legal_basis": "Fundamental Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "An AFG male migrant reported being beaten with a wire by local authorities and denied food/water while detained at BCU Kapitan Andreevo, near the Bulgarian-Turkish land border. The exact time and place of the incident could not be confirmed, and the investigation was obstructed due to insufficient details.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "During the interview, the migrant was complaining about use of force of local authorities. He told that he was beaten with a wire.",
+      "confidence": "medium",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "sir_id": "591/2017",
+      "report_date": "2017-05-13",
+      "incident_date": "2017-05-12",
+      "location_details": "Pyli Hotspot - Kos Island",
+      "where_clear": "Pyli Hotspot, Kos Island, Greece",
+      "location_text_raw": "Pyli Hotspot - Kos Island",
+      "country_or_area": "Kos Island, Greece",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Pyli Hotspot, Kos Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and longitude explicitly stated as unknown.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Sexual abuse",
+          "legal_basis": "Fundamental Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A 13-year-old unaccompanied minor from Pakistan was sexually abused by an adult Pakistani migrant at the Pyli Hotspot on Kos Island. Three alleged perpetrators were apprehended and transferred to the HP Station in Kos. The victim is receiving medical and psychological assistance.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "in RIC Pyli 01 PAK UAM (13 year old) was rapped by an adult PAK migrant.",
+      "confidence": "high",
+      "evidence_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "sir_id": "606/2017",
+      "report_date": "2017-06-08",
+      "incident_date": "2017-05-24",
+      "location_details": "Evros River, Didymoteicho",
+      "where_clear": "Evros River, near Didymoteicho, Greece",
+      "location_text_raw": "Evros River, Didymoteicho",
+      "country_or_area": "Evros River, Greece",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros River, Didymoteicho, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and longitude explicitly stated as unknown.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Refoulement",
+          "legal_basis": "Fundamental Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "An alleged unofficial refoulement occurred on May 24th along the Evros River near Didymoteicho, Greece. A family of six (including an infant) and three men, seeking asylum, were reportedly handed over by Greek police to masked gunmen and sent back to Turkey. Among them was journalist Murat Çapan, who was subsequently imprisoned in Turkey. The Hellenic League for Human Rights (HLHR) has contacted UNHCR and plans to bring the matter to Greek courts.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "An unofficial refoulement from Greece to Turkey took place along the Evros River on May 24th. This time, it concerns Turkish citizens seeking asylum in Greece, among them Murat Çapan...",
+      "confidence": "high",
+      "evidence_pages": [
+        7,
+        8
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 3,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

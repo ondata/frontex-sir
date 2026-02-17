@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2020-00217/Doc_2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:52:30.935965+00:00",
+  "records": [
+    {
+      "sir_id": "911/2019",
+      "report_date": "2019-12-08",
+      "incident_date": "2019-12-08",
+      "location_details": "Location of the incident: LCC Evros. Original source of the information: Police Station of Ferres. Subject: Two bodies found on Evros Operational Area. Information/allegations: on the bank of Evros River.",
+      "where_clear": "Evros River bank, Evros Operational Area, near Ferres, Greece",
+      "location_text_raw": "LCC Evors, Evros Operational Area, bank of Evros River",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros River, Ferres, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 2,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "Two bodies found on Evros Operational Area. On the 08.12.2019 at 11:00 HP Officers, who were patrolling the area, detected two dead bodies (female) age between 15-25 on the bank of Evros River. No travel document were found.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On the 08.12.2019 at 11:00 HP Officers, who were patrolling the area, detected two dead bodies (female) age between 15-25 on the bank of Evros River. No travel document were found.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 2,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

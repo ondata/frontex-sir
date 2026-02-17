@@ -1,0 +1,199 @@
+{
+  "source_file": "pdfs/onedrive_3_29-11-2023/doc_1-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T07:34:08.038172+00:00",
+  "records": [
+    {
+      "sir_id": "11023/2023",
+      "report_date": "2023-07-28",
+      "incident_date": "2023-02-17",
+      "location_details": "A group of 22 migrants landed on Lesvos, Greece. The group was later apprehended, forced onto a boat, transferred to a bigger boat, sailed towards Türkiye, put in a life raft and abandoned adrift. Rescued by Turkish Coast Guard in Turkish territorial waters, South-East of Lesvos island, at approx. location 38°54′06″N, 26°47'36\"E.",
+      "where_clear": "Lesvos Island, Greece and Turkish territorial waters near Lesvos.",
+      "location_text_raw": "Lesvos",
+      "country_or_area": "Greece, Türkiye (Lesvos Island, Turkish territorial waters)",
+      "location_type": "mixed",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "38°54′06″N, 26°47'36\"E",
+      "lat": 38.901667,
+      "lon": 26.793333,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 2,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office established that 17 migrants were ill-treated, subjected to theft of property, and ultimately pushed back to Türkiye by the Hellenic Coast Guard and/or individuals acting in concert and coordination with the Greek authorities. This conclusion was reached based on multiple and mutually coherent victim and witness testimonies, supported by a body of further evidence.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office established beyond doubt that 17 migrants of nationality (possibly one ) were rescued by the Turkish Coast Guard from a drifting life raft on 17/02/2023 at 14:25 LT, at approx. location 38°54′06″N, 26°47'36\"E in Turkish territorial waters, South-East of Lesvos island.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "11027/2023",
+      "report_date": "2023-06-22",
+      "incident_date": "2023-01-12",
+      "location_details": "Two incidents: an attempt to reach Samos on 12/11/2022 (intercepted near Samos coast, towed back to Turkish territorial water) and an attempt to reach Lesvos on 12/01/2023 (landed on Lesvos, apprehended, loaded on HCG vessel, taken to Turkey, abandoned in two life rafts).",
+      "where_clear": "Near Samos coast, Lesvos Island, Turkish territorial waters (Canakkale province).",
+      "location_text_raw": "Samos",
+      "country_or_area": "Greece, Türkiye (Samos, Lesvos, Turkish territorial waters)",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Samos, Greece; Lesvos, Greece; Canakkale, Turkey",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates not provided for the incidents, only general areas.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Regarding the migrant's attempt to reach Lesvos on 12/01/2023, the Fundamental Rights Office believes the migrant's account is relatively credible. The Office assesses that it is plausible that the migrant was collected by uniformed armed men on Lesvos on 12/01/2023, loaded on a Hellenic Coast Guard vessel, taken to Turkey, and abandoned with others in two drifting life rafts, as alleged.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On this basis, it is plausible that the migrant was on 12/01/2023, with other migrants, loaded on an HCG vessel off coast of Lesvos, pushed back to Turkey, and abandoned there adrift in two life rafts;",
+      "confidence": "medium",
+      "evidence_pages": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "sir_id": "11304/2023",
+      "report_date": "2023-06-16",
+      "incident_date": "2023-03-19",
+      "location_details": "A migrant apprehended on 19 March 2023 claimed ill-treatment by Serbian police near the Serbian-Bulgarian border. He had previously been in Sombor migrant camp, Serbia, and entered Hungary from Serbia before being handed back to Serbian police.",
+      "where_clear": "Serbian-Bulgarian border, Hungary, Sombor migrant camp (Serbia).",
+      "location_text_raw": "Serbian-Bulgarian border",
+      "country_or_area": "Serbia, Bulgaria, Hungary",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbian-Bulgarian border; Sombor, Serbia; Hungary",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact location on border not specified.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the ECHR",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol no. 4 to the ECHR",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "While the Fundamental Rights Office considers it credible that the migrant sustained injuries, it could not conclusively establish under what circumstances he incurred them. Allegations of Serbian officers' involvement in fundamental rights violations, and specifically the use of electric shocks, were denied by the Serbian authorities and could not be independently corroborated by the Fundamental Rights Office.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "While the Fundamental Rights Office considers it credible that the migrant sustained injuries, it could not conclusively establish under what circumstances he incurred them.",
+      "confidence": "medium",
+      "evidence_pages": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "sir_id": "11695/2023",
+      "report_date": "2023-07-07",
+      "incident_date": "2023-04-22",
+      "location_details": "A migrant boat attempting to reach Lesvos from Türkiye was stopped by a Frontex vessel in Greek territorial waters. The migrant's allegations of engine destruction, towing, and pushback were disproven. The boat turned back to Türkiye on its own and was later picked up by the Turkish Coast Guard from Turkish territorial waters.",
+      "where_clear": "Greek territorial waters near Lesvos, Turkish territorial waters.",
+      "location_text_raw": "Lesvos",
+      "country_or_area": "Greece, Türkiye (Lesvos, Aegean Sea)",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "North of Lesvos, Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "No specific coordinates provided.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "The migrant's account of events proved to be untrue as regards the allegations against Frontex and overall unreliable. Available evidence has disproven allegations of towing, engine destruction, drawing of weapons, and of a pushback from Greece to Türkiye. The Fundamental Rights Office concludes that the fundamental rights of migrants have not been violated by Frontex or the Hellenic Coast Guard.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office concludes that the fundamental rights of migrants have not been violated by Frontex or the Hellenic Coast Guard.",
+      "confidence": "high",
+      "evidence_pages": [
+        26
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 3,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

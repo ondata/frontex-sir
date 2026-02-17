@@ -1,0 +1,44 @@
+{
+  "source_file": "pdfs/pad-2020-00215/Redacted_FW_110952020_FORMAL_SIR__Frontex_Surveillance_Aircrafts_Sighting_in_Eastern_Aegean.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:30:51.253133+00:00",
+  "records": [
+    {
+      "sir_id": "11095/2020",
+      "report_date": "2020-04-23",
+      "incident_date": "2020-04-18",
+      "location_details": "Incident occurred between the Greek and Turkish maritime border near the island of Lesvos, specifically north of Lesvos. A rubber boat was later found adrift at different coordinates.",
+      "where_clear": "North of Lesvos, Eastern Aegean Sea, near Greek-Turkish maritime border",
+      "location_text_raw": "between the Greek and Turkish maritime border near the island of Lesvos; north of Lesvos (39° 26' 45''N - 026° 26' 21''E); 39°16′N 026°35′E",
+      "country_or_area": "Eastern Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "39.445833, 26.439167, north of Lesvos, Greece",
+      "lat": 39.445833,
+      "lon": 26.439167,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A Frontex Surveillance Aircraft observed a Greek patrol boat towing an empty rubber boat, then transferring approximately 20-30 migrants onto it, and later leaving the rubber boat adrift near the Greek-Turkish maritime border north of Lesvos. Greek authorities subsequently informed that the rubber boat landed safely on Turkish shores under the monitoring of a Turkish Coast Guard vessel.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "At 23:05 Frontex Surveillance Aircraft (FSA) spots a rubber boat with approx. 20-30 POB, stopped, and one Greek Patrol vessel is very close. ... At 02:46 Frontex Surveillance Aircraft takes a picture of a Greek patrol vessel towing the rubber boat with migrants on board towards TUR Territorial Waters with course 051°.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

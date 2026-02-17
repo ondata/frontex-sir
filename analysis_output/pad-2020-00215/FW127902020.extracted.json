@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2020-00215/FW127902020.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:25:00.236773+00:00",
+  "records": [
+    {
+      "sir_id": "12790/2020",
+      "report_date": "2020-11-22",
+      "incident_date": "2020-11-09",
+      "location_details": "Incident occurred in the sea area NE of Kos island, involving Greek and Turkish territorial waters. Migrants reported being met by HCG vessel creating large waves, signaled to return to Turkey, then TCG arrived, and finally HCG escorted them to Kos island. Greek authorities reported initial detection in Turkish waters, TCG escorting towards Greek waters, obstructing HCG, and creating waves.",
+      "where_clear": "Sea area NE of Kos island, Aegean Sea, involving Greek and Turkish territorial waters.",
+      "location_text_raw": "Greek territorial waters; Kos island; sea area NE of Kos island inside Turkish territorial waters; Turkish waters",
+      "country_or_area": "Greece, Turkey, Aegean Sea, Kos island",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Sea area NE of Kos island, Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Violation of Fundamental Rights or International protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Report highlights inconsistencies between migrant statements and Greek authorities' reports regarding an incident on November 9th, 2020, involving a rubber boat with 30 migrants near Kos island. Migrants reported HCG harassment and pushback attempt, while Greek authorities described a confrontation between HCG and TCG in both Turkish and Greek waters, with TCG obstructing HCG and creating dangerous waves. All migrants were safely disembarked in Kos.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "FW: 12790/2020: JO Poseidon 2020– Serious Incident Report - Possible violation of Fundamental Rights or International protection obligations; On November 9th, at 05:20 a rubber boat with thirty (30) migrants on board was detected by HCG CPB... all migrants were safely disembarked in Kos.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

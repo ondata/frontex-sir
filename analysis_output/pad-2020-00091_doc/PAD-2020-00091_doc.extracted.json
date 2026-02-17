@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2020-00091_doc/PAD-2020-00091_doc.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T07:54:33.961130+00:00",
+  "records": [
+    {
+      "sir_id": "714/2018",
+      "report_date": "2018-04-20",
+      "incident_date": "2018-04-19",
+      "location_details": "On board an aircraft during a return operation from Austria to Nigeria and Gambia. The incident occurred when two escort officers were injured by a Gambian returnee.",
+      "where_clear": "On board an aircraft in international airspace during a return operation from Austria to Nigeria and Gambia.",
+      "location_text_raw": "On board of aircraft during return ops from Austria and Nigeria/Gambia",
+      "country_or_area": "International airspace / between Austria, Nigeria, Gambia",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Location is an aircraft in transit between multiple countries, specific coordinates unknown and explicitly stated as unknown in the report.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 2,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "During a Joint Return Operation (JRO) led by Austria, two escort officers were injured (bitten) by a Gambian returnee due to aggressive behavior on the flight. The JRO involved 34 returnees (28 Nigerian, 6 Gambian) and participation from Belgium, Bulgaria, Switzerland, France, Luxembourg, Hungary, Germany, and Sweden.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Two officers injured during Join Return Operation",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 2,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

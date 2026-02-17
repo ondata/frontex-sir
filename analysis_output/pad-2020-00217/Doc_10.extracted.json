@@ -1,0 +1,73 @@
+{
+  "source_file": "pdfs/pad-2020-00217/Doc_10.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:35:25.530806+00:00",
+  "records": [
+    {
+      "sir_id": "10809/2020",
+      "report_date": "2020-03-19",
+      "incident_date": "2020-03-18",
+      "location_details": "Location of the incident: Text Removed - Justification 4. Reference to the operational area: Yes. Final outcome: hospitalized in Alexandroupolis.",
+      "where_clear": "Alexandroupolis, Greece",
+      "location_text_raw": "Text Removed - Justification 4",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Alexandroupolis, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact location of incident redacted; hospitalization location is Alexandroupolis.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A Frontex-involved individual, part of Hellenic Police, tested positive for COVID-19. The individual followed local procedures, informed a doctor, and was quarantined. After not improving, a COVID-19 test was performed, which was positive. The individual is currently hospitalized in Alexandroupolis. Equipment used by other individuals was washed and disinfected.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Hellenic Police Office COVID-19 Confirmation Case... Nowadays, Text Removed - Justification 2 is hospitalized in Alexandroupolis.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "10804/2020",
+      "report_date": "2020-03-18",
+      "incident_date": "2020-03-18",
+      "location_details": "Location of the incident: Text Removed - Justification 4. Reference to the operational area: Yes. Information/Allegations: ...hospitalized at the Military Hospital in Sofia.",
+      "where_clear": "Sofia, Bulgaria",
+      "location_text_raw": "Text Removed - Justification 4",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Military Hospital, Sofia, Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact location of incident redacted; hospitalization location is Military Hospital in Sofia.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A Frontex-deployed individual in Bulgaria was hospitalized at the Military Hospital in Sofia with symptoms compatible with COVID-19. The individual had experienced breathing difficulties and chest/lung pain. Initial medical assistance was provided, but symptoms worsened, leading to hospitalization. A COVID-19 test was performed, which later returned a NEGATIVE result. The individual was discharged and sent to accommodation.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "One Text Removed - Justification 2 hospitalized in Sofia Military Hospital... On 20.03.2020 around 10:30, Text Removed - Justification 2 was informed that Covid-19 test gave a NEGATIVE result.",
+      "confidence": "medium",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

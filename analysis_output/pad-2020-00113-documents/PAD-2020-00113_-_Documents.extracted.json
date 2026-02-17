@@ -1,0 +1,193 @@
+{
+  "source_file": "pdfs/pad-2020-00113-documents/PAD-2020-00113_-_Documents.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T07:55:21.470928+00:00",
+  "records": [
+    {
+      "sir_id": "331/2016",
+      "report_date": "2016-02-11",
+      "incident_date": "2016-02-01",
+      "location_details": "Location of the incident: Text Removed - Justification 3. Is latitude unknown: Yes. Latitude: . Is longitude unknown: Yes. Longitude: . Reference to the operational area: Yes.",
+      "where_clear": "Unknown location in Hungary, near the border.",
+      "location_text_raw": "Text Removed - Justification 3",
+      "country_or_area": "Hungary",
+      "location_type": "land",
+      "precision_level": "unknown",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Location details are redacted and marked as unknown. Inferred country from context.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Allegations on violation of Fundamental Rights",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A migrant from Morocco reported being apprehended by Hungarian police on February 1st. He claimed police emptied his pockets, beat him, and stole 150 euro. He also stated similar incidents happened to others in his group. Another migrant from the same group did not report beating/robbery. The migrant declined to file an official report. Hungarian authorities were informed.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "the Hungarian police came up to him, emptied his pockets and then beat him. ... Hungarian police stole 150 euro from him",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "337/2016",
+      "report_date": "2016-02-23",
+      "incident_date": "2016-02-09",
+      "location_details": "Location of the incident: unknown location at Croatian Serbian border. Is latitude unknown: Yes. Latitude: . Is longitude unknown: Yes. Longitude: . Reference to the operational area: No.",
+      "where_clear": "Croatian-Serbian border area, with mentions of Kelebia, Sid, Subotica, and Hungarian border.",
+      "location_text_raw": "unknown location at Croatian Serbian border",
+      "country_or_area": "Croatia-Serbia border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Croatian Serbian border, Kelebia, Sid, Subotica",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location is unknown, but multiple towns and borders are mentioned, indicating a broad area.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Received information on alleged violation of Fundamental Rights",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "An 18-year-old Moroccan migrant reported being apprehended by Croatian police after crossing the Serbian-Croatian border. He claimed police beat him and sent him back to Serbia. He then traveled through Sid and Subotica, was apprehended by Serbian police near the Hungarian border, told to walk back, and later apprehended by Hungarian police in Kelebia after hiding on a freight train.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "After the subject crossed the border he was aprehended by the police of Croatie. They took the subject back to the Serbian border, beat him and send him back to Serbia.",
+      "confidence": "medium",
+      "evidence_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "sir_id": "341/2016",
+      "report_date": "2016-02-26",
+      "incident_date": "2016-02-04",
+      "location_details": "Location of the incident: unknown location at Greek Turkish land border. Is latitude unknown: Yes. Latitude: . Is longitude unknown: Yes. Longitude: . Reference to the operational area: No.",
+      "where_clear": "Greek-Turkish land border area.",
+      "location_text_raw": "unknown location at Greek Turkish land border",
+      "country_or_area": "Greece-Turkey border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Greek Turkish land border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location is unknown, but the border area is clearly stated.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violation of FR: Unprocessed return from Greece to Turkey",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "An Iraqi national reported being apprehended by police after crossing into Greece from Turkey. He claimed they were held for 10 hours, badly treated, beaten, and had their phones taken before being returned across the river to Turkey by police speed boat. Hellenic authorities later stated no collective expulsions or Hellenic Police involvement were found after investigation.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "were put in a police speed boat and taken across the river to turkey and were told to go back. During this time they were very badly treated and some of the migrants were beaten by the policemen",
+      "confidence": "medium",
+      "evidence_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "360/2016",
+      "report_date": "2016-04-12",
+      "incident_date": "2016-04-12",
+      "location_details": "Location of the incident: Bulgarian Turkish land border (unknown location). Is latitude unknown: Yes. Latitude: . Is longitude unknown: Yes. Longitude: . Reference to the operational area: No.",
+      "where_clear": "Bulgarian-Turkish land border, specifically the Strandza mountain area.",
+      "location_text_raw": "Bulgarian Turkish land border (unknown location)",
+      "country_or_area": "Bulgaria-Turkey border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Strandza mountain, Bulgarian Turkish land border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location is unknown, but the border area and a specific mountain range (Strandza) are mentioned.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Information from open sources about \"Citizen's arrest\" of migrants at the BGR - TUR land border",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Footage released online showed individuals 'arresting' migrants and forcing them back to Turkey at the Bulgarian-Turkish border, specifically in the Strandza mountain area. Bulgarian authorities condemned these actions as illegal, stating the citizens had no police powers. The person who made the video was arrested, and pre-trial proceedings are ongoing.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "footage released in internet showing some persons \"arresting\" some migrants and requesting them to leave Bulgaria and go back to Turkey. ... The video is titled \"Citizen's arrest of migrants in Strandza\"",
+      "confidence": "high",
+      "evidence_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "sir_id": "361/2016",
+      "report_date": "2016-04-12",
+      "incident_date": "2016-04-08",
+      "location_details": "Location of the incident: Bulgarian Turkish land border. Is latitude unknown: Yes. Latitude: . Is longitude unknown: Yes. Longitude: . Reference to the operational area: No.",
+      "where_clear": "Bulgarian-Turkish land border.",
+      "location_text_raw": "Bulgarian Turkish land border",
+      "country_or_area": "Bulgaria-Turkey border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgarian Turkish land border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location is unknown, but the border area is clearly stated.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Information obtained during an interview about alleged violation of Fundamental Rights",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "An Iraqi migrant reported an incident at the Turkish-Bulgarian border where armed, masked men (believed to be Bulgarian) threatened migrants and a facilitator, searched them, stole money and belongings, and broke the facilitator's arm. The migrants were then ordered to lie down and wait for Bulgarian Police, but the men disappeared. Bulgarian Border Police were unable to collect more concrete details due to a shortage of initial information, leading to a suggestion to close the SIR.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "hit the facilitator with a hard object and broke his arm.",
+      "confidence": "medium",
+      "evidence_pages": [
+        11,
+        12
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

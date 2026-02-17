@@ -1,0 +1,62 @@
+{
+  "source_file": "pdfs/pad-2020-00215/2020.05.01_Final_SIR__Report_11095.2020__final_redacted-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:00:50.181228+00:00",
+  "records": [
+    {
+      "sir_id": "11095/2020",
+      "report_date": "2020-04-30",
+      "incident_date": "2020-04-18",
+      "location_details": "The incident occurred in the Eastern Aegean Sea, specifically north of Lesvos island, near the Greek and Turkish maritime border, at coordinates 39°16′N 026°35'E.",
+      "where_clear": "Eastern Aegean Sea, north of Lesvos island, near Greek-Turkish maritime border",
+      "location_text_raw": "Eastern Aegean; between the Greek and Turkish maritime border near the island of Lesvos; north of Lesvos; at 39°16′N 026°35'E",
+      "country_or_area": "Eastern Aegean Sea (Greece/Turkey border area)",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "39.266666, 26.583333",
+      "lat": 39.266666,
+      "lon": 26.583333,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "unprocessed return",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "violation of the principle of non-refoulement",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "violation of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A Frontex surveillance aircraft sighted a migrant boat with approximately 20-30 persons on board being towed by a Hellenic Coast Guard (HCG) vessel, with a Turkish Coast Guard (TCG) vessel also present. The migrants were subsequently reloaded onto a rubber boat, which was then towed towards Turkish Territorial Waters. The rubber boat was later observed adrift without an engine. Greek authorities reported that the boat eventually landed safely on Turkish shores under TCG monitoring. The incident raised concerns about potential unprocessed return and violations of non-refoulement and fundamental rights.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "SIR incident: 11095/2020: FORMAL SIR - Frontex Surveillance Aircraft's Sighting in Eastern Aegean. Based on the initial information it is suspected that the incident has characteristics of a case of an unprocessed return and violation of the principle of non-refoulement.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2020-00215/Redacted_11934.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:29:42.346058+00:00",
+  "records": [
+    {
+      "sir_id": "11934/2020",
+      "report_date": "2020-08-07",
+      "incident_date": "2020-08-11",
+      "location_details": "Migrant boat detected in Greek territorial waters east of Lesvos, towed towards Turkish territorial waters by Greek Coast Guard. Coordinates: 39.2838888888, 26.4641666666.",
+      "where_clear": "East of Lesvos, Greek territorial waters",
+      "location_text_raw": "Lesvos, Lesvos, Greece; N 39°17'02\", E 026°27'51\", East of Lesvos, in the Greek territorial waters",
+      "country_or_area": "Greece, Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "39.2838888888, 26.4641666666",
+      "lat": 39.2838888888,
+      "lon": 26.4641666666,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "On 05/08/2020, at 01:41 Greek LT, Frontex Surveillance Aircraft (FSA) Metis sighted a migrant boat with approximately 30 people on board, in Greek territorial waters, towed eastwards towards Turkish territorial waters by a Greek Coast Guard patrol vessel. The incident was registered as a 'Prevention of Departure'. The Assessment indicates the migrant boat was towed by HCG naval assets towards the Turkish TW, and Turkish press releases confirm migrants were pushed back by the Greek Coast Guard.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "migrant boat with approximately 30 people on board, in position N 39°17'02\", E 026°27'51\", East of Lesvos, in the Greek territorial waters, towed eastwards towards Turkish territorial waters by a Greek Coast Guard patrol vessel.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

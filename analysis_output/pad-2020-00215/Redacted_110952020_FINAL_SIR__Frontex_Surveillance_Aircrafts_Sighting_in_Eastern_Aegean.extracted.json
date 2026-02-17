@@ -1,0 +1,53 @@
+{
+  "source_file": "pdfs/pad-2020-00215/Redacted_110952020_FINAL_SIR__Frontex_Surveillance_Aircrafts_Sighting_in_Eastern_Aegean.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:29:16.723543+00:00",
+  "records": [
+    {
+      "sir_id": "11095/2020",
+      "report_date": "2020-05-05",
+      "incident_date": null,
+      "location_details": "The boat was first sighted in Turkish territorial waters in the Eastern Aegean Sea. The incident involved coordination between Greek and Turkish authorities.",
+      "where_clear": "Eastern Aegean Sea, Turkish territorial waters",
+      "location_text_raw": "Turkish territorial waters",
+      "country_or_area": "Eastern Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Eastern Aegean Sea, Turkish territorial waters",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Violation of Fundamental Rights",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Violation of international protection obligations",
+          "legal_basis": "principle of non-refoulement",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A Frontex surveillance aircraft sighted an incident in the Eastern Aegean. A Hellenic Coast Guard (HCG) patrol boat, not co-financed by Frontex, was involved. The HCG stated the boat was first sighted in Turkish territorial waters. Migrants were initially safe on the Greek patrol boat but were later placed back in a rubber boat, left adrift without propulsion, leading to a distress situation. This sequence of events indicates a strong possibility of fundamental rights violations and non-refoulement. HCG will be requested to conduct an internal investigation.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "There is a strong indication that these facts could support an allegation of possible violation of Fundamental Rights or international protection obligations such as the principle of non-refoulement.",
+      "confidence": "high",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

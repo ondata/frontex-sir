@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2020-00215/SIR_12604_releasable.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:34:05.297378+00:00",
+  "records": [
+    {
+      "sir_id": "12604/2020",
+      "report_date": "2020-10-30",
+      "incident_date": "2020-10-30",
+      "location_details": "The incident occurred approximately 1.5 nautical miles from the Turkish borderline, near Chios Port, Greece. A rubber boat with migrants was observed moving towards Chios Port, then intercepted by the Hellenic Coast Guard and escorted towards the Turkish borderline.",
+      "where_clear": "Near Chios Port, 1.5 nautical miles from Turkish borderline",
+      "location_text_raw": "1 NM distance from the border... approximately 1,5 nautical miles from the Turkish borderline",
+      "country_or_area": "Aegean Sea (near Chios, Greece/Turkey border)",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Chios Port, Greece, 1.5 NM from Turkish border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact coordinates removed, location inferred from narrative and distance from border.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A Frontex patrol observed a rubber boat with at least 20 migrants (men, women, children) near Chios Port, 1.5 NM from the Turkish borderline. The boat was fully afloat and not in distress. The Hellenic Coast Guard (HCG) was called, took over the situation, and was observed moving the vessel towards the Turkish borderline. No SAR operation was initiated, and no migrants arrived in Chios on that day.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The estimated number of migrants was at least 20 (men, women, children). ... On the radarscreen we could follow the echo from the HCG Vessel, slowly moving towards the TUR borderline and not the other direction (to port). The echo stopped moving at the borderline.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,59 @@
+{
+  "source_file": "pdfs/pad-2020-00215/Redacted_12790.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:30:07.816939+00:00",
+  "records": [
+    {
+      "sir_id": "12790/2020",
+      "report_date": "2020-11-21",
+      "incident_date": "2020-11-09",
+      "location_details": "The incident occurred in the sea area northeast of Kos island, within Greek territorial waters, during an interception by the Hellenic Coast Guard. The migrants were later disembarked at Kos island.",
+      "where_clear": "Sea area northeast of Kos island, Greece",
+      "location_text_raw": "Greek waters; sea area NE of Kos island inside TTW.",
+      "country_or_area": "Aegean Sea, Greece (near Kos island)",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "sea area NE of Kos island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Pushback attempt / Obstruction of access to asylum",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Dangerous maneuvering / Endangerment of lives",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "On 20 November 2020 we had 36 migrants arriving from 3 different incidents. In one of the incidents several of the migrants from the same incident (boat) told us that upon entering Greek waters monday 9th of November they were met by Hellenic Coast Guard who sailed around them creating large waves making the boat rock from side to side. One of the Greek officers even took out a large pointy object and gesticulated with his hands for them to turn back to Turkey. The Hellenic Coast Guard stopped after approximately 40 minutes when the Turkish Coast Guard came sailing towards the Greeks and asked them to stop. After that the Hellenic Coast Guard escorted the boat to Kos where they were taken into custody. This information were told by several of the 31, primarily, african migrants on the boat. They, of course, feared for their lives. These are not documented incidents but merely the migrant's view of the incident. We have no video nor pictures, only their testimony. Information provided to the OT of JO Poseidon from Text Removed - Reporting Tools; Human Resource related to some allegations from migrants against the actions of the HCG during the interception of their boat on the 09.11.2020. The migrants in subject were rescued in below incident: 01 incoming flow incident occurred in Kos involving 30 (TBC) migrants and an arrest of 1(TBC) facilitator. On 9th November 2020 at 05:20 a rubber boat with thirty (30) migrants on board was detected by HCG CPB Text Removed - Technical Equipment and Text Removed - Technical Equipment at the sea area NE of Kos island inside TTW. After detection JRCC Piraeus informed MRCC Ankara and simultaneously a TUR CG vessel which was close to the boat of migrants was informed but did not respond to the incident at all. Afterwards the TUR CG vessel escorted the above mentioned rubber boat towards to the HTW, obstructing the actions of the HCG CPB and exposing the lives of the migrants in danger. Subsequently, the TUR CG vessel left the area and all migrants were safely disembarked to Kos island under the close monitoring of HCG CPB Text Removed - Technical Equipment. One (1) facilitator was arrested. Text Removed - Reporting Tools; Human Resource informed that the migrants mentioned the allegations during the screening. Currently Greek authorities are not aware of any complaint from the migrants and at this moment (21/11 10:50) they are not investigating the case.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "upon entering Greek waters monday 9th of November they were met by Hellenic Coast Guard who sailed around them creating large waves making the boat rock from side to side. One of the Greek officers even took out a large pointy object and gesticulated with his hands for them to turn back to Turkey. ... at the sea area NE of Kos island inside TTW.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

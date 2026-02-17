@@ -1,0 +1,44 @@
+{
+  "source_file": "pdfs/pad-2020-00215/RE_110952020-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:28:31.613790+00:00",
+  "records": [
+    {
+      "sir_id": "11095/2020",
+      "report_date": "2020-04-30",
+      "incident_date": "2020-04-19",
+      "location_details": "A boat carrying a number of people was first sighted by a Frontex participating unit in Turkish territorial waters in the Eastern Aegean.",
+      "where_clear": "Turkish territorial waters, Eastern Aegean Sea",
+      "location_text_raw": "Eastern Aegean",
+      "country_or_area": "Eastern Aegean Sea, Turkey",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Turkish territorial waters Eastern Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "The incident involved a boat carrying people sighted by a Frontex unit in Turkish territorial waters. Turkish and Greek authorities coordinated to address the illegal border crossing, ensuring the safety of the persons concerned and respecting their rights, also considering health risks related to the COVID-19 outbreak. All actions were conducted smoothly and in full compliance with international law.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "These circumstances involved a boat carrying a number of people which was first sighted by a Frontex participating unit in Turkish territorial waters.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,47 @@
+{
+  "source_file": "pdfs/onedrive_3_29-11-2023/doc_1-2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T07:34:39.117792+00:00",
+  "records": [
+    {
+      "sir_id": "11695/2023",
+      "report_date": "2023-04-29",
+      "incident_date": "2023-04-22",
+      "location_details": "The incident involved a migrant boat in the North Aegean Sea, initially detected near Lesvos island in Greek territorial waters. It was intercepted by a Frontex vessel and subsequently handed over to the Hellenic Coast Guard near the maritime border between Türkiye and Greece. The boat eventually proceeded towards Turkish territorial waters where migrants were collected by the Turkish Coast Guard near Çanakkale's Ayvacık district.",
+      "where_clear": "North Aegean Sea, near Lesvos island and Çanakkale's Ayvacık district, close to the Türkiye-Greece maritime border.",
+      "location_text_raw": "near Lesvos",
+      "country_or_area": "Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "North Aegean Sea near Lesvos island, Greece and Çanakkale Ayvacık, Turkey",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "The Fundamental Rights Office investigated SIR 11695/2023 concerning a migrant boat incident in the North Aegean Sea near Lesvos. A Frontex vessel intercepted a migrant boat in Greek territorial waters, which then proceeded towards Turkish waters where the Turkish Coast Guard apprehended the migrants. The FRO disproved migrant allegations of ill-treatment, engine damage, towing, and threats by Frontex and HCG personnel. However, the FRO identified significant flaws in operational reporting by Frontex crews and Greek authorities, including instructions not to report the incident and incorrect reporting of the initial sighting location.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "SIR 11695/2023, containing this information, was launched on 29/04/2023.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

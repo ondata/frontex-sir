@@ -1,0 +1,264 @@
+{
+  "source_file": "pdfs/pad-2020-00171-documents/PAD-2020-00171-documents.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T07:57:00.165890+00:00",
+  "records": [
+    {
+      "sir_id": "652/2017",
+      "report_date": "2017-10-24",
+      "incident_date": "2017-06-13",
+      "location_details": "Hungarian-Serbian border",
+      "where_clear": "Hungarian-Serbian border",
+      "location_text_raw": "Hungarian-Serbian border",
+      "country_or_area": "Hungary, Serbia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Hungarian-Serbian border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and longitude are unknown as per document.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Violence / Push-back",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Médecins Sans Frontières (MSF) published on their Twitter account photos and testimonies of migrants who allegedly had been violently pushed back off the Hungarian-Serbian border by Hungarian border officials.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "MSF reports violence at HUN-SRB border",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "676/2017",
+      "report_date": "2017-12-12",
+      "incident_date": "2017-12-11",
+      "location_details": "Alleged Evros River",
+      "where_clear": "Evros River",
+      "location_text_raw": "Alleged Evros River",
+      "country_or_area": "Greece, Turkey",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Evros River",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and longitude are unknown as per document.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Unprocessed return",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Violence",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Turkish news magazine Milliyet reported on alleged unprocessed return of irregular migrants. Irregulars were allegedly captured, beaten by Greek police, and sent back to Turkey across the Evros River. Video footage shows irregulars being helped to shore by villagers in Turkey after being sent back.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Alleged violation of fundamental rights - unprocessed return",
+      "confidence": "high",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "sir_id": "788/2018",
+      "report_date": "2018-11-18",
+      "incident_date": "2018-11-07",
+      "location_details": "Alexandroupolis - Evros area",
+      "where_clear": "Alexandroupolis - Evros area",
+      "location_text_raw": "Alexandroupolis - Evros area",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Alexandroupolis, Evros area, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and longitude are unknown as per document.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Push Back",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Assault",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Inhuman treatment",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Theft",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A migrant reported during a debriefing in Alexandroupoli region that he was pushed back, assaulted, treated inhumanly, and robbed on two occasions (Nov 7th and Nov 10th, 2018) by people wearing uniform, described as a 'military commando'. Valuables were taken, men were stripped naked and beaten, then pushed back across the river.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Possible violations of Fundamental Rights / Push Back - assault - theft in Evros area",
+      "confidence": "high",
+      "evidence_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "sir_id": "798/2018",
+      "report_date": "2018-12-05",
+      "incident_date": "2018-12-04",
+      "location_details": "Evros River - Edirne (Turkey)",
+      "where_clear": "Evros River - Edirne",
+      "location_text_raw": "Evros River - Edirne (Turkey)",
+      "country_or_area": "Turkey, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros River, Edirne, Turkey",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and longitude are unknown as per document.",
+      "dead_confirmed": 3,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Forced back / Push-back",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Open source reports indicate 3 dead migrants found in Turkey near the Greek border. Allegations suggest they were part of a group forced back by Greek Police after crossing the Evros River.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Bodies of three migrants found in Turkey allegedly forced back by Greece",
+      "confidence": "high",
+      "evidence_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "829/2019",
+      "report_date": "2019-04-08",
+      "incident_date": "2019-04-08",
+      "location_details": "Greek/Turkish Land Border Section",
+      "where_clear": "Greek/Turkish Land Border Section",
+      "location_text_raw": "Greek/Turkish Land Border Section",
+      "country_or_area": "Greece, Turkey",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Greek Turkish Land Border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and longitude are unknown as per document.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Fundamental Right violation",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Theft (mobile phones)",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Lack of registration / documentation",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Push-back",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "An Afghan male migrant reported being apprehended with other migrants on the Greek/Turkish border. Greek Police allegedly took mobile phones without protocol, did not register migrants, and then took them to Turkish territory, effectively pushing them back.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Alleged Fundamental Right violation reported by an Afghan male migrant",
+      "confidence": "high",
+      "evidence_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "sir_id": "830/2019",
+      "report_date": "2019-04-09",
+      "incident_date": "2019-04-09",
+      "location_details": "Croatia with Bosnia and Herzegovina and Serbia border",
+      "where_clear": "Croatia border with Bosnia and Herzegovina and Serbia",
+      "location_text_raw": "Croatia with Bosnia and Herzegovina and Serbia border",
+      "country_or_area": "Croatia, Bosnia and Herzegovina, Serbia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Croatia border with Bosnia and Herzegovina and Serbia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and longitude are unknown as per document.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Push-back",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "NGOs and MEPs reported alleged systematic and organized collective push-backs of migrants from Croatia to Bosnia and Herzegovina and Serbia. One NGO claimed 10,000 migrants were ejected from Croatia in 2018.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "NGOs allegedly pushed back from Croatia to Bosnia and Herzegovina and Serbia",
+      "confidence": "high",
+      "evidence_pages": [
+        11,
+        12
+      ]
+    }
+  ],
+  "dead_confirmed_total": 3,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

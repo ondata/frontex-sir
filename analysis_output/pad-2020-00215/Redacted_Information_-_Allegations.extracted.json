@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2020-00215/Redacted_Information_-_Allegations.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:31:16.840483+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Incident started north of Lesvos, within Greek Territorial Waters, involving a pushback towards Turkish Territorial Waters, with the boat eventually landing on Turkish shores.",
+      "where_clear": "Sea area north of Lesvos, Aegean Sea, ending on Turkish shores.",
+      "location_text_raw": "north of Lesvos, incident inside Greek TW, towards Turkish Territorial Waters, Turkish shores",
+      "country_or_area": "Aegean Sea, Greece, Turkey",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Aegean Sea, north of Lesvos",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A rubber boat with approximately 20-30 migrants was initially spotted north of Lesvos. A Greek patrol vessel took the migrants on board, then reloaded them onto their original rubber boat and towed it towards Turkish Territorial Waters, leaving it adrift. The boat later landed safely on Turkish shores under the monitoring of a TCG vessel.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "At 02:46 FSA takes a picture of a Greek patrol vessel towing the rubber boat with migrants on board towards TUR Territorial Waters.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

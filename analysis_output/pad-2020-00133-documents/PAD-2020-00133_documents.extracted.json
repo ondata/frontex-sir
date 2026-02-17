@@ -1,0 +1,173 @@
+{
+  "source_file": "pdfs/pad-2020-00133-documents/PAD-2020-00133_documents.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T07:55:52.183928+00:00",
+  "records": [
+    {
+      "sir_id": "439/2016",
+      "report_date": "2016-09-09",
+      "incident_date": "2016-09-08",
+      "location_details": "Migrants sleeping in open air in the port of Chios due to lack of reception capacity at Vial Hotspot.",
+      "where_clear": "Port of Chios, Chios Island, Greece",
+      "location_text_raw": "Chios",
+      "country_or_area": "Greece",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Port of Chios, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Lack of adequate reception conditions (shelter, food, sanitation)",
+          "legal_basis": "Implied by '2 Fundamental Rights' category",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Migrants were forced to sleep in the open air in the port of Chios due to lack of proper reception capacity at the Vial Hotspot. The issue was raised at a coordination meeting but remained unresolved, posing a risk for future arrivals.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Chios, Migrants sleeping in open Air",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "453/2016",
+      "report_date": "2016-09-28",
+      "incident_date": "2016-09-21",
+      "location_details": "Misbehavior of a migration officer in the detention centre of Elhovo, including physical assault and inhumane treatment regarding food.",
+      "where_clear": "Elhovo Distribution Centre, Bulgaria",
+      "location_text_raw": "Distribution Centre Elhovo",
+      "country_or_area": "Bulgaria",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Elhovo Distribution Centre, Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Physical assault/ill-treatment",
+          "legal_basis": "Implied by '2 Fundamental Rights' category",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Inhumane treatment/conditions (food, dignity)",
+          "legal_basis": "Implied by '2 Fundamental Rights' category",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A migration officer at Elhovo Distribution Centre was accused of slapping a migrant, aggressive behavior towards a group of 20 migrants, beating them for taking too long to eat, and throwing food on the floor. An internal investigation was initiated.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Misbehavior of the Migration officer in detention centre of Elhovo",
+      "confidence": "high",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "sir_id": "488/2016",
+      "report_date": "2016-10-28",
+      "incident_date": "2016-10-24",
+      "location_details": "Alleged violations of fundamental rights, including forced undressing, physical assault, and forced asylum application, at the Bulgarian-Turkish and Greek-Turkish land borders.",
+      "where_clear": "Bulgarian-Turkish and Greek-Turkish land borders",
+      "location_text_raw": "Bulgarian Turkish and Greek Turkish land border",
+      "country_or_area": "Bulgaria, Greece, Turkey",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The exact date and place of the alleged attempt to cross the GRC-TUR and BGR-TUR border is not known. From the text of the whole interview it can be only estimated to approximately 3 to 4 months ago. The exact place at the GRC-TUR and BGR-TUR border is not defined.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Strip search/forced undressing (including children)",
+          "legal_basis": "Implied by '2 Fundamental Rights' category",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Physical assault/ill-treatment",
+          "legal_basis": "Implied by '2 Fundamental Rights' category",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Forced asylum application/fingerprinting",
+          "legal_basis": "Implied by '2 Fundamental Rights' category",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A 30-year-old woman from Iran reported being forced to undress, including her children, beaten by Bulgarian police for refusing asylum, and forced to apply for asylum after being apprehended at the Bulgarian-Turkish border. She had previously been caught and returned from the Greek-Turkish border multiple times.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Information about alleged violation of Fundamental Rights obtained during an interview",
+      "confidence": "medium",
+      "evidence_pages": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "sir_id": "502/2016",
+      "report_date": "2016-11-15",
+      "incident_date": "2016-11-13",
+      "location_details": "Migrants remained at Mytilini Harbour during night hours without food and access to sanitation facility.",
+      "where_clear": "Mytilini Harbour, Lesvos Island, Greece",
+      "location_text_raw": "Lesvos Island",
+      "country_or_area": "Greece",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Mytilini Harbour, Lesvos, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Lack of adequate reception conditions (shelter, food, sanitation)",
+          "legal_basis": "Implied by '2 Fundamental Rights' category",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A group of 48 migrants were left at Mytilini Harbour, Lesvos, for 9 hours overnight without food, drinks, or access to toilets, as the Moria Hotspot reception and identification service did not accept them. This situation raised humanitarian concerns.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Migrants remained at Mytilini Harbour during night hours without food and access to sanitation facility",
+      "confidence": "high",
+      "evidence_pages": [
+        9,
+        10
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

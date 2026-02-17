@@ -1,0 +1,42 @@
+{
+  "source_file": "pdfs/pad-2020-00215/Releasable_ANNEX2_118592020_Initial_SIR_-_JO_Poseidon_2020_Migrants_detected_in_Greek_territorial_waters_returned_to_Turkey.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:31:36.613311+00:00",
+  "records": [
+    {
+      "sir_id": "11859/2020",
+      "report_date": "2020-07-29",
+      "incident_date": "2020-07-27",
+      "location_details": "A rubber boat with approx. 25 migrants was detected south of Chios in Greek territorial waters. A Turkish patrol boat later took over responsibility inside Turkish territorial waters.",
+      "where_clear": "South of Chios, Greek territorial waters, incident concluded in Turkish territorial waters.",
+      "location_text_raw": "south of Chios in Greek territorial waters",
+      "country_or_area": "Greece (Chios), Turkey (Aegean Sea)",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "south of Chios, Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A Danish helicopter detected a rubber boat with approx. 25 migrants in Greek territorial waters. The Hellenic Coast Guard took over, and subsequently, a Turkish patrol boat took responsibility for the incident in Turkish territorial waters. The event was registered as a 'Prevention of Departure'.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 27.07.2020 at 06:21LT a Danish helicopter detected a rubber boat with approx. 25 migrants south of Chios in Greek territorial waters.",
+      "confidence": "high",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2020-00246/SIR_11859_(2).pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:58:08.217858+00:00",
+  "records": [
+    {
+      "sir_id": "11859/2020",
+      "report_date": "2020-07-29",
+      "incident_date": "2020-07-27",
+      "location_details": "Migrants detected in Greek territorial waters returned to Turkey. Coordinates provided: Latitude 11.1863888888, Longitude 111.1863888888.",
+      "where_clear": "Greek territorial waters",
+      "location_text_raw": null,
+      "country_or_area": "Greece",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Greek territorial waters",
+      "lat": 11.1863888888,
+      "lon": 111.1863888888,
+      "uncertainty_note": "Coordinates provided (11.1863888888, 111.1863888888) are geographically inconsistent with 'Greek territorial waters' mentioned in the subject. They appear to be placeholder values.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Initial SIR for Joint Operation Poseidon 2020. Migrants detected in Greek territorial waters were returned to Turkey. For further details regarding the fact of the case, measures, assessment, and final outcome, refer to SIR 11860/2020 SIR ID 1265.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Migrants detected in Greek territorial waters returned to Turkey",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

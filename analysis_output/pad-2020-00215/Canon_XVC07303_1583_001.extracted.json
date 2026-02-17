@@ -1,0 +1,64 @@
+{
+  "source_file": "pdfs/pad-2020-00215/Canon_XVC07303_1583_001.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:21:17.825713+00:00",
+  "records": [
+    {
+      "sir_id": "12703/2020",
+      "report_date": "2020-11-12",
+      "incident_date": "2020-11-12",
+      "location_details": "Island on Evros river, border between Greece and Turkey. Google Maps link provided: 41°19'04.8\"N+26°29'28.8\"E. Location consistent with river flow and terrain in videos.",
+      "where_clear": "Island on Evros river, Greece/Turkey border",
+      "location_text_raw": "Evros river on the border between Greece and Turkey, an island on the Evros river, 41°19'04.8%22N+26°29'28.8%22E",
+      "country_or_area": "Greece/Turkey border",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "41.318, 26.4913333",
+      "lat": 41.318,
+      "lon": 26.4913333,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Pushback",
+          "legal_basis": "Non-refoulement principle, right to asylum",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Ill-treatment/Abuse",
+          "legal_basis": "Prohibition of torture and inhuman or degrading treatment",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Deprivation of liberty/Arbitrary detention",
+          "legal_basis": "Right to liberty and security",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Lack of provisions/shelter",
+          "legal_basis": "Right to human dignity, basic needs",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Human Rights Watch received an urgent alert regarding a group of at least 50 Iraqi and Syrian asylum seekers, including a nine-month pregnant woman, allegedly pushed back by Greek police forces to an island on the Evros river. They reported being held for a day without food/water, beaten, and left on the island without provisions. Turkish individuals on the riverbank allegedly opened fire when approached.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "a group of at least 50 Iraqis and Syrians allegedly pushed back by Greek police forces at the Evros river on the border between Greece and Turkey. ... stranded on an island on the Evros river.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

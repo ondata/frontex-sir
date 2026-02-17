@@ -1,0 +1,73 @@
+{
+  "source_file": "pdfs/pad-2020-00078/SirExport_JO_Poseidon_2020_Releasable.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T07:53:38.373840+00:00",
+  "records": [
+    {
+      "sir_id": "11239/2020",
+      "report_date": "2020-05-12",
+      "incident_date": "2020-05-10",
+      "location_details": "Lesvos, Greece",
+      "where_clear": "Lesvos, Greece",
+      "location_text_raw": "Text Removed Justification 3, Lesvos, Greece",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Lesvos, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location on Lesvos is redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "An officer fell down and injured his leg (Tibia fissure) during maintenance activity on a vessel deployed to Lesvos, Greece. The incident occurred on May 10th, 2020.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "During maintenance activity of the vessel the officer fell down and injured his leg.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "10533/2020",
+      "report_date": "2020-02-21",
+      "incident_date": "2020-02-19",
+      "location_details": "Alexandroupolis, Nomós Évrou, Greece",
+      "where_clear": "Alexandroupolis, Nomós Évrou, Greece",
+      "location_text_raw": "Alexandroupolis, Nomós Évrou, Greece",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Alexandroupolis, Nomós Évrou, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "During patrol activity in Alexandroupolis, Greece, a crew member slid off stairs while attempting to take a towing rubber boat and injured their right knee. Medical examination suggested stretched ligaments.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "one of the crew members, while attempting to take a towing rubber boat, slid off the stairs and injured his right leg knee.",
+      "confidence": "high",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 2,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

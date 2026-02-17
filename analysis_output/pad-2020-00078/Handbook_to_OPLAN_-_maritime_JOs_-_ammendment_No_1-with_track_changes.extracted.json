@@ -1,0 +1,12 @@
+{
+  "source_file": "pdfs/pad-2020-00078/Handbook_to_OPLAN_-_maritime_JOs_-_ammendment_No_1-with_track_changes.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T07:38:05.405893+00:00",
+  "records": [],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

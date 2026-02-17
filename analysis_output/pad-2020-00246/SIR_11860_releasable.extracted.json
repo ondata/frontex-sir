@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2020-00246/SIR_11860_releasable.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:58:30.198322+00:00",
+  "records": [
+    {
+      "sir_id": "11860/2020",
+      "report_date": "2020-07-29",
+      "incident_date": "2020-07-27",
+      "location_details": "A rubber boat with approximately 25 migrants was detected south of Chios, initially in Greek territorial waters. The incident was later concluded in Turkish territorial waters by a Turkish patrol boat, registered as a 'Prevention of Departure' by ICC Piraeus, despite information indicating a possible location in Greek territorial waters.",
+      "where_clear": "South of Chios, initially in Greek territorial waters, concluded in Turkish territorial waters.",
+      "location_text_raw": "south of Chios in Greek territorial waters; inside Turkish territorial waters; Greek TW and within the operational area of the JO Poseidon",
+      "country_or_area": "Greece, Turkey, Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "South of Chios, Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The initial detection was in Greek territorial waters south of Chios, but the incident was reportedly concluded in Turkish territorial waters, leading to ambiguity about the final location of the event's resolution.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "On 27.07.2020, a Danish helicopter detected a rubber boat with approximately 25 migrants south of Chios in Greek territorial waters. The Hellenic Coast Guard arrived, and the Danish asset departed. JRCC Piraeus informed MRCC Ankara. According to Greek authorities, a Turkish patrol boat took over the incident in Turkish territorial waters, and it was registered as a 'Prevention of Departure' by ICC Piraeus. A Danish National Official informed the FOC about a possible serious incident, and a SIR was later received from the Danish HELO by Frontex and Greek authorities. The incident was discussed in ICC Piraeus, where a misunderstanding regarding a request to change the reported location was noted. The Hellenic Coast Guard presented the event as a prevention of departure. Frontex is to launch a SIR procedure, as information indicates the migrant boat's possible location in Greek territorial waters within the JO Poseidon operational area, despite its reported conclusion on the Turkish side as a prevention of departure for unknown reasons.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 27.07.2020 at 06:21LT a Danish helicopter detected a rubber boat with approx. 25 migrants south of Chios in Greek territorial waters.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

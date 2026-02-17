@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2020-00078/SeriousIncident_911_Releasable.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T07:38:37.701915+00:00",
+  "records": [
+    {
+      "sir_id": "911/2019",
+      "report_date": "2019-12-08",
+      "incident_date": "2019-12-08",
+      "location_details": "Incident occurred on the bank of the Evros River, within the Evros Operational Area, near the Police Station of Ferres and LCC Evors.",
+      "where_clear": "Evros River bank near Ferres, Evros Operational Area, Greece",
+      "location_text_raw": "Police Station of Ferres, LCC Evors, Evros Operational Area, bank of Evros River",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Ferres, Evros River, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 2,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "Two bodies found on Evros Operational Area. On the 08.12.2019 at 11:00 HP Officers, who were patrolling the area, detected two dead bodies (female) age between 15-25 on the bank of Evros River. No travel document were found. Dead bodies have been transferred to Alexandroupolis hospital. The autopsies have been requested by Hellenic Police in order to identify the reason of their death. The result of autopsies will be available in the follow-up SIR.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Two dead bodies (female) age between 15-25 found on the bank of Evros River.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 2,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

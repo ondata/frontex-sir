@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2020-00246/Annex_3._SIR_-_DNK_FENNEC_281100LJUL20_releasable.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T08:57:24.826410+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": "2020-07-28",
+      "incident_date": "2020-07-27",
+      "location_details": "Chios, Greece. Detected inside Greek Territorial Waters in Operational Area J. Latitude and Longitude text removed (reference to operational area).",
+      "where_clear": "Near Chios, Greece, inside Greek Territorial Waters.",
+      "location_text_raw": "Chios, Greece",
+      "country_or_area": "Greece",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Chios, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific latitude and longitude were removed from the report, only general location 'Chios, Greece' and 'Operational Area J' are provided.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A rubberboat with migrants was detected by a Danish Fennec Helicopter inside Greek Territorial Waters near Chios. The Hellenic Coast Guard (HCG) intercepted the boat. The Danish detachment later received a request from HCG to change the reported coordinates to indicate the incident occurred outside Greek Territorial Waters, which was denied. The Danish detachment assessed this request was not a misunderstanding.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "During patrol in Area J near Chios a rubberboat with migrants is detected and identified inside Greek Territorial Waters by the crew onboard the Danish Fennec Helicopter.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}
