@@ -1,0 +1,681 @@
+sir_id,event_signature,source_rows_in_signature,min_report_date,max_report_date,source_files
+10008/2019,"2019-02-05||2019-02-05||Greece||Rural area near Didymoteicho, Greece||land||0||11||0||0",1,2019-02-05,2019-02-05,pdfs/pad-2020-00167/SIR_Part_1.pdf
+10009/2019,"2019-02-21||2019-02-21||Samos Island, Greece||Samos Hospital, Samos Island, Greece||facility||0||1||0||0",2,2019-02-21,2019-02-21,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_3_Releasable.pdf | pdfs/pad-2020-00217/Doc_5.pdf
+10012/2019,"2019-03-07||2019-03-06||East of Samos Island, Turkish SRR||Sea area East of Samos Island, within Turkish SRR||sea||3||0||0||0",2,2019-03-07,2019-03-07,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_3_Releasable.pdf | pdfs/pad-2020-00217/Doc_5.pdf
+10013/2019,"2019-03-11||2019-03-10||Lesvos Island, Greece||Vatera beach and Agios Theodoros coast, Lesvos Island, Greece||land||2||0||0||0",2,2019-03-11,2019-03-11,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_3_Releasable.pdf | pdfs/pad-2020-00217/Doc_5.pdf
+10018/2019,"2019-03-21||2019-03-20||Greece||Bridge under construction, Kilkis, Greece||land||0||1||0||0",1,2019-03-21,2019-03-21,pdfs/pad-2020-00167/SIR_Part_1.pdf
+10024/2019,"2019-04-08||2019-04-06||Rhodes Island, Greece||Afantou beach and Faliraki beach, Rhodes Island, Greece||land||3||0||0||0",2,2019-04-08,2019-04-08,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_3_Releasable.pdf | pdfs/pad-2020-00217/Doc_5.pdf
+10025/2019,"2019-04-08||2019-04-08||Greece, Turkey, Serbia (border area), Istanbul||Multiple locations including a detection center, Greek-Turkish border, and a river bank, with movements between Greece and Turkey.||mixed||||||||2",1,2019-04-08,2019-04-08,pdfs/pad-2020-00067-documents/PAD-2020-00067_documents.pdf
+10025/2019,2019-04-08||2019-04-08||Greece||Greek side of the Evros river border||land||0||0||0||1,1,2019-04-08,2019-04-08,pdfs/pad-2025-00339/SIR_10025_2019.pdf
+10026/2019,"2019-04-09||2019-04-09||Croatia, Bosnia and Herzegovina, Serbia||Borders between Croatia, Bosnia and Herzegovina, and Serbia||land||||||||1",1,2019-04-09,2019-04-09,pdfs/pad-2025-00339/Serious_incident_report_no_-10026_2019.pdf
+10027/2019,"2019-04-13||2019-04-12||Chios Island, Greece||Vrontados area, Chios Island, Greece||land||1||0||2||0",2,2019-04-13,2019-04-13,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_3_Releasable.pdf | pdfs/pad-2020-00217/Doc_5.pdf
+10028/2019,"2019-04-15||2019-04-15||Samos Island, Greece||Sea area and coastal area of Karlovasi, Samos Island, Greece||mixed||1||0||1||0",2,2019-04-15,2019-04-15,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_3_Releasable.pdf | pdfs/pad-2020-00217/Doc_5.pdf
+10030/2019,"2019-04-18||2019-04-17||Greece||Provincial Road near Didymoteicho, Greece||land||0||3||0||0",1,2019-04-18,2019-04-18,pdfs/pad-2020-00167/SIR_Part_1.pdf
+10031/2019,"2019-04-20||2019-04-20||Kos Island, Greece||Crossroad of Ethelonton Polemiston Kos street and Antigonis street, Kos Island, Greece||land||0||0||0||0",2,2019-04-20,2019-04-20,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_3_Releasable.pdf | pdfs/pad-2020-00217/Doc_5.pdf
+10036/2019,2019-05-07||2019-05-06||Greece-Turkey border||Greece-Turkey border section||land||||||||2,1,2019-05-07,2019-05-07,pdfs/pad-2020-00067-documents/PAD-2020-00067_documents.pdf
+10036/2019,2019-05-07||2019-05-06||Greece||GRC-TUR border section||land||0||2||0||5,1,2019-05-07,2019-05-07,pdfs/pad-2025-00339/SIR_10036_2019.pdf
+10038/2019,2019-05-09||2019-05-08||Greece||Near a village in Greece||land||1||1||0||0,1,2019-05-09,2019-05-09,pdfs/pad-2020-00167/SIR_Part_1.pdf
+10039/2019,"2019-05-14||2019-04-25||Samos Island, Greece||Coastal area of Mykali and Mertziki, Samos Island, Greece||mixed||1||0||0||0",2,2019-05-14,2019-05-14,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_3_Releasable.pdf | pdfs/pad-2020-00217/Doc_5.pdf
+10045/2019,"2019-05-30||2019-05-30||Kos Island, Greece||Inside Kos Refugee Identification Center, Kos Island, Greece||facility||1||0||0||0",2,2019-05-30,2019-05-30,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_3_Releasable.pdf | pdfs/pad-2020-00217/Doc_5.pdf
+10046/2019,"2019-06-11||2019-06-11||Aegean Sea, Greece||Pamfila sea area, east of Lesvos island||sea||7||||||0",1,2019-06-11,2019-06-11,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_2_Releasable.pdf
+10046/2019,"2019-06-11||2019-06-11||Lesvos, Greece||Pamfila sea area, east side of Lesvos island||sea||7||||||0",1,2019-06-11,2019-06-11,pdfs/pad-2020-00217/Doc_4.pdf
+10048/2019,"2019-06-14||2019-06-13||Bulgaria, Greece, Turkey border area||Border area between Greece and Bulgaria, near the Turkish border, involving a river crossing from Turkey to Bulgaria.||land||0||27||0||3",1,2019-06-14,2019-06-14,pdfs/pad-2025-00339/SIR_10048_2019.pdf
+10050/2019,"2019-06-29||2019-06-29||||Hospital (location not specified, likely near operation area)||facility||0||1||0||0",1,2019-06-29,2019-06-29,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_2_Releasable.pdf
+10050/2019,"2019-06-29||2019-06-29||||Hospital (location not specified, but likely near the operation area 'Poseidon Sea 2019')||facility||0||1||0||0",1,2019-06-29,2019-06-29,pdfs/pad-2020-00217/Doc_4.pdf
+10056/2019,"2019-07-25||2019-07-22||Agathonisi, Samos, Greece||Near Agathonisi island, Samos, within Greek territorial waters (GTW)||sea||||||||0",1,2019-07-25,2019-07-25,pdfs/pad-2020-00217/Doc_4.pdf
+10056/2019,"2019-07-25||2019-07-22||Aegean Sea, Greece||Greek Territorial Waters near Agathonisi island, Samos||sea||||||||0",1,2019-07-25,2019-07-25,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_2_Releasable.pdf
+10060/2019,"2019-08-11||2019-08-11||Central Mediterranean Sea||Central Mediterranean Sea, near 35.2686111111, 13.2188888889||sea||||1||||0",1,2019-08-11,2019-08-11,pdfs/pad-2020-00236-sirs-/PAD-2020-00236-SIRs-.pdf
+10061/2019,"2019-08-13||2019-08-12||Central Mediterranean Sea||Central Mediterranean Sea, near 34.4166666667, 12.6833333333||sea||1||1||||0",1,2019-08-13,2019-08-13,pdfs/pad-2020-00236-sirs-/PAD-2020-00236-SIRs-.pdf
+10063/2019,"2019-08-25||2019-08-24||Lesvos, Greece||Moria RIC, Lesvos island||facility||1||2||||0",1,2019-08-25,2019-08-25,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_2_Releasable.pdf
+10063/2019,"2019-08-25||2019-08-24||Lesvos, Greece||Moria RIC (Reception and Identification Centre), Lesvos island||facility||1||2||||0",1,2019-08-25,2019-08-25,pdfs/pad-2020-00217/Doc_4.pdf
+10064/2019,2019-08-26||2019-07-26||Croatia||Croatia||land||0||7||0||10,1,2019-08-26,2019-08-26,pdfs/pad-2025-00371/10064-2019.pdf
+10064/2019,2019-08-26||2019-07-26||Croatia / Bosnia and Herzegovina||Croatia-Bosnia and Herzegovina border area||land||0||7||0||10,1,2019-08-26,2019-08-26,pdfs/pad-2025-00339/10064-2019_redacted2.pdf
+10065/2019,"2019-08-26||2019-08-26||Greece||National road near Alexandroupolis, Greece||land||6||10||0||0",1,2019-08-26,2019-08-26,pdfs/pad-2020-00167/SIR_Part_1.pdf
+10068/2019,"2019-09-06||2019-09-05||Samos, Greece||Kokkari area, Samos island||land||1||||||0",2,2019-09-06,2019-09-06,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_2_Releasable.pdf | pdfs/pad-2020-00217/Doc_4.pdf
+10070/2019,"2019-09-13||2019-09-12||Bulgaria||Near the Greece-Bulgaria border, in Bulgaria||land||0||26||0||4",1,2019-09-13,2019-09-13,pdfs/pad-2025-00339/10070-2019_redacted-ptp2.pdf
+10070/2019,"2019-09-13||2019-09-12||Bulgaria||Near the Greece-Bulgaria border, in Bulgaria, close to a village and an old train station.||land||0||26||0||9",1,2019-09-13,2019-09-13,pdfs/pad-2025-00371/10070-2019.pdf
+10071/2020,"2020-01-09||2020-01-08||Greece||Evros River area, Greece||land||1||||||0",1,2020-01-09,2020-01-09,pdfs/pad-2020-00145/FOA_LAND_2019_SIR.pdf
+10071/2020,"2020-01-09||2020-01-08||Greece||Evros River area, Greece||land||1||0||0||0",1,2020-01-09,2020-01-09,pdfs/pad-2020-00217/Doc_9.pdf
+10071/2020,"2020-01-09||2020-01-08||Greece||Evros River, Greece||land||1||0||0||0",1,2020-01-09,2020-01-09,pdfs/pad-2020-00167/SIR_Part_1.pdf
+10079/2025,"2025-03-20||2025-01-12||Serbia||An assault occurred in Serbia, involving a person off duty from JO SERBIA 2024, who was hospitalized and an investigation was opened.||land||||1||||0",1,2025-03-20,2025-03-20,pdfs/sir_10079.2025_redacted/SIR_10079.2025_Redacted.pdf
+10112/2019,"2019-09-27||2019-09-27||Aegean Sea, Greece||Sea area north of Oinousses, near Chios island||sea||6||||||0",1,2019-09-27,2019-09-27,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_2_Releasable.pdf
+10112/2019,"2019-09-27||2019-09-27||Chios, Greece||North of Oinousses, near Chios island||sea||6||||0||0",1,2019-09-27,2019-09-27,pdfs/pad-2020-00217/Doc_4.pdf
+10128/2019,"2019-09-29||2019-09-29||Lesvos, Greece||Moria camp, Lesvos island||facility||1||0||0||0",2,2019-09-29,2019-09-29,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_2_Releasable.pdf | pdfs/pad-2020-00217/Doc_4.pdf
+10137/2020,"2020-01-13||2019-11-01||Lesvos island||Lesvos island, Greece||land||0||0||0||3",1,2020-01-13,2020-01-13,pdfs/pad-2025-00339/10137-2020_redacted.pdf
+10142/2018,"2018-11-18||2018-11-06||Evros area (Greece/Turkey border)||Evros area, border river between Greece and Turkey||land||||||||4",1,2018-11-18,2018-11-18,pdfs/pad-2025-00339/SIR_10142_2018.pdf
+10149/2018,"2018-12-05||2018-12-04||Turkey (near Greek border)||Turkey, near the Greek border, by the Evros River||land||3||0||0||1",1,2018-12-05,2018-12-05,pdfs/pad-2025-00339/SIR_10149_2018.pdf
+10152/2024,2024-05-20||2023-12-23||Serbia-Bulgaria border area||Serbia-Bulgaria border area||land||0||0||0||3,1,2024-05-20,2024-05-20,pdfs/pad-2024-00314/SIR_10152-2024_Final_Report_rps.pdf
+10154/2017,2017-04-07||2017-04-06||hotspot||hotspot||facility||||0||||0,1,2017-04-07,2017-04-07,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_3_redacted.pdf
+10155/2017,2017-04-07||2017-04-06||hotspot||Hotspot||facility||||1||||0,1,2017-04-07,2017-04-07,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_3_redacted.pdf
+10156/2017,2017-04-11||2017-04-10||RIC||Minors section of RIC||facility||||0||||0,1,2017-04-11,2017-04-11,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_3_redacted.pdf
+10158/2021,"2021-01-20||2021-01-19||Lesvos island||Southeast of Lesvos island, Greece||sea||1||0||0||0",1,2021-01-20,2021-01-20,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+10158/2024,"2024-05-24||2023-12-31||Serbia, Bulgaria||Serbian-Bulgarian border area||land||0||0||0||3",1,2024-05-24,2024-05-24,pdfs/pad-2024-00314/SIR_10158_2024_Final_Report_rps.pdf
+10175/2017,2017-05-13||2017-05-12||Kos Island||Kos Island||land||0||1||0||1,1,2017-05-13,2017-05-13,pdfs/pad-2025-00339/10175-2017_redacted-ptp.pdf
+10175/2017,"2017-05-13||2017-05-12||Kos, Greece||Reception and Identification Centre Pyli, Kos island, Greece||facility||||||||1",1,2017-05-13,2017-05-13,pdfs/documents-pad-2020-00077/Documents_(PAD-2020-00077).pdf
+10187/2017,"2017-06-08||2017-05-24||Greece / Turkey border (Evros River)||Evros River, near Didymoteicho, Greece||land||||||||2",1,2017-06-08,2017-06-08,pdfs/pad-2025-00339/Redacted_10187-2017.pdf
+10194/2019,"2019-10-04||2019-10-03||Greece||Near Kastoria city, Greece||land||||1||||6",2,2019-10-04,2019-10-04,pdfs/pad-2025-00339/10194-2019_redacted2.pdf | pdfs/pad-2025-00371/10194-2019.pdf
+10201/2019,"2019-10-05||2019-10-05||Greece||Toll gate near the border with North Macedonia, Greece||land||0||0||0||0",1,2019-10-05,2019-10-05,pdfs/pad-2020-00167/SIR_Part_1.pdf
+10207/2017,2017-07-10||2017-07-10||hotspot||hotspot||facility||||0||||0,1,2017-07-10,2017-07-10,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_3_redacted.pdf
+10208/2022,||2022-01-13||Lithuania||Lithuanian border||land||||||||4,1,,,pdfs/pad-2025-00371/10208_2022.pdf
+10209/2017,"2017-07-22||2017-07-21||Unknown||Operational area, location redacted||unknown||0||1||0||0",1,2017-07-22,2017-07-22,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_4_redacted.pdf
+10211/2017,"2017-07-19||2017-07-17||Unknown||EASO facilities, main entrance of a facility, operational area redacted||facility||0||10||0||0",1,2017-07-19,2017-07-19,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_4_redacted.pdf
+10215/2017,"2017-08-11||2017-08-11||Sea area||Operational sea area, location redacted||sea||0||1||0||0",1,2017-08-11,2017-08-11,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_4_redacted.pdf
+10222/2025,"2025-07-31||2024-12-27||Bulgaria||Near the Bulgarian-Turkish border, on Bulgarian territory||land||3||0||0||2",1,2025-07-31,2025-07-31,pdfs/pad-2025-00428/10222_2025.pdf
+10223/2025,2025-09-22||2025-01-22||Bulgaria-Greece border||Disputed Bulgaria-Greece border area||land||0||0||0||2,1,2025-09-22,2025-09-22,pdfs/pad-2025-00428/SIR_10223.2025_Final_redacted.pdf
+10224/2017,"2017-10-04||2017-10-02||Sea area||Sea area, operational area redacted||sea||0||0||0||0",1,2017-10-04,2017-10-04,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_4_redacted.pdf
+10227/2017,"2017-10-20||2017-10-20||Lesvos, Greece||Lesvos, in a tent||land||1||0||0||0",1,2017-10-20,2017-10-20,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_4_redacted.pdf
+10228/2017,2017-10-21||2017-10-20||Poseidon Sea operational area (land-based facility)||Within a RIC (Reception and Identification Centre) in an unspecified location related to Poseidon Sea operation.||facility||0||2||0||0,1,2017-10-21,2017-10-21,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_5_redacted.pdf
+10229/2017,2017-10-23||2017-10-23||Poseidon Sea operational area (land-based facility)||EASO area within an unspecified facility related to Poseidon Sea operation.||facility||0||0||0||0,1,2017-10-23,2017-10-23,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_5_redacted.pdf
+10230/2016,"2016-04-27||2016-04-26||Lesvos Island, Greece||Lesvos Island||facility||||||||1",1,2016-04-27,2016-04-27,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+10230/2017,"2017-10-24||2017-06-12||Hungary, Serbia||Hungarian-Serbian border||land||0||0||0||1",1,2017-10-24,2017-10-24,pdfs/pad-2025-00339/Redacted_10230-2017-ptp.pdf
+10231/2017,2017-10-26||2017-10-25||Poseidon Sea operational area (land-based facility)||An unspecified accommodation facility related to Poseidon Sea operation.||facility||0||1||0||0,1,2017-10-26,2017-10-26,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_5_redacted.pdf
+10232/2019,"2019-10-08||2019-10-01||Greece||Near Kastoria city, Greece||land||||||||6",2,2019-10-08,2019-10-08,pdfs/pad-2025-00339/10232-2019_redacted2.pdf | pdfs/pad-2025-00371/10232-2019.pdf
+10240/2016,"2016-06-13||2016-06-11||Aegean Sea||Maritime border between Turkey and Greece, Aegean Sea||sea||0||0||0||0",1,2016-06-13,2016-06-13,pdfs/doc-1-1-1/doc-1-1-1.pdf
+10240/2016,"2016-06-13||2016-06-11||Aegean Sea, Turkey/Greece||Maritime border line between Turkey and Greece, near Cesme||sea||||||||1",1,2016-06-13,2016-06-13,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+10247/2017,"2017-11-02||2017-11-02||Poseidon Sea operational area (land-based camp)||New extension area of a camp (East part, out of security perimeter) in an unspecified location related to Poseidon Sea operation.||facility||0||||0||0",1,2017-11-02,2017-11-02,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_5_redacted.pdf
+10248/2017,2017-11-02||2017-11-02||Poseidon Sea operational area (land-based facility)||Hotel room in an unspecified location related to Poseidon Sea operation.||facility||1||0||0||0,1,2017-11-02,2017-11-02,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_5_redacted.pdf
+10249/2016,"2016-07-07||2016-07-07||Leros Island, Greece||Leros Island Hotspot||facility||||||||1",1,2016-07-07,2016-07-07,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+10251/2021,"2021-02-01||2020-12-18||Greece (Chios Island), Turkey (Aegean Sea near Kusadasi)||Chios Island, Greece and off the coast of Kusadasi, Turkey||mixed||||||||6",1,2021-02-01,2021-02-01,pdfs/pad-2025-00371/10251-2021.pdf
+10252/2016,"2016-07-14||2016-07-13||Lesvos Island, Greece||East of Lesvos Island||sea||4||||3||1",1,2016-07-14,2016-07-14,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+10256/2017,"2017-11-20||2017-11-19||Greece, Aegean Sea||Reception and Identification Centre (RIC) in Greece, within the Joint Operation Poseidon area.||facility||0||0||0||0",1,2017-11-20,2017-11-20,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_6_redacted.pdf
+10261/2025,"2025-02-07||||Greece, Georgia, Pakistan||Joint Return Operation from Greece to Georgia and Pakistan||mixed||0||0||0||2",1,2025-02-07,2025-02-07,pdfs/pad-2025-00085/10261_2025_redacted-1.pdf
+10263/2019,"2019-10-10||2019-10-09||Greece||Near Sohos village, Thessaloniki, Greece||land||3||12||0||0",1,2019-10-10,2019-10-10,pdfs/pad-2020-00167/SIR_Part_1.pdf
+10267/2017,2017-12-12||2017-12-11||Evros River||Evros River border between Greece and Turkey||mixed||0||4||0||2,1,2017-12-12,2017-12-12,pdfs/pad-2025-00339/10267-2017_redacted.pdf
+10269/2016,"2016-08-05||2016-08-04||Lesvos Island, Greece||Southeast of Lesvos Island||sea||0||0||0||1",1,2016-08-05,2016-08-05,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+10272/2017,2017-01-28||2017-01-24||Greece||Migrant camp in Greece||facility||1||0||0||0,1,2017-01-28,2017-01-28,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_1_redacted.pdf
+10273/2017,2017-01-28||2017-01-28||Hotspot||A tent in an unspecified hotspot||facility||1||0||0||0,1,2017-01-28,2017-01-28,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_2_redacted.pdf
+10276/2017,2017-01-30||2017-01-30||Hotspot||A tent in an unspecified hotspot||facility||1||0||0||0,1,2017-01-30,2017-01-30,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_2_redacted.pdf
+10277/2016,"2016-08-22||2016-08-22||Lesvos island, Greece||Near Lesvos island||sea||0||0||0||1",1,2016-08-22,2016-08-22,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+10277/2017,"2017-02-08||2017-02-05||Bulgaria, Turkey||Near Svilengrad, Bulgarian-Turkish land border||land||0||0||0||2",1,2017-02-08,2017-02-08,pdfs/pad-2025-00339/10277-2017_redacted.pdf
+10279/2017,2017-02-18||2017-02-15||||Local hospital in an unspecified operational area||facility||0||2||0||0,1,2017-02-18,2017-02-18,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_2_redacted.pdf
+10280/2017,"2017-02-18||2017-02-14||Lesvos Island, Greece||North of Lesvos Island in Greek territorial waters||sea||0||0||0||0",1,2017-02-18,2017-02-18,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_2_redacted.pdf
+10284/2025,"2025-09-18||2025-02-01||Serbia||Serbian-Bulgarian border area, Serbia||land||0||3||0||1",1,2025-09-18,2025-09-18,pdfs/pad-2025-00428/10284_2025.pdf
+10292/2017,"2017-03-18||2017-03-17||Lesvos Island, Greece||Southeast area of Lesvos Island, Greek territorial waters||sea||0||0||0||0",1,2017-03-18,2017-03-18,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_2_redacted.pdf
+10293/2016,2016-01-25||2016-01-25||Unknown||Petrol station near a border crossing point||land||1||2||||1,1,2016-01-25,2016-01-25,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+10299/2017,2017-03-20||2017-03-16||Island||off [redacted] Island||sea||0||||||0,1,2017-03-20,2017-03-20,pdfs/pad-2025-00427/Old_Cat.1_SIRs_2017__Doc_3_redacted.pdf
+10305/2019,"2019-10-15||2019-10-14||Samos, Greece||Samos island, specifically Vathy town and the camp||mixed||0||3||||0",1,2019-10-15,2019-10-15,pdfs/pad-2020-00217/Doc_4.pdf
+10305/2019,"2019-10-15||2019-10-14||Samos, Greece||Samos Island, Vathy, migrant camp||mixed||0||3||||0",1,2019-10-15,2019-10-15,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_2_Releasable.pdf
+10327/2016,"2016-08-29||2016-08-28||Samos Island, Greece||Samos Island||land||1||1||||0",1,2016-08-29,2016-08-29,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+10336/2022,2022-01-24||2022-01-22||Bulgaria||Parking area within a facility in Bulgaria.||facility||0||0||0||1,1,2022-01-24,2022-01-24,pdfs/pad-2022-00470/Documents1.pdf
+10336/2022,2022-01-24||2022-01-22||Bulgaria||Bulgaria||land||0||0||0||1,1,2022-01-24,2022-01-24,pdfs/pad-2022-00465/Documents03.pdf
+10346/2024,"2024-07-23||2024-01-13||Serbia, Bulgaria||Serbia-Bulgaria border area, including a police station and a forest in Serbia||mixed||||||||3",1,2024-07-23,2024-07-23,pdfs/sirs-pad-2024-00396/sirs-pad-2024-00396.pdf
+10347/2022,"2022-10-27||2022-01-24||Tunisian SAR zone, Maltese SAR zone||Tunisian and Maltese SAR zones||sea||7||||||5",1,2022-10-27,2022-10-27,pdfs/pad-2022-00328/Documents_1.pdf
+10347/2022,"2022-10-27||2022-01-24||Tunisian SAR zone, Maltese SAR zone, Italian SAR region||Migrant boat detected in Tunisian SAR zone, then Maltese SAR zone, eventually rescued in Italian SAR region.||sea||7||||||5",1,2022-10-27,2022-10-27,pdfs/pad-2025-00371/10347_12634_12318_12048-2022.pdf
+10347/2022,||||||||||||||||0,1,,,pdfs/pad-2022-00328/List_-1.pdf
+10374/2019,"2019-10-18||2019-10-18||Samos, Greece||Samos island||land||||||||0",1,2019-10-18,2019-10-18,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_2_Releasable.pdf
+10374/2019,"2019-10-18||2019-10-18||Samos, Greece||Samos island, specifically Eastern Samos, likely Vathy town or near the camp||land||||||||0",1,2019-10-18,2019-10-18,pdfs/pad-2020-00217/Doc_4.pdf
+10375/2021,"2021-02-08||2021-02-08||Bulgaria||Operational Area Sofia, Bulgaria||land||0||0||0||0",1,2021-02-08,2021-02-08,pdfs/pad-2022-00465/Documents01.pdf
+10380/2019,"2019-10-19||2019-10-19||Samos, Greece||Samos hotspot and Vathy town, Samos island||mixed||0||||||0",1,2019-10-19,2019-10-19,pdfs/pad-2020-00217/Doc_4.pdf
+10380/2019,"2019-10-19||2019-10-19||Samos, Greece||Samos island, Vathy town and hotspot||mixed||0||||||0",1,2019-10-19,2019-10-19,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_2_Releasable.pdf
+10380/2019,"2019-10-19||2019-10-19||Samos Island||Samos Island, Vathy town||land||0||||||0",1,2019-10-19,2019-10-19,pdfs/pad-2022-00305-document-/pad-2022-00305-document-.pdf
+10392/2019,"2019-10-21||2019-10-19||Greece||Rural road near Didymoteicho, Greece||land||0||13||0||0",1,2019-10-21,2019-10-21,pdfs/pad-2020-00167/SIR_Part_1.pdf
+10392/2023,"||||Serbia||Belgrade airport, Serbia||facility||0||0||0||2",1,,,pdfs/pad-2025-00076_157/45th_MB_Report_Annex_2_SIR_Country_Profile_Serbia_redacted.pdf
+10395/2025,"2025-03-05||2025-02-28||Greece||Greece, sea area||sea||0||0||0||2",1,2025-03-05,2025-03-05,pdfs/pad-2025-00330-1/SIRs_CMU_redacted.pdf
+10434/2016,"2016-06-14||2016-06-13||Crete Island, Greece||Crete Island||sea||||||||0",1,2016-06-14,2016-06-14,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+10437/2019,"2019-10-24||2019-10-21||Germany||Hamburg Airport, Germany||facility||||||||32",1,2019-10-24,2019-10-24,pdfs/pad-2025-00339/10437-2019_redacted2.pdf
+10448/2024,2024-06-11||2024-01-12||Serbia||Serbia-Bulgaria border area||land||||2||||3,1,2024-06-11,2024-06-11,pdfs/pad-2024-00314/SIR_10448_2024_Final_Report_rps.pdf
+10463/2024,"||||Aegean Sea, Greece||Greek territorial waters||sea||||||||5",1,,,pdfs/pad-2025-00076_157/45th_MB_Report_Annex_1_SIR_Country_Profile_Greece_redacted.pdf
+10482/2025,2025-03-28||2025-03-26||Serbia||Serbia||land||0||0||0||2,1,2025-03-28,2025-03-28,pdfs/pad-2025-00330-1/SIRs_CMU_redacted.pdf
+10489/2019,"2019-10-29||2019-10-29||Greece||Evros River bank, Greece||land||1||0||0||0",1,2019-10-29,2019-10-29,pdfs/pad-2020-00167/SIR_Part_1.pdf
+10489/2024,2024-02-05||2024-02-05||Serbia||Serbia||land||0||0||0||0,1,2024-02-05,2024-02-05,pdfs/pad-2024-00314/SIR_10489_2024_PDF_redacted_and_scanned_version.pdf
+10494/2021,2021-02-17||2021-02-17||Albania||Self-isolation in an Operational Area near the Albanian-Greek Border||land||0||0||0||0,1,2021-02-17,2021-02-17,pdfs/pad-2022-00420/2_SIRs.pdf
+10508/2025,"2025-06-25||2025-02-19||Lithuania||Kybartai Border Crossing Point, Lithuania||facility||0||0||0||1",1,2025-06-25,2025-06-25,pdfs/pad-2025-00330-1/SIR_10508_2025_redacted2.pdf
+10524/2019,"2019-10-31||2019-10-29||Greece||Hotel parking area, Alexandroupolis, Greece||land||0||0||0||0",1,2019-10-31,2019-10-31,pdfs/pad-2020-00167/SIR_Part_1.pdf
+10528/2025,"2025-06-30||2025-03-01||Tunisia (Miskar gas platform), Maltese and Tunisian SAR regions, Libyan SAR region||Miskar gas platform in overlapping Maltese and Tunisian SAR regions, Gulf of Gabès||mixed||1||0||0||2",1,2025-06-30,2025-06-30,pdfs/pad-2025-00330-1/10528_2025_-_redacted.pdf
+10533/2020,"2020-02-21||2020-02-19||Greece||Alexandroupolis, Nomós Évrou, Greece||land||0||1||0||0",2,2020-02-21,2020-02-21,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2020_Releasable.pdf | pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf
+10533/2020,"2020-02-21||2020-02-19||Greece||Alexandroupolis, Greece||sea||0||1||0||0",1,2020-02-21,2020-02-21,pdfs/pad-2020-00217/Doc_11.pdf
+10533/2020,"2020-02-21||2020-02-19||Greece (Evros)||Alexandroupolis, Evros, Greece||land||0||1||0||0",1,2020-02-21,2020-02-21,pdfs/pad-2020-00217/Doc_14.pdf
+10533/2020,"2020-02-21||2020-02-19||Greece||Alexandroupolis, Greece||land||0||1||0||0",1,2020-02-21,2020-02-21,pdfs/pad-2020-00145/JO_POSEIDON_2020_SIR.pdf
+10533/2020,"2020-02-21||2020-02-19||Greece||Alexandroupolis, Nomós Évrou, Greece||land||||1||||0",1,2020-02-21,2020-02-21,pdfs/sir-10553-1/SIR_10553.pdf
+10533/2020,"2020-02-21||2020-02-19||Greece||Alexandroupolis, Evros, Greece||land||0||1||0||0",1,2020-02-21,2020-02-21,pdfs/pad-2020-00217/Doc_7.pdf
+10548/2022,"2022-07-13||2022-02-05||Albania, Greece||Albanian-Greek border||land||0||0||0||10",1,2022-07-13,2022-07-13,pdfs/pad-2023-00450/SIR_Albania_2022_part_2.pdf
+10548/2022,"||2022-02-05||Albania, Greece border||Albanian territory, near the border with Greece||land||0||0||0||10",1,,,pdfs/pad-2025-00371/10548_12480_12816_12941_13269-2022.pdf
+10549/2025,2025-04-12||2025-04-11||Serbia||Serbia||land||0||0||0||2,1,2025-04-12,2025-04-12,pdfs/pad-2025-00330-1/SIRs_CMU_redacted.pdf
+10566/2020,"2020-02-25||2020-02-25||Lesvos, Greece||Lesvos, Greece||land||0||0||0||0",1,2020-02-25,2020-02-25,pdfs/pad-2020-00217/Doc_11.pdf
+10566/2020,"2020-02-25||2020-02-25||Greece (Lesvos)||Mytilini, Lesvos, Greece (various locations)||land||0||0||0||0",1,2020-02-25,2020-02-25,pdfs/pad-2020-00217/Doc_14.pdf
+10566/2020,"2020-02-25||2020-02-25||Lesvos||Operational Area, Lesvos, Greece||land||0||0||0||0",1,2020-02-25,2020-02-25,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+10566/2020,"2020-02-25||2020-02-25||Greece||Mytilini, Lesvos, Greece||land||0||0||0||0",2,2020-02-25,2020-02-25,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf | pdfs/pad-2020-00145/JO_POSEIDON_2020_SIR.pdf
+10570/2023,"2023-07-11||2022-10-16||Germany||Frankfurt Airport, Germany||facility||0||0||0||3",1,2023-07-11,2023-07-11,pdfs/pad-2025-00367/10570-2023_red.pdf
+10585/2022,"2022-02-11||2022-02-09||Bulgaria||Bulgaria, JO Terra 2022 operational area||land||0||0||0||1",1,2022-02-11,2022-02-11,pdfs/pad-2022-00465/Documents02.pdf
+10585/2022,2022-02-11||2022-02-09||Bulgaria||Bulgaria (JO Terra 2022 operational area)||land||0||0||0||0,1,2022-02-11,2022-02-11,pdfs/pad-2022-00470/Documents2.pdf
+10590/2024,2024-02-12||2024-02-10||Bulgaria||Bulgaria||land||0||0||0||1,1,2024-02-12,2024-02-12,pdfs/pad-2024-00377/SIR_10590-2024.pdf
+10611/2025,"2025-08-20||2025-03-30||Lithuania/Belarus border||Šalčininkai Border Crossing Point area, on the Belarusian side of the border, Lithuania/Belarus border.||land||0||1||0||2",1,2025-08-20,2025-08-20,pdfs/pad-2025-00428/10611_2025.pdf
+10625/2020,"2020-03-01||2020-03-01||Greece||Operational Area, Greece||land||0||0||0||0",1,2020-03-01,2020-03-01,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+10625/2020,"2020-03-01||2020-03-01||Greece||Chios, Greece||land||0||0||0||0",2,2020-03-01,2020-03-01,pdfs/pad-2020-00145/JO_POSEIDON_2020_SIR.pdf | pdfs/pad-2020-00217/Doc_11.pdf
+10625/2020,"2020-03-01||2020-03-01||Greece||Vial camp, Chios, Greece||facility||0||0||0||0",1,2020-03-01,2020-03-01,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf
+10625/2020,"2020-03-01||2020-03-01||Greece (Chios island)||Surroundings of Vial camp, Chios, Greece||land||0||0||0||0",1,2020-03-01,2020-03-01,pdfs/pad-2020-00175-documents/PAD-2020-00175-documents.pdf
+10625/2020,"2020-03-01||2020-03-01||Greece||Near Vial camp, Chios, Greece||land||0||0||0||0",1,2020-03-01,2020-03-01,pdfs/pad-2020-00217/Doc_15.pdf
+10625/2020,"2020-03-01||2020-03-01||Greece (Chios)||Vial Refugee Camp, Chios, Greece||facility||0||0||0||0",1,2020-03-01,2020-03-01,pdfs/pad-2020-00217/Doc_14.pdf
+10630/2021,2021-03-01||2021-03-01||Albania||Operational Area in Albania||land||0||0||0||0,1,2021-03-01,2021-03-01,pdfs/pad-2022-00420/2_SIRs.pdf
+10633/2022,||2022-02-13||Latvia||Latvia-Belarus border||land||0||0||0||6,1,,,pdfs/pad-2025-00371/10633_2022.pdf
+10640/2025,2025-05-04||2025-05-03||Austria||Austria||land||0||0||0||2,1,2025-05-04,2025-05-04,pdfs/pad-2025-00330-1/SIRs_CMU_redacted.pdf
+10642/2019,"2019-11-12||2019-11-11||Greece, Lesvos island, Moria camp||Moria camp, Lesvos, Greece||facility||1||||||0",2,2019-11-12,2019-11-12,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_Releasable.pdf | pdfs/pad-2020-00217/Doc_6.pdf
+10652/2020,"2020-03-04||2020-02-25||Hungary||Hercegszántó, Bács-Kiskun, Hungary, wooded area||land||||||||1",1,2020-03-04,2020-03-04,pdfs/pad-2025-00339/10652-2020_redacted.pdf
+10658/2020,"2020-03-04||2020-03-03||||Location redacted, related to Federal Police Headquarters and a laboratory in a redacted country.||facility||0||0||0||0",2,2020-03-04,2020-03-04,pdfs/pad-2020-00217/Doc_12.pdf | pdfs/sirs-1-mar-to-1-apr-2020/SIRs_1_Mar_to_1_Apr_2020.pdf
+10658/2020,"2020-03-04||2020-03-03||||Redacted location, related to Federal Police Headquarters||facility||0||0||0||0",1,2020-03-04,2020-03-04,pdfs/sirs-mar-2020/SIRs_Mar_2020.pdf
+10688/2025,"2025-08-29||2025-04-25||Tunisian and Libyan search and rescue regions, off Tunisia||Approximately 26-28 nautical miles north of the shore of Tunisia, within the Libyan and Tunisian search and rescue regions.||sea||0||0||0||2",1,2025-08-29,2025-08-29,pdfs/pad-2025-00428/10688_2025.pdf
+10693/2025,"2025-05-15||2025-05-14||North Macedonia||North Macedonia, near railway tracks||land||0||0||0||2",1,2025-05-15,2025-05-15,pdfs/pad-2025-00330-1/SIRs_CMU_redacted.pdf
+10706/2025,2025-06-20||2025-05-16||Albania-Montenegro border area||Albania-Montenegro border area near railway track||land||0||0||0||1,1,2025-06-20,2025-06-20,pdfs/pad-2025-00330-1/10706.2025_Final_SIR_Cat_1.pdf
+10723/2022,"2022-02-22||2022-02-21||Operational Area (Sea)||Incident occurred in an operational area at sea, location redacted.||sea||1||1||0||1",1,2022-02-22,2022-02-22,pdfs/pad-2022-00328/Documents_2.pdf
+10729/2021,"2021-03-07||2021-03-07||Romania||Operational Area in Romania, near Timisoara||land||0||1||0||0",1,2021-03-07,2021-03-07,pdfs/doc-1-34/doc-1-34.pdf
+10739/2025,2025-06-18||||||Location of incident heavily redacted; related to a return operation to the individual's home country.||unknown||||||||2,1,2025-06-18,2025-06-18,pdfs/pad-2025-00330-1/10739_2025__FINAL_SIR_Cat._2-3_redacted.pdf
+10744/2020,2020-03-12||2020-03-11||Aegean Sea||Aegean Sea||sea||0||0||0||0,2,2020-03-12,2020-03-12,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf | pdfs/pad-2020-00217/Doc_14.pdf
+10749/2025,"2025-06-26||2025-05-22||Albania-Montenegro border area||Near the Albania-Montenegro border, North-western Albania||land||0||0||0||1",1,2025-06-26,2025-06-26,pdfs/pad-2025-00330-1/10749_2025_Final_SIR_Cat_1__JO_Albania_2025.pdf
+10771/2025,2025-06-04||2025-06-04||Spain||Spain||land||0||0||0||2,1,2025-06-04,2025-06-04,pdfs/pad-2025-00330-1/SIRs_CMU_redacted.pdf
+10787/2025,2025-06-07||2025-06-06||Serbia||Serbia||land||0||0||0||2,1,2025-06-07,2025-06-07,pdfs/pad-2025-00330-1/SIRs_CMU_redacted.pdf
+10797/2025,2025-07-10||||Poland||Frontex office in Warsaw||facility||||||||0,1,2025-07-10,2025-07-10,pdfs/pad-2025-00330-1/10797_2025_FINAL_SIR_CAT_3_redacted.pdf
+10804/2020,"2020-03-18||2020-03-18||Bulgaria||Redacted location, hospitalization in Sofia, Bulgaria||land||0||0||0||0",1,2020-03-18,2020-03-18,pdfs/sirs-mar-2020/SIRs_Mar_2020.pdf
+10804/2020,"2020-03-18||2020-03-18||Bulgaria||Military Hospital in Sofia, Bulgaria||facility||0||0||0||0",1,2020-03-18,2020-03-18,pdfs/pad-2020-00145/FOA_LAND_2020_SIR.pdf
+10804/2020,"2020-03-18||2020-03-18||Bulgaria (Sofia)||Sofia, Bulgaria (Military Hospital)||facility||0||0||0||0",1,2020-03-18,2020-03-18,pdfs/pad-2020-00217/Doc_14.pdf
+10804/2020,"2020-03-18||2020-03-18||Bulgaria||Location redacted, but related to deployment in Bulgaria, with hospitalization in Sofia.||land||0||0||0||0",2,2020-03-18,2020-03-18,pdfs/pad-2020-00217/Doc_12.pdf | pdfs/sirs-1-mar-to-1-apr-2020/SIRs_1_Mar_to_1_Apr_2020.pdf
+10804/2020,"2020-03-18||2020-03-18||Bulgaria||Sofia, Bulgaria||land||0||0||0||0",1,2020-03-18,2020-03-18,pdfs/pad-2020-00217/Doc_10.pdf
+10804/2020,"2020-03-18||2020-03-18||Bulgaria||Sofia, Bulgaria||facility||0||0||0||0",1,2020-03-18,2020-03-18,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf
+10804/2021,"2021-03-11||2021-03-11||Bulgaria||Operational Area Sofia, Bulgaria||land||0||0||0||0",1,2021-03-11,2021-03-11,pdfs/pad-2022-00465/Documents01.pdf
+10804/2022,"2022-03-25||2022-02-23||Latvia, Belarus||Latvia-Belarus land border||land||||||||4",1,2022-03-25,2022-03-25,pdfs/pad-2025-00371/10804_2022.pdf
+10809/2020,"2020-03-19||2020-03-18||Greece||Alexandroupolis, Greece||land||0||0||0||0",2,2020-03-19,2020-03-19,pdfs/pad-2020-00145/FOA_LAND_2020_SIR.pdf | pdfs/pad-2020-00217/Doc_10.pdf
+10809/2020,"2020-03-19||2020-03-18||Greece||Location redacted, but related to Hellenic Police Office and Alexandroupolis, Greece.||land||0||0||0||0",2,2020-03-19,2020-03-19,pdfs/pad-2020-00217/Doc_12.pdf | pdfs/sirs-1-mar-to-1-apr-2020/SIRs_1_Mar_to_1_Apr_2020.pdf
+10809/2020,"2020-03-19||2020-03-18||Greece||Redacted location, hospitalization in Alexandroupolis, Greece||land||0||0||0||0",1,2020-03-19,2020-03-19,pdfs/sirs-mar-2020/SIRs_Mar_2020.pdf
+10809/2020,"2020-03-19||2020-03-18||Greece (Alexandroupolis, Thessaloniki)||Alexandroupolis, Greece (hospitalized)||facility||0||0||0||0",1,2020-03-19,2020-03-19,pdfs/pad-2020-00217/Doc_14.pdf
+10809/2020,"2020-03-19||2020-03-18||Greece||Alexandroupolis, Greece||unknown||0||0||0||0",1,2020-03-19,2020-03-19,pdfs/pad-2020-00167/SIR_Part_1.pdf
+10809/2020,"2020-03-19||2020-03-18||Greece||Alexandroupolis, Greece||facility||0||0||0||0",1,2020-03-19,2020-03-19,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf
+10830/2025,2025-06-16||2025-06-14||North Macedonia||North Macedonia||land||0||1||0||2,1,2025-06-16,2025-06-16,pdfs/pad-2025-00330-1/SIRs_CMU_redacted.pdf
+10839/2019,"2019-11-27||2019-11-27||Greece, Lesvos island, Mytilene||Mytilene, Lesvos, Greece||land||||1||||0",2,2019-11-27,2019-11-27,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_Releasable.pdf | pdfs/pad-2020-00217/Doc_6.pdf
+10842/2022,"2022-03-07||2022-02-27||Latvia, Belarus||Latvia-Belarus border||land||||||||3",1,2022-03-07,2022-03-07,pdfs/pad-2025-00371/10842_2022.pdf
+10862/2024,2024-12-10||2024-02-27||unknown||Unspecified Border Control Unit (BCU) within an operational area||land||0||0||0||1,1,2024-12-10,2024-12-10,pdfs/pad-2025-00055/10862_2024_SIR_Cat._2_JO_Bulgaria_2024_Final_report_27.02.2025_redacted_print.pdf
+10870/2021,2021-03-17||2021-03-17||Romania||Operational Area in Romania||land||0||0||0||0,1,2021-03-17,2021-03-17,pdfs/doc-1-34/doc-1-34.pdf
+10910/2023,"2023-10-30||2022-12-01||Greek-Albanian border area, Registration and Temporary Accommodation Center||Registration and Temporary Accommodation Center near the Greek-Albanian border||mixed||0||0||0||2",1,2023-10-30,2023-10-30,pdfs/pad-2023-00450/Albnia_SIR_2023.pdf
+10928/2019,"2019-12-05||2019-12-05||Greece, Lesvos island, Karatepe camp||Karatepe Camp, Mytilene, Lesvos, Greece||facility||1||0||||0",2,2019-12-05,2019-12-05,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_Releasable.pdf | pdfs/pad-2020-00217/Doc_6.pdf
+10934/2025,2025-07-09||2025-06-29||Bulgaria||Bulgaria||facility||0||0||0||2,1,2025-07-09,2025-07-09,pdfs/pad-2025-00330-1/SIRs_CMU_redacted.pdf
+10941/2022,2022-07-13||2022-03-01||Albania/Greece border||Kakavia border crossing point (Albania/Greece border)||land||0||0||0||2,1,2022-07-13,2022-07-13,pdfs/pad-2022-00420/sir8.pdf
+10941/2022,"2022-07-13||2022-03-01||Albania-Greece border||Near Kakavia border crossing point, Albania-Greece border||land||||||||2",1,2022-07-13,2022-07-13,pdfs/pad-2023-00450/SIR_Albania_2022_part_1.pdf
+10941/2022,"2022-07-13||2022-03-02||Albania, Greece||Border crossing point Kakavia, between Albania and Greece||land||0||0||0||2",1,2022-07-13,2022-07-13,pdfs/pad-2025-00371/10941-2022.pdf
+10942/2022,"2022-05-12||2022-03-03||Albania-Greece border||Near Kakavia border crossing point, Albania-Greece border||land||||||||2",1,2022-05-12,2022-05-12,pdfs/pad-2023-00450/SIR_Albania_2022_part_1.pdf
+10942/2022,"2022-05-12||2022-03-02||Albania||Near BCP Kakavia, Albania, close to the border with Greece||land||0||0||0||2",1,2022-05-12,2022-05-12,pdfs/pad-2025-00371/10942-2022.pdf
+10942/2022,"2022-05-12||2022-03-02||Albania/Greece border||Kakavia Border Crossing Point, Albania/Greece border||land||0||0||0||2",1,2022-05-12,2022-05-12,pdfs/pad-2022-00420/sir9.pdf
+10945/2021,"2021-03-23||2021-03-23||Bulgaria||Operational Area Sofia, Bulgaria||land||0||0||0||0",1,2021-03-23,2021-03-23,pdfs/pad-2022-00465/Documents01.pdf
+10951/2019,"2019-12-07||2019-11-30||Greece||Near BCU FERES, Greece||land||0||1||0||0",1,2019-12-07,2019-12-07,pdfs/pad-2020-00167/SIR_Part_1.pdf
+10953/2021,"2021-03-24||2021-03-24||Bulgaria||Operational Area, Sofia, Bulgaria||land||0||0||0||0",1,2021-03-24,2021-03-24,pdfs/pad-2022-00465/Documents01.pdf
+10956/2021,"2021-03-24||2021-03-23||Bulgaria||Sofia, Bulgaria||land||0||0||0||0",1,2021-03-24,2021-03-24,pdfs/pad-2022-00465/Documents01.pdf
+10957/2024,"2024-09-13||2024-02-15||Serbia, Bulgaria||Serbia-Bulgaria border area, including a detention center in Belgrade, Pirot, and a border crossing point||mixed||||||||4",1,2024-09-13,2024-09-13,pdfs/sirs-pad-2024-00396/sirs-pad-2024-00396.pdf
+10957/2024,"2024-09-13||2024-02-15||Serbia, Bulgaria||Serbia-Bulgaria border area, near Pirot, Serbia||land||0||1||0||4",1,2024-09-13,2024-09-13,pdfs/10957_2024-final-sir-cat1/10957_2024-final-sir-cat.1.pdf
+10988/2020,"2020-04-08||2020-04-07||Greece||olive grove near Moria camp, Lesvos, Greece||facility||1||0||0||0",1,2020-04-08,2020-04-08,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+10990/2021,"2021-03-26||2021-03-26||Bulgaria||Operational Area, Bulgaria||land||0||0||0||0",1,2021-03-26,2021-03-26,pdfs/pad-2022-00465/Documents01.pdf
+10998/2024,"2024-08-22||2024-02-19||Aegean Sea, Lesvos||South of Lesvos, Aegean Sea||sea||||||||3",1,2024-08-22,2024-08-22,pdfs/10998-2024-fro-final-report_final-1/10998-2024-fro-final-report_final-1.pdf
+10998/2024,"2024-08-22||2024-02-19||Aegean Sea, Lesvos, Greek-Turkish maritime border, Turkey||South of Lesvos, near Greek-Turkish maritime border, Aegean Sea.||sea||||||||3",1,2024-08-22,2024-08-22,pdfs/10998-2024-fro-final-report_final/10998-2024-fro-final-report_final.pdf
+11008/2021,"2021-03-27||2021-03-24||Spain||San Jose, Almeria, Andalusia, Spain||land||0||2||0||5",1,2021-03-27,2021-03-27,pdfs/pad-2025-00419/11008-2021_NF_red_dp_BG_3F_mp_print.pdf
+11008/2021,"||2021-03-25||Spain||Almeria and San Jose, Spain||land||0||1||0||8",1,,,pdfs/pad-2025-00371/11008.2021.pdf
+11009/2022,2022-03-08||2022-03-08||Bulgaria||Bulgarian Border Crossing Point (JO Terra 2022)||facility||||||||3,1,2022-03-08,2022-03-08,pdfs/pad-2022-00470/Documents2.pdf
+11009/2022,"2022-03-08||2022-03-08||Bulgaria||Bulgaria, JO Terra 2022 operational area, Border Crossing Point||facility||0||0||0||3",1,2022-03-08,2022-03-08,pdfs/pad-2022-00465/Documents02.pdf
+11009/2022,"2022-03-08||2022-03-08||Bulgaria||A Border Crossing Point (BCP) in the operational area of JO Terra 2022, Bulgaria.||facility||0||0||0||3",1,2022-03-08,2022-03-08,pdfs/pad-2025-00371/11009_11760_12819_13800_14128-2022.pdf
+11013/2019,"2019-12-12||2019-12-09||Greece, Chios island, Vial camp||Vial camp, Chios, Greece||facility||||1||||0",2,2019-12-12,2019-12-12,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2019_Releasable.pdf | pdfs/pad-2020-00217/Doc_6.pdf
+11022/2020,"2020-04-13||2020-04-10||Central Mediterranean Sea||Central Mediterranean Sea, off Malta's coast||sea||5||0||0||0",1,2020-04-13,2020-04-13,pdfs/doc-1-1-1/doc-1-1-1.pdf
+11023/2023,"2023-07-28||2023-02-17||Greece, Türkiye (Lesvos Island, Turkish territorial waters)||Lesvos Island, Greece and Turkish territorial waters near Lesvos.||mixed||0||2||0||3",1,2023-07-28,2023-07-28,pdfs/onedrive_3_29-11-2023/doc_1-1.pdf
+11023/2023,"2023-07-28||2023-02-17||Greece, Türkiye, Aegean Sea||Lesvos Island, Greece and Turkish territorial waters near Izmir province, Dikili district||mixed||0||1||0||3",1,2023-07-28,2023-07-28,pdfs/pad-2023-00266/doc_1-1.pdf
+11027/2023,"2023-06-22||2023-01-12||Greece, Türkiye (Samos, Lesvos, Turkish territorial waters)||Near Samos coast, Lesvos Island, Turkish territorial waters (Canakkale province).||mixed||0||0||0||3",1,2023-06-22,2023-06-22,pdfs/onedrive_3_29-11-2023/doc_1-1.pdf
+11027/2023,"2023-06-22||2023-01-12||Greece, Türkiye, Aegean Sea||Lesvos Island, Greece and Turkish territorial waters off Canakkale province, Ayvacik district||mixed||0||0||0||3",1,2023-06-22,2023-06-22,pdfs/pad-2023-00266/doc_1-1.pdf
+11027/2023,"2023-06-22||2022-11-12||Greece, Türkiye, Aegean Sea||Near Samos Island, Greece, and Turkish territorial waters off Izmir province||sea||0||0||0||3",1,2023-06-22,2023-06-22,pdfs/pad-2023-00266/doc_1-1.pdf
+11041/2024,"2024-09-30||2024-02-26||Serbia, Bulgaria||Serbia-Bulgaria border area, including Belgrade, a reception center south of Belgrade, Dimitrovgrad, and a shallow river at the border||mixed||||||||3",1,2024-09-30,2024-09-30,pdfs/sirs-pad-2024-00396/sirs-pad-2024-00396.pdf
+11041/2024,"2024-09-30||2024-02-26||Serbia/Bulgaria border||Serbian-Bulgarian border, near Dimitrovgrad||land||0||1||0||3",1,2024-09-30,2024-09-30,pdfs/11041_2024-final-sir-cat-1/11041_2024-final-sir-cat.-1.pdf
+11073/2020,"2020-04-20||2020-04-18||Greece (Chios)||Vial Refugee Camp, Chios, Greece||facility||0||0||0||0",1,2020-04-20,2020-04-20,pdfs/pad-2020-00217/Doc_14.pdf
+11073/2020,"2020-04-20||2020-04-18||Greece||Vial RIC, Chios, Greece||facility||0||0||0||0",3,2020-04-20,2020-04-20,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf | pdfs/pad-2020-00162/POSEIDON_2020_SirExport.pdf | pdfs/pad-2020-00217/Doc_15.pdf
+11073/2020,"2020-04-20||2020-04-18||Greece (Chios island)||RIC VIAL camp, Chios, Greece||facility||0||0||0||0",1,2020-04-20,2020-04-20,pdfs/pad-2020-00175-documents/PAD-2020-00175-documents.pdf
+11073/2020,"2020-04-20||2020-04-18||Chios||Operational Area, Chios, Greece||facility||0||0||0||0",1,2020-04-20,2020-04-20,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+11074/2022,||2022-03-09||Lithuania-Belarus border||Lithuania-Belarus border||land||0||0||0||4,1,,,pdfs/pad-2025-00371/11074_2022.pdf
+11081/2022,"2022-05-12||2022-02-28||Albania/Greece border||Albanian-Greek border near Kakavia, involving movements to Sarande and Gjirokaster in Albania, and Delvinaki in Greece.||mixed||0||0||0||2",1,2022-05-12,2022-05-12,pdfs/pad-2022-00420/sir6.pdf
+11081/2022,"2022-05-12||2022-02-28||Albania, Greece||Albanian-Greek border area near Kakavia and Delvinaki||land||0||0||0||2",1,2022-05-12,2022-05-12,pdfs/pad-2025-00371/11081-2022.pdf
+11081/2022,"2022-05-12||2022-03-02||Albania-Greece border||Near Kakavia border, Albania-Greece||land||||||||2",1,2022-05-12,2022-05-12,pdfs/pad-2023-00450/SIR_Albania_2022_part_1.pdf
+11082/2022,"2022-05-12||2022-03-07||Albania, Greece||Albania-Greece border crossing near Kakavia and Delvinaki||land||0||0||0||2",1,2022-05-12,2022-05-12,pdfs/pad-2025-00371/11082-2022.pdf
+11082/2022,"2022-05-12||2022-03-07||Albania-Greece border||Near Kakavia detention center, Albania-Greece border||land||||||||2",1,2022-05-12,2022-05-12,pdfs/pad-2023-00450/SIR_Albania_2022_part_1.pdf
+11082/2022,"2022-05-12||2022-03-07||Albania, Greece||Albania-Greece border area near Kakavia and Delvinaki||land||0||0||0||2",1,2022-05-12,2022-05-12,pdfs/pad-2022-00420/sir5.pdf
+11083/2022,"2022-05-12||2022-03-01||Albania, Greece||Near Durres and Kakavia, Albania, and Delvinaki, Greece||land||0||0||0||2",1,2022-05-12,2022-05-12,pdfs/pad-2022-00420/sir7.pdf
+11083/2022,"2022-05-12||2022-03-02||Albania-Greece border||Near Kakavia border crossing point, Albania-Greece border||land||||||||2",1,2022-05-12,2022-05-12,pdfs/pad-2023-00450/SIR_Albania_2022_part_1.pdf
+11083/2022,"2022-05-12||2022-03-01||Albania, Greece border||Apprehension near Durres, Albania; detention and alleged pushback near Kakavia, Albania-Greece border.||land||||||||2",1,2022-05-12,2022-05-12,pdfs/pad-2025-00371/11083-2022.pdf
+11091/2024,"2024-03-15||2023-12-27||North Macedonia||Highway in North Macedonia, near a tunnel.||land||0||0||0||1",1,2024-03-15,2024-03-15,pdfs/pad-2024-00429/Redacted_SIR_11091_2024.pdf
+11095/2020,"2020-04-30||2020-04-18||Eastern Aegean Sea||Eastern Aegean Sea, near Lesvos island, at 39.266667N 26.583333E||sea||||||||1",1,2020-04-30,2020-04-30,pdfs/pad-2022-00335/2020.05.01_Final_SIR__Report_11095.2020__final_redacted.pdf
+11095/2020,"2020-04-30||2020-04-19||Eastern Aegean Sea, Turkey||Turkish territorial waters, Eastern Aegean Sea||sea||||||||0",1,2020-04-30,2020-04-30,pdfs/pad-2020-00215/RE_110952020-1.pdf
+11095/2020,"2020-04-23||2020-04-18||Eastern Aegean Sea||North of Lesvos, Eastern Aegean Sea, near Greek-Turkish maritime border||sea||||||||0",2,2020-04-23,2020-04-23,pdfs/pad-2020-00215/Redacted_FW_110952020_FORMAL_SIR__Frontex_Surveillance_Aircrafts_Sighting_in_Eastern_Aegean.pdf | pdfs/pad-2022-00335/Redacted_FW_110952020_FORMAL_SIR__Frontex_Surveillance_Aircrafts_Sighting_in_Eastern_Aegean.pdf
+11095/2020,"2020-04-30||2020-04-18||Aegean Sea (Greek/Turkish border)||Greek Territorial waters near the Greek-Turkish border, Aegean Sea||sea||0||0||0||2",1,2020-04-30,2020-04-30,pdfs/sea-borders-surveillance-report-2020-1/sea-borders-surveillance-report-2020-1.pdf
+11095/2020,"2020-04-30||2020-04-18||Eastern Aegean Sea (Greece/Turkey border area)||Eastern Aegean Sea, north of Lesvos island, near Greek-Turkish maritime border||sea||||||||3",1,2020-04-30,2020-04-30,pdfs/pad-2020-00215/2020.05.01_Final_SIR__Report_11095.2020__final_redacted-1.pdf
+11095/2020,"2020-04-30||2020-04-18||Eastern Aegean Sea (Greece/Turkey)||Eastern Aegean Sea, near Lesvos, at 39.2666N, 26.5833E||sea||0||0||0||3",1,2020-04-30,2020-04-30,pdfs/2020.05.01_final-sir-report_11095.2020-_final-redacted-1/2020.05.01_Final_SIR__Report_11095.2020__final_redacted-1.pdf
+11095/2020,"2020-05-05||||Eastern Aegean Sea||Eastern Aegean Sea, Turkish territorial waters||sea||||||||2",1,2020-05-05,2020-05-05,pdfs/pad-2020-00215/Redacted_110952020_FINAL_SIR__Frontex_Surveillance_Aircrafts_Sighting_in_Eastern_Aegean.pdf
+11095/2020,"2020-04-30||2020-04-19||Eastern Aegean Sea, Turkey||Turkish territorial waters in the Eastern Aegean Sea||sea||0||0||0||0",2,2020-04-30,2020-04-30,pdfs/pad-2020-00215/Email_1.pdf | pdfs/pad-2022-00335/Email_1.pdf
+11095/2020,"2020-04-22||2020-04-18||Aegean Sea (near Lesvos, Greece/Turkey border)||Sea area between Greek and Turkish maritime border, near Lesvos island.||sea||0||0||0||2",2,2020-04-22,2020-04-22,pdfs/pad-2020-00215/Redacted_11095.pdf | pdfs/pad-2022-00335/Redacted_11095.pdf
+11095/2020,"2020-05-05||||Eastern Aegean Sea, Turkey||Eastern Aegean Sea, Turkish territorial waters||sea||||||||3",1,2020-05-05,2020-05-05,pdfs/pad-2022-00335/Redacted_110952020_FINAL_SIR__Frontex_Surveillance_Aircrafts_Sighting_in_Eastern_Aegean.pdf
+11095/2020,"2020-04-30||2020-04-19||Turkish territorial waters, Eastern Aegean Sea||Turkish territorial waters in the Eastern Aegean Sea||sea||||||||0",1,2020-04-30,2020-04-30,pdfs/pad-2022-00335/RE_110952020.pdf
+11126/2022,||2022-03-13||Lithuania||Lithuania-Belarus border||land||0||0||0||4,1,,,pdfs/pad-2025-00371/11126_2022.pdf
+11137/2020,"2020-04-28||2020-04-28||Greece||Evros river, Greece||mixed||0||0||0||0",1,2020-04-28,2020-04-28,pdfs/pad-2020-00167/SIR_Part_2.pdf
+11137/2020,"2020-04-28||2020-04-28||Greece (Evros)||Evros river, border area, Greece (Turkish bank)||land||0||0||0||0",1,2020-04-28,2020-04-28,pdfs/pad-2020-00217/Doc_14.pdf
+11137/2020,"2020-04-28||2020-04-28||Greece||Evros river, Greece||land||0||0||0||0",2,2020-04-28,2020-04-28,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf | pdfs/pad-2020-00162/FOA_LAND_2020_SirExport.pdf
+11137/2020,"2020-04-28||2020-04-28||Evros river||Evros river area, near the Turkish bank||land||0||0||0||0",2,2020-04-28,2020-04-28,pdfs/pad-2020-00078/Serious_Incident_Reports_PAD-2020-00078_-_part_1.pdf | pdfs/pad-2020-00217/Doc_1.pdf
+11153/2023,"2024-07-19||2023-03-15||Albania, Greece (border area)||Albanian-Greek border area, involving a detention center in Albania.||mixed||0||0||0||1",1,2024-07-19,2024-07-19,pdfs/11153-2023-fro-final-report_redacted-1/11153-2023-fro-final-report_redacted-1.pdf
+11153/2023,"2024-07-19||2023-03-15||Albania, Greece||Greek-Albanian border area, near a detention center, small wooden bridge and monastery||land||||||||1",1,2024-07-19,2024-07-19,pdfs/sirs-pad-2024-00396/sirs-pad-2024-00396.pdf
+11198/2020,"2020-05-06||2020-05-06||Greece (Evros)||Evros, Greece||land||1||0||0||0",1,2020-05-06,2020-05-06,pdfs/pad-2020-00217/Doc_14.pdf
+11198/2020,"2020-05-06||2020-05-06||Greece||Evros, Greece||land||1||0||0||0",2,2020-05-06,2020-05-06,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf | pdfs/pad-2020-00167/SIR_Part_2.pdf
+11198/2020,"2020-05-06||2020-05-06||Greece||Soufli, Evros, Greece||land||1||0||0||0",1,2020-05-06,2020-05-06,pdfs/pad-2020-00162/FOA_LAND_2020_SirExport.pdf
+11199/2020,"2020-05-06||2020-05-06||Greece||Shooting incidents in Evros, Greece, involving Turkish patrol boats.||mixed||0||0||0||0",1,2020-05-06,2020-05-06,pdfs/pad-2020-00217/Doc_8.pdf
+11199/2020,"2020-05-06||2020-05-06||Greece (Evros)||Evros, Greece (border area)||land||0||0||0||0",1,2020-05-06,2020-05-06,pdfs/pad-2020-00217/Doc_14.pdf
+11199/2020,"2020-05-06||2020-05-06||Greece||Evros, Greece (specific location redacted)||mixed||0||0||0||0",1,2020-05-06,2020-05-06,pdfs/pad-2020-00078/SirExportSIR_1130_and_113_Releasable.pdf
+11199/2020,"2020-05-06||2020-05-06||Greece||Evros, Greece||land||0||0||0||0",3,2020-05-06,2020-05-06,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf | pdfs/pad-2020-00162/FOA_LAND_2020_SirExport.pdf | pdfs/pad-2020-00167/SIR_Part_2.pdf
+11203/2022,"2023-07-28||2022-09-15||Samos Island, Greece, Aegean Sea||Near Samos Island, Greece||sea||||||||3",1,2023-07-28,2023-07-28,pdfs/pad-2025-00367/11203_2022.pdf
+11210/2024,2024-03-24||2024-03-23||||||unknown||0||0||0||0,1,2024-03-24,2024-03-24,pdfs/pad-2024-00368/SIR_11210_2024.pdf
+11212/2021,"2021-04-09||2021-04-08||Bulgaria||Plovdiv, Bulgaria||land||0||0||0||0",1,2021-04-09,2021-04-09,pdfs/pad-2022-00465/Documents01.pdf
+11231/2022,||2022-03-20||Belarus-Lithuania border||Border between Belarus and Lithuania||land||||||||4,1,,,pdfs/pad-2025-00371/11231_2022.pdf
+11239/2020,"2020-05-12||2020-05-10||Greece||Molyvos, Lesvos, Greece||facility||||1||||0",1,2020-05-12,2020-05-12,pdfs/pad-2020-00162/POSEIDON_2020_SirExport.pdf
+11239/2020,2020-05-12||2020-05-10||Greece||On board a vessel in Greece||sea||0||1||0||0,1,2020-05-12,2020-05-12,pdfs/pad-2020-00175-documents/PAD-2020-00175-documents.pdf
+11239/2020,2020-05-12||2020-05-10||Greece||Greece||sea||0||1||0||0,1,2020-05-12,2020-05-12,pdfs/pad-2020-00217/Doc_15.pdf
+11239/2020,"2020-05-12||2020-05-10||Greece (Lesvos)||Lesvos, Greece (on board a vessel)||mixed||0||1||0||0",1,2020-05-12,2020-05-12,pdfs/pad-2020-00217/Doc_14.pdf
+11239/2020,"2020-05-12||2020-05-10||Greece||Lesvos, Greece||facility||0||1||0||0",1,2020-05-12,2020-05-12,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf
+11239/2020,"2020-05-12||2020-05-10||Greece||Lesvos, Greece||land||0||1||0||0",2,2020-05-12,2020-05-12,pdfs/pad-2020-00078/SirExport_JO_Poseidon_2020_Releasable.pdf | pdfs/pad-2020-00217/Doc_7.pdf
+11243/2020,"2020-05-12||2020-05-12||Greece||Alexandroupoli, Evros, Greece||land||0||0||0||0",2,2020-05-12,2020-05-12,pdfs/pad-2020-00162/FOA_LAND_2020_SirExport.pdf | pdfs/pad-2020-00167/SIR_Part_2.pdf
+11243/2020,"2020-05-12||2020-05-12||Greece||Alexandroupoli, Evros, Greece (hospital)||facility||0||0||0||0",1,2020-05-12,2020-05-12,pdfs/pad-2020-00217/Doc_13.pdf
+11243/2020,"2020-05-12||2020-05-12||Greece (Evros)||Alexandroupoli, Evros, Greece (hospital)||facility||0||0||0||0",1,2020-05-12,2020-05-12,pdfs/pad-2020-00217/Doc_14.pdf
+11243/2020,"2020-05-12||2020-05-12||Greece||Alexandroupolis, Evros, Greece||facility||0||0||0||0",1,2020-05-12,2020-05-12,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf
+11251/2020,"2020-05-13||2020-05-12||Greece||Shooting incident in Tychero, Evros, Greece, near the Turkish border.||land||0||0||0||0",1,2020-05-13,2020-05-13,pdfs/pad-2020-00217/Doc_8.pdf
+11251/2020,"2020-05-13||2020-05-12||Greece||Tychero, Evros, Greece||land||0||0||0||0",1,2020-05-13,2020-05-13,pdfs/pad-2020-00078/SirExportSIR_1130_and_113_Releasable.pdf
+11251/2020,"2020-05-13||2020-05-12||Greece||Evros, Greece (border with Turkey)||land||0||0||0||0",1,2020-05-13,2020-05-13,pdfs/pad-2020-00217/Doc_13.pdf
+11251/2020,"2020-05-13||2020-05-12||Greece||Evros, Greece||land||0||0||0||0",3,2020-05-13,2020-05-13,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf | pdfs/pad-2020-00162/FOA_LAND_2020_SirExport.pdf | pdfs/pad-2020-00167/SIR_Part_2.pdf
+11251/2020,"2020-05-13||2020-05-12||Greece (Evros)||Evros, Greece (border area, shots from Turkish side)||land||0||0||0||0",1,2020-05-13,2020-05-13,pdfs/pad-2020-00217/Doc_14.pdf
+11254/2020,"2020-05-13||2020-05-13||Greece (Evros)||Evros, Greece (near Alexandroupolis)||land||1||0||0||0",1,2020-05-13,2020-05-13,pdfs/pad-2020-00217/Doc_14.pdf
+11254/2020,"2020-05-13||2020-05-13||Greece||Feres, Evros, Greece||land||1||0||0||0",2,2020-05-13,2020-05-13,pdfs/pad-2020-00162/FOA_LAND_2020_SirExport.pdf | pdfs/pad-2020-00167/SIR_Part_2.pdf
+11254/2020,"2020-05-13||2020-05-13||Greece||Evros, Greece||land||1||0||0||0",1,2020-05-13,2020-05-13,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf
+11258/2024,"2025-03-31||2024-03-03||Aegean Sea, Greece/Türkiye border||Sea area between Chios Island (Greece) and Çeşme district (Türkiye), near the maritime border.||sea||0||0||0||3",1,2025-03-31,2025-03-31,pdfs/pad-2025-00151-1/SIR_11258-2024.pdf
+11264/2020,"2020-05-14||2020-05-14||Greece||Evros, Greece||land||1||0||0||0",1,2020-05-14,2020-05-14,pdfs/pad-2020-00167/SIR_Part_2.pdf
+11264/2020,"2020-05-14||2020-05-14||Greece (Evros)||Evros river, Greek bank, Evros, Greece||mixed||1||0||0||0",1,2020-05-14,2020-05-14,pdfs/pad-2020-00217/Doc_14.pdf
+11264/2020,"2020-05-14||2020-05-14||Greece||Evros river, Greece||land||1||0||0||0",1,2020-05-14,2020-05-14,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf
+11264/2020,"2020-05-14||2020-05-14||Greece||Orestiada, Evros, Greece||land||1||0||0||0",1,2020-05-14,2020-05-14,pdfs/pad-2020-00162/FOA_LAND_2020_SirExport.pdf
+11267/2024,2024-03-27||2024-03-25||||||unknown||0||1||0||0,1,2024-03-27,2024-03-27,pdfs/pad-2025-00475/11267_2024_redacted.pdf
+11275/2020,"2020-05-16||2020-05-16||Greece (Evros)||Evros river area, Greece||land||1||0||0||0",1,2020-05-16,2020-05-16,pdfs/pad-2020-00217/Doc_14.pdf
+11275/2020,"2020-05-16||2020-05-16||Greece||Tychero, Evros, Greece||land||1||0||0||0",1,2020-05-16,2020-05-16,pdfs/pad-2020-00162/FOA_LAND_2020_SirExport.pdf
+11275/2020,"2020-05-16||2020-05-16||Greece||Evros, Greece||land||1||0||0||0",2,2020-05-16,2020-05-16,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf | pdfs/pad-2020-00167/SIR_Part_2.pdf
+11304/2023,"2023-06-16||2023-03-19||Serbia, Bulgaria, Hungary||Serbia, near Sombor migrant camp and Serbian-Bulgarian border, after transit through Hungary||land||0||0||0||2",1,2023-06-16,2023-06-16,pdfs/pad-2023-00266/doc_1-1.pdf
+11304/2023,"2023-06-16||2023-03-19||Serbia, Bulgaria, Hungary||Serbian-Bulgarian border, Hungary, Sombor migrant camp (Serbia).||land||0||1||0||2",1,2023-06-16,2023-06-16,pdfs/onedrive_3_29-11-2023/doc_1-1.pdf
+11308/2020,"2020-05-21||2020-05-21||Greece||Aegean Sea, Greece-Turkey maritime border||sea||0||0||0||0",1,2020-05-21,2020-05-21,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+11308/2020,2020-05-21||2020-05-21||Greece||Greece (specific location redacted)||sea||0||0||0||0,1,2020-05-21,2020-05-21,pdfs/pad-2020-00162/POSEIDON_2020_SirExport.pdf
+11308/2020,"2020-05-21||2020-05-21||Greece (sea area)||Sea area near Chios, Greece||sea||0||0||0||0",1,2020-05-21,2020-05-21,pdfs/pad-2020-00217/Doc_14.pdf
+11308/2020,"2020-05-21||2020-05-21||Greece||Chios, Greece||sea||0||0||0||0",1,2020-05-21,2020-05-21,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf
+11314/2020,"2020-05-22||2020-05-21||Greece||Near Marasia, Kastanies, Evros, Greece||land||0||0||0||0",1,2020-05-22,2020-05-22,pdfs/pad-2020-00217/Doc_13.pdf
+11314/2020,"2020-05-22||2020-05-21||Greece||Marasia, Evros, Greece||land||0||0||0||0",1,2020-05-22,2020-05-22,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf
+11314/2020,"2020-05-22||2020-05-21||Greece (Evros)||Marasia, Evros, Greece (border area)||land||0||0||0||0",1,2020-05-22,2020-05-22,pdfs/pad-2020-00217/Doc_14.pdf
+11314/2020,"2020-05-22||2020-05-21||Greece||Kastanies, Evros, Greece||land||0||0||0||0",1,2020-05-22,2020-05-22,pdfs/pad-2020-00162/FOA_LAND_2020_SirExport.pdf
+11314/2020,"2020-05-22||2020-05-21||Greece||Evros region, near the Greek-Turkish border, Greece||land||0||0||0||0",1,2020-05-22,2020-05-22,pdfs/pad-2020-00167/SIR_Part_1.pdf
+11321/2020,"2020-05-23||2020-05-22||Greece||Operational Area, Greece||facility||1||0||0||0",1,2020-05-23,2020-05-23,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+11322/2022,2022-04-26||2022-03-27||Lithuania-Belarus border||Belarus-Lithuania border||land||0||0||0||4,1,2022-04-26,2022-04-26,pdfs/pad-2025-00371/11322_2022.pdf
+11323/2020,"2020-05-23||2020-05-23||Greece||Operational Area, Greece||facility||0||1||0||0",1,2020-05-23,2020-05-23,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+11324/2023,2023-06-15||2022-05-31||Bulgaria-Türkiye border area||Bulgaria-Türkiye border||land||0||1||0||3,1,2023-06-15,2023-06-15,pdfs/pad-2023-00266/PAD-2023-00266_point_1.pdf
+11324/2023,2023-04-21||2022-05-31||Bulgaria-Turkey border||Bulgarian border with Turkey||land||0||1||0||4,1,2023-04-21,2023-04-21,pdfs/pad-2023-00266/PAD-2023-00266_point_4.pdf
+11324/2023,2023-06-01||||Bulgaria-Türkiye border||Bulgaria-Türkiye border||land||||||||3,1,2023-06-01,2023-06-01,pdfs/pad-2023-00266/PAD-2023-00266_point_2.pdf
+11349/2022,"2022-03-30||2022-03-29||Greece||Islet in Evros river near Petrades/Praggi, Greece||land||||||||0",1,2022-03-30,2022-03-30,pdfs/pad-2022-00332/Documents_2.pdf
+11376/2022,2022-05-24||2022-03-31||Lithuania||Lithuanian border with Belarus||land||||||||4,1,2022-05-24,2022-05-24,pdfs/pad-2025-00371/11376_2022.pdf
+11381/2022,"2022-06-03||2022-03-19||Albania, Greece||Albania-Greece border area, specifically near Gjirokaster (Albania) and Kakavia, Mayropoulo, Delvinaki A (Greece).||land||0||0||0||2",1,2022-06-03,2022-06-03,pdfs/pad-2022-00420/sir4.pdf
+11381/2022,"2022-06-03||2022-03-19||Albania, Greece||Albania-Greece border near Kakavia, Mayropoulo, Delvinaki A||land||0||0||0||2",1,2022-06-03,2022-06-03,pdfs/pad-2025-00371/11381-2022.pdf
+11381/2022,"2022-06-03||2022-03-19||Albania-Greece border||Near Kakavia border, Albania-Greece||land||||||||2",1,2022-06-03,2022-06-03,pdfs/pad-2023-00450/SIR_Albania_2022_part_1.pdf
+11386/2021,"2021-04-22||2021-04-21||Libya (Central Mediterranean Sea)||40 nautical miles North East of Tripoli, Libya (Central Mediterranean Sea)||sea||4||||||1",1,2021-04-22,2021-04-22,pdfs/pad-2025-00419/11386-2021_redacted2.pdf
+11387/2022,"2022-03-31||2022-03-30||Greece, Evros River||Island in Evros River, Greek side||land||||||||0",1,2022-03-31,2022-03-31,pdfs/pad-2022-00332/Documents_3A.pdf
+11387/2022,"2022-03-31||2022-03-30||Evros river, Greece||An island/islet in Evros River on the Greek side||land||||||||2",1,2022-03-31,2022-03-31,pdfs/pad-2022-00332/Documents_3B.pdf
+11392/2021,2021-04-23||2021-04-23||Albania||Albania||land||0||2||0||0,1,2021-04-23,2021-04-23,pdfs/pad-2022-00302-documents-1/pad-2022-00302-documents-1.pdf
+11407/2021,2021-04-24||2021-04-24||Bulgaria||Bulgaria||land||0||0||0||0,1,2021-04-24,2021-04-24,pdfs/pad-2022-00302-documents-1/pad-2022-00302-documents-1.pdf
+11415/2021,"2021-04-26||2021-04-26||Bulgaria (Sofia)||Sofia, Bulgaria||land||0||0||0||0",1,2021-04-26,2021-04-26,pdfs/pad-2022-00302-documents-1/pad-2022-00302-documents-1.pdf
+11415/2021,2021-04-26||2021-04-26||Bulgaria||Bulgaria||land||0||0||0||0,1,2021-04-26,2021-04-26,pdfs/pad-2022-00465/Documents01.pdf
+11426/2020,"2020-06-06||2020-06-05||Greece||Evros, Greece||land||1||0||0||0",1,2020-06-06,2020-06-06,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf
+11426/2020,"2020-06-06||2020-06-05||Greece (Evros)||Railway line between Alexandroupolis and Ormenio, Evros, Greece||land||1||0||0||0",1,2020-06-06,2020-06-06,pdfs/pad-2020-00217/Doc_14.pdf
+11426/2020,"2020-06-06||2020-06-05||Greece||Railway line between Alexandroupolis and Ormenio, Evros, Greece||land||1||0||0||0",1,2020-06-06,2020-06-06,pdfs/pad-2020-00167/SIR_Part_1.pdf
+11426/2020,"2020-06-06||2020-06-05||Greece||Tychero, Evros, Greece||land||1||0||0||0",1,2020-06-06,2020-06-06,pdfs/pad-2020-00162/FOA_LAND_2020_SirExport.pdf
+11441/2022,2022-04-04||2022-04||Bulgaria||Operational area in Bulgaria.||unknown||0||0||0||1,1,2022-04-04,2022-04-04,pdfs/pad-2022-00470/Documents1.pdf
+11441/2022,"2022-04-04||2022-04-04||Bulgaria||Bulgaria, operational area||land||0||0||0||2",1,2022-04-04,2022-04-04,pdfs/pad-2022-00465/Documents03.pdf
+11444/2020,"2020-06-08||2020-06-08||Greece (Evros), Bulgaria (Sofia)||Alexandroupoli Airport, Greece (lost), Sofia Airport, Bulgaria (found)||facility||0||0||0||0",1,2020-06-08,2020-06-08,pdfs/pad-2020-00217/Doc_14.pdf
+11444/2020,"2020-06-08||2020-06-08||Greece||Alexandroupoli, Evros, Greece||facility||0||0||0||0",2,2020-06-08,2020-06-08,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf | pdfs/pad-2020-00217/Doc_13.pdf
+11444/2020,"2020-06-08||2020-06-08||Greece||Alexandroupoli, Evros, Greece||land||0||0||0||0",1,2020-06-08,2020-06-08,pdfs/pad-2020-00162/FOA_LAND_2020_SirExport.pdf
+11447/2021,"2021-04-27||2021-04-26||Greece (Chios sea area)||Sea area near Chios, Greece||sea||0||0||0||0",1,2021-04-27,2021-04-27,pdfs/pad-2022-00302-documents-1/pad-2022-00302-documents-1.pdf
+11451/2021,"2021-04-27||2021-04-27||Greece (Chios sea area)||Sea area near Chios, Greece||sea||0||0||0||0",1,2021-04-27,2021-04-27,pdfs/pad-2022-00302-documents-1/pad-2022-00302-documents-1.pdf
+11460/2021,"2021-04-28||2021-04-28||Lithuania (Vilnius)||Vilnius, Lithuania||land||0||0||0||0",1,2021-04-28,2021-04-28,pdfs/pad-2022-00302-documents-1/pad-2022-00302-documents-1.pdf
+11480/2020,"2020-06-12||2020-06-12||Greece||Evros, Greece||land||0||0||0||0",2,2020-06-12,2020-06-12,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf | pdfs/pad-2020-00217/Doc_13.pdf
+11480/2020,"2020-06-12||2020-06-12||Greece||Evros region, Greece||land||0||0||0||0",1,2020-06-12,2020-06-12,pdfs/pad-2020-00167/SIR_Part_1.pdf
+11480/2020,"2020-06-12||2020-06-12||Greece (Evros)||Evros, Greece||land||0||0||0||0",1,2020-06-12,2020-06-12,pdfs/pad-2020-00217/Doc_14.pdf
+11480/2020,"2020-06-12||2020-06-12||Greece||Kastanies, Evros, Greece||land||0||0||0||0",1,2020-06-12,2020-06-12,pdfs/pad-2020-00162/FOA_LAND_2020_SirExport.pdf
+11494/2022,"2022-04-07||2022-03-30||Greece||Islet in Evros River, Greek side of the border, near Pragi/Didymoteicho||land||||||||3",1,2022-04-07,2022-04-07,pdfs/pad-2022-00332/Documents_6.pdf
+11494/2022,"2022-04-07||2022-03-30||Greece||Islet in Evros River, Greek side, near Pragi, Greece||land||0||0||0||3",1,2022-04-07,2022-04-07,pdfs/pad-2025-00371/11494_11619_11701_12288-2022.pdf
+11505/2020,"2020-06-16||2020-06-15||Greece||Evros River, Greek bank, Evros, Greece||land||1||0||0||0",1,2020-06-16,2020-06-16,pdfs/pad-2020-00167/SIR_Part_1.pdf
+11505/2020,"2020-06-16||2020-06-15||Greece||Didymoteicho, Evros, Greece||land||1||0||0||0",1,2020-06-16,2020-06-16,pdfs/pad-2020-00162/FOA_LAND_2020_SirExport.pdf
+11524/2023,2023-04-19||2023-04-17||Albania||Undisclosed location in Albania||unknown||0||0||0||2,1,2023-04-19,2023-04-19,pdfs/pad-2023-00450/Albnia_SIR_2023.pdf
+11525/2021,"2021-05-03||2021-05-02||Greece (sea area near Lesvos)||Sea area near Lesvos, Greece||sea||0||0||0||0",1,2021-05-03,2021-05-03,pdfs/pad-2022-00302-documents-1/pad-2022-00302-documents-1.pdf
+11531/2020,"2020-06-18||2020-06-17||Greece (Lesvos island)||Mytilini, Lesvos, Greece||land||0||1||0||0",1,2020-06-18,2020-06-18,pdfs/pad-2020-00175-documents/PAD-2020-00175-documents.pdf
+11531/2020,"2020-06-18||2020-06-17||Greece||Operational Area, Greece||land||||1||||0",1,2020-06-18,2020-06-18,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+11531/2020,"2020-06-18||2020-06-17||Greece||Mytilini, Lesvos, Greece||land||||1||||0",1,2020-06-18,2020-06-18,pdfs/pad-2020-00162/POSEIDON_2020_SirExport.pdf
+11531/2020,"2020-06-18||2020-06-17||Greece||Mytilini, Lesvos, Greece||land||0||1||0||0",3,2020-06-18,2020-06-18,pdfs/pad-2020-00125-attachment/PAD-2020-00125_attachment.pdf | pdfs/pad-2020-00217/Doc_14.pdf | pdfs/pad-2020-00217/Doc_15.pdf
+11538/2022,||2022-04-09||Lithuania||Lithuanian-Belarusian border area||land||0||0||0||4,1,,,pdfs/pad-2025-00371/11538_2022.pdf
+11553/2022,2022-05-10||2022-04-11||Lithuania||Bus station near the Lithuanian-Belarusian border||land||0||1||0||3,1,2022-05-10,2022-05-10,pdfs/pad-2025-00371/11553_2022.pdf
+11557/2021,"2021-05-05||2021-05-05||Greece (Evros)||Evros, Greece||land||0||0||0||0",1,2021-05-05,2021-05-05,pdfs/pad-2022-00302-documents-1/pad-2022-00302-documents-1.pdf
+11581/2021,"2021-05-06||2021-04-29||Greece (Lesvos)||Lesvos, Greece||sea||0||0||0||0",1,2021-05-06,2021-05-06,pdfs/pad-2022-00302-documents-1/pad-2022-00302-documents-1.pdf
+11588/2021,"2021-05-06||2021-05-06||Greece (Chios Island)||Chios Island, Greece||land||0||1||0||0",1,2021-05-06,2021-05-06,pdfs/pad-2022-00302-documents-1/pad-2022-00302-documents-1.pdf
+11588/2022,"2022-06-03||2022-04-02||Greece, Albania||Greek-Albanian border area||land||0||0||0||2",1,2022-06-03,2022-06-03,pdfs/pad-2025-00371/11588-2022.pdf
+11588/2022,2022-06-03||2022-04-03||Albania-Greece border||Greek-Albanian border||land||||||||2,1,2022-06-03,2022-06-03,pdfs/pad-2023-00450/SIR_Albania_2022_part_1.pdf
+11588/2022,"2022-06-03||2022-04-01||Albania, Greece||Greek-Albanian border area||land||0||0||0||2",1,2022-06-03,2022-06-03,pdfs/pad-2022-00420/sir.pdf
+11596/2022,2022-04-21||2022-04-08||Lithuania-Belarus border||Lithuania-Belarus border||land||||||||4,1,2022-04-21,2022-04-21,pdfs/pad-2025-00371/11596_2022.pdf
+11619/2022,"2022-04-17||2022-04-16||Greece||Evros River, Soufli area, Greece||mixed||1||0||0||1",1,2022-04-17,2022-04-17,pdfs/pad-2025-00371/11494_11619_11701_12288-2022.pdf
+11619/2022,"2022-04-17||2022-04-16||Greece||Soufli area, Evros River, Greece||mixed||1||||||0",1,2022-04-17,2022-04-17,pdfs/pad-2022-00332/Documents_6.pdf
+11619/2022,"2022-04-17||2022-04-16||Evros river, Greece||Evros river area near Soufli, Greece||land||1||||||3",1,2022-04-17,2022-04-17,pdfs/pad-2022-00332/Documents_3B.pdf
+11619/2022,"2022-04-18||2022-04-16||Greece, Evros||Evros region, Greece||land||1||||||0",1,2022-04-18,2022-04-18,pdfs/pad-2022-00332/Documents_3A.pdf
+11621/2022,2022-04-21||||Evros River||Islet in Evros River||land||||||||0,3,2022-04-21,2022-04-21,pdfs/pad-2022-00332/Documents_3A.pdf
+11621/2022,2022-04-18||||Evros River||Islets in Evros River||land||||||||1,1,2022-04-18,2022-04-18,pdfs/pad-2022-00332/Documents_3A.pdf
+11621/2022,2022-04-18||2022-04-14||Evros River||Islet in Evros River||land||||||||0,1,2022-04-18,2022-04-18,pdfs/pad-2022-00332/Documents_3A.pdf
+11621/2022,"2022-04-20||||Erythropotamos River, Evros River||Islet at the confluence of Erythropotamos and Evros Rivers||land||||||||0",1,2022-04-20,2022-04-20,pdfs/pad-2022-00332/Documents_3A.pdf
+11621/2022,"2022-04-20||2022-04-18||Evros River, Greece||Island in Evros River, near a Greek city||land||||||||0",1,2022-04-20,2022-04-20,pdfs/pad-2022-00332/Documents_3A.pdf
+11621/2022,2022-04-20||||Evros River||Island in Evros River||land||||||||0,1,2022-04-20,2022-04-20,pdfs/pad-2022-00332/Documents_3A.pdf
+11636/2024,2024-04-23||2024-04-17||Bulgaria||Bulgaria||land||0||0||0||1,1,2024-04-23,2024-04-23,pdfs/pad-2024-00377/SIR_11636-2024.pdf
+11648/2022,2022-04-20||||Evros||Evros region||land||||||||0,1,2022-04-20,2022-04-20,pdfs/pad-2022-00332/Documents_3A.pdf
+11648/2022,2022-04-27||||Evros River||Islet in Evros River||land||||||||0,1,2022-04-27,2022-04-27,pdfs/pad-2022-00332/Documents_3A.pdf
+11676/2024,"2024-08-31||2024-03-24||Aegean Sea, Türkiye, Greece||Aegean Sea, between Bodrum (Türkiye) and Greek islands of Kos and Leros.||sea||0||0||0||3",1,2024-08-31,2024-08-31,pdfs/11676_2024-final-sir-cat1/11676_2024-final-sir-cat.1.pdf
+11676/2024,"2024-08-31||2024-03-24||Aegean Sea (Greece/Türkiye)||Sea area between Bodrum, Türkiye and Kos Island, Greece||sea||||||||3",1,2024-08-31,2024-08-31,pdfs/sirs-pad-2024-00396/sirs-pad-2024-00396.pdf
+11684/2020,"2020-07-06||2020-07-05||Greece||Olive Grove area, Lesvos, Greece||facility||2||1||0||0",1,2020-07-06,2020-07-06,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+11688/2024,"2024-08-06||2024-04-07||Serbia, Bulgaria||Serbian-Bulgarian border area||land||||||||2",1,2024-08-06,2024-08-06,pdfs/sirs-pad-2024-00396/sirs-pad-2024-00396.pdf
+11688/2024,"2024-08-06||2024-04-07||Bulgaria, near Serbian border||Near the Serbian-Bulgarian border, on the Bulgarian side.||land||0||0||0||2",1,2024-08-06,2024-08-06,pdfs/11688_2024-final-sir-cat1/11688_2024-final-sir-cat.1.pdf
+11694/2023,||||Serbia-Bosnia and Herzegovina border||Serbia-Bosnia and Herzegovina border crossing point||land||0||0||0||1,1,,,pdfs/pad-2025-00076_157/45th_MB_Report_Annex_2_SIR_Country_Profile_Serbia_redacted.pdf
+11695/2023,"2023-07-07||2023-04-22||Greece, Türkiye (Lesvos, Aegean Sea)||Greek territorial waters near Lesvos, Turkish territorial waters.||sea||0||0||0||3",1,2023-07-07,2023-07-07,pdfs/onedrive_3_29-11-2023/doc_1-1.pdf
+11695/2023,"2023-04-29||2023-04-22||Aegean Sea||North Aegean Sea, near Lesvos island and Çanakkale's Ayvacık district, close to the Türkiye-Greece maritime border.||sea||||||||0",2,2023-04-29,2023-04-29,pdfs/onedrive_3_29-11-2023/doc_1-2.pdf | pdfs/pad-2023-00266/doc_1-2.pdf
+11695/2023,"2023-07-07||2023-04-22||Greece, Türkiye, Aegean Sea||North of Lesvos Island, in Greek and Turkish territorial waters||sea||0||0||0||3",1,2023-07-07,2023-07-07,pdfs/pad-2023-00266/doc_1-1.pdf
+11701/2022,"2022-04-24||2022-04-18||Greece||Islet in Evros River, Greek side, near Didymoteicho, Greece||land||0||0||0||1",1,2022-04-24,2022-04-24,pdfs/pad-2025-00371/11494_11619_11701_12288-2022.pdf
+11701/2022,"2022-04-24||2022-04-18||Greece||Islet in Evros River, Greek side of the border, near Didymoteicho||land||||||||1",1,2022-04-24,2022-04-24,pdfs/pad-2022-00332/Documents_6.pdf
+11708/2024,"2024-11-29||2024-04-15||Albania||Qafë-Bôte Border Police Station / Temporary Reception Center, Albania||mixed||0||0||0||2",1,2024-11-29,2024-11-29,pdfs/pad-2025-00011-1/Final_SIR_11708-2024_SPed.pdf
+11711/2021,2021-05-17||2021-05-16||Spain (sea area)||Sea area off Spanish coastline||sea||2||2||0||0,1,2021-05-17,2021-05-17,pdfs/pad-2022-00302-documents-1/pad-2022-00302-documents-1.pdf
+11713/2024,"2024-04-27||2024-04-26||North Macedonia||Theft from a rental car in North Macedonia, in front of the officer's apartment.||land||0||0||0||2",1,2024-04-27,2024-04-27,pdfs/pad-2024-00429/Redacted_SIR_11713_2024.pdf
+11715/2020,2020-07-10||2020-07-09||Greece||Greece||land||0||1||0||0,1,2020-07-10,2020-07-10,pdfs/pad-2020-00217/Doc_15.pdf
+11715/2020,2020-07-10||2020-07-09||Greece||An emergency port in Greece||land||0||1||0||0,1,2020-07-10,2020-07-10,pdfs/pad-2020-00175-documents/PAD-2020-00175-documents.pdf
+11750/2021,"2021-05-19||2020-10-30||Symi, Dodekaniso, Greece||Symi, Dodekaniso, Greek Waters||sea||||||||4",1,2021-05-19,2021-05-19,pdfs/pad-2025-00371/12779_13038-2020_and_10113_10824_10904_10908_11099_11446_11776_11750-2021.pdf
+11760/2022,"2022-04-23||||Bulgaria-Turkey border||Bulgaria-Turkey border forest, near Burgas||land||||||||3",1,2022-04-23,2022-04-23,pdfs/pad-2022-00470/Documents2.pdf
+11760/2022,2022-04-28||2022-04-18||Bulgaria||Forest in Bulgaria near the Turkey-Bulgaria border||land||2||0||0||3,1,2022-04-28,2022-04-28,pdfs/pad-2022-00465/Documents02.pdf
+11760/2022,"2022-04-28||2022-04-19||Bulgaria-Turkey border area||A forest in Bulgaria, near the Turkey-Bulgaria border, within the JO Terra 2022 operational area.||land||2||0||0||3",1,2022-04-28,2022-04-28,pdfs/pad-2025-00371/11009_11760_12819_13800_14128-2022.pdf
+11776/2021,"2021-05-20||2021-04-13||Lesvos, Greece||North of Lesvos, Greece||sea||||||||4",1,2021-05-20,2021-05-20,pdfs/pad-2025-00371/12779_13038-2020_and_10113_10824_10904_10908_11099_11446_11776_11750-2021.pdf
+11780/2022,"2022-07-13||2022-04-16||Albania, Greece, Montenegro, Bosnia and Herzegovina||Albanian-Greek border near Ktismata, Greece, following transfer from Montenegro and detention in Albania.||land||0||0||0||2",1,2022-07-13,2022-07-13,pdfs/pad-2022-00420/sir2.pdf
+11780/2022,"2022-07-13||2022-04-16||Montenegro, Albania, Greece||Montenegro, Albania, Albanian-Greek border, Greece (near Ktismata and Delvinaki A)||mixed||0||0||0||2",1,2022-07-13,2022-07-13,pdfs/pad-2025-00371/11780-2022.pdf
+11780/2022,"2022-07-13||2022-04-16||Albania, Greece||Albanian-Greek border near Delvinaki A, Greece||land||0||0||0||2",1,2022-07-13,2022-07-13,pdfs/pad-2023-00450/SIR_Albania_2022_part_2.pdf
+11794/2021,"2021-05-21||2020-10-20||Rhodes and Symi Islands, Greece||Rhodes and Symi Islands||sea||0||0||0||1",1,2021-05-21,2021-05-21,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+11797/2021,"2021-05-21||2021-04-13||Lesvos island, Greece||North of Lesvos island||sea||0||0||0||1",1,2021-05-21,2021-05-21,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+11807/2024,2024-11-27||2024-04-23||Serbia||Serbian territory near the border with Bulgaria||land||0||1||0||1,1,2024-11-27,2024-11-27,pdfs/pad-2025-00011-1/11807_2024_Final_SIR_-_rps.pdf
+11807/2024,||||Serbia-Bulgaria border area||Near Serbia-Bulgaria border||land||0||0||0||2,1,,,pdfs/pad-2025-00076_157/45th_MB_Report_Annex_2_SIR_Country_Profile_Serbia_redacted.pdf
+11843/2021,"2021-05-25||2021-05-16||Greece||Sea area near Samos, Greece||sea||0||0||0||2",1,2021-05-25,2021-05-25,pdfs/pad-2025-00371/11843_12299_12523_12524_13160_13850-2021.redacted.pdf
+11855/2024,2024-07-26||2024-04-XX||Unknown (redacted)||Airport facility during pre-departure phase of a return operation||facility||0||0||0||3,1,2024-07-26,2024-07-26,pdfs/sir-11855_2024_fro-final-report_-redacted-1/sir-11855_2024_fro-final-report_-redacted-1.pdf
+11855/2024,"2024-07-26||||Redacted country of return||Airport facility during a return operation, in a search room.||facility||0||0||0||3",1,2024-07-26,2024-07-26,pdfs/pad-2024-00234/SIR_11855_2024_FRO_Final_Report__redactions_p.pdf
+11859/2020,2020-07-29||2020-07-27||Greece||Greek territorial waters||sea||||||||1,2,2020-07-29,2020-07-29,pdfs/pad-2020-00215/SIR_11859_(2).pdf | pdfs/pad-2020-00246/SIR_11859_(2).pdf
+11859/2020,"2020-07-29||2020-07-27||Greece (Chios), Turkey (Aegean Sea)||South of Chios, Greek territorial waters, incident concluded in Turkish territorial waters.||sea||||||||0",1,2020-07-29,2020-07-29,pdfs/pad-2020-00215/Releasable_ANNEX2_118592020_Initial_SIR_-_JO_Poseidon_2020_Migrants_detected_in_Greek_territorial_waters_returned_to_Turkey.pdf
+11859/2020,"2020-07-29||2020-07-27||Greece (Chios), Turkey||South of Chios, Greek territorial waters, later Turkish territorial waters||sea||0||0||0||0",1,2020-07-29,2020-07-29,pdfs/pad-2020-00246/Releasable_ANNEX2_118592020_Initial_SIR_-_JO_Poseidon_2020_Migrants_detected_in_Greek_territorial_waters_returned_to_Turkey.pdf
+11859/2020,2020-07-29||2020-07-27||Greek territorial waters||Greek territorial waters||sea||||||||1,1,2020-07-29,2020-07-29,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+11860/2020,"2020-07-29||2020-07-27||Greece (Chios), Aegean Sea||South of Chios, Greek territorial waters||sea||0||0||0||1",1,2020-07-29,2020-07-29,pdfs/pad-2020-00215/SIR_11860_releasable.pdf
+11860/2020,"||2020-07-27||Chios Island, Greece||Greek Territorial waters near Chios Island, Aegean Sea||sea||0||0||0||2",1,,,pdfs/sea-borders-surveillance-report-2020-1/sea-borders-surveillance-report-2020-1.pdf
+11860/2020,"2020-07-29||2020-07-27||Greece, Turkey, Aegean Sea||South of Chios, initially in Greek territorial waters, concluded in Turkish territorial waters.||sea||0||0||0||1",1,2020-07-29,2020-07-29,pdfs/pad-2020-00246/SIR_11860_releasable.pdf
+11868/2022,"2022-05-05||2022-05-05||Albania||Operational Area, Albania||land||0||0||0||1",1,2022-05-05,2022-05-05,pdfs/pad-2023-00450/SIR_Albania_2022_part_1.pdf
+11911/2020,"2020-08-05||2020-08-04||Greece||Highway in Evros region, Greece||land||9||3||0||0",1,2020-08-05,2020-08-05,pdfs/pad-2020-00167/SIR_Part_1.pdf
+11934/2020,"2020-08-07||2020-08-04||Lesvos, Greece||Lesvos, Greek territorial waters||sea||||||||2",1,2020-08-07,2020-08-07,pdfs/pad-2025-00339/11934-2020_redacted.pdf
+11934/2020,"2020-08-07||2020-08-11||Greece, Aegean Sea||East of Lesvos, Greek territorial waters||sea||0||0||0||1",1,2020-08-07,2020-08-07,pdfs/pad-2020-00215/Redacted_11934.pdf
+11934/2020,"||2020-08-05||Aegean Sea (Greek/Turkish border)||Greek Territorial waters, towed eastward towards Turkish Territorial waters, Aegean Sea||sea||0||0||0||2",1,,,pdfs/sea-borders-surveillance-report-2020-1/sea-borders-surveillance-report-2020-1.pdf
+12021/2024,2024-05-18||2024-05-17||North Macedonia||North Macedonia||land||0||1||0||1,1,2024-05-18,2024-05-18,pdfs/pad-2024-00429/Redacted_SIR_12021_2024.pdf
+12044/2022,"2022-08-30||2022-05-14||Spain; Morocco (SAR zone); Alboran Sea||Alboran Sea, near Almeria, Spain, within Moroccan SAR zone.||sea||||||||1",1,2022-08-30,2022-08-30,pdfs/pad-2025-00371/12044-2022.pdf
+12048/2022,2022-05-18||2022-05-12||Maltese SAR area||Maltese Search and Rescue (SAR) area||sea||0||0||0||2,1,2022-05-18,2022-05-18,pdfs/pad-2022-00278-document-1/pad-2022-00278-document-1.pdf
+12048/2022,2022-05-18||2022-05-12||Maltese SAR area||Maltese Search and Rescue area||sea||||||||0,1,2022-05-18,2022-05-18,pdfs/pad-2022-00328/Documents_1.pdf
+12048/2022,"||2022-05-12||Malta SAR zone||Malta Search and Rescue (SAR) zone, possibly near Malta Bank (MB)||sea||||||||0",1,,,pdfs/pad-2022-00328/List_-1.pdf
+12048/2022,"2022-05-18||2022-05-12||Maltese Search and Rescue area, Libyan search and rescue zone||Migrant boat sighted in Maltese Search and Rescue area, previously in Libyan SAR zone.||sea||||||||0",1,2022-05-18,2022-05-18,pdfs/pad-2025-00371/10347_12634_12318_12048-2022.pdf
+12070/2023,"||||Aegean Sea, Greece||Greek islands (Aegean Sea)||mixed||||||||3",1,,,pdfs/pad-2025-00076_157/45th_MB_Report_Annex_1_SIR_Country_Profile_Greece_redacted.pdf
+12084/2022,"2022-09-20||2022-05-07||Greece, Turkey, Samos Island, Aegean Sea||Sea area near Samos Island, within Greek territorial waters, eventually moving to Turkish Territorial Waters.||sea||||||||4",1,2022-09-20,2022-09-20,pdfs/pad-2025-00371/12084.2022.pdf
+12084/2022,"2022-09-20||2022-05-07||Greece||Sea area of Samos Island, inside Greek territorial waters, near Turkish Territorial Waters.||sea||||||||4",1,2022-09-20,2022-09-20,pdfs/pad-2022-00419-documents-1/pad-2022-00419-documents-1.pdf
+12085/2021,"2021-06-11||2021-06-10||Aegean Sea, near Turkey||Maritime borderline, inside Turkish Territorial Waters (TTW), Aegean Sea.||sea||0||0||0||0",1,2021-06-11,2021-06-11,pdfs/pad-2022-00310/PAD-2022-00310-documents_2.pdf
+12123/2023,2023-05-26||2023-05-20||Albania||Near a river in Albania||land||0||0||0||0,1,2023-05-26,2023-05-26,pdfs/pad-2023-00450/Albnia_SIR_2023.pdf
+12137/2022,"2022-05-25||2022-05-27||Greece||Islet in Evros river, Greece||land||||||||4",1,2022-05-25,2022-05-25,pdfs/pad-2022-00332/Documents_2.pdf
+12137/2022,"2022-05-27||2022-05-24||Evros river, Greece||An islet in Evros river near Didimotiho, Greece||land||||||||5",1,2022-05-27,2022-05-27,pdfs/pad-2022-00332/Documents_3B.pdf
+12142/2021,"2021-06-16||2021-06-12||Greece||Text Removed - Operational Area, Greece||sea||0||0||0||2",1,2021-06-16,2021-06-16,pdfs/pad-2022-00310/PAD-2022-00310-documents_1.pdf
+12143/2021,"2021-06-16||2021-06-13||Turkish territorial waters||At the border within Turkish territorial waters, near Greece||sea||0||0||0||2",1,2021-06-16,2021-06-16,pdfs/pad-2022-00310/PAD-2022-00310-documents_1.pdf
+12168/2020,"2020-09-07||2020-09-07||Greece||Highway in Evros region, Greece||land||0||7||0||0",1,2020-09-07,2020-09-07,pdfs/pad-2020-00167/SIR_Part_1.pdf
+12239/2020,2020-09-15||2020-09-14||Operational Area||Operational Area||sea||4||0||14||0,1,2020-09-15,2020-09-15,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+12240/2021,"2021-06-23||2021-06-23||Italy||Text Removed - Operational Area, Italy||facility||0||0||0||2",1,2021-06-23,2021-06-23,pdfs/pad-2022-00310/PAD-2022-00310-documents_1.pdf
+12280/2024,"2024-12-20||2024-05-23||Greece, Aegean Sea, Samos||Greek territorial waters, near Samos island, northwest of Karlovasi, at approximately 37.955 N, 27.000 E.||sea||0||0||0||3",1,2024-12-20,2024-12-20,pdfs/pad-2025-00011-1/SIR_12280-2024_redacted_scanned.pdf
+12286/2021,2021-06-25||2021-06-24||North Macedonia-Greece border||N Macedonian-Greek border area||land||0||0||0||2,1,2021-06-25,2021-06-25,pdfs/pad-2022-00310/PAD-2022-00310-documents_1.pdf
+12288/2022,"2022-06-03||2022-05-27||Greece||Islet in Evros River, Greek side of the border, near Didymoteicho||land||||||||1",1,2022-06-03,2022-06-03,pdfs/pad-2022-00332/Documents_6.pdf
+12288/2022,"2022-06-03||2022-05-27||Greece||Islet in Evros River, Greek side, near Didymoteicho, Greece||land||0||0||0||1",1,2022-06-03,2022-06-03,pdfs/pad-2025-00371/11494_11619_11701_12288-2022.pdf
+12294/2021,"2021-06-26||2021-06-26||Bulgaria||Text Removed - Operational Area, Bulgaria||land||0||0||0||2",1,2021-06-26,2021-06-26,pdfs/pad-2022-00310/PAD-2022-00310-documents_1.pdf
+12294/2021,2021-06-26||2021-06-26||Bulgaria||Bulgaria||land||0||0||0||0,1,2021-06-26,2021-06-26,pdfs/pad-2022-00465/Documents01.pdf
+12299/2021,"2021-06-27||2021-06-16||Greece||Sea area near Agathonisi and Samos, Greece||sea||0||0||0||3",1,2021-06-27,2021-06-27,pdfs/pad-2025-00371/11843_12299_12523_12524_13160_13850-2021.redacted.pdf
+12318/2022,"2022-09-16||2022-05-25||Maltese SRR, Tunisian Territorial Waters||Maltese SRR - Tunisian Territorial Waters||sea||||||||3",1,2022-09-16,2022-09-16,pdfs/pad-2022-00328/Documents_1.pdf
+12318/2022,"2022-09-16||2022-05-25||Maltese SRR, Tunisian Territorial Waters||Alleged shipwreck inside Maltese SRR - Tunisian Territorial Waters.||sea||||||||3",1,2022-09-16,2022-09-16,pdfs/pad-2025-00371/10347_12634_12318_12048-2022.pdf
+12318/2022,"||||Tunisian TTW, Maltese SAR zone||Tunisian Territorial Waters (TTW) and Maltese Search and Rescue (SAR) zone||sea||||||||0",1,,,pdfs/pad-2022-00328/List_-1.pdf
+12328/2022,||2022-05-29||Lithuania-Belarus border||Border between Belarus and Lithuania||land||0||0||0||4,1,,,pdfs/pad-2025-00371/12328_2022.pdf
+12332/2022,"2022-08-19||2022-06-03||Albania, Greece||Albania-Greece border area near Kapshtice||land||0||0||0||2",1,2022-08-19,2022-08-19,pdfs/pad-2025-00371/12332-2022.pdf
+12332/2022,"2022-08-19||2022-06-03||Albania, Greece||Near the land border between Albania and Greece, in the area of BCU Kapshtice, close to Trestenik.||land||0||0||0||2",1,2022-08-19,2022-08-19,pdfs/pad-2022-00420/sir3.pdf
+12332/2022,"2022-08-19||2022-06-03||Albania, Greece||Albanian-Greek border near Kapshtice and Trestenik||land||0||0||0||2",1,2022-08-19,2022-08-19,pdfs/pad-2023-00450/SIR_Albania_2022_part_2.pdf
+12350/2021,"2021-06-30||2021-06-30||Italy||Near Lampedusa, Sicily, Italy||sea||7||||9||1",1,2021-06-30,2021-06-30,pdfs/pad-2025-00419/12350-2021_NF3_red_dp_BG_3F_mp.pdf
+12352/2021,"2021-06-30||2021-06-26||Greece||Inside Greek territorial waters, near the border line||sea||0||0||0||2",1,2021-06-30,2021-06-30,pdfs/pad-2022-00310/PAD-2022-00310-documents_1.pdf
+12357/2022,"2022-09-29||2022-05-07||Greece||Kos island, Greece||land||0||3||0||3",1,2022-09-29,2022-09-29,pdfs/pad-2025-00371/12357_2022.pdf
+12358/2020,"2020-09-30||2020-09-29||Greece||Evros region, Greece, near the Bulgarian border||land||0||15||0||3",1,2020-09-30,2020-09-30,pdfs/pad-2025-00339/12358-2020_redacted.pdf
+12381/2024,"2024-06-12||2024-06-03||Bulgaria||Bulgaria, within the operational area of JO Bulgaria Land 2024||land||||||||5",1,2024-06-12,2024-06-12,pdfs/pad-2024-00377/SIR_12381-2024.pdf
+12388/2023,2023-06-12||2023-06-12||Italy||Accommodation in Italy||facility||0||0||0||0,1,2023-06-12,2023-06-12,pdfs/pad-2025-00146/SIR_12388_2023_Redacted.pdf
+12393/2021,"2021-07-02||2021-07-01||Aegean Sea, Samos Island, Turkish territorial waters||Sea area near Samos Island, within Turkish territorial waters||sea||||||||4",1,2021-07-02,2021-07-02,pdfs/pad-2025-00367/12393_2021.pdf
+124/2015,"2015-08-31||2015-08-29||Aegean Sea (near Rhodes, Greece)||Sea area, likely near Rhodes, Greece||sea||1||1||||1",1,2015-08-31,2015-08-31,pdfs/pad-2020-00089-documents/PAD-2020-00089-Documents.pdf
+12403/2021,"2021-07-04||2021-07-02||Tunisian SRR||Vicinity of Text Removed - Operational Area, inside Tunisian Search and Rescue Region (SRR)||sea||0||0||43||3",1,2021-07-04,2021-07-04,pdfs/pad-2022-00310/PAD-2022-00310-documents_1.pdf
+12403/2021,"2021-07-04||2021-07-02||Tunisia SRR||At sea, 8 nautical miles off the coast of Tunisia, within the Tunisian Search and Rescue Region (SRR) and Flight Information Region (FIR).||sea||43||||||1",1,2021-07-04,2021-07-04,pdfs/pad-2025-00419/12403-2021_redacted2.pdf
+12434/2024,2024-06-14||2024-06-04||North Macedonia||North Macedonia||land||0||0||0||1,1,2024-06-14,2024-06-14,pdfs/pad-2024-00429/Redacted_SIR_12434_2024.pdf
+12460/2023,2023-07-27||2023-05-28||Libyan SRR||Libyan Search and Rescue Region||sea||0||4||0||3,1,2023-07-27,2023-07-27,pdfs/pad-2025-00146/12460_2023__SIR_redacted.pdf
+12472/2023,2023-06-15||2023-06-15||Operational area||Unknown location in an operational area||unknown||0||0||0||1,1,2023-06-15,2023-06-15,pdfs/pad-2023-00450/Albnia_SIR_2023.pdf
+12480/2022,"2022-12-22||2022-06-14||Albania, Greece||Albanian-Greek border||land||0||0||0||2",1,2022-12-22,2022-12-22,pdfs/pad-2023-00450/SIR_Albania_2022_part_2.pdf
+12480/2022,"2022-12-22||2022-06-14||Albania, Greece border||Albanian territory, near the border with Greece||land||0||0||0||2",1,2022-12-22,2022-12-22,pdfs/pad-2025-00371/10548_12480_12816_12941_13269-2022.pdf
+12514/2024,"2025-05-30||2024-05-29||Poland-Belarus border||Terespol-Brest Border Crossing Point, Poland-Belarus border||land||0||0||0||4",1,2025-05-30,2025-05-30,pdfs/pad-2025-00330-1/SIR_12514_2024_redacted2.pdf
+12515/2024,"2024-12-17||2024-06-02||Bulgaria||Kula - Vidiv road, Bulgaria||land||0||1||0||1",1,2024-12-17,2024-12-17,pdfs/pad-2025-00011-1/SIR_12515-2024_FRO_Final_Report.redacted_printed_scanned.pdf
+12523/2021,"2021-07-13||2021-07-13||Ghana||Kotoka International Airport, Accra, Ghana||facility||||||||2",1,2021-07-13,2021-07-13,pdfs/pad-2025-00371/11843_12299_12523_12524_13160_13850-2021.redacted.pdf
+12524/2021,"2021-07-13||2021-07-13||Albania||Korçë, Albania||land||||||||3",1,2021-07-13,2021-07-13,pdfs/pad-2025-00371/11843_12299_12523_12524_13160_13850-2021.redacted.pdf
+12584/2022,"2022-10-18||||Greece||Samos, Chios, Leros islands and Evros region, Greece||mixed||||||||4",1,2022-10-18,2022-10-18,pdfs/pad-2025-00371/12584.2022.pdf
+12584/2022,"2022-10-18||||Greece||Multiple locations in Greece: Samos, Chios, Leros islands, and Evros river region.||mixed||||||||4",1,2022-10-18,2022-10-18,pdfs/pad-2022-00419-documents-1/pad-2022-00419-documents-1.pdf
+12587/2021,"2021-07-18||2021-07-18||Albania||Albania, on the road from Text Removed - Operational Area to Tirana Airport||land||0||1||0||2",1,2021-07-18,2021-07-18,pdfs/pad-2022-00310/PAD-2022-00310-documents_1.pdf
+12595/2023,"||||Pylos, Greece||Pylos, Greece (sea area)||sea||||||||1",1,,,pdfs/pad-2025-00076_157/45th_MB_Report_Annex_1_SIR_Country_Profile_Greece_redacted.pdf
+12600/2023,2023-06-23||2023-06-22||Albania||Residential apartment in Albania||facility||1||0||0||0,1,2023-06-23,2023-06-23,pdfs/pad-2023-00450/Albnia_SIR_2023.pdf
+12603/2022,"2022-09-21||2022-06-15||Greece||Sea area near Samos island, inside Greek Hellenic Territorial Waters, near Turkish Territorial Waters.||sea||||||||4",1,2022-09-21,2022-09-21,pdfs/pad-2022-00419-documents-1/pad-2022-00419-documents-1.pdf
+12603/2022,"2022-09-21||2022-06-15||Samos, Greece, Turkey (Territorial Waters)||Sea area near Samos island, Hellenic Territorial Waters, close to Turkish Territorial Waters.||sea||0||0||0||4",1,2022-09-21,2022-09-21,pdfs/pad-2025-00371/12603.2022.pdf
+12604/2020,"2020-10-30||2020-10-30||Aegean Sea (near Chios, Greece / Turkey border)||Sea area near Chios, approximately 1.5 nautical miles from the Turkish borderline.||sea||0||0||0||1",1,2020-10-30,2020-10-30,pdfs/pad-2020-00246/SIR_12604_releasable.pdf
+12604/2020,"2020-10-30||2020-10-30||Aegean Sea, near Chios, Greece/Turkey border area||Sea area near Chios, 1-1.5 NM from the border line, Southern operational area.||sea||||||||1",1,2020-10-30,2020-10-30,pdfs/pad-2020-00215/Releasable__Annex_ii_12604.pdf
+12604/2020,"2020-10-30||2020-10-30||Aegean Sea (near Chios, Greece/Turkey border)||Near Chios Port, 1.5 nautical miles from Turkish borderline||sea||0||0||0||1",1,2020-10-30,2020-10-30,pdfs/pad-2020-00215/SIR_12604_releasable.pdf
+12604/2020,"||2020-10-30||Aegean Sea (Greek/Turkish border)||Greek Territorial waters, near the Greek-Turkish border, Aegean Sea||sea||0||0||0||3",1,,,pdfs/sea-borders-surveillance-report-2020-1/sea-borders-surveillance-report-2020-1.pdf
+12634/2022,||||Libyan SAR zone||Libyan Search and Rescue (SAR) zone||sea||||||||0,1,,,pdfs/pad-2022-00328/List_-1.pdf
+12634/2022,"2022-08-02||2022-06-02||Tunisian SAR zone, Libyan SAR zone||Migrant boat sighted in Tunisian SAR zone, then in Libyan SAR zone where interception occurred.||sea||||||||4",1,2022-08-02,2022-08-02,pdfs/pad-2025-00371/10347_12634_12318_12048-2022.pdf
+12634/2022,"2022-08-02||2022-06-02||Tunisian SAR zone, Libyan SAR zone||Tunisian and Libyan SAR zones||sea||||||||2",1,2022-08-02,2022-08-02,pdfs/pad-2022-00328/Documents_1.pdf
+12678/2020,"2020-11-09||2020-11-07||Aegean Sea (Greece/Turkey)||Aegean Sea, near Samos island, between Turkey and Greece, within the operational area of Joint Operation Poseidon 2020.||sea||1||0||0||0",1,2020-11-09,2020-11-09,pdfs/pad-2022-00306-doc/pad-2022-00306-doc.pdf
+12702/2020,"2020-11-11||2020-11-11||Central Mediterranean Sea||Central Mediterranean Sea, near 33.3827777777, 12.3833333333||sea||5||3||||0",1,2020-11-11,2020-11-11,pdfs/pad-2020-00236-sirs-/PAD-2020-00236-SIRs-.pdf
+12703/2020,"2020-11-12||2020-11-12||Greece/Turkey border||Island on Evros river, Greece/Turkey border||land||0||0||0||4",1,2020-11-12,2020-11-12,pdfs/pad-2020-00215/Canon_XVC07303_1583_001.pdf
+12711/2022,||2022-06-29||Lithuania||Wooden area in Lithuania near a redacted border crossing unit (BCU) in operational area X2.||land||0||0||0||3,1,,,pdfs/pad-2025-00371/12711_2022.pdf
+12723/2020,"2020-11-13||2020-11-11||Central Mediterranean Sea||Central Mediterranean Sea, near 33.3333333333, 12.3333333333||sea||6||||||0",1,2020-11-13,2020-11-13,pdfs/pad-2020-00236-sirs-/PAD-2020-00236-SIRs-.pdf
+12725/2020,"2020-11-13||2020-11-13||Libyan SRR||Libyan Search and Rescue Region (SRR), near 33.3258333333, 12.9061111111||sea||2||||||0",1,2020-11-13,2020-11-13,pdfs/pad-2020-00236-sirs-/PAD-2020-00236-SIRs-.pdf
+12773/2023,"2024-12-31||2023-06-15||Albania, Greece||Border area between Greece (Ioannina, Kalpaki) and Albania, including an Albanian migrant camp and a forest, and a Greek village near the border.||mixed||0||0||0||1",1,2024-12-31,2024-12-31,pdfs/pad-2025-00011-1/SIR_12773-2023_redacted_scanned.pdf
+12784/2023,2024-03-12||2023-05-23||Maltese Search and Rescue Region||Maltese Search and Rescue Region||sea||||||||3,1,2024-03-12,2024-03-12,pdfs/12784_2023_final-report_redacted-1/12784_2023_final-report_redacted-1.pdf
+12790/2020,"2020-11-22||2020-11-09||Greece, Turkey, Aegean Sea, Kos island||Sea area NE of Kos island, Aegean Sea, involving Greek and Turkish territorial waters.||sea||0||0||0||1",1,2020-11-22,2020-11-22,pdfs/pad-2020-00215/FW127902020.pdf
+12790/2020,"2020-11-21||2020-11-09||Greece||Sea area NE of Kos island, Dodecanese, Greece||sea||0||0||0||1",1,2020-11-21,2020-11-21,pdfs/pad-2025-00339/12790-2020redacted2.pdf
+12790/2020,"2020-11-21||2020-11-09||Aegean Sea, Greece (near Kos island)||Sea area northeast of Kos island, Greece||sea||0||0||0||3",1,2020-11-21,2020-11-21,pdfs/pad-2020-00215/Redacted_12790.pdf
+12790/2020,"||2020-11-09||Kos Island, Greece||Greek territorial waters near Kos Island, Aegean Sea||mixed||0||0||0||2",1,,,pdfs/sea-borders-surveillance-report-2020-1/sea-borders-surveillance-report-2020-1.pdf
+12791/2021,"2021-08-03||2021-07-30||Turkish SRR||Inside Turkish Search and Rescue Region (SRR), near Greece||sea||0||0||3||3",1,2021-08-03,2021-08-03,pdfs/pad-2022-00310/PAD-2022-00310-documents_1.pdf
+12807/2020,"2020-11-24||2020-11-23||Greece||Operational Area, Greece||sea||1||0||0||0",1,2020-11-24,2020-11-24,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+12816/2022,"2022-11-14||2022-06-11||Albania, Greece border||Albanian territory, near Kakavia (border with Greece)||land||0||0||0||4",1,2022-11-14,2022-11-14,pdfs/pad-2025-00371/10548_12480_12816_12941_13269-2022.pdf
+12816/2022,"2022-11-14||2022-06-17||Albania, Greece||Albanian-Greek border near Kakavia||land||0||0||0||4",1,2022-11-14,2022-11-14,pdfs/pad-2023-00450/SIR_Albania_2022_part_2.pdf
+12819/2022,2022-07-07||||Bulgaria-Turkey border||Bulgaria-Turkey border||land||||||||4,1,2022-07-07,2022-07-07,pdfs/pad-2022-00470/Documents2.pdf
+12819/2022,2023-06-01||||Bulgaria-Türkiye border||Bulgaria-Türkiye border||land||||||||3,1,2023-06-01,2023-06-01,pdfs/pad-2023-00266/PAD-2023-00266_point_2.pdf
+12819/2022,"2022-07-07||||Bulgaria-Turkey border||Bulgaria-Turkey border, near a Turkish village||land||0||1||0||4",1,2022-07-07,2022-07-07,pdfs/pad-2022-00465/Documents02.pdf
+12819/2022,"2022-07-07||2022-07-06||Bulgaria-Turkey border area||Near the Turkey-Bulgaria border, in the vicinity of a Turkish village (name redacted).||land||0||1||0||4",1,2022-07-07,2022-07-07,pdfs/pad-2025-00371/11009_11760_12819_13800_14128-2022.pdf
+12820/2022,"2022-07-07||2022-06-15||Evros river, Turkey/Greece border||Islets in Evros river, Turkey/Greece border||mixed||||||||1",1,2022-07-07,2022-07-07,pdfs/pad-2025-00371/13400_13372_12820-2022.pdf
+12892/2021,"2021-08-10||2021-08-07||Italy||Sicilia, Italy||land||0||0||0||2",1,2021-08-10,2021-08-10,pdfs/pad-2022-00310/PAD-2022-00310-documents_1.pdf
+12893/2021,2021-08-10||2021-08-05||Lithuania||Lithuanian soil near the border with Belarus||land||0||0||0||2,1,2021-08-10,2021-08-10,pdfs/pad-2022-00310/PAD-2022-00310-documents_1.pdf
+12896/2021,2021-08-10||2021-08-06||Lithuania||Lithuanian soil near the border with Belarus||land||0||0||0||2,1,2021-08-10,2021-08-10,pdfs/pad-2022-00310/PAD-2022-00310-documents_1.pdf
+12929/2024,"2024-11-29||2024-06-10||Croatia, Bosnia and Herzegovina||Border crossing points between Croatia and Bosnia and Herzegovina||land||||||||1",1,2024-11-29,2024-11-29,pdfs/pad-2025-00011-1/SIR_12929-2024_redacted_scanned.pdf
+12939/2023,"2024-01-29||2023-07-07||Libyan Search and Rescue Region (SRR)||77 miles offshore Khoms, Libyan Search and Rescue Region||sea||0||0||0||1",1,2024-01-29,2024-01-29,pdfs/12939-2023-fro-final-report_redacted-1/12939-2023-fro-final-report_redacted-1.pdf
+12941/2022,"2022-11-23||2022-06-17||Albania, Greece border||Albanian territory, near Kakavia BCU and Delvinaki, Greece||land||0||0||0||4",1,2022-11-23,2022-11-23,pdfs/pad-2025-00371/10548_12480_12816_12941_13269-2022.pdf
+12941/2022,"2022-11-23||2022-06-21||Albania, Greece||Albanian-Greek border near Kakavia BCU||land||0||0||0||4",1,2022-11-23,2022-11-23,pdfs/pad-2023-00450/SIR_Albania_2022_part_2.pdf
+12970/2022,"2022-10-19||2022-04-21||||During a return flight operation, involving multiple airports and in-flight incidents.||mixed||0||3||0||4",1,2022-10-19,2022-10-19,pdfs/pad-2025-00371/12970-2022.pdf
+13019/2020,"2020-12-17||2019-08-18||Greece||Orestiada, Evros, Greece||land||||||||2",1,2020-12-17,2020-12-17,pdfs/pad-2025-00339/Redacted_13019-2020.pdf
+13030/2020,"2020-12-18||2020-12-18||Lesvos||off Lesvos, Greece||sea||1||0||1||0",1,2020-12-18,2020-12-18,pdfs/pad-2022-00307-documents/pad-2022-00307-documents.pdf
+13045/2022,2023-01-11||2022-06-05||Maltese SRR||Maltese Search and Rescue Region (SRR)||sea||||2||||4,1,2023-01-11,2023-01-11,pdfs/pad-2025-00367/13045_2022.pdf
+13045/2022,"2023-01-11||2022-06-05||Libyan SRR, Maltese SRR||Sea area within Libyan and Maltese Search and Rescue Regions||sea||||||||4",1,2023-01-11,2023-01-11,pdfs/pad-2025-00475/13045_2022.pdf
+13062/2021,"2021-08-21||2021-08-20||Sicily, Italy||Sea near Sicily, Italy||sea||1||||||0",1,2021-08-21,2021-08-21,pdfs/pad-2022-00394-documents/pad-2022-00394-documents.pdf
+13079/2023,"||2023-07-07||Libyan Search and Rescue Region, Maltese Search and Rescue Region||Libyan SRR, intercepted in Maltese SRR||sea||||||||3",1,,,pdfs/12784_2023_final-report_redacted-1/12784_2023_final-report_redacted-1.pdf
+13079/2023,"2024-03-13||2023-07-07||Maltese Search and Rescue Zone||Maltese Search and Rescue Zone, near 34.573356 N, 16.359444 E||sea||||||||3",1,2024-03-13,2024-03-13,"pdfs/pad-2025-00146/13079_2023_SIR_cat._1,_3_-_redacted.pdf"
+13089/2020,"2020-12-23||2020-12-19||Almeria, Spain||A waiting room in Almeria, Spain, located next to a registration room within a facility where Frontex operations are conducted.||facility||0||1||0||1",1,2020-12-23,2020-12-23,pdfs/pad-2025-00339/13089-2020_-_redacted.pdf
+13103/2020,"2020-12-25||2020-11-28||Greece, Turkey||A river crossing between Greece and Turkey, near a village on the Turkish side.||land||3||||||4",1,2020-12-25,2020-12-25,pdfs/pad-2025-00371/13103-2020.pdf
+13127/2023,"2024-01-31||2023-07-04||Spain||Almeria area, Spain, during transfer to port||mixed||0||0||0||2",1,2024-01-31,2024-01-31,pdfs/pad-2024-00234/SIR_13127_2023_rps.pdf
+13160/2021,2021-08-27||2021-08-24||Lithuania||Lithuanian border with Belarus||land||||||||2,1,2021-08-27,2021-08-27,pdfs/pad-2025-00371/11843_12299_12523_12524_13160_13850-2021.redacted.pdf
+13165/2024,"2025-03-31||2024-07-20||Albania, Greece border||Greece-Albania border area, near Kapshtice, Albania||land||0||0||0||3",1,2025-03-31,2025-03-31,pdfs/pad-2025-00151-1/SIR_13165_2024.pdf
+13170/2021,2021-08-27||2021-08-26||Greece||Incident occurred in Greece.||land||0||0||0||1,1,2021-08-27,2021-08-27,pdfs/pad-2022-00425/pad-2022-00425-red.pdf
+13254/2023,"2023-07-27||2023-07-26||Operational area||Operational area, field||land||0||0||0||0",1,2023-07-27,2023-07-27,pdfs/pad-2023-00450/Albnia_SIR_2023.pdf
+13269/2022,"2022-11-23||2022-07-22||Albania, Greece border||Albanian territory, near the border with Greece||land||0||0||0||4",1,2022-11-23,2022-11-23,pdfs/pad-2025-00371/10548_12480_12816_12941_13269-2022.pdf
+13269/2022,"2022-11-23||2022-07-23||Albania, Greece||Albanian-Greek border near Kakavia BCU||land||0||0||0||4",1,2022-11-23,2022-11-23,pdfs/pad-2023-00450/SIR_Albania_2022_part_2.pdf
+13279/2022,"2022-10-04||2022-06-16||Greece, Turkey, Symi island, Aegean Sea||Near Symi island, Greek territorial waters, ending in Turkish territorial waters.||sea||0||0||0||4",1,2022-10-04,2022-10-04,pdfs/pad-2025-00371/13279_2022.pdf
+13355/2021,"2021-09-08||2021-09-07||Romania||SCO hospitalized in Romania, then repatriated by air ambulance to a hospital in their home country.||facility||0||1||0||0",1,2021-09-08,2021-09-08,pdfs/pad-2022-00425/pad-2022-00425-red.pdf
+13370/2022,"2022-10-06||2022-05-01||Aegean Sea (between Turkey and Greece), Greece, Turkey||Sea border between Turkey and Greece, unknown area in Greece, Turkish territorial waters.||mixed||||||||3",1,2022-10-06,2022-10-06,pdfs/pad-2025-00371/13370_2022.pdf
+13372/2022,"2022-08-09||2021-07-15||Evros river, Greece||Evros river, Greece||mixed||||||||1",1,2022-08-09,2022-08-09,pdfs/pad-2025-00371/13400_13372_12820-2022.pdf
+13400/2022,"||||Evros, Greece||Evros river islets, Greece||land||||||||2",1,,,pdfs/pad-2025-00076_157/45th_MB_Report_Annex_1_SIR_Country_Profile_Greece_redacted.pdf
+13400/2022,"2022-08-10||2022-07-20||Evros river, Greece||Islet and bank in Evros river, Greek side of border, near Orestiada||mixed||1||||||1",1,2022-08-10,2022-08-10,pdfs/pad-2025-00371/13400_13372_12820-2022.pdf
+13436/2021,"2021-09-14||2021-09-13||Samos island, Greece||Southeast of Samos island||sea||2||||||0",1,2021-09-14,2021-09-14,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+13471/2024,"2025-01-30||2024-08-08||Turkish territorial waters, Aegean Sea||Sea area northeast of Rhodes Island, within Turkish territorial waters (near Muğla's Fethiye district)||sea||0||0||0||1",1,2025-01-30,2025-01-30,pdfs/pad-2025-00085/13471-2024_SIR_CAT1_-_Final_Report_rps.pdf
+13471/2024,"2025-01-30||2024-08-08||Turkish territorial waters||Sea area northeast of Rhodes Island, Turkish territorial waters||sea||0||0||0||1",1,2025-01-30,2025-01-30,pdfs/pad-2025-00076_157/SIR_13471-2024_redacted.pdf
+13489/2021,2022-10-28||2021-09-15||Libyan SRR||Libyan Search and Rescue Region (SRR)||sea||||||||5,1,2022-10-28,2022-10-28,pdfs/pad-2025-00371/13489_14400_14577_11780-2021.redacted.pdf
+13489/2021,2022-10-28||2021-09-15||Libyan SRR||Libyan Search and Rescue Region||sea||||||||5,1,2022-10-28,2022-10-28,pdfs/pad-2022-00328/Documents_1.pdf
+13497/2021,2021-09-18||2021-09-17||Bulgaria||Road near the Turkish border in Bulgaria||land||0||1||0||2,1,2021-09-18,2021-09-18,pdfs/pad-2025-00419/13497-2021_redacted2.pdf
+13497/2021,"2023-09-29||2021-09-17||Bulgaria / Turkey border||Near the Bulgarian-Turkish border, along a road between villages.||land||0||0||0||3",1,2023-09-29,2023-09-29,pdfs/pad-2025-00367/13497-2021.pdf
+13516/2024,"2024-08-21||2024-08-20||||Accommodation, local Police Station, and court in an unspecified location.||land||0||0||0||1",1,2024-08-21,2024-08-21,pdfs/pad-2025-00330-1/13516_2024_-_Redacted.pdf
+13546/2023,"2024-06-28||2023-07-21||Cyprus||Pournara First Reception Centre, Cyprus||facility||||||||1",1,2024-06-28,2024-06-28,pdfs/13546_2023-final-sir-cat-1/13546_2023-final-sir-cat-1.pdf
+13575/2023,2023-08-16||2023-08-15||Bulgaria||Bulgaria||land||0||0||0||0,1,2023-08-16,2023-08-16,pdfs/pad-2024-00377/SIR_13575.2023.pdf
+13591/2021,2021-09-24||2021-09-23||Greece||Car broken into at a hospital parking lot in Greece.||facility||0||0||0||0,1,2021-09-24,2021-09-24,pdfs/pad-2022-00425/pad-2022-00425-red.pdf
+13630/2024,2025-03-27||2024-08-16||Albania-Montenegro border area||Along a railroad near the Albania-Montenegro border in North-western Albania.||land||0||0||0||1,1,2025-03-27,2025-03-27,pdfs/pad-2025-00151-1/SIR_13630_2024.pdf
+13654/2024,2024-10-31||2024-08-23||Libyan SRR||Libyan Search and Rescue Region (SRR)||sea||||||||2,1,2024-10-31,2024-10-31,pdfs/pad-2025-00011-1/13654-2024_Final_SIR_-_rps.pdf
+13681/2024,"2025-04-15||2024-03-08||Libyan SRR||Libyan Search and Rescue Region, near 33.9N 12.583E||sea||1||1||||1",1,2025-04-15,2025-04-15,pdfs/pad-2025-00146/13681_2024_SIR__redacted.pdf
+13800/2022,"2022-08-24||2022-08-23||Bulgaria-Greece border||Bulgaria-Greece green border, near the Evros river, after migrants crossed from Turkey to Greece, then to Bulgaria, then back to Greece.||mixed||0||0||0||3",1,2022-08-24,2022-08-24,pdfs/pad-2025-00371/11009_11760_12819_13800_14128-2022.pdf
+13800/2022,2022-08-24||||Bulgaria-Greece border||Bulgaria-Greece border (Evros river area)||mixed||||||||3,1,2022-08-24,2022-08-24,pdfs/pad-2022-00470/Documents2.pdf
+13800/2022,2022-09-02||2022-08-24||Bulgaria-Greece border||Bulgaria-Greece green border||land||0||0||0||3,1,2022-09-02,2022-09-02,pdfs/pad-2022-00465/Documents02.pdf
+13810/2021,"2021-10-11||2021-08-29||Lithuania||Tverečius, Utenos Apskritis, Lithuania, near the Lithuanian-Belarusian border||land||0||0||0||1",1,2021-10-11,2021-10-11,pdfs/pad-2022-00425/BATCH_13_redactions_redacted_p.pdf
+13822/2024,"2025-10-10||2024-08-23||Greece||Sea area northwest of Symi island, Greece||sea||1||0||0||1",1,2025-10-10,2025-10-10,pdfs/pad-2025-00428/13822_2024_-_Final_Report_SIR_Cat_1_redacted.pdf
+13830/2022,"2022-09-03||2022-09-02||Greece||Sea area near Greece, involving Turkish Territorial Waters.||sea||0||0||0||0",1,2022-09-03,2022-09-03,pdfs/pad-2022-00419-documents-1/pad-2022-00419-documents-1.pdf
+13844/2021,"2021-10-13||2021-10-11||Rhodes Island, Greece||North of Rhodes Island||sea||0||4||0||2",1,2021-10-13,2021-10-13,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+13850/2021,2021-10-13||2021-09-05||Albania||Albanian border near Kakavia||land||||0||||2,1,2021-10-13,2021-10-13,pdfs/pad-2025-00371/11843_12299_12523_12524_13160_13850-2021.redacted.pdf
+13856/2022,2023-06-01||2022-08-24||Bulgaria||Bulgarian border||land||||||1||2,1,2023-06-01,2023-06-01,pdfs/pad-2023-00266/PAD-2023-00266_point_2.pdf
+13856/2022,"||||Bulgaria||Operational area in Bulgaria, near the border with Turkey, involving an apprehension in a forest.||land||0||0||1||5",1,,,pdfs/pad-2022-00470/Documents1.pdf
+13856/2022,"||||Bulgaria||Bulgaria, near the border with Turkey||land||0||0||0||5",1,,,pdfs/pad-2022-00465/Documents03.pdf
+13856/2022,2022-08-26||||Bulgaria||Bulgaria-Turkey border region||land||||||1||5,1,2022-08-26,2022-08-26,pdfs/pad-2025-00371/13856-2022.pdf
+13894/2021,"2025-07-04||2021-10-08||Greece (Lesvos Island), Turkey, Aegean Sea||Sea area south-east of Lesvos Island, within Hellenic Territorial Waters, near the border with Turkey, eventually ending in Turkish Territorial Waters.||sea||0||0||0||1",1,2025-07-04,2025-07-04,pdfs/pad-2025-00428/Final_SIR_Report_13894.2021_redacted-2.pdf
+13894/2021,"2025-07-04||2021-10-08||Greece (Lesvos Island, Aegean Sea)||Sea area south of Lesvos Island, Greece||sea||||||||1",1,2025-07-04,2025-07-04,pdfs/pad-2025-00330-1/Final_SIR_Report_13894.2021.pdf
+13910/2023,"2023-09-01||2023-09-01||Bulgaria||Bulgaria, at border checks||land||0||0||0||0",1,2023-09-01,2023-09-01,pdfs/pad-2024-00377/SIR_13910.2023.pdf
+13930/2021,2021-10-19||2021-10-19||Romania||Car accident outside a town in Romania.||land||0||0||0||0,1,2021-10-19,2021-10-19,pdfs/pad-2022-00425/pad-2022-00425-red.pdf
+13974/2021,"2021-10-21||2021-10-05||Lithuania, Denmark||Ammunition lost en route to Lithuania, found at Copenhagen airport.||land||0||0||0||0",1,2021-10-21,2021-10-21,pdfs/pad-2022-00425/pad-2022-00425-red.pdf
+13983/2021,2021-10-22||2021-10-22||Lithuania||Operational Area on the Lithuanian side of the border||land||||||||1,1,2021-10-22,2021-10-22,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+13984/2021,"2021-10-22||2021-10-12||Alytaus County, Lithuania-Belarus border||Operational Area Alytaus County, Lithuania, near the Belarus border||land||||||||1",1,2021-10-22,2021-10-22,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+13985/2021,"2021-10-22||2021-10-14||Alytaus County, Lithuania||Operational Area Alytaus County, Lithuania||land||||||||1",1,2021-10-22,2021-10-22,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+13987/2021,"2021-10-22||2021-10-21||Alytaus County, Lithuania-Belarus border||Operational Area Alytaus County, Lithuania, near the Belarus border||land||||1||||1",1,2021-10-22,2021-10-22,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+14006/2022,"2023-08-14||2022-06-04||Border area||Border river area, land, where migrants were apprehended after crossing a river.||mixed||0||0||0||3",1,2023-08-14,2023-08-14,pdfs/pad-2023-00450/SIR_Albania_2022_part_3.pdf
+14036/2021,"2021-10-25||2021-10-01||Greece||Ormenio village, Evros, Greece||land||0||0||0||8",1,2021-10-25,2021-10-25,pdfs/pad-2025-00419/14036-2021_redacted2.pdf
+14036/2021,"2021-10-25||2021-10-01||Greece||Evros, Greece||land||0||0||0||8",1,2021-10-25,2021-10-25,pdfs/pad-2025-00371/14036-2021.pdf
+14056/2022,"2022-12-15||2022-09-09||Greece, Turkey, International Waters, Aegean Sea||Sea area near Samos Island, International Waters, Greek SAR Region, moving towards Turkish Territorial Waters.||sea||||||||4",1,2022-12-15,2022-12-15,pdfs/pad-2025-00371/14056_2022.pdf
+14067/2021,"2021-10-27||2021-10-22||Alytaus County, Lithuania-Belarus border||Operational Area Alytaus County, Lithuania, near the Belarus border||land||||||||1",1,2021-10-27,2021-10-27,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+14068/2021,"2021-10-27||2021-10-22||Lithuania-Belarus border||Operational Area in Lithuania, near the Belarus border||land||||||||1",1,2021-10-27,2021-10-27,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+14069/2021,2021-10-27||2021-10-22||Lithuania||Farm in an Operational Area in Lithuania||land||||1||||1,1,2021-10-27,2021-10-27,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+14070/2021,"2021-10-27||2021-10-27||Lithuania-Belarus border||Operational Area in Lithuania, near the Belarusian border||land||||||||1",1,2021-10-27,2021-10-27,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+14076/2021,2021-10-27||2021-10-27||Lithuania-Belarus border||Operational Area on the Lithuania-Belarus border||land||||||||1,1,2021-10-27,2021-10-27,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+14095/2021,2021-10-28||2021-10-26||Lithuania||Hotel room in an Operational Area in Lithuania||facility||||||||0,1,2021-10-28,2021-10-28,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+14128/2022,2022-08-15||||Bulgaria-Turkey border||Bulgarian border with Turkey||land||0||0||0||3,1,2022-08-15,2022-08-15,pdfs/pad-2022-00465/Documents02.pdf
+14128/2022,2022-08-15||||Bulgaria-Turkey border||Bulgarian border with Turkey||land||||||||3,1,2022-08-15,2022-08-15,pdfs/pad-2022-00470/Documents2.pdf
+14128/2022,"2022-08-15||||Bulgaria-Turkey border||Bulgarian-Turkish border, specifically the operational area of JO Terra 2022.||land||0||0||0||3",1,2022-08-15,2022-08-15,pdfs/pad-2025-00371/11009_11760_12819_13800_14128-2022.pdf
+14128/2022,2023-06-01||||Bulgaria-Türkiye border||Bulgaria-Türkiye border||land||||||||3,1,2023-06-01,2023-06-01,pdfs/pad-2023-00266/PAD-2023-00266_point_2.pdf
+14129/2022,"2022-12-13||2022-08-13||Bulgaria / Turkey border||Turkish-Bulgarian border near Edirne, Bulgaria||land||0||||0||4",1,2022-12-13,2022-12-13,pdfs/pad-2025-00371/14129-2022.pdf
+14149/2021,"2022-08-10||2021-10-26||Greece, Aegean Sea||Off Chios Island, Aegean Sea, Greece||sea||4||0||2||6",1,2022-08-10,2022-08-10,pdfs/pad-2025-00371/14149-2021.pdf
+14175/2024,"2025-08-25||2024-09-04||Maltese Search and Rescue Region, Italian territorial waters, Lampedusa, Sabratha (Libya - departure point)||Maltese Search and Rescue Region, initially 37 NM south of Lampedusa (34.883333N, 12.616667E), moving towards Lampedusa; rescue occurred 10 NM south of Lampedusa in Italian territorial waters.||sea||6||||21||1",1,2025-08-25,2025-08-25,pdfs/pad-2025-00428/14175_2024.pdf
+14191/2021,"2021-11-04||2021-11-04||Romania, Serbian border||Operational Area in Romania, near the Serbian border||land||||||||0",1,2021-11-04,2021-11-04,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+14196/2024,"2025-09-22||2024-09-10||Greece||Near a police station in Evros, Greece, close to the Greece-North Macedonia border.||mixed||0||1||0||4",1,2025-09-22,2025-09-22,pdfs/pad-2025-00428/SIR_14196.2024_Final_redacted.pdf
+14196/2024,"2025-09-22||2024-09-07||Greece||Near a police station in Greece, close to the North Macedonia border.||mixed||0||0||0||4",1,2025-09-22,2025-09-22,pdfs/pad-2025-00428/SIR_14196.2024_Final_redacted.pdf
+14220/2021,"2021-11-06||2021-11-05||Evros, Greece||Operational Area Evros, Greece||land||||||||0",1,2021-11-06,2021-11-06,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+14242/2024,"2025-03-31||2024-09-16||Bulgaria||Bulgarian border fence, near a village||land||0||0||0||4",1,2025-03-31,2025-03-31,pdfs/pad-2025-00151-1/SIR_14242-2024.pdf
+14272/2022,"2022-12-13||2022-09-24||Spain||Detention facility in JO Indalo Operational Area, Spain||facility||0||3||0||2",1,2022-12-13,2022-12-13,pdfs/pad-2025-00371/14272-2022.pdf
+14278/2024,2024-10-02||2024-09-29||Greece||A village in Greece within the operational area of JO Greece 2024 Land.||land||0||0||0||1,1,2024-10-02,2024-10-02,pdfs/pad-2025-00085/14278_2024_SI_Report_redacted.pdf
+14308/2024,"2025-05-16||2024-09-27||Albania-Montenegro border area||North-western Albania, near the Albania-Montenegro border, approximately 1 km from the border, on a road near an abandoned building.||land||0||0||0||1",1,2025-05-16,2025-05-16,pdfs/pad-2025-00220/14308_2024_FINAL_SIR_CAT_1_redacted.pdf
+14308/2024,"2025-05-16||2024-09-27||Albania-Montenegro border area||Near the Albania-Montenegro border, approximately one kilometer from the border, in North-western Albania.||land||0||0||0||1",1,2025-05-16,2025-05-16,pdfs/pad-2025-00330-1/14308_2024_FINAL_SIR_CAT_1_redacted.pdf
+14310/2021,"2021-11-12||2021-11-09||Lesvos island, Greece||East of Lesvos island||sea||||||||2",1,2021-11-12,2021-11-12,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+14317/2021,2021-11-13||2021-11-12||Albania||Operational Area in Albania on a road||land||0||2||0||0,1,2021-11-13,2021-11-13,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+14331/2024,"2024-12-17||2024-08-01||Greece, Türkiye||Evros river border area between Greece and Türkiye, near Didymoteicho, Greece||mixed||0||0||0||2",1,2024-12-17,2024-12-17,pdfs/pad-2025-00011-1/14331_2024_Final_SIR_Cat._1-_JO_Greece_2024_-_Alleged_abuse_and_collective_expulsion_of_migrants_in_Evros_pr&sc.pdf
+14377/2024,2025-01-28||2024-09-21||Libyan SRR||Libyan Search and Rescue Region (SRR)||sea||||||||2,1,2025-01-28,2025-01-28,pdfs/pad-2025-00076_157/SIR_14377-2024_redacted.pdf
+14380/2021,"2021-11-17||2021-11-17||Sicily, Italy||Operational Area in Sicily, Italy, on the beach||mixed||1||||||0",1,2021-11-17,2021-11-17,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+14400/2021,2022-10-28||2021-11-16||Libyan SAR zone||Libyan search and rescue zone||sea||10||||||3,1,2022-10-28,2022-10-28,pdfs/pad-2022-00328/Documents_1.pdf
+14400/2021,"2022-10-28||2021-11-16||Libyan SRR, Messina (Italy)||Libyan search and rescue zone, disembarkation in Messina port (Italy)||mixed||||||||3",1,2022-10-28,2022-10-28,pdfs/pad-2025-00371/13489_14400_14577_11780-2021.redacted.pdf
+14423/2021,2021-11-20||2021-11-20||Albania||Operational Area in Albania||land||||||||0,1,2021-11-20,2021-11-20,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+14453/2024,"2025-06-20||2024-09-27||Greece (Kos island)||Near Kos island, Greece, in the sea area East of Kos island, within Hellenic territorial waters, near Cape Fokas.||sea||1||2||0||2",1,2025-06-20,2025-06-20,pdfs/pad-2025-00330-1/14453__2024_Final_SIR_Cat_1_-_JO_Greece_2024.pdf
+14498/2021,"2021-11-25||2021-11-20||Crete island, Greece||Southwest of Crete island||sea||1||||0||1",1,2021-11-25,2021-11-25,pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf
+14540/2021,2021-11-29||2021-11-23||Greece||Operational Area in Greece||land||||||||0,1,2021-11-29,2021-11-29,pdfs/pad-2022-00473-documents/pad-2022-00473-documents.pdf
+14546/2024,"2025-02-28||2024-09-30||Serbia||Garage at a Border Crossing Unit (BCU) building in Serbia, near Pirot.||facility||0||1||0||1",1,2025-02-28,2025-02-28,pdfs/pad-2025-00076_157/SIR_14546-2024_redacted.pdf
+14546/2024,||||Serbia||Border Crossing Units and exit points from Serbia||mixed||0||0||0||2,1,,,pdfs/pad-2025-00076_157/45th_MB_Report_Annex_2_SIR_Country_Profile_Serbia_redacted.pdf
+14577/2021,"2022-10-20||2021-11-24||Maltese SRR, Libyan SRR||Maltese Search and Rescue Region (SRR) and Libyan SAR zone||sea||||||||5",1,2022-10-20,2022-10-20,pdfs/pad-2025-00371/13489_14400_14577_11780-2021.redacted.pdf
+14577/2021,2022-10-20||2021-11-24||Maltese SRR||Maltese Search and Rescue Region||sea||||||||5,1,2022-10-20,2022-10-20,pdfs/pad-2022-00328/Documents_1.pdf
+14629/2024,"2025-06-03||2024-10-08||Spain||Lanzarote Island, Spain||land||0||0||0||2",1,2025-06-03,2025-06-03,pdfs/pad-2025-00330-1/SIR_14629_2024__redacted_2.0_final.pdf
+14656/2021,"2021-12-08||2021-12-01||Lithuania||Varėna district, Alytus County, Lithuania||land||||||||7",1,2021-12-08,2021-12-08,pdfs/pad-2025-00371/14656-2021.pdf
+14659/2024,"2025-06-06||2024-10-08||Albania-Montenegro border||Near Albania-Montenegro border, along a road with railway and a container nearby.||land||0||0||0||1",1,2025-06-06,2025-06-06,pdfs/pad-2025-00330-1/SIR_14659_2024_JO_Albania_Land_2024_Final_Report.pdf
+14676/2024,"2025-08-28||2024-10-01||Spain||Cala Pañon Cortado, Cuevas del Almanzora, Almería, Spain||land||0||0||0||1",1,2025-08-28,2025-08-28,pdfs/pad-2025-00428/Final_SIR_14676_2024_redacted2.pdf
+14692/2021,"2021-12-10||2020-03-01||Greece; Türkiye; Chios Island||Sea area near Chios Island, Greece, after crossing from Turkish territorial waters.||sea||0||0||0||2",1,2021-12-10,2021-12-10,pdfs/pad-2025-00371/14692_2021.pdf
+14717/2021,"2021-12-13||2021-08-05||Greece (Samos island)||Samos island, Greece||mixed||||||||4",1,2021-12-13,2021-12-13,pdfs/pad-2025-00371/14717-2021.pdf
+14717/2024,2025-06-25||2024-10-15||Kos island||Near Kos island||sea||4||6||||1,1,2025-06-25,2025-06-25,pdfs/pad-2025-00330-1/14717_2024_Final_SIR_CAT.1__JO_Greece_2024.pdf
+14771/2024,"2025-05-26||2024-10-15||Greece SRR||Sea area south of Crete Island, Greece||sea||1||0||2||2",1,2025-05-26,2025-05-26,pdfs/pad-2025-00330-1/14771_2024_-_redacted.pdf
+14791/2024,"2025-04-30||2024-10-21||Lithuania||Border Crossing Point, Lithuania-Belarus border||land||0||0||0||1",1,2025-04-30,2025-04-30,pdfs/pad-2025-00220/FINAL_SIR_CAT_1_14791_2024_-_Lithuania_redacted.pdf
+14791/2024,2025-04-30||2024-10-21||Lithuania||Border Crossing Point on Lithuania-Belarus border||facility||0||0||0||1,1,2025-04-30,2025-04-30,pdfs/pad-2025-00330-1/FINAL_SIR_CAT_1_14791_2024_-_Lithuania_redacted.pdf
+14833/2024,2024-11-07||||Greece||Airport waiting area in Greece during a pre-departure phase of a joint return operation.||facility||0||0||0||0,1,2024-11-07,2024-11-07,pdfs/pad-2025-00085/14833_2024_redacted_-_1.pdf
+14850/2022,"2023-01-24||2022-10-04||Serbia||Serbian territory, near the Serbian-Romanian border, close to A166 border sign.||land||0||0||0||3",1,2023-01-24,2023-01-24,pdfs/pad-2025-00367/14850_2022.pdf
+14877/2024,"2025-06-17||2024-11-07||Albania-Montenegro border area||Hani i Hotit, Albania-Montenegro border area||land||0||0||0||2",1,2025-06-17,2025-06-17,pdfs/pad-2025-00330-1/SIR_14877_2024_JO_Albania_Land_2024_Final_Report.pdf
+14925/2024,2024-11-29||2024-10-14||Libyan Search and Rescue Region||Libyan Search and Rescue Region (SRR)||sea||||1||||2,1,2024-11-29,2024-11-29,pdfs/pad-2025-00011-1/14925_2024_Final_SIR_-_rps.pdf
+14951/2023,"2024-06-28||2023-09-29||Aegean Sea (Greece/Türkiye maritime border area)||South of Lesvos Island, Aegean Sea, near the maritime border between Greece and Türkiye.||sea||||||||3",1,2024-06-28,2024-06-28,pdfs/pad-2024-00234/SIR_14951_2023_rps.pdf
+14995/2024,"2025-10-10||2024-03-06||Tunisian and Libyan SRR, Maltese SRR||Tunisian and Libyan Search and Rescue Region (SRR), near the borders of Maltese SRR, Central Mediterranean Sea.||sea||1||4||||1",1,2025-10-10,2025-10-10,pdfs/pad-2025-00428/SIR_14995_2024_.pdf
+15/2015,2015-04-04||2015-03-28||Bulgaria/Turkey border||||land||0||0||0||1,1,2015-04-04,2015-04-04,pdfs/pad-2020-00037-1/PAD-2020-00037-Documents.pdf
+151/2015,"2015-09-04||2015-09-04||Greece||Athens Airport, Greece||facility||||||||1",1,2015-09-04,2015-09-04,pdfs/pad-2020-00089-documents/PAD-2020-00089-Documents.pdf
+15338/2023,"2024-05-29||2023-09-24||Aegean Sea, Greece/Turkey||Sea area between Samos Island (Greece) and İzmir's Menderes district (Turkey).||sea||0||0||0||2",1,2024-05-29,2024-05-29,pdfs/pad-2024-00234/SIR_15338_2023_rps.pdf
+15368/2022,"2023-06-01||2022-12-08||Sredets, Bulgaria||Sredets border police station, Bulgaria||facility||||||||3",1,2023-06-01,2023-06-01,pdfs/pad-2023-00266/PAD-2023-00266_point_2.pdf
+15368/2022,"2023-04-14||2022-09-13||Bulgaria||BCU Sredets, Bulgaria||facility||0||0||0||6",1,2023-04-14,2023-04-14,pdfs/pad-2025-00367/15368_2022.pdf
+15549/2022,"2023-04-21||2022-10-03||Türkiye||Near border pyramid 92, close to Belevren, on the Bulgarian-Turkish border, on Turkish territory.||land||0||1||0||2",1,2023-04-21,2023-04-21,pdfs/pad-2025-00367/15549_2022.pdf
+15549/2022,2023-06-01||||Bulgaria-Türkiye border||Bulgaria-Türkiye border||land||||||||3,1,2023-06-01,2023-06-01,pdfs/pad-2023-00266/PAD-2023-00266_point_2.pdf
+15676/2023,"2024-06-28||2023-11-13||Lesvos Island, Greece / Turkish territorial waters||Near Lesvos Island, Greece||sea||0||0||0||5",1,2024-06-28,2024-06-28,pdfs/pad-2024-00234/SIR_15676_2023_rps.pdf
+15856/2023,2023-12-18||2023-12-17||Bulgaria||Bulgaria||land||0||0||0||0,1,2023-12-18,2023-12-18,pdfs/pad-2024-00377/SIR_15856.2023.pdf
+15910/2023,"2024-07-08||2023-09-21||Cyprus||Reception Center, Joint Operation Ledra, Cyprus||facility||0||0||0||4",1,2024-07-08,2024-07-08,pdfs/15910_2023-final-sir-cat-12/15910_2023-final-sir-cat.-12.pdf
+15914/2023,"2024-07-24||2023-12-01||Serbia and Bulgaria border||Serbian-Bulgarian border, involving a river crossing||land||||||||2",1,2024-07-24,2024-07-24,pdfs/15914_2023-final-sir-cat1/15914_2023-final-sir-cat.1.pdf
+15914/2023,"2024-07-24||2023-12-01||Serbia, Bulgaria||Serbia-Bulgaria border area, near a river||land||||||||2",1,2024-07-24,2024-07-24,pdfs/sirs-pad-2024-00396/sirs-pad-2024-00396.pdf
+15942/2023,"2024-07-24||2023-11-27||Serbia, Bulgaria||Serbia-Bulgaria border area, near a bridge and river||mixed||||||||2",1,2024-07-24,2024-07-24,pdfs/sirs-pad-2024-00396/sirs-pad-2024-00396.pdf
+15942/2023,"2024-07-24||2023-11-27||Serbia (near Bulgaria border)||Serbia-Bulgaria border area, within Serbian territory, near a bridge, river, village, highway, and train track.||land||0||1||0||2",1,2024-07-24,2024-07-24,pdfs/15942_2023-final-sir-cat1/15942_2023-final-sir-cat.1.pdf
+15946/2023,2024-05-13||2023-12-13||Serbia-Bulgaria border area||Near the Serbian-Bulgarian border||land||0||4||0||2,1,2024-05-13,2024-05-13,pdfs/pad-2024-00314/SIR_15946_2023_Final_Report_rps.pdf
+15957/2023,"2024-12-21||2023-06-20||Greece, Türkiye, Evros region||Evros region, near Soufli, Greece/Türkiye border||mixed||0||0||0||2",1,2024-12-21,2024-12-21,pdfs/pad-2025-00011-1/Final_SIR_15957-2023_SPed.pdf
+18/2015,"2015-04-10||2015-02-11||Elhovo, Bulgaria||||facility||0||0||0||1",1,2015-04-10,2015-04-10,pdfs/pad-2020-00037-1/PAD-2020-00037-Documents.pdf
+184/2015,"2015-10-02||2015-09-13||Bulgaria||Sofia, Bulgaria||land||||||||1",1,2015-10-02,2015-10-02,pdfs/pad-2020-00089-documents/PAD-2020-00089-Documents.pdf
+19/2015,2015-04-10||2015-02-24||Bulgaria||||land||0||0||0||1,1,2015-04-10,2015-04-10,pdfs/pad-2020-00037-1/PAD-2020-00037-Documents.pdf
+194/2022,"2022-04-21||2022-04-18||Greece||Islets of Evros river, Greece||land||0||0||0||0",1,2022-04-21,2022-04-21,pdfs/pad-2022-00332/Documents_5.pdf
+194/2022,"2022-04-21||2022-04-13||Greece||Islets of Evros river, Greece||land||0||0||0||0",1,2022-04-21,2022-04-21,pdfs/pad-2022-00332/Documents_5.pdf
+226/2015,"2015-11-18||2015-11-18||Bulgaria, Turkey||Bulgarian-Turkish border area||land||||||||1",1,2015-11-18,2015-11-18,pdfs/pad-2020-00089-documents/PAD-2020-00089-Documents.pdf
+331/2016,"2016-02-11||2016-02-01||Hungary||Unknown location in Hungary, near the border.||land||0||0||0||1",1,2016-02-11,2016-02-11,pdfs/pad-2020-00113-documents/PAD-2020-00113_-_Documents.pdf
+337/2016,"2016-02-23||2016-02-09||Croatia-Serbia border||Croatian-Serbian border area, with mentions of Kelebia, Sid, Subotica, and Hungarian border.||land||0||0||0||1",1,2016-02-23,2016-02-23,pdfs/pad-2020-00113-documents/PAD-2020-00113_-_Documents.pdf
+341/2016,2016-02-26||2016-02-04||Greece-Turkey border||Greek-Turkish land border area.||land||0||0||0||1,1,2016-02-26,2016-02-26,pdfs/pad-2020-00113-documents/PAD-2020-00113_-_Documents.pdf
+360/2016,"2016-04-12||2016-04-12||Bulgaria-Turkey border||Bulgarian-Turkish land border, Strandzha mountain area||land||||||||1",1,2016-04-12,2016-04-12,pdfs/pad-2020-00032-documents-1/pad-2020-00032-documents-1.pdf
+360/2016,"2016-04-12||2016-04-12||Bulgaria-Turkey border||Bulgarian-Turkish land border, specifically the Strandza mountain area.||land||0||0||0||1",1,2016-04-12,2016-04-12,pdfs/pad-2020-00113-documents/PAD-2020-00113_-_Documents.pdf
+361/2016,2016-04-12||2016-04-08||Bulgaria-Turkey border||Turkish-Bulgarian land border||land||||1||||1,1,2016-04-12,2016-04-12,pdfs/pad-2020-00032-documents-1/pad-2020-00032-documents-1.pdf
+361/2016,2016-04-12||2016-04-08||Bulgaria-Turkey border||Bulgarian-Turkish land border.||land||0||1||0||1,1,2016-04-12,2016-04-12,pdfs/pad-2020-00113-documents/PAD-2020-00113_-_Documents.pdf
+3884/2015,"2015-08-05||2015-08-04||Ceuta, Spain||Port of Ceuta||land||0||0||0||1",1,2015-08-05,2015-08-05,pdfs/pad-2020-00037-1/PAD-2020-00037-Documents.pdf
+439/2016,"2016-09-09||2016-09-08||Greece||Port of Chios, Chios Island, Greece||mixed||0||0||0||1",1,2016-09-09,2016-09-09,pdfs/pad-2020-00133-documents/PAD-2020-00133_documents.pdf
+453/2016,"2016-09-28||2016-09-21||Bulgaria||Elhovo Distribution Centre, Bulgaria||facility||0||0||0||2",1,2016-09-28,2016-09-28,pdfs/pad-2020-00133-documents/PAD-2020-00133_documents.pdf
+48/2015,"2015-05-12||2015-05-06||Orestiada, Greece||||land||0||0||0||1",1,2015-05-12,2015-05-12,pdfs/pad-2020-00037-1/PAD-2020-00037-Documents.pdf
+488/2016,"2016-10-28||2016-10-24||Bulgaria-Turkey border, Greece-Turkey border, Hungary||Bulgarian-Turkish and Greek-Turkish land borders, and Kiskunhalas refugee camp, Hungary||mixed||0||||||5",1,2016-10-28,2016-10-28,pdfs/pad-2020-00032-documents-1/pad-2020-00032-documents-1.pdf
+488/2016,"2016-10-28||2016-10-24||Bulgaria, Greece, Turkey||Bulgarian-Turkish and Greek-Turkish land borders||land||0||0||0||3",1,2016-10-28,2016-10-28,pdfs/pad-2020-00133-documents/PAD-2020-00133_documents.pdf
+502/2016,"2016-11-15||2016-11-13||Greece||Mytilini Harbour, Lesvos Island, Greece||mixed||0||0||0||1",1,2016-11-15,2016-11-15,pdfs/pad-2020-00133-documents/PAD-2020-00133_documents.pdf
+520/2016,"2016-12-14||2016-12-12||Chios Island, Greece||Souda Camp, Chios Island, Greece||facility||0||1||0||1",1,2016-12-14,2016-12-14,pdfs/pad-2020-00157-documents/PAD-2020-00157-documents.pdf
+542/2017,"2017-02-08||2017-02-06||Bulgaria-Turkey border||Bulgarian-Turkish land border, Svilengrad area, BCU Kapitan Andreevo||mixed||||||||2",1,2017-02-08,2017-02-08,pdfs/pad-2020-00032-documents-1/pad-2020-00032-documents-1.pdf
+542/2017,"2017-02-08||2017-02-06||Bulgarian-Turkish border||Bulgarian-Turkish land border, near Kapitan Andreevo||land||0||1||0||1",1,2017-02-08,2017-02-08,pdfs/pad-2020-00157-documents/PAD-2020-00157-documents.pdf
+591/2017,"2017-05-13||2017-05-12||Kos Island, Greece||Pyli Hotspot, Kos Island, Greece||facility||0||1||0||1",1,2017-05-13,2017-05-13,pdfs/pad-2020-00157-documents/PAD-2020-00157-documents.pdf
+606/2017,"2017-06-08||2017-05-24||Evros River, Greece||Evros River, near Didymoteicho, Greece||mixed||0||0||0||1",1,2017-06-08,2017-06-08,pdfs/pad-2020-00157-documents/PAD-2020-00157-documents.pdf
+652/2017,"2017-10-24||2017-06-13||Hungary, Serbia||Hungarian-Serbian border||land||||||||1",1,2017-10-24,2017-10-24,pdfs/pad-2020-00171-documents/PAD-2020-00171-documents.pdf
+676/2017,"2017-12-12||2017-12-11||Greece, Turkey||Evros River||land||||||||2",1,2017-12-12,2017-12-12,pdfs/pad-2020-00171-documents/PAD-2020-00171-documents.pdf
+714/2018,"2018-04-20||2018-04-19||International airspace / between Austria, Nigeria, Gambia||On board an aircraft in international airspace during a return operation from Austria to Nigeria and Gambia.||mixed||0||2||0||0",1,2018-04-20,2018-04-20,pdfs/pad-2020-00091_doc/PAD-2020-00091_doc.pdf
+788/2018,2018-11-18||2018-11-07||Greece||Alexandroupolis - Evros area||land||||||||4,1,2018-11-18,2018-11-18,pdfs/pad-2020-00171-documents/PAD-2020-00171-documents.pdf
+798/2018,"2018-12-05||2018-12-04||Turkey, Greece||Evros River - Edirne||land||3||||||1",1,2018-12-05,2018-12-05,pdfs/pad-2020-00171-documents/PAD-2020-00171-documents.pdf
+811/2019,2019-02-02||2019-02-02||Evros river||Evros river area||land||0||0||4||0,2,2019-02-02,2019-02-02,pdfs/pad-2020-00078/Serious_Incident_Reports_PAD-2020-00078_-_part_1.pdf | pdfs/pad-2020-00217/Doc_1.pdf
+819/2019,2019-03-18||2019-03-18||Evros river||Evros Area||land||1||0||0||0,2,2019-03-18,2019-03-18,pdfs/pad-2020-00078/Serious_Incident_Reports_PAD-2020-00078_-_part_1.pdf | pdfs/pad-2020-00217/Doc_1.pdf
+823/2019,"2019-03-26||2019-03-26||Evros river||Evros river, close to the bank||land||1||0||0||0",2,2019-03-26,2019-03-26,pdfs/pad-2020-00078/Serious_Incident_Reports_PAD-2020-00078_-_part_1.pdf | pdfs/pad-2020-00217/Doc_1.pdf
+825/2019,2019-03-27||2019-03-26||Evros river||Evros area||land||0||0||0||0,2,2019-03-27,2019-03-27,pdfs/pad-2020-00078/Serious_Incident_Reports_PAD-2020-00078_-_part_1.pdf | pdfs/pad-2020-00217/Doc_1.pdf
+829/2019,"2019-04-08||2019-04-08||Greece, Turkey||Greek/Turkish Land Border Section||land||||||||4",1,2019-04-08,2019-04-08,pdfs/pad-2020-00171-documents/PAD-2020-00171-documents.pdf
+830/2019,"2019-04-09||2019-04-09||Croatia, Bosnia and Herzegovina, Serbia||Croatia border with Bosnia and Herzegovina and Serbia||land||||||||1",1,2019-04-09,2019-04-09,pdfs/pad-2020-00171-documents/PAD-2020-00171-documents.pdf
+836/2019,"2019-04-21||2019-04-21||Evros river||Evros river, close to the bank||land||1||0||0||0",2,2019-04-21,2019-04-21,pdfs/pad-2020-00078/Serious_Incident_Reports_PAD-2020-00078_-_part_1.pdf | pdfs/pad-2020-00217/Doc_1.pdf
+845/2019,2019-05-16||2019-05-15||Evros river||Evros River area||land||1||0||0||0,2,2019-05-16,2019-05-16,pdfs/pad-2020-00078/Serious_Incident_Reports_PAD-2020-00078_-_part_1.pdf | pdfs/pad-2020-00217/Doc_1.pdf
+858/2019,2019-07-22||2019-07-22||Evros river||Evros area||land||0||3||0||0,2,2019-07-22,2019-07-22,pdfs/pad-2020-00078/Serious_Incident_Reports_PAD-2020-00078_-_part_1.pdf | pdfs/pad-2020-00217/Doc_1.pdf
+863/2019,"2019-08-06||2019-08-01||Greece / North Macedonia border||BCP Evzoni, Greece-North Macedonia border||land||0||1||0||3",2,2019-08-06,2019-08-06,pdfs/pad-2020-00217/Doc_16.pdf | pdfs/pad-2020-00217/Doc_17.pdf
+888/2019,"2019-10-19||2019-10-19||Evros region||Evros region, on a rural road||land||0||13||0||0",2,2019-10-19,2019-10-19,pdfs/pad-2020-00078/Serious_Incident_Reports_PAD-2020-00078_-_part_1.pdf | pdfs/pad-2020-00217/Doc_1.pdf
+890/2019,"2019-10-23||2019-10-23||Kos Island||Kos Island, after a collision in SAR operation||sea||1||0||1||0",2,2019-10-23,2019-10-23,pdfs/pad-2020-00078/Serious_Incident_Reports_PAD-2020-00078_-_part_1.pdf | pdfs/pad-2020-00217/Doc_1.pdf
+898/2019,"2019-11-16||2019-11-16||Evros region||Evros region, on train tracks between Alexandroupolis and Ormenio||land||1||0||0||0",2,2019-11-16,2019-11-16,pdfs/pad-2020-00078/Serious_Incident_Reports_PAD-2020-00078_-_part_1.pdf | pdfs/pad-2020-00217/Doc_1.pdf
+909/2019,"2019-12-07||2019-11-28||Evros area||Petrades, Evros area||land||1||0||0||0",2,2019-12-07,2019-12-07,pdfs/pad-2020-00078/Serious_Incident_Reports_PAD-2020-00078_-_part_1.pdf | pdfs/pad-2020-00217/Doc_1.pdf
+911/2019,"2019-12-08||2019-12-08||Greece||Evros River bank near Ferres, Evros Operational Area, Greece||land||2||0||0||0",1,2019-12-08,2019-12-08,pdfs/pad-2020-00078/SeriousIncident_911_Releasable.pdf
+911/2019,"2019-12-08||2019-12-08||Greece||Evros River bank, Evros Operational Area, near Ferres, Greece||land||2||0||0||0",1,2019-12-08,2019-12-08,pdfs/pad-2020-00217/Doc_2.pdf
+918/2020,"2020-01-09||2020-01-08||Greece||Evros River, Evros Area, Greece||land||1||0||0||0",1,2020-01-09,2020-01-09,pdfs/pad-2020-00217/Doc_3.pdf
+918/2020,"2020-01-09||2020-01-08||Greece||Evros River, Evros Area||land||1||0||0||0",1,2020-01-09,2020-01-09,pdfs/pad-2020-00078/SeriousIncident_918_Releasable.pdf
