@@ -1,0 +1,161 @@
+{
+  "source_file": "pdfs/pad-2022-00332/Documents_6.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:39:50.808967+00:00",
+  "records": [
+    {
+      "sir_id": "11619/2022",
+      "report_date": "2022-04-17",
+      "incident_date": "2022-04-16",
+      "location_details": null,
+      "where_clear": "Soufli area, Evros River, Greece",
+      "location_text_raw": "Evros, Greece",
+      "country_or_area": "Greece",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Soufli, Evros, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates redacted, general area provided.",
+      "dead_confirmed": 1,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "Greek Police and Border Guards detected migrants attempting to cross the Evros River from Turkey. Fires were shot from the Turkish side. A SAR operation was launched, four migrants were rescued, and the body of a woman was collected. The Coroner reported the death.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Furthermore, the body of a woman was collected.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1
+      ]
+    },
+    {
+      "sir_id": "11494/2022",
+      "report_date": "2022-04-07",
+      "incident_date": "2022-03-30",
+      "location_details": "Islet in Evros River, GRC side of the border",
+      "where_clear": "Islet in Evros River, Greek side of the border, near Pragi/Didymoteicho",
+      "location_text_raw": "Evros, Evros, Greece",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Islet in Evros River near Pragi, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific islet not named, but general area is clear.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "threat to right to life",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "violations of human dignity",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "SAR case in Evros involving 36 migrants stranded on an islet in the Evros River. Alerts were received from NGOs and Watch The Med. Migrants reported being observed by Greek authorities and later rescued by individuals described as policemen. Allegations of masked men entering the island were also made. The European Court of Human Rights adopted interim measures for 34 individuals.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "SAR case in EVROS - possible threat to right to life, possible violations of human dignity and the prohibition of inhuman and degrading treatment",
+      "confidence": "high",
+      "evidence_pages": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "sir_id": "11701/2022",
+      "report_date": "2022-04-24",
+      "incident_date": "2022-04-18",
+      "location_details": "Islet in Evros River GRC side",
+      "where_clear": "Islet in Evros River, Greek side of the border, near Didymoteicho",
+      "location_text_raw": "Islet in Evros River GRC side",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Islet in Evros River near Didymoteicho, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific islet not named, but general area is clear.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Frontex received repeated alerts regarding groups of migrants stranded on islets in the Evros River. One report from Watch the Med on 18/04/2022 indicated 37 migrants (20 men, 5 women, 12 children), including some needing urgent medical attention, stranded near Didymoteicho.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "37 migrants (20 men, 5 women and 12 children) incl. some needing urgent medical attention stranded at",
+      "confidence": "high",
+      "evidence_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "12288/2022",
+      "report_date": "2022-06-03",
+      "incident_date": "2022-05-27",
+      "location_details": "Islet in Evros river, Greek side of border",
+      "where_clear": "Islet in Evros River, Greek side of the border, near Didymoteicho",
+      "location_text_raw": "Didymoteicho, Evros, Greece",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Islet in Evros River near Didymoteicho, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific islet not named, but general area is clear.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Human Rights360 alerted about 94 persons stranded on an islet in the Evros River, including women, elderly, a disabled person, and at least twenty children. The European Court of Human Rights decided on interim measures for 93 migrants. A video was sent to Frontex showing three adults on a sandy beach communicating with soldiers across the river.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "94 persons stranded on an islet in Evros river",
+      "confidence": "high",
+      "evidence_pages": [
+        10,
+        11
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

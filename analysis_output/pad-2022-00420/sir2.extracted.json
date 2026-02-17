@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2022-00420/sir2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:51:44.236224+00:00",
+  "records": [
+    {
+      "sir_id": "11780/2022",
+      "report_date": "2022-07-13",
+      "incident_date": "2022-04-16",
+      "location_details": "A migrant was allegedly transferred from Montenegro to Albania, detained in Albanian territory, and then transported by Albanian police to the Albanian-Greek border, near Ktismata, Greece, where they were instructed to irregularly cross into Greece. The migrant was subsequently stopped by Greek authorities near Ktismata and transported to Delvinaki A, Greece. The migrant had previously been in a refugee camp in Ušivak, Bosnia and Herzegovina.",
+      "where_clear": "Albanian-Greek border near Ktismata, Greece, following transfer from Montenegro and detention in Albania.",
+      "location_text_raw": "Montenegro, Albanian territory, Albanian - Greek border, Ktismata, Delvinaki A, Greece, Bosnia and Herzegovina, Ušivak refugee camp",
+      "country_or_area": "Albania, Greece, Montenegro, Bosnia and Herzegovina",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Albanian-Greek border near Ktismata, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A migrant was allegedly transferred from Montenegro to Albania, detained, and then transported by Albanian police to the Albanian-Greek border on 16/04/2022, where they were instructed to irregularly cross into Greece. The veracity of the specific allegation could not be established, but it is consistent with other similar reports.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "SIR 11780/2022 alleges that the Albanian authorities transported a migrant to the border with Greece and instructed him to cross it. The veracity of this allegation could not be established.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

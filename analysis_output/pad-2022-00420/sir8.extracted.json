@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2022-00420/sir8.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:54:18.692249+00:00",
+  "records": [
+    {
+      "sir_id": "10941/2022",
+      "report_date": "2022-07-13",
+      "incident_date": "2022-03-01",
+      "location_details": "A group of seven migrants was allegedly transported by Albanian authorities to the vicinity of the Kakavia border crossing point on the Albanian side, where they were shown a path to cross to Greece. They were later spotted on the Greek side of the border crossing point.",
+      "where_clear": "Kakavia border crossing point (Albania/Greece border)",
+      "location_text_raw": "border crossing point Kakavia by the Albanian police where they were shown to follow a path to cross to Greece territory.",
+      "country_or_area": "Albania/Greece border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia border crossing point",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The exact point of crossing is not specified, only 'near border crossing point Kakavia'. The timelines and specific locations of apprehension within Albania are inconsistent between migrant and Albanian authority accounts, making it difficult to establish the full veracity for this specific group.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A group of seven migrants was allegedly transported by Albanian authorities to the border with Greece and instructed to cross irregularly. While the veracity of this specific allegation could not be fully established due to inconsistent timelines and limited information, the Fundamental Rights Office notes its consistency with other Serious Incident Reports and considers the general allegations of such practices credible.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "SIR 10941/2022 alleges that Albanian authorities transported migrants to the border with Greece and encouraged them to cross.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

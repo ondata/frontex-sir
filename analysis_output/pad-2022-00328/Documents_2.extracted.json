@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2022-00328/Documents_2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:32:14.200526+00:00",
+  "records": [
+    {
+      "sir_id": "10723/2022",
+      "report_date": "2022-02-22",
+      "incident_date": "2022-02-21",
+      "location_details": "Text removed - Operational Area",
+      "where_clear": "Incident occurred in an operational area at sea, location redacted.",
+      "location_text_raw": "Latitude: Text removed - Operational Area, Longitude: Text removed - Operational Area, Location details: Text removed - Operational Area",
+      "country_or_area": "Operational Area (Sea)",
+      "location_type": "sea",
+      "precision_level": "unknown",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Location details are redacted as 'Text removed - Operational Area'.",
+      "dead_confirmed": 1,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "571 migrants were carried on board two vessels (one Frontex asset, one non-Frontex asset). One corpse and one medevac case due to severe spleen pain were reported. The incident occurred in an operational area at sea.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "nr.331 migrants plus nr. 1 corpse in position Text Removed - Operational Area (276 male, 12 female and 43 minor); - nr. 240 migrants in position Text Removed - Operational Area (all male, 16 minor). - nr. 1 Medevac case due to severe spleen pain on Text removed - Technical Equipment (No Frontex asset) is sailing towards Text Removed - Operational Area",
+      "confidence": "low",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

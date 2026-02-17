@@ -1,0 +1,67 @@
+{
+  "source_file": "pdfs/pad-2023-00266/PAD-2023-00266_point_4.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:03:57.082470+00:00",
+  "records": [
+    {
+      "sir_id": "11324/2023",
+      "report_date": "2023-04-21",
+      "incident_date": "2022-05-31",
+      "location_details": "Migrant attempted to reach Bulgaria from Türkiye, was in Bulgaria, then pushed back to the Turkish border. Incident occurred at the border with Turkey in the area of responsibility of Bulgarian Border Police.",
+      "where_clear": "Bulgarian border with Turkey",
+      "location_text_raw": "Bulgaria on 31 May or 1 June 2022",
+      "country_or_area": "Bulgaria-Turkey border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria-Turkey border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific point on the border is not identified.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Excessive use of force",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Use of service dogs",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Pushback",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Unethical behaviour",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A migrant alleged being severely beaten, bitten by service dogs, and pushed back from Bulgaria to Türkiye by Bulgarian border police. The incident involved approximately 10 migrants. Bulgarian authorities later stated that the allegations were not confirmed and no data was found for unethical behaviour or pushbacks/excessive force.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "According to a statement of a migrant he was severely beaten and got bitten by service dogs during his attempt to reach Bulgaria from Türkiye to where he was subsequently pushed back.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

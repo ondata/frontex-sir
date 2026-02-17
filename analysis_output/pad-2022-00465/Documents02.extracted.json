@@ -1,0 +1,296 @@
+{
+  "source_file": "pdfs/pad-2022-00465/Documents02.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:58:41.774119+00:00",
+  "records": [
+    {
+      "sir_id": "14128/2022",
+      "report_date": "2022-08-15",
+      "incident_date": null,
+      "location_details": "A Frontex Standing Corps Officer deployed to the Bulgarian border with Turkey (JO Terra 2022, operational area)",
+      "where_clear": "Bulgarian border with Turkey",
+      "location_text_raw": "Bulgarian border with Turkey (JO Terra 2022, operational area)",
+      "country_or_area": "Bulgaria-Turkey border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria-Turkey border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "art. 1 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Allegations of systematic so-called pushbacks and excessive use of force by Bulgarian authorities, based on informal conversations with ten (10) Bulgarian Border Guard Officers, not personally witnessed by the reporting person.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Allegations of systematic so-called pushbacks and excessive use of force by Bulgarian authorities.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "sir_id": "10585/2022",
+      "report_date": "2022-02-11",
+      "incident_date": "2022-02-09",
+      "location_details": "Bulgaria Operational Area, JO Terra 2022",
+      "where_clear": "Bulgaria, JO Terra 2022 operational area",
+      "location_text_raw": "Bulgaria Operational Area",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details are heavily redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Code of Conduct Violation and inappropriate behaviour of SC",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Inappropriate behaviour and violation of the Code of Conduct by BGO 3, including drinking and driving, offensive behaviour towards colleagues, and consuming alcohol in uniform.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "inappropriate behaviour and violation of the Code of Conduct by drinking and driving of BGO 3",
+      "confidence": "low",
+      "evidence_pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "sir_id": "11009/2022",
+      "report_date": "2022-03-08",
+      "incident_date": "2022-03-08",
+      "location_details": "BCP [redacted] JO Terra 2022 Operation area",
+      "where_clear": "Bulgaria, JO Terra 2022 operational area, Border Crossing Point",
+      "location_text_raw": "BCP [redacted] JO Terra 2022 Operation area",
+      "country_or_area": "Bulgaria",
+      "location_type": "facility",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific BCP location is redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "rights of the child",
+          "legal_basis": "Article 24, Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "obligation to ensure primary consideration of best interests of the child",
+          "legal_basis": "Article 24 paragraph 2",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "right to respect for private and family life",
+          "legal_basis": "Article 8, European Convention on Human Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Flawed assessment of best interests of a child reported missing by Bulgarian border guards, leading to the escape of a father with said child during second line check.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "flawed assessment of best interests of a child reported missing by Bulgarian border guards",
+      "confidence": "low",
+      "evidence_pages": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "sir_id": "11760/2022",
+      "report_date": "2022-04-28",
+      "incident_date": "2022-04-18",
+      "location_details": "in a forest in Bulgaria after crossing irregularly the Turkey-Bulgaria border",
+      "where_clear": "Forest in Bulgaria near the Turkey-Bulgaria border",
+      "location_text_raw": "in a forest in Bulgaria after crossing irregularly the Turkey-Bulgaria border",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "forest near Bulgaria-Turkey border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 2,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life - obligation to take steps to prevent avoidable losses of life",
+          "legal_basis": "art. 2 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Group of 10 migrants, 2 deceased due to cold weather and exhaustion after being told to wait in a forest refuge by Bulgarian authorities. Allegations of pushbacks.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "two migrants (...) died. Authorities never returned and the group continued journey on 21/04/2022, leaving the deceased at the forest refuge.",
+      "confidence": "high",
+      "evidence_pages": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "sir_id": "12819/2022",
+      "report_date": "2022-07-07",
+      "incident_date": null,
+      "location_details": "irregularly crossed the border from Turkey to Bulgaria in the vicinity of a Turkish village with reported name [redacted]",
+      "where_clear": "Bulgaria-Turkey border, near a Turkish village",
+      "location_text_raw": "irregularly crossed the border from Turkey to Bulgaria in the vicinity of a Turkish village with reported name [redacted]",
+      "country_or_area": "Bulgaria-Turkey border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria-Turkey border near a Turkish village",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Turkish village name is redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "human dignity",
+          "legal_basis": "art. 1 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "right to life",
+          "legal_basis": "art. 2 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Group of 24 migrants attacked by police/military with rifles and service dog after crossing border from Turkey to Bulgaria. Several migrants bitten, at least one severely injured. No medical assistance provided. Group rounded up and sent back to Turkey on foot.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Officers carried rifles and as the migrant group dispersed, a dog handler set the service dog on them. Several migrants were bitten by the dog, at least one of them sustained severe injuries.",
+      "confidence": "high",
+      "evidence_pages": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "sir_id": "13800/2022",
+      "report_date": "2022-09-02",
+      "incident_date": "2022-08-24",
+      "location_details": "Bulgaria-Greece green border",
+      "where_clear": "Bulgaria-Greece green border",
+      "location_text_raw": "Bulgaria-Greece green border",
+      "country_or_area": "Bulgaria-Greece border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria-Greece border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "Article 1 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Group of 10 migrants apprehended in Bulgaria after crossing from Greece. Allegations of forced undressing, confiscation of phones, beatings with sticks, and forced return to Greece by Bulgarian police.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Some of the migrants declared they were forced to take off their shoes and clothes and that their mobile phones were taken by Bulgarian police officers. Some of the migrants were allegedly beaten with sticks by Bulgarian police officers.",
+      "confidence": "high",
+      "evidence_pages": [
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ],
+  "dead_confirmed_total": 2,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

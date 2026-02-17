@@ -1,0 +1,133 @@
+{
+  "source_file": "pdfs/pad-2022-00332/Documents_2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:34:43.661800+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": "2022-04-18",
+      "incident_date": null,
+      "location_details": "37 refugees are stranded and in need of help on an island in the river of Evros close to Didymoteicho. Their GPS position is: 41.327094,26.509524. They are 20 men, 5 women and 12 children. There are several sick people and children and according to the people one person has passed out. They are in need of international protection and seek to apply for asylum in Greece.",
+      "where_clear": "Island in Evros river near Didymoteicho, Greece",
+      "location_text_raw": "at an island in the river of Evros close to Didymoteicho. Their position is: 41.327094,26.509524",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "41.327094,26.509524 Evros river island near Didymoteicho, Greece",
+      "lat": 41.327094,
+      "lon": 26.509524,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 1,
+      "dead_possible_max": 1,
+      "possible_violations": [],
+      "context_note": "37 refugees (20 men, 5 women, 12 children) stranded on an island in Evros river. Several sick people and children. One person allegedly passed out. Seeking international protection and asylum in Greece.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "We received an SOS from 37 refugees who are at an island in the river of Evros close to Didymoteicho. Their position is: 41.327094,26.509524 ... according to the people one person has passed out.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "sir_id": "11349/2022",
+      "report_date": "2022-03-30",
+      "incident_date": "2022-03-29",
+      "location_details": "Group of 25 asylum seekers (19 adults: 4 women, 15 men; 6 minors: 5 boys, 1 girl), Syrian nationals, stranded on an islet in the Evros river on Greek territory near Petrades/Praggi, around 10km from Didymoteicho. GPS: 41.327861, 26.598361 (from 41°19'40.3\"N 26°35'54.1\"E). They are cold, need food and water. Cars and drones observed on Greek and Turkish sides without interaction. Seeking international protection and asylum in Greece. Interim measures filed at ECtHR.",
+      "where_clear": "Islet in Evros river near Petrades/Praggi, Greece",
+      "location_text_raw": "on islet in Evros river on Greek territory. The exact location we have at this moment (March 30, 11.58am) is 41°19'40.3\"N 26°35'54.1\"E",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "41.327861,26.598361 Evros river islet near Petrades/Praggi, Greece",
+      "lat": 41.327861,
+      "lon": 26.598361,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "25 asylum seekers (19 adults, 6 minors) from Syria stranded on an Evros river islet. Observed by Greek and Turkish authorities without direct interaction. Group is cold, needs food and water. Seeking asylum. Interim measures filed at ECtHR.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "11349/2022 - Notification - Group of 25 asylum seekers allegedly stranded on islet in Evros river on Greek territory. This group consists of 25 people, among them 19 adults (4 women and 15 men) and 6 minors between the age of 4 and 17 years old (5 boys, one girl). ... The exact location we have at this moment (March 30, 11.58am) is 41°19'40.3\"N 26°35'54.1\"E",
+      "confidence": "high",
+      "evidence_pages": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "sir_id": "12137/2022",
+      "report_date": "2022-05-25",
+      "incident_date": "2022-05-27",
+      "location_details": "94 refugees on an islet in the Evros river, Greece. GPS: 41.327861, 26.598361 (from https://goo.gl/maps/VUunCvaXpHtkaW4z5). The group includes minors, sick people, and a disabled man. Communication was lost on the morning of May 27, 2022. Relatives reported that masked, Greek-speaking and Arabic-speaking individuals violently attacked the refugees and pushed them back to Turkey. Refugees were subsequently arrested by Turkish authorities and threatened with pushback to Syria. ECtHR had issued interim measures ordering non-removal and provision of aid.",
+      "where_clear": "Islet in Evros river, Greece",
+      "location_text_raw": "νησίδα του ποταμού Έβρου. https://goo.gl/maps/VUunCvaXpHtkaW4z5",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "41.327861,26.598361 Evros river islet, Greece",
+      "lat": 41.327861,
+      "lon": 26.598361,
+      "uncertainty_note": "The provided Google Maps link resolves to the same coordinates as SIR 11349/2022, suggesting the location is identical or very close. The number of people has increased from 25 to 94.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Violent attack",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Pushback to Turkey",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Threatened with pushback to Syria",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Non-compliance with ECtHR interim measures",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "94 refugees (including vulnerable individuals) on an Evros river islet. ECtHR ordered non-removal and aid. Alleged violent pushback by masked individuals to Turkey, followed by arrest and threat of pushback to Syria by Turkish authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "ΑΠΟΦΑΣΗ ΕΥΡΩΠΑΪΚΟΥ ΔΙΚΑΣΤΗΡΙΟΥ/ ΑΣΦΑΛΙΣΤΙΚΑ ΜΕΤΡΑ ΓΙΑ ΤΟΥΣ ΑΠΟΚΛΕΙΣΜΕΝΟΥΣ 94 ΠΡΟΣΦΥΓΕΣ ΣΤΗ ΝΗΣΙΔΑ ΤΟΥ ΕΒΡΟΥ. ... Με τους προσφεύγοντες στο ΕΕΔΑ χάσαμε την επικοινωνία το βράδυ, ξημερώματα της σημερινής ημέρας, 27.5.2022. ... ομάδες κουκουλοφόρων και αραβόφωνους επίσης συνεργάτες τους εισήλθαν στη νησίδα και αφού επιτέθηκαν βιαίως στους πρόσφυγες, τους επαναπροώθησαν στην Τουρκία.",
+      "confidence": "high",
+      "evidence_pages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 1,
+  "dead_possible_total_max": 1,
+  "records_invalid_skipped": 0
+}

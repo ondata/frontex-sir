@@ -1,0 +1,363 @@
+{
+  "source_file": "pdfs/pad-2023-00450/SIR_Albania_2022_part_2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:10:01.738106+00:00",
+  "records": [
+    {
+      "sir_id": "11780/2022",
+      "report_date": "2022-07-13",
+      "incident_date": "2022-04-16",
+      "location_details": "Albanian - Greek border; BCU Delvinaki A, Greece; Ktismata",
+      "where_clear": "Albanian-Greek border near Delvinaki A, Greece",
+      "location_text_raw": "Albanian - Greek border",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Albanian-Greek border near Delvinaki A, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "SIR 11780/2022 alleges that the Albanian authorities transported a migrant to the border with Greece and instructed him to cross it. The veracity of this allegation could not be established. Nonetheless, the allegation regarding the transport and instruction of the migrant by Albanian authorities to cross the border to Greece is consistent with similar events described in several other SIRs giving rise to concerns about the potential treatment of migrants by Albanian authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "migrant was transported by the Albanian police to the Albanian - Greek border and was instructed to irregularly cross it.",
+      "confidence": "medium",
+      "evidence_pages": [
+        3
+      ]
+    },
+    {
+      "sir_id": "12332/2022",
+      "report_date": "2022-08-19",
+      "incident_date": "2022-06-03",
+      "location_details": "near the border between Albania and Greece; BCU Kapshtice; Trestenik",
+      "where_clear": "Albanian-Greek border near Kapshtice and Trestenik",
+      "location_text_raw": "near the border between Albania and Greece",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Albanian-Greek border near Kapshtice, Trestenik",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Article 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "SIR 12332/2022 alleges that Albanian authorities transported a group of twelve migrants to the border and escorted them on foot until they crossed the border to Greece, while threatening the use of force. The veracity of this action was established and confirmed by the Albanian authorities, which have subsequently investigated and taken disciplinary measures against the four implicated police officers.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Albanian authorities transported a group of twelve migrants to the border and escorted them on foot until they crossed the border to Greece, while threatening the use of force.",
+      "confidence": "high",
+      "evidence_pages": [
+        5
+      ]
+    },
+    {
+      "sir_id": "10548/2022",
+      "report_date": "2022-07-13",
+      "incident_date": "2022-02-05",
+      "location_details": "Albanian territory; detention centre; abandoned area 5 minutes' walk close to the BCP; Greece",
+      "where_clear": "Albanian-Greek border",
+      "location_text_raw": "Albanian territory",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific locations are redacted, making precise geocoding impossible.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to human dignity",
+          "legal_basis": "Article 1 of the EU Charter of Fundamental Rights - \"the EU Charter\"",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to integrity of the person",
+          "legal_basis": "Article 3 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of torture and inhuman or degrading treatment or punishment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "Article 18 of EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "Article 19 (2) of EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Fundamental rights",
+          "legal_basis": "Article 4 - Frontex Code of Conduct",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Responsibility",
+          "legal_basis": "Article 7 - Frontex Code of Conduct",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Behavioural standards",
+          "legal_basis": "Article 10 (a) - Frontex Code of Conduct",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of abuse of authority and position",
+          "legal_basis": "Article 11 - Frontex Code of Conduct",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Excessive use of force",
+          "legal_basis": "Article 18 (3) - Frontex Code of Conduct",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "FRO considers that the alleged facts could amount to serious breaches of the Frontex Code of Conduct and fundamental rights violations. Furthermore, FRO does not consider the information provided by the Albanian authorities to be sufficient to corroborate or refute the alleged facts of the case provided in the report.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Albanian authorities brought them to an abandoned area [...] 5 minutes' walk close to the BCP, and then pushed him back to Greece.",
+      "confidence": "low",
+      "evidence_pages": [
+        8
+      ]
+    },
+    {
+      "sir_id": "12480/2022",
+      "report_date": "2022-12-22",
+      "incident_date": "2022-06-14",
+      "location_details": "Albanian-Greek border; same area (as previous apprehension); near the village [redacted]",
+      "where_clear": "Albanian-Greek border",
+      "location_text_raw": "Albanian-Greek border",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific locations are redacted, making precise geocoding impossible.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "While the Fundamental Rights Office was not able to conclusively establish the alleged facts raised in the present SIR, in particular allegations pertaining to a possible kick, the Office notes with concern the similarity of allegations to those in a number of SIRs about migrants being escorted to the border with Greece.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "an instance of potential use of excessive force by the Albanian officer in form of a kick.",
+      "confidence": "low",
+      "evidence_pages": [
+        12
+      ]
+    },
+    {
+      "sir_id": "12816/2022",
+      "report_date": "2022-11-14",
+      "incident_date": "2022-06-17",
+      "location_details": "Albanian territory; area of [redacted]; Greek border; Kakavia; Delvinaki (Greece)",
+      "where_clear": "Albanian-Greek border near Kakavia",
+      "location_text_raw": "Albanian territory",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Albanian-Greek border near Kakavia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 4 of Protocol no. 4 to the European Convention on Human Rights hereinafter ECHR",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the ECHR",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "Article 13 of the ECHR taken in conjunction with Article 3 of the ECHR and Article 4 of Protocol No. 4 to the ECHR.",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "While the Fundamental Rights Office was not able to conclusively establish the alleged facts raised in the present SIR, the Office notes with concern their consistency with other similar allegations of pushback reported in a number of Serious Incident Reports over the past months.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "they were allegedly forced to take the path leading to the Greek border by Albanian Police officers.",
+      "confidence": "medium",
+      "evidence_pages": [
+        16
+      ]
+    },
+    {
+      "sir_id": "12941/2022",
+      "report_date": "2022-11-23",
+      "incident_date": "2022-06-21",
+      "location_details": "border line between Albania and Greece; police station; Greek border; Delvinaki (Greece); Kakavia BCU",
+      "where_clear": "Albanian-Greek border near Kakavia BCU",
+      "location_text_raw": "border line between Albania and Greece",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Albanian-Greek border near Kakavia BCU",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 4 of Protocol no. 4 to the European Convention on Human Rights hereinafter ECHR",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the ECHR",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "Article 13 of the ECHR taken in conjunction with Article 3 of the ECHR and Article 4 of Protocol No. 4 to the ECHR.",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "While the Fundamental Rights Office was not able to conclusively establish the alleged facts raised in the present SIR, the Office notes with concern consistency of alleged facts with other similar allegations of pushback reported in a number of SIRs over the past months.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Albanian police officers had forced them to take the path leading to the Greek border",
+      "confidence": "medium",
+      "evidence_pages": [
+        19
+      ]
+    },
+    {
+      "sir_id": "13269/2022",
+      "report_date": "2022-11-23",
+      "incident_date": "2022-07-23",
+      "location_details": "Albanian territory; unknown location, possibly near [redacted]; Greek border; Delvinaki (Greece); Kakavia BCU",
+      "where_clear": "Albanian-Greek border near Kakavia BCU",
+      "location_text_raw": "Albanian territory",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific locations are redacted, making precise geocoding impossible.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 4 of Protocol no. 4 to the European Convention on Human Rights hereinafter ECHR",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the ECHR",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "Article 13 of the ECHR taken in conjunction with Article 3 of the ECHR and Article 4 of Protocol No. 4 to the ECHR.",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to property",
+          "legal_basis": "Article 17 of the Charter of Fundamental Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "While the Fundamental Rights Office was not able to conclusively establish the alleged facts raised in the present SIR, the Office notes with concern their consistency with other similar allegations of pushback reported in a number of SIRs over the past months.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "law enforcement officers checked their belongings and stole 300 EUR from them.",
+      "confidence": "low",
+      "evidence_pages": [
+        22
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

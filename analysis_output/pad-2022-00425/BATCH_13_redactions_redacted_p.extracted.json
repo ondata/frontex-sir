@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2022-00425/BATCH_13_redactions_redacted_p.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:54:56.478067+00:00",
+  "records": [
+    {
+      "sir_id": "13810/2021",
+      "report_date": "2021-10-11",
+      "incident_date": "2021-08-29",
+      "location_details": "Migrants crossed the Lithuanian border from Belarus in the area of Tverečius, Utenos Apskritis, Lithuania. They were stuck between Lithuanian and Belarusian border guards, experiencing multiple pushbacks and threats.",
+      "where_clear": "Tverečius, Utenos Apskritis, Lithuania, near the Lithuanian-Belarusian border",
+      "location_text_raw": "Tverečius, Utenos Apskritis, Lithuania",
+      "country_or_area": "Lithuania",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Tverečius, Utenos Apskritis, Lithuania",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Violation of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A group of migrants crossed the Lithuanian border from Belarus, were pushed back by Lithuanian border guards, threatened by Belarusian guards, and later arrested by Lithuanian guards after multiple attempts to cross. A potential violation of fundamental rights was noted during interviews.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "they were stopped and pushed back by Lithuanian border guards and asked to return to Belarus. Later, the Belarusian border guards threatened them and forced them to go back to Lithuania.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

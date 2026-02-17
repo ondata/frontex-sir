@@ -1,0 +1,200 @@
+{
+  "source_file": "pdfs/pad-2022-00419-documents-1/pad-2022-00419-documents-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:44:57.766953+00:00",
+  "records": [
+    {
+      "sir_id": "12084/2022",
+      "report_date": "2022-09-20",
+      "incident_date": "2022-05-07",
+      "location_details": "Sea area of Samos Island, inside Greek territorial waters, near Turkish Territorial Waters.",
+      "where_clear": "Sea area of Samos Island, inside Greek territorial waters, near Turkish Territorial Waters.",
+      "location_text_raw": "Samos Island, inside HTW",
+      "country_or_area": "Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Sea area of Samos Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates are redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Threat to right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "violations of human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office takes note of the statement by the Greek authorities according to which the migrant boat altered its course and proceeded to the Turkish Territorial Waters to avoid interception. Considering the sea-worthy nature of the migrant boat, its high speed and previous attempts to avoid interception as reported by the crew, the Fundamental Rights Office finds that a voluntary alteration of course to the Turkish Territorial Waters is possible. At the same time, the Fundamental Rights Office took good note of the statement of the crew according to which the HCG had performed dangerous manoeuvres upon arrival onsite putting at risk the migrants. The Office had enquired about specific measures taken with the Greek authorities but did not obtain any information in this regards.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The reports of the Frontex deployed [redacted] and the HCG on the same incident raised questions as to what happened to a migrant boat with approx. 30 migrants.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "sir_id": "12584/2022",
+      "report_date": "2022-10-18",
+      "incident_date": null,
+      "location_details": "Samos, Chios, Leros (Greek islands), Evros",
+      "where_clear": "Multiple locations in Greece: Samos, Chios, Leros islands, and Evros river region.",
+      "location_text_raw": "Samos, Chios, Leros (Greek islands), Evros",
+      "country_or_area": "Greece",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Samos, Chios, Leros, Evros, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Multiple incidents across various locations and dates from 2020-2022.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "human dignity",
+          "legal_basis": "article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "right to life",
+          "legal_basis": "article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": "article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A migrant orally reported to a Fundamental Rights Monitor multiple pushbacks by Greek authorities and masked men when attempting to reach Greece over a timespan from 2020-2022 in the Samos, Chios, Leros and Evros regions. The reporting person was able to provide details on some of the attempts such as the numbers of vessels used by the authorities to bring him out to sea after landing on Chios and Leros on two occasions.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A migrant orally reported to a Fundamental Rights Monitor multiple pushbacks by Greek authorities and masked men when attempting to reach Greece over a timespan from 2020-2022 in the Samos, Chios, Leros and Evros regions.",
+      "confidence": "medium",
+      "evidence_pages": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "sir_id": "13830/2022",
+      "report_date": "2022-09-03",
+      "incident_date": "2022-09-02",
+      "location_details": "Greece",
+      "where_clear": "Sea area near Greece, involving Turkish Territorial Waters.",
+      "location_text_raw": "Greece",
+      "country_or_area": "Greece",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Aegean Sea near Greece and Turkey",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates and operating area are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A TCG patrol boat entered Hellenic Territorial Waters (HTW) and approached [redacted] performing dangerous manoeuvres. The described actions undertaken by the Turkish Coast Guard during the incident do not respect any coast guard protocols, nor maritime behavioural standards, which can be considered as a provocative behaviour.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "TCG patrol boat entered HTW and approached [redacted] performing dangerous manoeuvres.",
+      "confidence": "high",
+      "evidence_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "sir_id": "12603/2022",
+      "report_date": "2022-09-21",
+      "incident_date": "2022-06-15",
+      "location_details": "Sea area near an island inside Hellenic Territorial Waters, near Samos.",
+      "where_clear": "Sea area near Samos island, inside Greek Hellenic Territorial Waters, near Turkish Territorial Waters.",
+      "location_text_raw": "sea area [redacted] island inside Hellenic Territorial Waters",
+      "country_or_area": "Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Sea area of Samos Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates are redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Threat to right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "violations of human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A boat with 8 migrants was intercepted in the sea area near an island inside Hellenic Territorial Waters. The migrants later ended up in Turkish Territorial Waters. The Fundamental Rights Office cannot exclude the possibility that migrants voluntarily moved to Turkish Territorial Waters to avoid interception, but notes the boat was stationary at handover and did not attempt to flee.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Based on information by the Greek Land Observatory, [redacted] at the sea area [redacted] island inside Hellenic Territorial Waters, a boat with 8 migrants was intercepted, on 15/06/2022 at [redacted] and handed over the incident in form of a stationary migrant boat to the Hellenic Coast Guard.",
+      "confidence": "medium",
+      "evidence_pages": [
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

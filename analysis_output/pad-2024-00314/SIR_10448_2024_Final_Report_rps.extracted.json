@@ -1,0 +1,62 @@
+{
+  "source_file": "pdfs/pad-2024-00314/SIR_10448_2024_Final_Report_rps.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:15:25.247305+00:00",
+  "records": [
+    {
+      "sir_id": "10448/2024",
+      "report_date": "2024-06-11",
+      "incident_date": "2024-01-12",
+      "location_details": "Apprehension and mistreatment by Serbian police occurred in Serbia, near the border with Bulgaria, after migrants crossed from Bulgaria. The migrants were then forced to return to Bulgaria.",
+      "where_clear": "Serbia-Bulgaria border area",
+      "location_text_raw": "forest close to the Serbia-Bulgaria border",
+      "country_or_area": "Serbia",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia-Bulgaria border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": 2,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol No 4 to the European Convention on Human Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Protection of property",
+          "legal_basis": "Article 1 of Protocol No 1 to the European Convention on Human Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Two migrants, after crossing from Bulgaria to Serbia, were apprehended by Serbian police on 12/01/2024. They were allegedly physically mistreated, had their belongings confiscated, were forced to remove clothes, and then informally returned to Bulgaria. The Fundamental Rights Office (FRO) considers it likely that these events occurred, despite Serbian authorities denying any registered incident and suggesting injuries could be from smugglers. The FRO recommends independent investigations and improved monitoring.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Office considers likely that two persons were apprehended by the Serbian police, physically ill-treated, that their personal belongings and clothes were removed and that they were informally returned to Bulgaria.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 2,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

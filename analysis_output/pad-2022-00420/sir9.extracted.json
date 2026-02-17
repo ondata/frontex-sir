@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2022-00420/sir9.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:54:36.414707+00:00",
+  "records": [
+    {
+      "sir_id": "10942/2022",
+      "report_date": "2022-05-12",
+      "incident_date": "2022-03-02",
+      "location_details": "Migrants were allegedly transported by Albanian authorities to a location near BCP Kakavia on the Albanian side and instructed to cross into Greece. The incident occurred at the Albanian-Greek border, specifically around the Kakavia Border Crossing Point.",
+      "where_clear": "Kakavia Border Crossing Point, Albania/Greece border",
+      "location_text_raw": "BCP Kakavia",
+      "country_or_area": "Albania/Greece border",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia Border Crossing Point",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Migrants claimed they were apprehended by Albanian authorities 20 km from Tirana, brought to a police station near Kakavia, and then transported to a location near BCP Kakavia on 02.03.2022. They were allegedly shown a path to cross into Greece and released. They reached the Greek side of the BCP on 03.03.2022. Frontex could not establish if a fundamental rights violation occurred due to limited information, but noted consistency with other similar allegations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Interviewed migrants claim to have been apprehended, brought to a police station and later transported to a place near BCP Kakavia by the Albanian police where they were shown to follow a path to cross to Greece territory.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

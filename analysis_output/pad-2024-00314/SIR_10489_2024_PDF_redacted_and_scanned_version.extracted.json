@@ -1,0 +1,42 @@
+{
+  "source_file": "pdfs/pad-2024-00314/SIR_10489_2024_PDF_redacted_and_scanned_version.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:15:43.522333+00:00",
+  "records": [
+    {
+      "sir_id": "10489/2024",
+      "report_date": "2024-02-05",
+      "incident_date": "2024-02-05",
+      "location_details": null,
+      "where_clear": "Serbia",
+      "location_text_raw": "Serbia,",
+      "country_or_area": "Serbia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "Unknown people wrote with a black marker slogans like \"ACAB\", \"Abolish Frontex\", \"Get out of Serbia you racists!\". The writings can be removed. There was no material damage left.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Today at that unknown people wrote with a black marker slogans like \"ACAB\", \"Abolish Frontex\", \"Get out of Serbia you racists!\", According the writings can be removed. There was no material damage left.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

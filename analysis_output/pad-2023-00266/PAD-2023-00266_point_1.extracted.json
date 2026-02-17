@@ -1,0 +1,61 @@
+{
+  "source_file": "pdfs/pad-2023-00266/PAD-2023-00266_point_1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:02:31.440868+00:00",
+  "records": [
+    {
+      "sir_id": "11324/2023",
+      "report_date": "2023-06-15",
+      "incident_date": "2022-05-31",
+      "location_details": "Incident occurred at the border between Türkiye and Bulgaria, involving a crossing from Türkiye into Bulgaria and subsequent pushback to Türkiye.",
+      "where_clear": "Bulgaria-Türkiye border",
+      "location_text_raw": "crossing from Türkiye to Bulgaria",
+      "country_or_area": "Bulgaria-Türkiye border area",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria-Türkiye border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Incident date is approximate, stated as 'around 31 May/1 June 2022'.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "art. 1 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A migrant reported being severely beaten by Bulgarian Border Police and bitten by service dogs after crossing from Türkiye to Bulgaria, followed by a pushback. Photographic evidence of injuries was provided. Bulgarian authorities denied the allegations, stating no such cases were found. The Fundamental Rights Office considers the migrant's account credible but could not independently corroborate the event as described.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A migrant mentioned that he was severely beaten by Bulgarian Border Police officers and bitten by service dogs after crossing from Türkiye to Bulgaria. According to his testimony, he was subsequently pushed back.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

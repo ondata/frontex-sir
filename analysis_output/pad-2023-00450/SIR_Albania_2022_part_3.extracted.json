@@ -1,0 +1,62 @@
+{
+  "source_file": "pdfs/pad-2023-00450/SIR_Albania_2022_part_3.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:10:28.045688+00:00",
+  "records": [
+    {
+      "sir_id": "14006/2022",
+      "report_date": "2023-08-14",
+      "incident_date": "2022-06-04",
+      "location_details": "A Frontex member apprehended 2 migrants who had crossed a border river. The incident occurred in a river area, beyond the river, where the terrain was not easily accessible by car. The migrants were transported partially outside the vehicle, sometimes standing on the running board, across the riverbed to the main road.",
+      "where_clear": "Border river area, land, where migrants were apprehended after crossing a river.",
+      "location_text_raw": "crossed the border from [redacted]",
+      "country_or_area": "Border area",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific country and exact border location are redacted. Described as a 'river area' and 'border'.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A Frontex member was alleged to have endangered two migrants by transporting them partially outside a vehicle after they crossed a border river. The Fundamental Rights Office concluded that such an incident likely occurred, putting the migrants' health at risk. A video of the incident was reportedly shared and deleted. Systemic issues regarding reporting, protocols for precautionary measures, and data access were identified.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "two migrants were transported (partially) outside the car by a member of Frontex [...] The Office does not know the exact details of the event, which has likely put health of migrants transported at risk.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        4,
+        5,
+        7
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

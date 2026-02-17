@@ -1,0 +1,56 @@
+{
+  "source_file": "pdfs/pad-2024-00314/SIR_15946_2023_Final_Report_rps.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:16:06.248213+00:00",
+  "records": [
+    {
+      "sir_id": "15946/2023",
+      "report_date": "2024-05-13",
+      "incident_date": "2023-12-13",
+      "location_details": "A group of individuals was detected less than 1.5 kilometers from the Serbian border, near the Serbian-Bulgarian border. They reported being beaten by Serbian police.",
+      "where_clear": "Near the Serbian-Bulgarian border",
+      "location_text_raw": "less than 1,5 kilometer from the Serbian border",
+      "country_or_area": "Serbia-Bulgaria border area",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Serbian-Bulgarian border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 4,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 Protocol No 4 to the European Convention on Human Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office concludes it is likely that a group of four individuals was apprehended in Serbia by Serbian police, ill-treated, and had their money taken. It is further considered possible that the group was collectively expelled to Bulgaria.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office concludes as likely that a group of four individuals was apprehended in Serbia by the Serbian police, and subsequently ill-treated and had their money taken.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 4,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,69 @@
+{
+  "source_file": "pdfs/pad-2024-00377/SIR_12381-2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:21:03.244353+00:00",
+  "records": [
+    {
+      "sir_id": "12381/2024",
+      "report_date": "2024-06-12",
+      "incident_date": "2024-06-03",
+      "location_details": "JO Bulgaria Land 2024, Operational Area x4",
+      "where_clear": "Bulgaria, within the operational area of JO Bulgaria Land 2024",
+      "location_text_raw": "JO Bulgaria Land 2024",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location within the operational area is redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Violations of Codes of Conduct provisions",
+          "legal_basis": "art. 10, letter a), of Frontex Code of Conduct, sanctioned by art. 21 point 1.",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Breach of confidentiality rules",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Damaging the reputation of Frontex",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Creating a toxic work environment",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Misconduct of an Interpreter, including repeatedly arriving late to work, misbehaviour with local authorities and Team Members, possible breach of confidentiality rules, being outside the operational area during working hours, damaging Frontex's reputation, and creating a toxic work environment. The interpreter's actions impeded operational activities and Frontex core tasks.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Misconduct of an Interpreter, arriving late to work, misbehaviour with local authorities and Team Members",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

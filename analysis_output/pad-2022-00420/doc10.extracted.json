@@ -1,0 +1,47 @@
+{
+  "source_file": "pdfs/pad-2022-00420/doc10.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:46:19.080604+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": "2022-05-13",
+      "incident_date": "2022-05-03",
+      "location_details": "Pre-departure phase of a Compulsory Return Operation from France to Albania, involving transport to the plane.",
+      "where_clear": "Pre-departure phase in France, likely at an airport or holding facility in Lille.",
+      "location_text_raw": "Pre-departure",
+      "country_or_area": "France",
+      "location_type": "facility",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Lille, France",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific facility not named, but context points to Lille, France, as a key location for the operation's pre-departure phase.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "During the pre-departure phase of a Compulsory Return Operation from France to Albania, one returnee verbally resisted removal. Coercive measures, specifically a body cuff and leg cuff, were applied to facilitate transport to the plane before embarkation. These measures were later removed after a de-escalating conversation with Albanian escorts. The returnee was not aggressive.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Returnee did not communicate with the escorts and verbally refused to travel, so that he was transported to the plane before embarkation. (page 3, Summary) and 1.3 Phase of operation when measures were initially applied: Pre-departure (page 17) and Monitor observed one returnee, who verbally resisted to be removed although he was not aggressive. (page 5, 7.2) and b. Body cuff 03/05/2022, c. Leg cuff 03/05/2022 (page 19, 8.3).",
+      "confidence": "medium",
+      "evidence_pages": [
+        3,
+        5,
+        8,
+        17,
+        18,
+        19
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

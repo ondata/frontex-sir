@@ -1,0 +1,53 @@
+{
+  "source_file": "pdfs/pad-2022-00335/2020.05.01_Final_SIR__Report_11095.2020__final_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:40:28.613014+00:00",
+  "records": [
+    {
+      "sir_id": "11095/2020",
+      "report_date": "2020-04-30",
+      "incident_date": "2020-04-18",
+      "location_details": "Frontex Surveillance Aircraft's Sighting in Eastern Aegean, between the Greek and Turkish maritime border near the island of Lesvos. Incident inside Greek Territorial Waters (TW). Migrant boat sighted in vicinity of redacted area north of Lesvos. HCG patrol vessel observed in vicinity of redacted area. Rubber boat found adrift at 39°16′N 026°35′E. Rubber boat later landed safely on Turkish shores.",
+      "where_clear": "Eastern Aegean Sea, near Lesvos island, at 39.266667N 26.583333E",
+      "location_text_raw": "rubber boat has no engine and it is adrift at 39°16′N 026°35′E",
+      "country_or_area": "Eastern Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "39°16′N 026°35′E",
+      "lat": 39.266667,
+      "lon": 26.583333,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Violation of Fundamental Rights or international protection obligations",
+          "legal_basis": "principle of non-refoulment",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A Frontex surveillance aircraft sighted a migrant boat with 20-30 POB in the Eastern Aegean. Hellenic Coast Guard (HCG) and Turkish Coast Guard (TCG) vessels were in attendance. HCG took migrants on board, then later reloaded them onto the rubber boat, which was left adrift without an engine in Turkish Territorial Waters. This incident led to an allegation of possible violation of fundamental rights and the principle of non-refoulement.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "there is a strong believe that presented facts support an allegation of possible violation of Fundamental Rights or international protection obligations such as the principle of non-refoulment.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

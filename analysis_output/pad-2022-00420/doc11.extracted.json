@@ -1,0 +1,63 @@
+{
+  "source_file": "pdfs/pad-2022-00420/doc11.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:47:09.822300+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": "2022-10-21",
+      "incident_date": "2022-10-18",
+      "location_details": "The incident occurred during the pre-departure phase of a return operation from France to Albania, starting in a facility (implied cell) and continuing through transfer to the aircraft and at the airstairs of the departure airport.",
+      "where_clear": "At the departure airport in France, during pre-departure and transfer to aircraft.",
+      "location_text_raw": "During pre-departure, leaving his cell and boarding the transport to the aircraft, at the airstairs.",
+      "country_or_area": "France",
+      "location_type": "facility",
+      "precision_level": "approximate",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific airport in France not named.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Use of force and restraints",
+          "legal_basis": "Frontex Code of Conduct (2018), Art. 7.2",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Administration of sedatives",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A male returnee with a history of toxicomania refused to cooperate during the pre-departure phase of a return operation from France to Albania. Escorts applied bodily force, handcuffs, and leg cuffs to ensure his removal. Sedatives (methadone) were administered in consultation with a doctor due to his condition. The report concluded that the measures 'appeared in compliance with the criteria of legality, necessity and proportionality' and 'did not present any concerns in terms of fundamental rights'.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "During pre-departure, returnee refused repeatedly to cooperate... Following two attempts by the escorts to secure his cooperation including warnings that he would have to cooperate lest force be used... The doctor subsequently explained that methadone was given to him and that he then calmed down.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        13,
+        14
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

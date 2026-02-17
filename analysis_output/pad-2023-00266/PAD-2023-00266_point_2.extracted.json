@@ -1,0 +1,278 @@
+{
+  "source_file": "pdfs/pad-2023-00266/PAD-2023-00266_point_2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:03:27.160802+00:00",
+  "records": [
+    {
+      "sir_id": "12819/2022",
+      "report_date": "2023-06-01",
+      "incident_date": null,
+      "location_details": "Bulgaria to Türkiye border, involving excessive use of force through the use of service dogs.",
+      "where_clear": "Bulgaria-Türkiye border",
+      "location_text_raw": "pushbacks from Bulgaria to Türkiye",
+      "country_or_area": "Bulgaria-Türkiye border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria-Türkiye border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Pushbacks",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Excessive use of force (service dogs)",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Inhuman or degrading treatment",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Allegations of fundamental rights violations related to pushbacks from Bulgaria to Türkiye, specifically involving excessive use of force through the use of service dogs.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "5 cases contained explicit reference to violence (12819/2022, ... 11324/2023) - 2 of these (12819/2022 and 11324/2023) related to excessive use of force through the use of service dogs.",
+      "confidence": "high",
+      "evidence_pages": [
+        8
+      ]
+    },
+    {
+      "sir_id": "14128/2022",
+      "report_date": "2023-06-01",
+      "incident_date": null,
+      "location_details": "Bulgaria to Türkiye border, involving violence.",
+      "where_clear": "Bulgaria-Türkiye border",
+      "location_text_raw": "pushbacks from Bulgaria to Türkiye",
+      "country_or_area": "Bulgaria-Türkiye border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria-Türkiye border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Pushbacks",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Violence",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Inhuman or degrading treatment",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Allegations of fundamental rights violations related to pushbacks from Bulgaria to Türkiye, with explicit reference to violence.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "5 cases contained explicit reference to violence (12819/2022, 14128/2022, 15549/2022, 11324/2023)",
+      "confidence": "high",
+      "evidence_pages": [
+        8
+      ]
+    },
+    {
+      "sir_id": "15549/2022",
+      "report_date": "2023-06-01",
+      "incident_date": null,
+      "location_details": "Bulgaria to Türkiye border, involving violence.",
+      "where_clear": "Bulgaria-Türkiye border",
+      "location_text_raw": "pushbacks from Bulgaria to Türkiye",
+      "country_or_area": "Bulgaria-Türkiye border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria-Türkiye border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Pushbacks",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Violence",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Inhuman or degrading treatment",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Allegations of fundamental rights violations related to pushbacks from Bulgaria to Türkiye, with explicit reference to violence.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "5 cases contained explicit reference to violence (12819/2022, 14128/2022, 15549/2022, 11324/2023)",
+      "confidence": "high",
+      "evidence_pages": [
+        8
+      ]
+    },
+    {
+      "sir_id": "11324/2023",
+      "report_date": "2023-06-01",
+      "incident_date": null,
+      "location_details": "Bulgaria to Türkiye border, involving excessive use of force through the use of service dogs.",
+      "where_clear": "Bulgaria-Türkiye border",
+      "location_text_raw": "pushbacks from Bulgaria to Türkiye",
+      "country_or_area": "Bulgaria-Türkiye border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria-Türkiye border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Pushbacks",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Excessive use of force (service dogs)",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Inhuman or degrading treatment",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Allegations of fundamental rights violations related to pushbacks from Bulgaria to Türkiye, specifically involving excessive use of force through the use of service dogs.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "5 cases contained explicit reference to violence (12819/2022, ... 11324/2023) - 2 of these (12819/2022 and 11324/2023) related to excessive use of force through the use of service dogs.",
+      "confidence": "high",
+      "evidence_pages": [
+        8
+      ]
+    },
+    {
+      "sir_id": "13856/2022",
+      "report_date": "2023-06-01",
+      "incident_date": "2022-08-24",
+      "location_details": "Bulgarian border, where 2 Frontex [redacted] apprehended an unaccompanied minor and handed over to Bulgarian border police. Bulgarian authorities later claimed the minor was never in their care.",
+      "where_clear": "Bulgarian border",
+      "location_text_raw": "On 24 August 2022, 2 Frontex [redacted] apprehended an unaccompanied minor [redacted] whom they handed over to Bulgarian border police.",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgarian border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": 1,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Infringement of basic rights of the child",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Lack of accountability/transparency",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Two Frontex officers apprehended an unaccompanied minor and handed him/her over to Bulgarian border police. Bulgarian authorities denied having the minor in their care. The minor's current status or whereabouts are unknown. The FRO concluded that the basic rights of the child were highly likely infringed.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 24 August 2022, 2 Frontex [redacted] apprehended an unaccompanied minor [redacted] whom they handed over to Bulgarian border police. Bulgarian authorities later claimed, in clear contrast to diligent internal reporting by Frontex, that the minor was never in their care based on the fact that he did not appear in their reports. The current legal status or whereabouts of the minor remain unknown.",
+      "confidence": "high",
+      "evidence_pages": [
+        8
+      ]
+    },
+    {
+      "sir_id": "15368/2022",
+      "report_date": "2023-06-01",
+      "incident_date": "2022-12-08",
+      "location_details": "Border police station in Sredets, Bulgaria. Migrants were detained in inhuman conditions in a 'cage-like structure' and forcibly returned to Türkiye.",
+      "where_clear": "Sredets border police station, Bulgaria",
+      "location_text_raw": "Bulgarian border police detained migrants in inhuman conditions on multiple occasions on the premises of a border police station in Sredets. Visual evidence obtained and published by the news outlets showed people locked in a poorly maintained garage described as a 'cage-like structure'.",
+      "country_or_area": "Sredets, Bulgaria",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Sredets border police station, Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Inhuman and degrading treatment (detention conditions)",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Breach of human dignity",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Forced return without asylum opportunity",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Reporting by news outlets on 8 December 2022 alleged that Bulgarian border police detained migrants in inhuman conditions in a 'cage-like structure' at Sredets border police station. Migrants were also forcibly returned to Türkiye without asylum opportunity. The FRO considers it established that detention amounted to inhuman and degrading treatment.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A joint reporting by several European news outlets published on 8 December 2022 alleged that the Bulgarian border police detained migrants in inhuman conditions on multiple occasions on the premises of a border police station in Sredets. Visual evidence obtained and published by the news outlets showed people locked in a poorly maintained garage described as a 'cage-like structure'.",
+      "confidence": "high",
+      "evidence_pages": [
+        8
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 1,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

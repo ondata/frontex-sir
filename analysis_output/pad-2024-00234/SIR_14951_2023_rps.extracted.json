@@ -1,0 +1,62 @@
+{
+  "source_file": "pdfs/pad-2024-00234/SIR_14951_2023_rps.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:12:12.715448+00:00",
+  "records": [
+    {
+      "sir_id": "14951/2023",
+      "report_date": "2024-06-28",
+      "incident_date": "2023-09-29",
+      "location_details": "Interception point at 38°55'42.7\" N, 26°26′26.8\"E, approximately 4 km from the shore, south of Lesvos Island, Greek territorial waters. The incident involved movement towards Turkish territorial waters and rescue off İzmir's Dikili district.",
+      "where_clear": "South of Lesvos Island, Aegean Sea, near the maritime border between Greece and Türkiye.",
+      "location_text_raw": "sailing from Türkiye to south of Lesvos",
+      "country_or_area": "Aegean Sea (Greece/Türkiye maritime border area)",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "38°55'42.7\" N, 26°26′26.8\"E",
+      "lat": 38.92853,
+      "lon": 26.44078,
+      "uncertainty_note": "The concrete location provided by the NGO could not be independently corroborated by the Office, though the Office is certain the video was shot in Greek territorial waters and in the vicinity of the NGO's reported location.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 (1) of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A group of 34 irregular migrants sailing from Türkiye to Greece was allegedly subjected to collective expulsion by the Hellenic Coast Guard on 29/09/2023. A rigid-hull inflatable boat intercepted the migrant boat, removed fuel, towed it to a Hellenic Coast Guard vessel. Migrants were taken aboard, belongings confiscated, sailed to Turkish territorial waters, forced into two life rafts, abandoned at sea, and subsequently rescued by the Turkish Coast Guard. The Office found the NGO report credible and concluded that migrants were likely subjected to a collective expulsion.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 08/10/2023, NGO Aegean Boat Report published information online, alleging that a group of 34 irregular migrants, sailing from Türkiye to Greece, was on 29/09/2023 subjected to collective expulsion by Hellenic Coast Guard.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

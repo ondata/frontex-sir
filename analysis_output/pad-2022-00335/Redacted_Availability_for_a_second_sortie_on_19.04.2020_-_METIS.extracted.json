@@ -1,0 +1,12 @@
+{
+  "source_file": "pdfs/pad-2022-00335/Redacted_Availability_for_a_second_sortie_on_19.04.2020_-_METIS.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:43:26.982161+00:00",
+  "records": [],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

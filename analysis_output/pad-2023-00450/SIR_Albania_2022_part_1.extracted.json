@@ -1,0 +1,342 @@
+{
+  "source_file": "pdfs/pad-2023-00450/SIR_Albania_2022_part_1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:09:01.383068+00:00",
+  "records": [
+    {
+      "sir_id": "11868/2022",
+      "report_date": "2022-05-05",
+      "incident_date": "2022-05-05",
+      "location_details": "Text removed - Operational Area",
+      "where_clear": "Operational Area, Albania",
+      "location_text_raw": "Text removed - Operational Area, Albania",
+      "country_or_area": "Albania",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Location details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Traffic accident under influence of alcohol",
+          "legal_basis": "Art. 3 a), Art. 10 a) & c), Art. 14 p.2. of CoC",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "On 05/05/2022 at 8.30 am, LCC Coordinator informed about traffic incident caused by INT/CM deployed to Text removed Operational Area. According to the initial information, INT/CM was driving his rental car under influence of alcohol (1.7 per mil). No persons were injured, while the rental car was damaged. Case is under investigation of local Trafic Police.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Traffic accident under influence of alcohol. No persons were injured, while the rental car was damaged.",
+      "confidence": "low",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "10941/2022",
+      "report_date": "2022-07-13",
+      "incident_date": "2022-03-01",
+      "location_details": "near border crossing point Kakavia by the Albanian police where they were shown to follow a path to cross to Greece territory.",
+      "where_clear": "Near Kakavia border crossing point, Albania-Greece border",
+      "location_text_raw": "near border crossing point Kakavia by the Albanian police",
+      "country_or_area": "Albania-Greece border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia border crossing point, Albania-Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A group of seven migrants was apprehended by Albanian authorities, detained, and then allegedly taken to the border near Kakavia and shown a path to cross into Greece. Frontex officers observed them crossing. Albanian authorities deny these claims, stating migrants were processed and issued voluntary departure orders.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Interviewed migrants claim to have been apprehended, brought to a police station and later transported to a place near border crossing point Kakavia by the Albanian police where they were shown to follow a path to cross to Greece territory.",
+      "confidence": "medium",
+      "evidence_pages": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "10942/2022",
+      "report_date": "2022-05-12",
+      "incident_date": "2022-03-03",
+      "location_details": "near BCP Kakavia by the Albanian police where they were shown to follow a path to cross to Greece territory.",
+      "where_clear": "Near Kakavia border crossing point, Albania-Greece border",
+      "location_text_raw": "BCP Kakavia",
+      "country_or_area": "Albania-Greece border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia border crossing point, Albania-Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A group of seven migrants was observed by Frontex team members at BCP Kakavia attempting to cross irregularly from Albania to Greece. Migrants claimed they were apprehended by Albanian police, taken to a police station, and then transported near Kakavia and shown a path to cross the border.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Interviewed migrants claim to have been apprehended, brought to a police station and later transported to a place near BCP Kakavia by the Albanian police where they were shown to follow a path to cross to Greece territory.",
+      "confidence": "medium",
+      "evidence_pages": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "sir_id": "11081/2022",
+      "report_date": "2022-05-12",
+      "incident_date": "2022-03-02",
+      "location_details": "near Kakavia where he was shown a path to return to Greece by Albanian authorities.",
+      "where_clear": "Near Kakavia border, Albania-Greece",
+      "location_text_raw": "border near Kakavia",
+      "country_or_area": "Albania-Greece border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia border, Albania-Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A migrant claimed to have been apprehended twice by Albanian authorities, taken to a camp/facility, and then brought to the border near Kakavia and shown a path to return to Greece. Tracking data from the migrant's phone supports movement in the area.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "an interviewed migrant claimed to have been apprehended twice by Albanian authorities both of which times he was brought to a camp/facility first and later to the border near Kakavia where he was shown a path to return to Greece by Albanian authorities.",
+      "confidence": "medium",
+      "evidence_pages": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "sir_id": "11082/2022",
+      "report_date": "2022-05-12",
+      "incident_date": "2022-03-07",
+      "location_details": "detention center near Kakavia. He was asked whether he wanted to apply for asylum but declined. On 07/03/2022, he was taken with other migrants by the Albanian authorities to a path leading to the Greek side of the border which he followed having reportedly no other option.",
+      "where_clear": "Near Kakavia detention center, Albania-Greece border",
+      "location_text_raw": "detention center near Kakavia",
+      "country_or_area": "Albania-Greece border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia detention center, Albania-Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "An irregular migrant claimed to have been apprehended by Albanian police, taken to a detention center near Kakavia, declined asylum, and then taken to a path leading to the Greek side of the border, which he followed.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "An irregular migrant claims to have been apprehended by the Albanian police and brought to a detention center near Kakavia. He was asked whether he wanted to apply for asylum but declined. On 07/03/2022, he was taken with other migrants by the Albanian authorities to a path leading to the Greek side of the border which he followed having reportedly no other option.",
+      "confidence": "medium",
+      "evidence_pages": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "sir_id": "11083/2022",
+      "report_date": "2022-05-12",
+      "incident_date": "2022-03-02",
+      "location_details": "detention center close to Kakavia where they were registered and fingerprinted. In the morning of 02/03/2022, they were allegedly brought by Albanian authorities to a footpath in an abandoned area, near Kakavia, 5-minute walk from the BCP and 'pushed' them back to Greece.",
+      "where_clear": "Near Kakavia border crossing point, Albania-Greece border",
+      "location_text_raw": "detention center near Kakavia",
+      "country_or_area": "Albania-Greece border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia border crossing point, Albania-Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Two migrants claimed they were apprehended near Durres, brought to a detention center near Kakavia, registered, and then taken to a footpath near Kakavia and 'pushed' back to Greece.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Two migrants claim that they were apprehended by Albanian authorites close to Durres (Albania) on 01/03/2022 and brought to a detention center close to Kakavia where they were registered and fingerprinted. In the morning of 02/03/2022, they were allegedly brought by Albanian authorities to a footpath in an abandoned area, near Kakavia, 5-minute walk from the BCP and 'pushed' them back to Greece.",
+      "confidence": "medium",
+      "evidence_pages": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "sir_id": "11381/2022",
+      "report_date": "2022-06-03",
+      "incident_date": "2022-03-19",
+      "location_details": "near Gjirokaster on 19/03/2022 and subsequently brought to the border with Greece near Kakavia. There, they were forced to follow a path to Greece, while being kicked by 'Albanian who were wearing army outfits'.",
+      "where_clear": "Near Kakavia border, Albania-Greece",
+      "location_text_raw": "border with Greece near Kakavia",
+      "country_or_area": "Albania-Greece border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia border, Albania-Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Three migrants claimed they were apprehended near Gjirokaster, brought to the border near Kakavia, and forced to cross into Greece, allegedly being kicked by 'Albanian who were wearing army outfits'. Albanian authorities deny these claims.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "three interviewed migrants travelling as part of a group of 16 claimed to have been apprehended by Albanian authorities near Gjirokaster on 19/03/2022 and subsequently brought to the border with Greece near Kakavia. There, they were forced to follow a path to Greece, while being kicked by 'Albanian who were wearing army outfits'.",
+      "confidence": "medium",
+      "evidence_pages": [
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "sir_id": "11588/2022",
+      "report_date": "2022-06-03",
+      "incident_date": "2022-04-03",
+      "location_details": "transported to a centre where they spend the night. They report to not have been registered or fingerprinted. On the 03/04/2022 around 19:00, Albanian authorities allegedly brought them in a police car to an abandoned area, 40-50 minutes driving distance from the detention centre. They were dropped off in a path to the Greek-Albanian border and, wielding batons, Albanian reportedly authorities coerced them to cross the border to Greece.",
+      "where_clear": "Greek-Albanian border",
+      "location_text_raw": "Greek-Albanian border",
+      "country_or_area": "Albania-Greece border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Greek-Albanian border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Interviewed migrants claimed they were apprehended by Albanian authorities, transported to a center, and then brought to an abandoned area near the Greek-Albanian border where they were coerced with batons to cross into Greece. They were later rescued by Greek authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "interviewed migrants claimed to have been apprehended by Albanian authorites on 02/04/2022 after which they were transported to a centre where they spend the night. ... Albanian reportedly authorities coerced them to cross the border to Greece.",
+      "confidence": "medium",
+      "evidence_pages": [
+        24,
+        25
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

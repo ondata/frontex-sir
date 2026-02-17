@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2024-00368/SIR_11210_2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:20:06.315687+00:00",
+  "records": [
+    {
+      "sir_id": "11210/2024",
+      "report_date": "2024-03-24",
+      "incident_date": "2024-03-23",
+      "location_details": null,
+      "where_clear": null,
+      "location_text_raw": null,
+      "country_or_area": null,
+      "location_type": "unknown",
+      "precision_level": "unknown",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Location details are redacted in the document.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "A Frontex surveillance aircraft became unserviceable after a burglary of the external contractor's crew car. Thieves stole tablets containing operational information, pilot licenses, and aircraft keys, rendering the aircraft temporarily inaccessible. Two flight missions were cancelled due to the unserviceability.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Unserviceability of Frontex Surveillance Aircraft due to burglary of the crew of the external contractor. On the evening of 23 March 2024, in [redacted] unknown persons smashed the right rear window of the car used by the [redacted] external contractor for the [redacted] which were in the car. The burglars stole tablets, the pilots' licences, the logbook, a passport, headphones, the keys of the [redacted] and other personal items belonging to the crew.",
+      "confidence": "low",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

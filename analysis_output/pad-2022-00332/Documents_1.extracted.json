@@ -1,0 +1,42 @@
+{
+  "source_file": "pdfs/pad-2022-00332/Documents_1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:33:17.203663+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": "2022-04-17",
+      "incident_date": "2022-04-16",
+      "location_details": "The incident occurred at approximately 20:30 pm on 16/04/2022 in an area in Evros, Greece, near Soufli, on the Greek-Turkish border. A woman irregular migrant lost her life during a smuggling incident involving Turkish military/police and Greek Border Guards.",
+      "where_clear": "Evros river, near Soufli, Greek-Turkish border",
+      "location_text_raw": "area in which a woman irregular migrant lost her life... Evros, Greece... area of Soufli",
+      "country_or_area": "Greece (Evros river, Greek-Turkish border)",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Soufli, Evros river, Greece-Turkey border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 1,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "According to local media there was a serious incident in [redacted] area in which a woman irregular migrant lost her life. Specifically, Turkish military were helping traffickers to smuggle illegal immigrants into Greece in two boats. But when the boats started approaching to the Greek shore, there was an ambush of Greek Border Guards in the area, who, as is their custom in these cases, turned on powerful lenses to prevent the irregular migrants from reaching Greek shore. Seeing this situation, the Turkish army/police, in order not to allow the smugglers with the migrants to return back, fired at the boats. As a result, a woman was killed and there are also injured. The Local authorities confirmed the incident and the death of one woman from the shootings coming from the opposite side of the river. The case is under investigation by Hellenic Police authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "According to local media there was a serious incident in [redacted] area in which a woman irregular migrant lost her life... The Local authorities confirmed the incident and the death of one woman from the shootings coming from the opposite side of the river.",
+      "confidence": "high",
+      "evidence_pages": [
+        19
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

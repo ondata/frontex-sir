@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2022-00420/sir.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:51:19.658944+00:00",
+  "records": [
+    {
+      "sir_id": "11588/2022",
+      "report_date": "2022-06-03",
+      "incident_date": "2022-04-01",
+      "location_details": "Migrants claimed to have been apprehended by Albanian authorities on 02/04/2022 after crossing the Greek-Albanian border on 01/04/2022. They were transported to a centre, then on 03/04/2022 brought in a police car to an abandoned area 40-50 minutes driving distance from the detention centre, dropped off on a path to the Greek-Albanian border, and coerced to cross into Greece. They were rescued by Greek authorities on 04/04/2022.",
+      "where_clear": "Greek-Albanian border area",
+      "location_text_raw": "Greek-Albanian border",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Greek-Albanian border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "prohibition of collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Migrants claimed to have been apprehended by Albanian authorities, transported to a centre, then brought to the Greek-Albanian border and coerced to cross into Greece. The Fundamental Rights Office could not assess the veracity of these allegations but noted consistency with similar accounts in other SIRs. The report recommends continued monitoring of such allegations and ensuring access for Fundamental Rights Monitors.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Albanian authorities allegedly brought them in a police car to an abandoned area, 40-50 minutes driving distance from the detention centre. They were dropped off on a path to the Greek-Albanian border and, wielding batons, Albanian reportedly authorities coerced them to cross the border to Greece.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

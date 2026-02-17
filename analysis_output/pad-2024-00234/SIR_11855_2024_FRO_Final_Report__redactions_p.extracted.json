@@ -1,0 +1,63 @@
+{
+  "source_file": "pdfs/pad-2024-00234/SIR_11855_2024_FRO_Final_Report__redactions_p.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:10:54.811833+00:00",
+  "records": [
+    {
+      "sir_id": "11855/2024",
+      "report_date": "2024-07-26",
+      "incident_date": null,
+      "location_details": "Incident occurred during a Joint Return Operation at an airport facility, specifically in a search room during the pre-departure phase. The specific country and airport are redacted.",
+      "where_clear": "Airport facility during a return operation, in a search room.",
+      "location_text_raw": "Return Operation to [redacted] / airport / search room / pre-departure phase",
+      "country_or_area": "Redacted country of return",
+      "location_type": "facility",
+      "precision_level": "approximate",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific country and airport details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Human Dignity",
+          "legal_basis": "art.1 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "art. 2 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of torture and inhuman or degrading treatment or punishment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "During a return operation, a Frontex Fundamental Rights Monitor (FROM) reported an OMS escort pressing his boot on a restrained returnee's neck, causing visible discomfort. The FROM assessed this as excessive force and a violation of fundamental rights. National authorities denied the incident and claimed standard procedures were followed. The Fundamental Rights Office concluded that excessive force was used and constituted a violation of fundamental rights. The same escort was allegedly involved in a previous incident of slapping a returnee.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "the Fundamental Rights Office concludes that excessive force was used on a returnee when an escort placed his boot on a restraint returnee during the pre-departure phase",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

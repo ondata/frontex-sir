@@ -1,0 +1,50 @@
+{
+  "source_file": "pdfs/pad-2024-00377/SIR_10590-2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:20:25.232990+00:00",
+  "records": [
+    {
+      "sir_id": "10590/2024",
+      "report_date": "2024-02-12",
+      "incident_date": "2024-02-10",
+      "location_details": null,
+      "where_clear": "Bulgaria",
+      "location_text_raw": "Bulgaria",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Violation of Codes of Conduct provisions",
+          "legal_basis": "Codes of Conduct",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Two SC Officers deployed in JO Bulgaria Land 2024 did not report for duty on 2024-02-10 after being denied recuperation days. They were unreachable by communication channels. After sustained efforts, it was established they had left the operational area without reporting. This was considered a breach of duty and a violation of the Code of Conduct.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "SC Officers did not report for duty and left the OA without informing chain of command.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

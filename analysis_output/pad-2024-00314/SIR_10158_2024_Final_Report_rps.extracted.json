@@ -1,0 +1,61 @@
+{
+  "source_file": "pdfs/pad-2024-00314/SIR_10158_2024_Final_Report_rps.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:15:06.108249+00:00",
+  "records": [
+    {
+      "sir_id": "10158/2024",
+      "report_date": "2024-05-24",
+      "incident_date": "2023-12-31",
+      "location_details": "A group of migrants was apprehended by Serbian Border Police officers near a train station in Serbia, close to the Serbian-Bulgarian border, and subsequently forced to cross the border to Bulgaria by a river in a small forest. The incident occurred at the Serbian-Bulgarian border area.",
+      "where_clear": "Serbian-Bulgarian border area",
+      "location_text_raw": "Bulgaria, a migrant alleged ill-treatment, theft, and collective expulsion to Bulgaria by Serbian Border Police officers. According to the report, on 31/12/2023 the group of migrants was stopped by a border police vehicle with two officers close to a [redacted] that later was joined by another two vehicles and three border police officers. Allegedly, the border police officers took the migrants' phones, money, and food, and forced them into the cars. After a short ride, upon reaching the border with Bulgaria by the river, they ordered the migrants to cross the border. According to the report, before crossing the border, the migrants were beaten by Serbian Border Police officers.",
+      "country_or_area": "Serbia, Bulgaria",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Serbian-Bulgarian border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific locations within the border area (e.g., train station, river) are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Protection of property",
+          "legal_basis": "Article 1 of Protocol No 1 to the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol No 4 to the European Convention on Human Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "The incident involved Border Police officers of Serbia (participants of JO Serbia Land 2023). The Fundamental Rights Office notes that Serbian authorities denied the allegations and an internal investigation found no wrongdoing, but the Office considers the allegations possible/likely based on migrant testimony and observed injuries.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office concludes as likely that a group of migrants was apprehended in Serbia by the Serbian Border Police, and subsequently forced to cross the border to Bulgaria. The Office was unable to independently corroborate the alleged theft and ill-treatment, but further considers possible, that the group was subjected to ill-treatment.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

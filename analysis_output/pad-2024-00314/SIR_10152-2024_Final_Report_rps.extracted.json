@@ -1,0 +1,61 @@
+{
+  "source_file": "pdfs/pad-2024-00314/SIR_10152-2024_Final_Report_rps.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:14:38.387713+00:00",
+  "records": [
+    {
+      "sir_id": "10152/2024",
+      "report_date": "2024-05-20",
+      "incident_date": "2023-12-23",
+      "location_details": "Incident occurred in Serbia, near the border with Bulgaria, involving migrants who had crossed from North Macedonia. The migrants were forced to cross into Bulgaria twice and were eventually apprehended in Bulgarian territory.",
+      "where_clear": "Serbia-Bulgaria border area",
+      "location_text_raw": "at the [redacted] Bulgaria, Serbia from North Macedonia, border with Bulgaria, Bulgarian territory",
+      "country_or_area": "Serbia-Bulgaria border area",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia Bulgaria border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location within the border area is redacted or not provided, and the migrant could not recognize the exact location on a map.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Protection of property",
+          "legal_basis": "Article 1 of Protocol No 1 to the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 4 of Protocol No 4 to the European Convention on Human Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A group of five migrants, after crossing into Serbia from North Macedonia, was stopped twice by Serbian police on 23 and 24 December 2023. Allegations include ill-treatment (beating, punching, kicking, gunpoint), destruction of mobile phones, theft of money (at least 200 EUR), and forced collective expulsion to Bulgaria. The migrants were eventually apprehended by Bulgarian authorities. Serbian authorities denied the allegations, stating no record of such incidents.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office concludes as likely that a group of five migrants was apprehended by the Serbian police in Serbia, and subsequently forced to cross the border to Bulgaria. The Office was unable to independently corroborate the alleged theft and ill-treatment but considers possible, that the group was subjected to ill-treatment.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,546 @@
+{
+  "source_file": "pdfs/pad-2022-00454-documents/pad-2022-00454-documents.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:56:56.117272+00:00",
+  "records": [
+    {
+      "sir_id": "14498/2021",
+      "report_date": "2021-11-25",
+      "incident_date": "2021-11-20",
+      "location_details": "SW of Crete island",
+      "where_clear": "Southwest of Crete island",
+      "location_text_raw": "SW of Crete island",
+      "country_or_area": "Crete island, Greece",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "34.810000, 23.276667",
+      "lat": 34.81,
+      "lon": 23.276667,
+      "uncertainty_note": null,
+      "dead_confirmed": 1,
+      "injured_confirmed": null,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Codes of Conduct provisions",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "SAR Operation Text removed - Operational Area with one casualty",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Dead persons 1",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "14310/2021",
+      "report_date": "2021-11-12",
+      "incident_date": "2021-11-09",
+      "location_details": "East of Lesvos island, Lesvos",
+      "where_clear": "East of Lesvos island",
+      "location_text_raw": "East of Lesvos island, Lesvos",
+      "country_or_area": "Lesvos island, Greece",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "39.148333, 26.661667",
+      "lat": 39.148333,
+      "lon": 26.661667,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Situations with serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "TCG patrol boats escorted rubber boat with POB towards the HTW executing dangerous maneuverers.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 09th November at Text removed - Reporting Tools a rubber boat with approximately 40 migrants onboard was early detected by Text removed Technical Equipment at the sea area East of Lesvos island, inside TTW sailing in parallel to borderline, accompanied by two TCG patrol boats.",
+      "confidence": "high",
+      "evidence_pages": [
+        4,
+        5
+      ]
+    },
+    {
+      "sir_id": "13844/2021",
+      "report_date": "2021-10-13",
+      "incident_date": "2021-10-11",
+      "location_details": "North of Rhodes Island",
+      "where_clear": "North of Rhodes Island",
+      "location_text_raw": "North of Rhodes Island",
+      "country_or_area": "Rhodes Island, Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "North of Rhodes Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Coordinates redacted as 'Text removed - Operational Area'.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 4,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations with serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Situations of potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Abuse/mistreatments detected by FRA OPV crew members on migrants during a SAR operation",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Four people reported to the Text removed - Reporting Tools, misteatments conducted during their crossing from TUR shore to the position of the detection.",
+      "confidence": "medium",
+      "evidence_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "13436/2021",
+      "report_date": "2021-09-14",
+      "incident_date": "2021-09-13",
+      "location_details": null,
+      "where_clear": "Southeast of Samos island",
+      "location_text_raw": "area SSE of Text removed - Operational Area",
+      "country_or_area": "Samos island, Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Southeast of Samos island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Coordinates redacted as 'Text removed - Operational Area'. Location inferred from 'Samos island' in subject and allegations.",
+      "dead_confirmed": 2,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "SIR Incident about an airplane crash in Samos island",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 13.09.2021 at Text removed - Reporting Tools, HCG/Port Authority of Samos received information regarding an airplane crash at the area SSE of Text removed - Operational Area",
+      "confidence": "medium",
+      "evidence_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "sir_id": "11797/2021",
+      "report_date": "2021-05-21",
+      "incident_date": "2021-04-13",
+      "location_details": "North of Lesvos",
+      "where_clear": "North of Lesvos island",
+      "location_text_raw": "North of Lesvos",
+      "country_or_area": "Lesvos island, Greece",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "39.443333, 26.358333",
+      "lat": 39.443333,
+      "lon": 26.358333,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Text removed - Reporting Tools, AEGEAN BOAT REPORT (ABR) of alleged pushbacks,",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "According to AEGEAN BOAT REPORT (ABR) on FACEBOOK AND TWITTER: On 13.04.2021 at Text removed - Reporting Tools and 14.04.2021 at Text removed - Reporting Tools, pushback ongoing north east of Text removed - Operational Area, Lesvos north, reports on people in the sea",
+      "confidence": "high",
+      "evidence_pages": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "sir_id": "11794/2021",
+      "report_date": "2021-05-21",
+      "incident_date": "2020-10-20",
+      "location_details": "Rhodes and Symi Island",
+      "where_clear": "Rhodes and Symi Islands",
+      "location_text_raw": "Rhodes and Symi Island",
+      "country_or_area": "Rhodes and Symi Islands, Greece",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "36.636667, 28.276667",
+      "lat": 36.636667,
+      "lon": 28.276667,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Text removed - Reporting Tools MARE LIBERUM REPORT on alleged pushbacks",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 20.10.2020, at Text removed - Reporting Tools, the migrants were intercepted on their way to Italy and dispersed in 2 HCG vessels. The first group of 121 male migrants were left in life rafts near Rhodes and picked up by TCG at Text removed - Reporting Tools.",
+      "confidence": "high",
+      "evidence_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "sir_id": "10327/2016",
+      "report_date": "2016-08-29",
+      "incident_date": "2016-08-28",
+      "location_details": "Samos Island, Greece",
+      "where_clear": "Samos Island",
+      "location_text_raw": "Samos Island, Greece",
+      "country_or_area": "Samos Island, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Samos Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Coordinates redacted as 'Text removed - Operational Area'.",
+      "dead_confirmed": 1,
+      "injured_confirmed": 1,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "Text removed - Human Resources injured",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Text removed - Personal Data passed away",
+      "confidence": "medium",
+      "evidence_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "sir_id": "10277/2016",
+      "report_date": "2016-08-22",
+      "incident_date": "2016-08-22",
+      "location_details": "N39°24,5′ E026°13,5΄",
+      "where_clear": "Near Lesvos island",
+      "location_text_raw": "N39°24,5′ E026°13,5΄",
+      "country_or_area": "Lesvos island, Greece",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "39.400000, 26.216667",
+      "lat": 39.4,
+      "lon": 26.216667,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of high political and/or operational relevance especially with the potential to affect EU border management of one or more MS/SAC including international crisis situations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Migrant's boat with 18 migrants collided into Text removed - Technical Equipment",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 22 August SE CPB was trying to stop the migrant's boat with 18 persons onboard close to Lesvos. During this incident the captain of the migrant's boat rammed into SE CPB causing damages to both vessels. No injuries were reported.",
+      "confidence": "high",
+      "evidence_pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "sir_id": "10269/2016",
+      "report_date": "2016-08-05",
+      "incident_date": "2016-08-04",
+      "location_details": "Sea area South East of Lesvos Island (Text removed - Operational Area sea area)",
+      "where_clear": "Southeast of Lesvos Island",
+      "location_text_raw": "Sea area South East of Lesvos Island (Text removed - Operational Area sea area)",
+      "country_or_area": "Lesvos Island, Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Southeast of Lesvos Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Coordinates not provided.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of high political and/or operational relevance especially with the potential to affect EU border management of one or more MS/SAC including international crisis situations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "SAR case with 2 missing migrants",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "According to their statement, two persons were missing. The SAR operation continued and finally the two missing migrants were detected by H.N vessel and rescued by Text removed - Technical Equipment.",
+      "confidence": "medium",
+      "evidence_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "sir_id": "10252/2016",
+      "report_date": "2016-07-14",
+      "incident_date": "2016-07-13",
+      "location_details": "Sea area East of Lesvos Island",
+      "where_clear": "East of Lesvos Island",
+      "location_text_raw": "Sea area East of Lesvos Island",
+      "country_or_area": "Lesvos Island, Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "East of Lesvos Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Coordinates redacted as 'Text removed - Operational Area'.",
+      "dead_confirmed": 4,
+      "injured_confirmed": null,
+      "missing_confirmed": 3,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Incidents occurring in Frontex activities/joint operations, return operations and other return-related activities and not related to Frontex staff, or other participants in Frontex activities",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "SAR case with 04 casualties & 3 missing migrants",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "In total 6 migrants were rescued while 4 migrants were recovered dead. According to migrants statement they were 13 persons onboard a plastic boat that capsized and 3 migrants are still missing.",
+      "confidence": "medium",
+      "evidence_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "sir_id": "10249/2016",
+      "report_date": "2016-07-07",
+      "incident_date": "2016-07-07",
+      "location_details": "Leros Island",
+      "where_clear": "Leros Island Hotspot",
+      "location_text_raw": "Leros Island",
+      "country_or_area": "Leros Island, Greece",
+      "location_type": "facility",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Leros Island Hotspot, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Coordinates not provided. Location is a hotspot on the island.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of high political and/or operational relevance especially with the potential to affect EU border management of one or more MS/SAC including international crisis situations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Riot in the Hotspot",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "As a result of the riots several persons (migrants) injured, no clear number available (estimated total injured persons: 30-50).",
+      "confidence": "high",
+      "evidence_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "sir_id": "10434/2016",
+      "report_date": "2016-06-14",
+      "incident_date": "2016-06-13",
+      "location_details": "Text removed - Reporting Tools Crete Island",
+      "where_clear": "Crete Island",
+      "location_text_raw": "Text removed - Reporting Tools Crete Island",
+      "country_or_area": "Crete Island, Greece",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "34.407222, 23.193333",
+      "lat": 34.407222,
+      "lon": 23.193333,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "SAR case SRR Libya",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "It was a 25 meters boat inside Libyan SRR which was heading towards Italy.",
+      "confidence": "high",
+      "evidence_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "sir_id": "10240/2016",
+      "report_date": "2016-06-13",
+      "incident_date": "2016-06-11",
+      "location_details": "At/around maritime border line between Turkey and Greece, Text removed - Operational Area, near Cesme (Turkey). The approximated coordinates provided by ROU OPV MAI0201 CO are Text removed - Operational Area",
+      "where_clear": "Maritime border line between Turkey and Greece, near Cesme",
+      "location_text_raw": "At/around maritime border line between Turkey and Greece, Text removed - Operational Area, near Cesme (Turkey). The approximated coordinates provided by ROU OPV MAI0201 CO are Text removed - Operational Area",
+      "country_or_area": "Aegean Sea, Turkey/Greece",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Cesme, Turkey",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Coordinates provided are placeholders (0.0, 0.0).",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of high political and/or operational relevance especially with the potential to affect EU border management of one or more MS/SAC including international crisis situations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Hand over of 61 rescued persons to Third Country Vessel",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The interception of the rubber boat with 61 migrants on board was made by the Text removed - Technical Equipment on/around the maritime border line between Turkey and Greece at about Text removed - Reporting Tools.",
+      "confidence": "low",
+      "evidence_pages": [
+        29,
+        30
+      ]
+    },
+    {
+      "sir_id": "10230/2016",
+      "report_date": "2016-04-27",
+      "incident_date": "2016-04-26",
+      "location_details": "Lesvos Island",
+      "where_clear": "Lesvos Island",
+      "location_text_raw": "Lesvos Island",
+      "country_or_area": "Lesvos Island, Greece",
+      "location_type": "facility",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Lesvos Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Coordinates redacted as 'Text removed - Operational Area'. Location is a facility on the island.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Incidents occurring in Frontex activities/joint operations, return operations and other return-related activities and not related to Frontex staff, or other participants in Frontex activities",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Migrants' Riots in the Text removed - Operational Area",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "As a result of the riots several persons (migrants) injured, no clear number available (estimated total injured persons: 30-50).",
+      "confidence": "medium",
+      "evidence_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "sir_id": "10293/2016",
+      "report_date": "2016-01-25",
+      "incident_date": "2016-01-25",
+      "location_details": null,
+      "where_clear": "Petrol station near a border crossing point",
+      "location_text_raw": "petrol station used as a waiting zone for buses which are heading to Text removed - Operational Area. The petrol station is located thirty kilometers away from the border crossing point, outside the JO FPs operational area.",
+      "country_or_area": "Unknown",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Location is described as a petrol station near a border crossing point, 30km from it, outside operational area, with no country specified.",
+      "dead_confirmed": 1,
+      "injured_confirmed": 2,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of high political and/or operational relevance especially with the potential to affect EU border management of one or more MS/SAC including international crisis situations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Death of 1 migrant and hospitalisation of 2 migrants as a result of fights between migrants groups ups in Text removed - Operational Area",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "one PAK died for injuries. Two other PAK migrants were transported to the hospital, another injured seriously and another have just minor injuries.",
+      "confidence": "low",
+      "evidence_pages": [
+        35,
+        36
+      ]
+    }
+  ],
+  "dead_confirmed_total": 9,
+  "injured_confirmed_total": 7,
+  "missing_confirmed_total": 3,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

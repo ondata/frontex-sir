@@ -1,0 +1,164 @@
+{
+  "source_file": "pdfs/pad-2022-00332/Documents_3B.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:37:48.169320+00:00",
+  "records": [
+    {
+      "sir_id": "12137/2022",
+      "report_date": "2022-05-27",
+      "incident_date": "2022-05-24",
+      "location_details": "An islet in Evros river, Didimotiho, Greece. Google Maps link: https://goo.gl/maps/FgEWB99e2phFKBri6",
+      "where_clear": "An islet in Evros river near Didimotiho, Greece",
+      "location_text_raw": "an islet, in Evros river, Didimotiho",
+      "country_or_area": "Evros river, Greece",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "https://goo.gl/maps/FgEWB99e2phFKBri6",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to international protection",
+          "legal_basis": "not_stated",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to life/safety",
+          "legal_basis": "not_stated",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Forced return to Turkey (pushback)",
+          "legal_basis": "not_stated",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Violation of ECtHR interim measures",
+          "legal_basis": "Article 34 ECHR",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Ill-treatment/Violence",
+          "legal_basis": "not_stated",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A group of 94 Syrian people, including children, women, elderly, and one disabled person, were allegedly in danger on an islet in the Evros river. An ECtHR decision ordered their non-removal and provision of aid. Later, contact was lost, and it was reported that hooded men violently attacked and repatriated them to Turkey, where they were arrested and threatened with deportation. Greek authorities conducted searches with no results.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "groups of hooded men and their Arab-speaking associates had also entered the island and, after violently attacking the refugees, repatriated them to Turkey.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "11387/2022",
+      "report_date": "2022-03-31",
+      "incident_date": "2022-03-30",
+      "location_details": "An island/islet in Evros River on the Greek side.",
+      "where_clear": "An island/islet in Evros River on the Greek side",
+      "location_text_raw": "an island in Evros River on the Greek side.",
+      "country_or_area": "Evros river, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "island Evros River Greek side",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to apply for asylum",
+          "legal_basis": "not_stated",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to shelter and food",
+          "legal_basis": "not_stated",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A group of 34 refugees, including 4 women and 6 children, were stranded on an island/islet in the Evros River on the Greek side. Some fell into the water and were wet and cold. Greek authorities were observing them. ECtHR notified the Greek government of their obligation to provide shelter and food, but the group was still afraid of not being granted asylum. The reliability of the primary source was not yet assessed.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "34 refugees are stranded on an island in Evros River on the Greek side. They are 34 persons in total, among them 4 women and 6 children. Some of them fell into the water so they are wet and cold.",
+      "confidence": "high",
+      "evidence_pages": [
+        12,
+        14
+      ]
+    },
+    {
+      "sir_id": "11619/2022",
+      "report_date": "2022-04-17",
+      "incident_date": "2022-04-16",
+      "location_details": "Evros river area, near Soufli, Greece. Incident occurred on the Greek-Turkish border.",
+      "where_clear": "Evros river area near Soufli, Greece",
+      "location_text_raw": "Text removed - Operational Area, Evros, Greece.",
+      "country_or_area": "Evros river, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Soufli Evros river Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 1,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Fundamental Rights/international obligations",
+          "legal_basis": "not_stated",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Use of lethal force",
+          "legal_basis": "not_stated",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Pushback",
+          "legal_basis": "not_stated",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A woman irregular migrant was killed by Turkish army/police fire during a smuggling incident on the Evros river Greek-Turkish border. Turkish military allegedly helped traffickers, then fired at boats to prevent migrants from reaching the Greek shore or returning to Turkey. Other individuals were also injured. The incident was confirmed by Text removed - Reporting Tools and local authorities, and is under investigation.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "a woman irregular migrant lost her life. Specifically, Turkish military were helping traffickers to smuggle illegal immigrants into Greece in two boats. But when the boats started approaching to the Greek shore... the Turkish army/police... fired at the boats. As a result, a woman was killed and there are also injured.",
+      "confidence": "high",
+      "evidence_pages": [
+        16,
+        17,
+        18,
+        19
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

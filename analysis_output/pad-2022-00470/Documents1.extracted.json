@@ -1,0 +1,145 @@
+{
+  "source_file": "pdfs/pad-2022-00470/Documents1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:59:38.922324+00:00",
+  "records": [
+    {
+      "sir_id": "13856/2022",
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Operational area in Bulgaria, near the border with Turkey.",
+      "where_clear": "Operational area in Bulgaria, near the border with Turkey, involving an apprehension in a forest.",
+      "location_text_raw": "in the forest, operational area, Bulgaria Operational Area, border region of Bulgaria's border with Turkey",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria border with Turkey",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific dates and exact location within the operational area are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 1,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights, art. 3 of the European Convention on Human Rights",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "right to respect for private and family life",
+          "legal_basis": "Article 8, ECHR",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the CFREU, art. 4 Protocol 4 to the ECHR",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "rights of the child",
+          "legal_basis": "Article 24, CFREU",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "obligation to ensure primary consideration of best interests of the child",
+          "legal_basis": "Article 24 paragraph 2 of the CFREU",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Frontex officers apprehended an unaccompanied minor and handed him over to Bulgarian Border Guards. The boy subsequently disappeared, and Bulgarian authorities deny any record of the apprehension, leading to concerns about fundamental rights violations, especially regarding the child's rights.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "the Fundamental Rights Office concludes that it is highly likely that the basic rights of the child in question were infringed and urges Bulgarian authorities to investigate this case as a priority matter.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "sir_id": "11441/2022",
+      "report_date": "2022-04-04",
+      "incident_date": "2022-04",
+      "location_details": "Operational Area",
+      "where_clear": "Operational area in Bulgaria.",
+      "location_text_raw": "Bulgaria Operational Area, Operational Area",
+      "country_or_area": "Bulgaria",
+      "location_type": "unknown",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact location within the operational area is redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Unauthorised absence from scheduled shift",
+          "legal_basis": "Code of Conduct (Art. 6, 7 and 10)",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Two Frontex Standing Corps officers reported inability to work a night shift due to stress from accommodation problems. One refused to register sick leave and did not appear, leading to a violation of the Code of Conduct.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "it shall be considered as unauthorized absence, therefore violation of the principles of Code of Conduct (Art. 6, 7 and 10) took place.",
+      "confidence": "high",
+      "evidence_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "10336/2022",
+      "report_date": "2022-01-24",
+      "incident_date": "2022-01-22",
+      "location_details": "parking area located within the premises of [redacted area]",
+      "where_clear": "Parking area within a facility in Bulgaria.",
+      "location_text_raw": "Bulgaria, in [redacted area], parking area located within the premises of [redacted area]",
+      "country_or_area": "Bulgaria",
+      "location_type": "facility",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific facility location is redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Negative implications on Frontex core tasks",
+          "legal_basis": "SIR Cat. 3",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A Frontex transportation vehicle was broken into while parked in Bulgaria, resulting in minor damages. Local police launched a criminal investigation, and the incident was assessed as having negative implications on Frontex tasks.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "As the incident have negative implications on Frontex tasks/activities and directly involves Frontex deployed assets, it is assessed that it may be considered as SIR Cat. 3.",
+      "confidence": "high",
+      "evidence_pages": [
+        9,
+        10
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 1,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

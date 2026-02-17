@@ -1,0 +1,227 @@
+{
+  "source_file": "pdfs/pad-2023-00450/Albnia_SIR_2023.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:07:44.259141+00:00",
+  "records": [
+    {
+      "sir_id": "12123/2023",
+      "report_date": "2023-05-26",
+      "incident_date": "2023-05-20",
+      "location_details": "Albania",
+      "where_clear": "Near a river in Albania",
+      "location_text_raw": "Albania, Albania, left side of the river, cross the river, water of the river",
+      "country_or_area": "Albania",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific river and exact location within Albania are not provided.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "An officer accidentally discharged a weapon into a river while attempting to cross it during an operation involving 7 migrants in Albania. No one was injured, and the shot was not directed at the migrants.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "While trying to cross the river, the Officer stumbled over a large stone on the river, resulting to an unintentional shot, which went in the water of the river.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "11524/2023",
+      "report_date": "2023-04-19",
+      "incident_date": "2023-04-17",
+      "location_details": null,
+      "where_clear": "Undisclosed location in Albania",
+      "location_text_raw": "Albania",
+      "country_or_area": "Albania",
+      "location_type": "unknown",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Violation of the Frontex Code of Conduct",
+          "legal_basis": "art. 3, points 1 + 2 and art. 9, points 1 + 2 + 39",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Negative impact on Frontex public image, operational activities in Albania and cooperation with local Albanian Authorities",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "An individual involved in an incident that potentially violated the Frontex Code of Conduct has been removed from operational activities. The incident is assessed to have potential negative implications on Frontex's public image and operations in Albania.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The [redacted] has already been removed from Frontex operational activities on 31/03/2023.",
+      "confidence": "low",
+      "evidence_pages": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "sir_id": "13254/2023",
+      "report_date": "2023-07-27",
+      "incident_date": "2023-07-26",
+      "location_details": "Field",
+      "where_clear": "Operational area, field",
+      "location_text_raw": "Operational area, Field, three different locations of the OA",
+      "country_or_area": "Operational area",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific operational area and exact locations are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "During a night shift pursuit of irregular migrants in an operational area, a Frontex officer lost a non-lethal weapon (baton) in rough terrain. The weapon could not be recovered despite a search.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "he lost his [redacted] at one of these three locations. On 26.07.2023 in the morning, when he noticed that the mentioned piece of the equipment was missing, he searched all three locations where he moved during the pursuit of irregular migrants, but he could not find the baton due to the hard terrain, thick bushes and tall grass.",
+      "confidence": "medium",
+      "evidence_pages": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "12600/2023",
+      "report_date": "2023-06-23",
+      "incident_date": "2023-06-22",
+      "location_details": null,
+      "where_clear": "Residential apartment in Albania",
+      "location_text_raw": "Albania, Albania, Operational area, Sensitive personal data, residential address, apartment",
+      "country_or_area": "Albania",
+      "location_type": "facility",
+      "precision_level": "approximate",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific address is redacted.",
+      "dead_confirmed": 1,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "A Standing Corps Officer on sick leave was found deceased in her apartment in Albania after welfare checks. The death was confirmed not to be related to her service duties. The incident highlighted a lack of agency policy for monitoring the medical situation of officers on sick leave.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The passing away was not interlinked with the service or duties performed at the deployment area.",
+      "confidence": "high",
+      "evidence_pages": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "sir_id": "12472/2023",
+      "report_date": "2023-06-15",
+      "incident_date": "2023-06-15",
+      "location_details": null,
+      "where_clear": "Unknown location in an operational area",
+      "location_text_raw": "Operational area, Operational area, unknown time and location, in the past, probably during patrolling",
+      "country_or_area": "Operational area",
+      "location_type": "unknown",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Location is explicitly stated as 'unknown' and 'operational area' is generic.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Violation of Code of Conduct",
+          "legal_basis": "article 6.c",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A Frontex officer reported losing a telescopic baton during patrolling at an unknown time and location. The officer did not report it immediately due to lack of knowledge of procedures and purchased a replacement. This is a potential violation of the Code of Conduct.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "reported that in unknown time and location, in the past, probably during patrolling he lost his telescopic baton.",
+      "confidence": "low",
+      "evidence_pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "sir_id": "10910/2023",
+      "report_date": "2023-10-30",
+      "incident_date": "2022-12-01",
+      "location_details": null,
+      "where_clear": "Registration and Temporary Accommodation Center near the Greek-Albanian border",
+      "location_text_raw": "Registration and Temporary Accommodation Center, Greek-Albanian border, Operational Area",
+      "country_or_area": "Greek-Albanian border area, Registration and Temporary Accommodation Center",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Greek-Albanian border, Registration and Temporary Accommodation Center, Albania",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific center name and exact location along the border are not provided.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office investigated allegations of multiple migrant deaths at a Registration and Temporary Accommodation Center, systematic pushbacks to Greece, and ill-treatment by Albanian police officers between December 2022 and January 2023. Albanian authorities denied fatalities and pushbacks, but Frontex staff corroborated systematic irregular returns. The FRO could not verify deaths or ill-treatment due to limited information but remains concerned about potential collective expulsion and underreporting by Frontex staff.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Office was not able to establish the veracity of allegations, regarding the alleged deaths of migrants at [redacted] Registration and Temporary Accommodation Center, as any fatalities were denied by the Albanian authorities, contrary to the witness account of the Frontex operational staff.",
+      "confidence": "medium",
+      "evidence_pages": [
+        15,
+        16,
+        17,
+        18
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

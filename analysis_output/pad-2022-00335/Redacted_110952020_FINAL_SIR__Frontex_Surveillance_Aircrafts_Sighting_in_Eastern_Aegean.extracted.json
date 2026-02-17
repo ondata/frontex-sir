@@ -1,0 +1,58 @@
+{
+  "source_file": "pdfs/pad-2022-00335/Redacted_110952020_FINAL_SIR__Frontex_Surveillance_Aircrafts_Sighting_in_Eastern_Aegean.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:43:10.252724+00:00",
+  "records": [
+    {
+      "sir_id": "11095/2020",
+      "report_date": "2020-05-05",
+      "incident_date": null,
+      "location_details": "The incident occurred in the Eastern Aegean Sea, specifically in Turkish territorial waters, involving a Greek Coast Guard patrol boat and a rubber boat with migrants.",
+      "where_clear": "Eastern Aegean Sea, Turkish territorial waters",
+      "location_text_raw": "Eastern Aegean; Turkish territorial waters",
+      "country_or_area": "Eastern Aegean Sea, Turkey",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Eastern Aegean Sea, Turkish territorial waters",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Fundamental Rights",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "principle of non-refoulement",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A Frontex surveillance aircraft sighted an incident involving a Hellenic Coast Guard (HCG) patrol boat and a rubber boat with migrants in Turkish territorial waters in the Eastern Aegean. The HCG stated they took appropriate measures to address illegal border crossing and ensured the safety of migrants, coordinating with Turkish authorities to end the situation. However, the SIR Coordinator assessed that migrants, initially safe on the Greek patrol boat, were later left in a distress situation in a rubber boat without propulsion. The HCG patrol boat and assets were not co-financed by Frontex nor part of JO Poseidon 2020 or RBI Aegean 2020. A Sea Border Expert from ICC Piraeus, a Hellenic Coast Guard Officer, was giving instructions due to COVID-19 travel restrictions. HCG will be requested to conduct an internal investigation.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "There is a strong indication that these facts could support an allegation of possible violation of Fundamental Rights or international protection obligations such as the principle of non-refoulement.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

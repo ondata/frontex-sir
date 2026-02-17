@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2022-00420/sir3.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:52:09.242795+00:00",
+  "records": [
+    {
+      "sir_id": "12332/2022",
+      "report_date": "2022-08-19",
+      "incident_date": "2022-06-03",
+      "location_details": "A group of twelve migrants was transported by Albanian police officers to a place near the land border between Albania and Greece, specifically in the area of Border Control Unit (BCU) Kapshtice, close to Trestenik. They were then escorted on a footpath leading to the border with Greece, approximately 200m away, and coerced to cross it.",
+      "where_clear": "Near the land border between Albania and Greece, in the area of BCU Kapshtice, close to Trestenik.",
+      "location_text_raw": "a place near the border between Albania and Greece, area of BCU Kapshtice, On the way from Trestenik to the border, a location 200m from border with Greece, footpath leading to the border with Greece approx. 200m away",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kapshtice border crossing, Albania-Greece border, near Trestenik",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Article 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Albanian authorities transported a group of twelve migrants to the border and escorted them on foot until they crossed the border to Greece, while threatening the use of force. The veracity of this action was established and confirmed by the Albanian authorities, which have subsequently investigated and taken disciplinary measures against the four implicated police officers. The Fundamental Rights Office notes the consistency of these confirmed allegations with accounts in other Serious Incident Reports and urges the Albanian authorities to address this practice.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "a group of twelve migrants has been transported to a place near the border between Albania and Greece by Albanian police officers. The group was then escorted on a footpath leading to the border with Greece and coerced to cross it.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

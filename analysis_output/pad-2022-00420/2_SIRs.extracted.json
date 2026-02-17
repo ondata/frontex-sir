@@ -1,0 +1,73 @@
+{
+  "source_file": "pdfs/pad-2022-00420/2_SIRs.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:45:23.142981+00:00",
+  "records": [
+    {
+      "sir_id": "10630/2021",
+      "report_date": "2021-03-01",
+      "incident_date": "2021-03-01",
+      "location_details": "Text removed - Operational Area",
+      "where_clear": "Operational Area in Albania",
+      "location_text_raw": "Text removed - Operational Area Text removed - Operational Area Albania",
+      "country_or_area": "Albania",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Albania",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Location details and specific operational area are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "Two Human Resources personnel felt sick, one tested positive for COVID-19 and was quarantined for two weeks. The other tested negative. Close contacts were tracked, and antigen/PCR tests performed. The infected individual recovered and was rescheduled for patrolling. Source and time of infection could not be investigated.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "one Text removed - Human Resources was found positive for COVID-19",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "10494/2021",
+      "report_date": "2021-02-17",
+      "incident_date": "2021-02-17",
+      "location_details": "Self isolation in Text removed - Operational Area",
+      "where_clear": "Self-isolation in an Operational Area near the Albanian-Greek Border",
+      "location_text_raw": "Text removed - Operational Area Text removed - Operational Area Albania",
+      "country_or_area": "Albania",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "40.084444, 20.144167",
+      "lat": 40.084444,
+      "lon": 20.144167,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A Human Resources individual deployed at the Albanian-Greek Border tested positive for COVID-19 on 17.02.2021. Initially asymptomatic, health conditions worsened by 22.02.2021, leading to medical authorities proposing repatriation. The individual was taken to hospital for checks, repatriated to Germany, and later released to quarantine at home, still with light symptoms.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 17.02.2021, the test showed a positive result.",
+      "confidence": "high",
+      "evidence_pages": [
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,56 @@
+{
+  "source_file": "pdfs/pad-2024-00234/SIR_13127_2023_rps.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:11:26.263858+00:00",
+  "records": [
+    {
+      "sir_id": "13127/2023",
+      "report_date": "2024-01-31",
+      "incident_date": "2023-07-04",
+      "location_details": "Two migrants were apprehended on shore by Guardia Civil on 04/07/2023, then transferred to a facility in Almeria for screening on 05/07/2023. The alleged ill-treatment by Guardia Civil officers occurred during the transfer to the port of [redacted] in the Almeria area.",
+      "where_clear": "Almeria area, Spain, during transfer to port",
+      "location_text_raw": "in Almeria",
+      "country_or_area": "Spain",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Almeria, Spain",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific locations (apprehension point, facility, port) are redacted or not precisely identified. The incident occurred during transfer within the Almeria area.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A migrant reported being physically mistreated ('beaten too much' in the hip area) by Guardia Civil officers during transfer after apprehension on 04/07/2023 in the Almeria area, Spain. Frontex staff and medical personnel did not observe visible injuries during screening on 05/07/2023. Spanish authorities denied witnessing aggression or injuries and stated the migrant did not claim mistreatment to their staff. The Fundamental Rights Office could not conclusively establish the circumstances of the alleged incident.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "During screening a migrant reported that he had been physically mistreated by officers of Guardia Civil... stating he had been 'beaten too much' by the 'Guardia Civil' and mentioning having been beaten in the hip area. No information was obtained as to the exact moment the ill-treatment is alleged to have occurred and Frontex did not notice any visible injuries at the time of the screening.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

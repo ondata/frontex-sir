@@ -1,0 +1,73 @@
+{
+  "source_file": "pdfs/pad-2022-00332/Documents_5.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:39:13.640810+00:00",
+  "records": [
+    {
+      "sir_id": "194/2022",
+      "report_date": "2022-04-21",
+      "incident_date": "2022-04-13",
+      "location_details": "Group of 37 Syrian refugees on islets of the Evros river. Geographical coordinates provided via Google Maps link (https://goo.gl/maps/RdqLVY1hVWzmoPbD7).",
+      "where_clear": "Islets of Evros river, Greece",
+      "location_text_raw": "νησίδες του ποταμού Έβρου",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros river islets, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact coordinates for this group are provided via a Google Maps link which cannot be accessed.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "The National Commission for Human Rights (NCHR) was informed about a group of 37 Syrian refugees on Evros river islets. The group includes 16 minor children, at least 1 with a serious health problem, 2 infants, and one pregnant woman, all without access to food and water. Intervention was requested from police authorities starting 13/04/2022. The European Court of Human Rights (ECtHR) issued interim measures on 19/04/2022, instructing Greek authorities not to remove the refugees and to provide aid until 03/05/2022.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Από την Τρίτη 20.04.2022 η ΕΕΔΑ ενημερώθηκε για την παρουσία 2 ομάδων 37 και 46 Σύρων προσφύγων σε νησίδες του ποταμού Έβρου. Στην ομάδα των 37 προσφύγων, σύμφωνα με τις πληροφορίες, βρίσκονται 16 ανήλικα παιδιά και τουλάχιστον 1 με σοβαρό πρόβλημα υγείας, καθώς και 2 βρέφη και μία έγκυος γυναίκα, χωρίς πρόσβαση σε τροφή και νερό. ... Ταυτόχρονα, παρείχε και το γεωγραφικό στίγμα για την διευκόλυνση των αρχών στον εντοπισμό της ομάδας των 37 προσφύγων (https://goo.gl/maps/RdqLVY1hVWzmoPbD7)...",
+      "confidence": "high",
+      "evidence_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "sir_id": "194/2022",
+      "report_date": "2022-04-21",
+      "incident_date": "2022-04-18",
+      "location_details": "Group of 46 Syrian refugees on islets of the Evros river, at coordinates 41.327094, 26.509524.",
+      "where_clear": "Islets of Evros river, Greece",
+      "location_text_raw": "νησίδες του ποταμού Έβρου",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "41.327094, 26.509524",
+      "lat": 41.327094,
+      "lon": 26.509524,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "The National Commission for Human Rights (NCHR) was informed about a group of 46 Syrian refugees on Evros river islets. The group includes 9 minor children and several sick people, all without access to food and water. Intervention was requested from police authorities starting 18/04/2022. The European Court of Human Rights (ECtHR) issued interim measures on 19/04/2022, instructing Greek authorities not to remove the refugees and to provide aid until 03/05/2022.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Στην ομάδα δε των 46 προσφύγων, σύμφωνα με τις πληροφορίες, βρίσκονται 9 ανήλικα παιδιά και αρκετοί ασθενείς, χωρίς πρόσβαση σε τροφή και νερό. ... καθώς και τις συντεταγμένες για τη διευκόλυνση του εντοπισμού της ομάδας των 46 προσφύγων (41.327094,26.509524).",
+      "confidence": "high",
+      "evidence_pages": [
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2022-00420/sir5.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:52:51.935368+00:00",
+  "records": [
+    {
+      "sir_id": "11082/2022",
+      "report_date": "2022-05-12",
+      "incident_date": "2022-03-07",
+      "location_details": "An irregular migrant was apprehended by Albanian police and brought to a detention center near Kakavia, Albania. On 07/03/2022, he was taken with other migrants by Albanian authorities to a path leading to the Greek side of the border. The migrant had previously crossed into Albania from Ioannina, Greece, on 05/03/2022 in the Kakavia area. The interview regarding the incident took place in Delvinaki, Greece.",
+      "where_clear": "Albania-Greece border area near Kakavia and Delvinaki",
+      "location_text_raw": "detention center near Kakavia",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia border crossing, Albania-Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The exact location of the detention center and the specific path taken are not precisely defined, but the general border area is clear.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "The SIR alleges that Albanian authorities transported migrants to the border with Greece and instructed them to cross. While this allegation is consistent with accounts in other Serious Incident reports, its veracity could not be established within the framework of FRO investigation due to limited information, preventing a conclusion on whether a fundamental rights violation occurred.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "SIR 11082/2022 alleges that Albanian authorities transported migrants to the border with Greece and made them follow a path to the Greek side. While this allegation is consistent with accounts in other Serious Incident reports, it's veracity could not be established within the framework of FRO investigation into the case.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

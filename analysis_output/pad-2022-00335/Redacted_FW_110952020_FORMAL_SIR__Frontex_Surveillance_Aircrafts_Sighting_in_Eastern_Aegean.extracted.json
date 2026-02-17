@@ -1,0 +1,44 @@
+{
+  "source_file": "pdfs/pad-2022-00335/Redacted_FW_110952020_FORMAL_SIR__Frontex_Surveillance_Aircrafts_Sighting_in_Eastern_Aegean.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:43:45.402964+00:00",
+  "records": [
+    {
+      "sir_id": "11095/2020",
+      "report_date": "2020-04-23",
+      "incident_date": "2020-04-18",
+      "location_details": "Incident occurred north of Lesvos, between the Greek and Turkish maritime border. Initial coordinates: 39° 26' 45''N - 026° 26' 21''E. Later, a rubber boat was adrift at 39°16′N 026°35′E.",
+      "where_clear": "North of Lesvos, Eastern Aegean Sea, near Greek-Turkish maritime border",
+      "location_text_raw": "between the Greek and Turkish maritime border near the island of Lesvos; north of Lesvos (39° 26' 45''N - 026° 26' 21''E)",
+      "country_or_area": "Eastern Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "39.445833, 26.439167",
+      "lat": 39.445833,
+      "lon": 26.439167,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A Frontex Surveillance Aircraft (FSA) observed a rubber boat with approx. 20-30 POB near Lesvos. A Greek patrol boat was involved in towing an empty rubber boat, transferring migrants, and later leaving the rubber boat adrift. Greek authorities rejected an offer for a second SAR flight, stating the Turkish Coast Guard had assumed coordination. The rubber boat reportedly landed safely on Turkish shores.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Frontex Surveillance Aircraft (FSA) spots a rubber boat with approx. 20-30 POB, stopped, and one Greek Patrol vessel is very close.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

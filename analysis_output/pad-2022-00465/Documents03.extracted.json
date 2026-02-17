@@ -1,0 +1,150 @@
+{
+  "source_file": "pdfs/pad-2022-00465/Documents03.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:59:11.854777+00:00",
+  "records": [
+    {
+      "sir_id": "13856/2022",
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Bulgarian Border Guards, operational area, border region of Bulgaria's border with Turkey",
+      "where_clear": "Bulgaria, near the border with Turkey",
+      "location_text_raw": "Bulgarian Border Guards, operational area, border region of Bulgaria's border with Turkey",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria border with Turkey",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location within the border region is redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights, art. 3 of the European Convention on Human Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "right to respect for private and family life",
+          "legal_basis": "Article 8, ECHR",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the CFREU, art. 4 Protocol 4 to the ECHR",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "rights of the child",
+          "legal_basis": "Article 24, CFREU",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "obligation to ensure primary consideration of best interests of the child",
+          "legal_basis": "Article 24 paragraph 2 of the CFREU",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Frontex officers apprehended an unaccompanied minor and handed him over to Bulgarian Border Guards. Bulgarian authorities deny any record of the apprehension, and the boy's whereabouts are unknown. The Fundamental Rights Office concludes that the child's basic rights were likely infringed and urges investigation.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Based on immediate, detailed, consistent and credible reporting by the officers of the Frontex Standing Corps, the Fundamental Right Office considers established that an apprehension of a person (self-declared minor) by Frontex officers and subsequent handover to Bulgarian authorities took place on [redacted] 2022.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "sir_id": "11441/2022",
+      "report_date": "2022-04-04",
+      "incident_date": "2022-04-04",
+      "location_details": "Bulgaria Operational Area",
+      "where_clear": "Bulgaria, operational area",
+      "location_text_raw": "Bulgaria Operational Area",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates and location details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Codes of Conduct provisions",
+          "legal_basis": "SIR Category 2",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Situations with serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": "SIR Category 3",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Two Frontex Standing Corps officers reported inability to work a night shift due to stress from accommodation problems. One refused to register sick leave and did not appear for the shift, leading to an unauthorized absence and violation of Code of Conduct.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Taking into account that there is no justification for the SC [redacted] to perform the scheduled night shift on [redacted], it shall be considered as unauthorized absence, therefore violation of the principles of Code of Conduct (Art. 6, 7 and 10) took place.",
+      "confidence": "high",
+      "evidence_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "10336/2022",
+      "report_date": "2022-01-24",
+      "incident_date": "2022-01-22",
+      "location_details": "Bulgaria",
+      "where_clear": "Bulgaria",
+      "location_text_raw": "Bulgaria",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location within Bulgaria is redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Situations with serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": "SIR Category 3",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A Frontex transportation vehicle was broken into in Bulgaria. Minor damages were reported, but nothing was stolen. Local police were informed and launched a criminal investigation.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On the 22nd of January 2022 [redacted] deployed in [redacted] was informed by another FX SCO that someone broke the window of a FX [redacted] used by him for commuting to the workplace.",
+      "confidence": "high",
+      "evidence_pages": [
+        9,
+        10
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

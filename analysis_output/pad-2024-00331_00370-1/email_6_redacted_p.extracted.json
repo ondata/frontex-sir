@@ -1,0 +1,12 @@
+{
+  "source_file": "pdfs/pad-2024-00331_00370-1/email_6_redacted_p.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:18:43.218958+00:00",
+  "records": [],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

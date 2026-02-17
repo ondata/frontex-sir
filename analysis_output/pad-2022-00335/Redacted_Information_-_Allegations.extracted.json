@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2022-00335/Redacted_Information_-_Allegations.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:44:03.926072+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Incident started north of Lesvos, inside Greek Territorial Waters, involving a pushback towards Turkish Territorial Waters, with the rubber boat eventually landing on Turkish shores.",
+      "where_clear": "North of Lesvos, Greek and Turkish Territorial Waters",
+      "location_text_raw": "north of Lesvos, inside Greek TW, towards Turkish Territorial Waters, Turkish shores",
+      "country_or_area": "Greece, Turkey, Aegean Sea",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "North of Lesvos, Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "A rubber boat with 20-30 migrants was spotted north of Lesvos. Greek assets took migrants on board, then towed the empty rubber boat towards Turkish Territorial Waters. Later, migrants were reloaded onto the rubber boat and towed again towards Turkish Territorial Waters. The boat was found adrift and eventually landed on Turkish shores. Frontex's offer for a second flight and diversion of an aerial asset to check the adrift boat were rejected by Greek authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "At 02:46 FSA takes a picture of a Greek patrol vessel towing the rubber boat with migrants on board towards TUR Territorial Waters.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

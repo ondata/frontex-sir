@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2022-00335/Redacted_11095.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:42:48.136488+00:00",
+  "records": [
+    {
+      "sir_id": "11095/2020",
+      "report_date": "2020-04-22",
+      "incident_date": "2020-04-18",
+      "location_details": "Events occurred on 18-19/04/2020, in which the Frontex Surveillance Aircraft intervened while performing a surveillance flight between the Greek and Turkish maritime border near the island of Lesvos. Latitude: 39.4458333333, Longitude: 26.4391666666.",
+      "where_clear": "Sea area between Greek and Turkish maritime border, near Lesvos island.",
+      "location_text_raw": "between the Greek and Turkish maritime border near the island of Lesvos.",
+      "country_or_area": "Aegean Sea (near Lesvos, Greece/Turkey border)",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "39.4458333333, 26.4391666666",
+      "lat": 39.4458333333,
+      "lon": 26.4391666666,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Unprocessed return and violation of the principle of non-refoulement",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Violation of Fundamental Rights or international protection obligations such as the principle of non-refoulement",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Frontex Surveillance Aircraft intervened during a surveillance flight between the Greek and Turkish maritime border near Lesvos. Migrants were reportedly safe on a patrol vessel, then placed back in a rubber boat, put in distress, and left adrift without propulsion in Turkish territorial waters. This incident is suspected to involve an unprocessed return and potential violations of fundamental rights and the principle of non-refoulement. No Frontex asset was directly involved in the Serious Incident itself.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Based on the initial information it is suspected that the incident has characteristics of a case of an unprocessed return and violation of the principle of non-refoulement. [...] there is a strong believe that presented facts support an allegation of possible violation of Fundamental Rights or international protection obligations such as the principle of non-refoulement.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

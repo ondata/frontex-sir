@@ -1,0 +1,42 @@
+{
+  "source_file": "pdfs/pad-2022-00394-documents/pad-2022-00394-documents.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:44:19.795399+00:00",
+  "records": [
+    {
+      "sir_id": "13062/2021",
+      "report_date": "2021-08-21",
+      "incident_date": "2021-08-20",
+      "location_details": "Near Sicily, Italy, in the sea, at coordinates 37.9833333333, 12.3333333333.",
+      "where_clear": "Sea near Sicily, Italy",
+      "location_text_raw": "Sicily, Italy Text removed - Operational Area",
+      "country_or_area": "Sicily, Italy",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "37.9833333333, 12.3333333333",
+      "lat": 37.9833333333,
+      "lon": 12.3333333333,
+      "uncertainty_note": null,
+      "dead_confirmed": 1,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "On 21.08.2021, 5 migrants were found. They declared to be 19 migrants in total. A dead body was found in water, and an Italian helicopter/Coast Guard is searching for other migrants in water.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A dead body was found in water and an ITA/HELO/CG - Text removed - Technical Equipment Text removed - Technical Equipment are searching for other migrants in water.",
+      "confidence": "high",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

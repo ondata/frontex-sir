@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2022-00310/PAD-2022-00310-documents_2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:30:49.083458+00:00",
+  "records": [
+    {
+      "sir_id": "12085/2021",
+      "report_date": "2021-06-11",
+      "incident_date": "2021-06-10",
+      "location_details": "Incident occurred at Latitude 36.933333, Longitude 27.450000, inside Turkish Territorial Waters (TTW) near the maritime borderline. Detected by Land Observatory.",
+      "where_clear": "Maritime borderline, inside Turkish Territorial Waters (TTW), Aegean Sea.",
+      "location_text_raw": "inside TTW, borderline, 36.9333330000, 27.4500000000",
+      "country_or_area": "Aegean Sea, near Turkey",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "36.933333, 27.450000 (Aegean Sea)",
+      "lat": 36.933333,
+      "lon": 27.45,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A rubber boat with approximately 25 migrants was detected by a Land Observatory inside Turkish Territorial Waters (TTW). HCG maritime assets attempted to intercept and immobilize the boat at the borderline using loudspeakers and police lights, but with negative results. Two TCG vessels were informed but did not respond. Migrants showed aggressive behavior towards Text Removed - Reporting Tools personnel, putting them in danger, leading to warning shots being fired at a safe area. A migrant jumped and attempted to assault Text Removed - Human Resources. The rubber boat was eventually immobilized at the border line, and TUR CG vessels initiated embarkation procedures under the supervision of HCG CPBs. The incident was assessed as having serious actual or potential negative implications on Frontex core tasks, with the migrant's aggressive behavior not matching the profile of persons seeking international protection, and the TUR CG's response being delayed and inactive. The final report proposed closure without additional actions, noting that personnel must always be prepared for aggressive behavior during boardings or interceptions.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A rubber boat with approximately 25 migrants onboard was early detected by Land Observatory at the Text Removed - Operational Area inside TTW. ... warning shots were fired at a safe area. During the incident, a migrant jumped and managed to embark on Removed - Technical Equipment trying to assault Text Removed - Human Resources.",
+      "confidence": "high",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

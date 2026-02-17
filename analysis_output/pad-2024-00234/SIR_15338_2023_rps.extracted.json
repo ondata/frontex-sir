@@ -1,0 +1,58 @@
+{
+  "source_file": "pdfs/pad-2024-00234/SIR_15338_2023_rps.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:13:02.835841+00:00",
+  "records": [
+    {
+      "sir_id": "15338/2023",
+      "report_date": "2024-05-29",
+      "incident_date": "2023-09-24",
+      "location_details": "The incident involved an interception by the Hellenic Coast Guard (HCG) near Northeast Samos within Greek territorial waters, followed by the migrants drifting into Turkish territorial waters where they were rescued by the Turkish Coast Guard (TCG) off the coast of İzmir's Menderes district.",
+      "where_clear": "Sea area between Samos Island (Greece) and İzmir's Menderes district (Turkey).",
+      "location_text_raw": "at sea north of Samos, inside Greek territorial waters near Samos, near Northeast Samos within Greek territorial waters, off the coast of İzmir's Menderes district, inside Turkish territorial waters",
+      "country_or_area": "Aegean Sea, Greece/Turkey",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Aegean Sea between Samos Island, Greece and Izmir Menderes, Turkey",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The Office could not establish with certainty the exact location of HCG's intervention but believes it took place in Greek territorial waters. The exact route or distance taken by the migrant boat between interception in Greece and sighting in Turkish territorial waters is unknown.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "art. 2 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A group of 14 irregular migrants on a rubber boat was intercepted by the Hellenic Coast Guard (HCG) near Samos, Greece. The HCG crew removed the boat's gasoline and left the migrants adrift. The same group was later rescued by the Turkish Coast Guard (TCG) from Turkish territorial waters. The incident put the migrants' lives at risk due to abandonment at sea with a partly functional engine.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The measures the group of migrants was subjected to, and their abandonment at sea by the Hellenic Coast Guard have led to the migrants drifting with partly functional engine, for an extended period of time, putting their lives at risk.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

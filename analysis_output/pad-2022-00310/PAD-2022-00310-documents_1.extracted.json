@@ -1,0 +1,515 @@
+{
+  "source_file": "pdfs/pad-2022-00310/PAD-2022-00310-documents_1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:30:27.553232+00:00",
+  "records": [
+    {
+      "sir_id": "12896/2021",
+      "report_date": "2021-08-10",
+      "incident_date": "2021-08-06",
+      "location_details": "Text Removed - Operational Area, Text Removed - Operational Area, Lithuania",
+      "where_clear": "Lithuanian soil near the border with Belarus",
+      "location_text_raw": "Text Removed - Operational Area, Text Removed - Operational Area, Lithuania",
+      "country_or_area": "Lithuania",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Lithuanian border with Belarus",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact coordinates removed, but confirmed as Lithuanian territory near Belarus border.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Alleged Violation of preventing 6 migrants from illegal border crossing",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "6 migrants intercepted in Lithuanian soil after crossing from Belarus. Categorized as 'Prevention of Illegal Border Crossing from Belarus'. Lithuania introduced a new border management procedure stating persons crossing illegally and seeking asylum shall not be admitted and directed to nearest international border crossing point or diplomatic mission.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Alleged Violation of Text Removed - Operational Area 6 migrants prevented from illegal border crossing from Belarus after being intercepted in Lithuanian soil",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "12893/2021",
+      "report_date": "2021-08-10",
+      "incident_date": "2021-08-05",
+      "location_details": "Text Removed - Operational Area",
+      "where_clear": "Lithuanian soil near the border with Belarus",
+      "location_text_raw": "Text Removed - Operational Area",
+      "country_or_area": "Lithuania",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Lithuanian border with Belarus",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact coordinates removed, but confirmed as Lithuanian territory near Belarus border.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Alleged Violation of preventing 5 migrants from illegal border crossing",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "5 migrants (Iraqi passports) intercepted in Lithuanian soil near the border with Belarus. Categorized as 'Prevention of Illegal Border Crossing from Belarus'. Lithuania introduced a new border management procedure stating persons crossing illegally and seeking asylum shall not be admitted and directed to nearest international border crossing point or diplomatic mission.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Alleged Violation of Text Removed - Operational Area 5 migrants prevented from illegal border crossing from Belarus after being intercepted in Lithuanian soil",
+      "confidence": "medium",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "sir_id": "12892/2021",
+      "report_date": "2021-08-10",
+      "incident_date": "2021-08-07",
+      "location_details": "Text Removed - Operational Area, Sicilia, Italy",
+      "where_clear": "Sicilia, Italy",
+      "location_text_raw": "Text Removed - Operational Area, Sicilia, Italy",
+      "country_or_area": "Italy",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "35.5033333333, 12.6105555555",
+      "lat": 35.5033333333,
+      "lon": 12.6105555555,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Positive Covid test",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A Frontex Human Resources individual tested positive for Covid-19 and was quarantined from 07.08.2021 to 17.08.2021 in Sicilia, Italy.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Text Removed - Human Resources resulted Covid positive (quarantine from 07.08.2021 to 17.08.2021).",
+      "confidence": "high",
+      "evidence_pages": [
+        5
+      ]
+    },
+    {
+      "sir_id": "12791/2021",
+      "report_date": "2021-08-03",
+      "incident_date": "2021-07-30",
+      "location_details": "Text Removed - Operational Area Text Removed - Operational Area Greece",
+      "where_clear": "Inside Turkish Search and Rescue Region (SRR), near Greece",
+      "location_text_raw": "Text Removed - Operational Area Text Removed - Operational Area Greece",
+      "country_or_area": "Turkish SRR",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "39.431667, 26.253333",
+      "lat": 39.431667,
+      "lon": 26.253333,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 3,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "SAR operation with missing persons",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Turkish Coast Guard's failure to monitor migrant flows and non-compliance with international SAR obligations, endangering migrants",
+          "legal_basis": "EU Declaration on Turkey, international conventions on safety at sea and maritime search and rescue",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "SAR operation initiated after a fishing vessel reported persons in distress. A boat with 13 estimated people capsized. 10 migrants rescued (9 inside Turkish SRR), 3 missing. Turkish Coast Guard's actions and omissions were criticized for not complying with international obligations and endangering lives.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "10 migrants have been rescued by HCG maritime assets - 9 of them inside Turkish SRR - and 3 migrants were finally considered as missing, even after detailed searches.",
+      "confidence": "high",
+      "evidence_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "12587/2021",
+      "report_date": "2021-07-18",
+      "incident_date": "2021-07-18",
+      "location_details": "Text Removed - Operational Area Text Removed - Operational Area Albania",
+      "where_clear": "Albania, on the road from Text Removed - Operational Area to Tirana Airport",
+      "location_text_raw": "Text Removed - Operational Area Text Removed - Operational Area Albania",
+      "country_or_area": "Albania",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "41.0961111111, 20.5133333333, Albania",
+      "lat": 41.0961111111,
+      "lon": 20.5133333333,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Car accident with injured Frontex Human Resources",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A Frontex Human Resources individual was involved in a car accident in Albania while driving a rented vehicle from Text Removed - Operational Area to Tirana Airport. The vehicle went off the road. The individual was transported to Libras Public Hospital for medical investigation and later confirmed to be in good health with minor injuries.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 18th July 2021, at the location Text Removed - Operational Area at the unknown precise location, Text Removed - Human Resources was involved in car accident.",
+      "confidence": "high",
+      "evidence_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "sir_id": "12403/2021",
+      "report_date": "2021-07-04",
+      "incident_date": "2021-07-02",
+      "location_details": "Tunisi, Tunisia",
+      "where_clear": "Vicinity of Text Removed - Operational Area, inside Tunisian Search and Rescue Region (SRR)",
+      "location_text_raw": "Tunisi, Tunisia",
+      "country_or_area": "Tunisian SRR",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Tunisian Search and Rescue Region",
+      "lat": 34.0,
+      "lon": 9.0,
+      "uncertainty_note": "Coordinates provided are for Tunisia generally, not the exact incident location. Incident occurred in the vicinity of 'Text Removed - Operational Area' within Tunisian SRR.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 43,
+      "dead_possible_min": 43,
+      "dead_possible_max": 43,
+      "possible_violations": [
+        {
+          "violation_name": "Potential violations of Fundamental Rights or international protection obligations",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Shipwreck off Tunisia with alleged drownings",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A boat with approximately 100 people was detected by Frontex assets in the Tunisian SRR. Due to being in Tunisian FIR, closer inspection was not possible. Later, Tunisian Red Crescent reported a shipwreck off Tunisia with at least 43 migrants drowned and 84 rescued. The boat had allegedly set off from Zuwara, Libya. Frontex concluded no potential violation of EU or international law related to fundamental rights and international protection obligations could be established.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 3 July afternoon, Tunisian Red Crescent informed the media about a shipwreck off Tunisia with at least 43 migrants drowned and another 84 rescued and transferred to port of Zarzis.",
+      "confidence": "medium",
+      "evidence_pages": [
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "sir_id": "12352/2021",
+      "report_date": "2021-06-30",
+      "incident_date": "2021-06-26",
+      "location_details": "Text Removed - Operational Area Text Removed - Operational Area Greece",
+      "where_clear": "Inside Greek territorial waters, near the border line",
+      "location_text_raw": "Text Removed - Operational Area Text Removed - Operational Area Greece",
+      "country_or_area": "Greece",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "37.7036111111, 27.0350000000",
+      "lat": 37.7036111111,
+      "lon": 27.035,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Harassment of Frontex asset by Turkish Military vessel",
+          "legal_basis": "international navigation rules",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A Turkish Military Boat approached a Frontex deployed asset (PRT GNR CPB) at high speed inside Greek territorial waters, performing dangerous maneuvers and creating big waves, endangering the safety of the crew and asset. This was considered a clear violation of international navigation rules.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "a Turkish Military Boat approached to its position in fast speed, inside Greek territorial waters Text Removed - Operational Area next to the border line, being a danger to the safety of its navigation.",
+      "confidence": "high",
+      "evidence_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "sir_id": "12294/2021",
+      "report_date": "2021-06-26",
+      "incident_date": "2021-06-26",
+      "location_details": "Text Removed - Operational Area Text Removed - Operational Area Text Removed - Operational Area, Bulgaria",
+      "where_clear": "Text Removed - Operational Area, Bulgaria",
+      "location_text_raw": "Text Removed - Operational Area Text Removed - Operational Area Text Removed - Operational Area, Bulgaria",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "42.1358333333, 24.7488888888, Bulgaria",
+      "lat": 42.1358333333,
+      "lon": 24.7488888888,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Possible loss of Frontex Technical Equipment / Night Vision Goggles",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A package containing Night Vision Goggles (NVG) intended for Frontex Human Resources was delivered to the wrong address in Text Removed - Operational Area, Bulgaria, due to a zip code mix-up. Local police and Frontex personnel investigated, but the residents at the wrong address denied receiving it. The package was later reported as found and arrived.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "TNT delivered one package of NVG [Nigh Vision Googles], which was intended for Text Removed - Human Resources, to wrong address in Text Removed - Operational Area, Bulgaria.",
+      "confidence": "high",
+      "evidence_pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "sir_id": "12286/2021",
+      "report_date": "2021-06-25",
+      "incident_date": "2021-06-24",
+      "location_details": null,
+      "where_clear": "N Macedonian-Greek border area",
+      "location_text_raw": null,
+      "country_or_area": "North Macedonia-Greece border",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "41.1955555555, 22.4738888888",
+      "lat": 41.1955555555,
+      "lon": 22.4738888888,
+      "uncertainty_note": "The location is given by coordinates, context implies N Macedonian-Greek border.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Potential violations of Codes of Conduct provisions",
+          "legal_basis": "Codes of Conduct provisions",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Publication on social media of information related to migrants in distress",
+          "legal_basis": "Art. 9 of CoC",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A Facebook post in a private group by a user (Text Removed - Human Resources) mentioned migrants in distress near the N Macedonian-Greek border, asking if any officers were deployed. The post included coordinates and details about two migrants in poor condition (one unconscious). The publication was later removed. It was questioned as a potential breach of Frontex's Code of Conduct, Art. 9.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Sensitive information on migrants, precise location, request for persons deployed in the area, potentially related to Frontex activity and disclosed on social media. It is questionned whether this is a potential breach to the CoC, in particular Art.9.",
+      "confidence": "high",
+      "evidence_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "sir_id": "12240/2021",
+      "report_date": "2021-06-23",
+      "incident_date": "2021-06-23",
+      "location_details": "Text Removed - Operational Area Text Removed - Operational Area Italy",
+      "where_clear": "Text Removed - Operational Area, Italy",
+      "location_text_raw": "Text Removed - Operational Area Text Removed - Operational Area Italy",
+      "country_or_area": "Italy",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "40.4652777777, 17.2505555555, Italy",
+      "lat": 40.4652777777,
+      "lon": 17.2505555555,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Potential violations of Codes of Conduct provisions",
+          "legal_basis": "Codes of Conduct provisions",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Alleged misconduct (verbal bullying, disobeying instructions, segregation, toxic environment) of Frontex Human Resources",
+          "legal_basis": "Codes of Conduct provisions",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Allegations of misconduct (verbal bullying, disobeying instructions, segregation, creating a toxic environment) by a Frontex Human Resources individual towards colleagues in Text Removed - Operational Area, Italy. Investigations found insufficient grounds to launch a formal procedure for CoC violation, attributing issues to misunderstanding, lack of experience, and accommodation problems (lack of privacy, common dinners/parties). Recommendations included training, reconsidering accommodation, and redeployment.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Alleged misconduct of Text Removed - Human Resources, unfriendly, bossy and rude attitude towards his Text Removed - Human Resources working in Text Removed - Reporting Tools and the Text Removed - Human Resources (the accommodation provided by Frontex to the deployed to Text Removed - Reporting Tools).",
+      "confidence": "high",
+      "evidence_pages": [
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "sir_id": "12143/2021",
+      "report_date": "2021-06-16",
+      "incident_date": "2021-06-13",
+      "location_details": "Text Removed - Operational Area Text Removed - Operational Area Greece",
+      "where_clear": "At the border within Turkish territorial waters, near Greece",
+      "location_text_raw": "Text Removed - Operational Area Text Removed - Operational Area Greece",
+      "country_or_area": "Turkish territorial waters",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "39.267417, 26.512500",
+      "lat": 39.267417,
+      "lon": 26.5125,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prevention of departure with TCG asset making dangerous maneuvers towards Frontex Technical Equipment",
+          "legal_basis": "EU Turkey Statement, good neighborly relations",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A Turkish Coast Guard (TCG) vessel made dangerous maneuvers towards a Frontex Technical Equipment asset (HCG CPB) inside Turkish territorial waters, near an immobilized migrant boat with approximately 10 migrants. The TCG vessel was not undertaking prevention actions but moved at high speed, causing material damage to the HCG CPB. This was seen as a violation of EU-Turkey commitments and good neighborly relations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "At Text Removed - Reporting Tools a TUR CG vessel [SG 905] which was already in the area not undertaking any prevention actions and without bearing navigational lights moved with high speed towards - Text Removed - Technical Equipment performing dangerous maneuvers.",
+      "confidence": "high",
+      "evidence_pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "sir_id": "12142/2021",
+      "report_date": "2021-06-16",
+      "incident_date": "2021-06-12",
+      "location_details": "Text Removed - Operational Area Text Removed - Operational Area Greece",
+      "where_clear": "Text Removed - Operational Area, Greece",
+      "location_text_raw": "Text Removed - Operational Area Text Removed - Operational Area Greece",
+      "country_or_area": "Greece",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "38.928333, 26.746667",
+      "lat": 38.928333,
+      "lon": 26.746667,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Serious actual or potential negative implications on Frontex core tasks",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prevention of departure with TCG asset making dangerous maneuvers towards HCG CPV",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A rubber boat with approximately 30 migrants was detected by Frontex Technical Equipment in Text Removed - Operational Area, Greece. A Turkish Coast Guard (TCG) vessel was identified escorting the migrant boat towards HTW. The migrant vessel then altered course back to Turkey. The TCG vessel entered HTW and engaged in dangerous maneuvers against the HCG CPV, causing minor material damages.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "TUR CG vessel entered HTW and engaged in dangerous maneuvers against Text Removed - Technical Equipment. Aforementioned maneuvering had as a result minor material damages to the HCG CPV.",
+      "confidence": "high",
+      "evidence_pages": [
+        38
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 46,
+  "dead_possible_total_min": 43,
+  "dead_possible_total_max": 43,
+  "records_invalid_skipped": 1
+}

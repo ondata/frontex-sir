@@ -1,0 +1,12 @@
+{
+  "source_file": "pdfs/pad-2024-00314/FROMs_Monitoring_Mission_Report_Serbia_2024_and_JO_CP_2024_February_and_April_2024_final-PAD_final_redacted_and_scanned.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:14:09.009621+00:00",
+  "records": [],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

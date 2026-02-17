@@ -1,0 +1,290 @@
+{
+  "source_file": "pdfs/pad-2022-00470/Documents2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T10:00:36.011276+00:00",
+  "records": [
+    {
+      "sir_id": "14128/2022",
+      "report_date": "2022-08-15",
+      "incident_date": null,
+      "location_details": "Bulgarian border with Turkey, within the JO Terra 2022 operational area. Incidents occurred across various locations along the border.",
+      "where_clear": "Bulgarian border with Turkey",
+      "location_text_raw": "Bulgarian border with Turkey (JO Terra 2022)",
+      "country_or_area": "Bulgaria-Turkey border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria-Turkey border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Incidents are aggregated over several months and locations are not precisely specified beyond the border area.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "art. 1 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A Frontex Standing Corps Officer reported allegations of systematic pushbacks and excessive use of force by Bulgarian authorities, based on informal conversations with ten Bulgarian Border Guard Officers. The reporting person did not personally witness incidents. Allegations include migrants getting injured, stripped of belongings, forced to swim, and degrading language. Bulgarian authorities denied the allegations, and FRO could not independently corroborate them but found them relatively credible and consistent with other reports.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Allegations of fundamental rights violations in the present SIR were denied by the Bulgarian authorities and could not be independently corroborated by the Fundamental Rights Office. The Office nonetheless expresses its concern about the allegations of so-called pushbacks and excessive use of force by Bulgarian authorities and underlines that these allegations are consistent with other reports in form of previous SIRs and NGO reports.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "sir_id": "10585/2022",
+      "report_date": "2022-02-11",
+      "incident_date": "2022-02-09",
+      "location_details": "Bulgaria, within the JO Terra 2022 operational area, involving incidents at accommodation, a gas station, and a supermarket.",
+      "where_clear": "Bulgaria (JO Terra 2022 operational area)",
+      "location_text_raw": "Bulgaria Operational Area",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific locations within Bulgaria are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A report concerning inappropriate behavior and Code of Conduct violations by a Standing Corps officer (BGO 3) deployed in JO Terra 2022 in Bulgaria. Incidents include offensive behavior towards colleagues, consuming alcohol in uniform, and driving under the influence of alcohol on February 1st and 9th, 2022. The operational team proposed terminating deployment.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Taking into account all the clear facts stating that BGO 3 multiple times violated the principles of Code of Conduct, behaving in a way to compromise the prestige and the nature of his mission, as well as he brought discredit to [redacted] Home MS and Frontex, the Operational team propose to start the process of terminating [redacted] deployment immediately.",
+      "confidence": "high",
+      "evidence_pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "sir_id": "11009/2022",
+      "report_date": "2022-03-08",
+      "incident_date": "2022-03-08",
+      "location_details": "A Border Crossing Point (BCP) in Bulgaria, within the JO Terra 2022 operational area.",
+      "where_clear": "Bulgarian Border Crossing Point (JO Terra 2022)",
+      "location_text_raw": "BCP [redacted] JO Terra 2022Operation area",
+      "country_or_area": "Bulgaria",
+      "location_type": "facility",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria border crossing point",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific BCP is redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "rights of the child",
+          "legal_basis": "Article 24, Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "obligation to ensure primary consideration of best interests of the child",
+          "legal_basis": "Article 24 paragraph 2",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "right to respect for private and family life",
+          "legal_basis": "Article 8, European Convention on Human Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A Frontex SC Officer reported an incident involving a missing child at a Bulgarian BCP. The Fundamental Rights Office found a flawed assessment of the child's best interests, prioritizing basic needs over security concerns, which led to the child's escape with the father during a second-line check. The report also notes the use of warning shots and 'stop cartridges' by border guards to prevent the escape, deemed necessary and proportionate by FRO.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "As regards the case scrutinised under SIR 11009/2022, the Fundamental Rights Office found that a flawed assessment of best interests of a child reported missing by Bulgarian border guards, one that prioritised basic needs over security concerns, laid the foundation for certain actions to be taken and for certain failure to act creating an environment in which the interests of the child were not safeguarded and the escape of a father with said child during second line check was rendered possible.",
+      "confidence": "high",
+      "evidence_pages": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "sir_id": "11760/2022",
+      "report_date": "2022-04-23",
+      "incident_date": null,
+      "location_details": "A forest in Bulgaria near the Turkey-Bulgaria border, within the JO Terra 2022 operational area. Bodies were later found and taken to a hospital in Burgas.",
+      "where_clear": "Bulgaria-Turkey border forest, near Burgas",
+      "location_text_raw": "in a forest in Bulgaria after crossing irregularly the Turkey-Bulgaria border",
+      "country_or_area": "Bulgaria-Turkey border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Forest near Bulgaria Turkey border, Burgas",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific forest location is not given.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 2,
+      "dead_possible_max": 2,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life - obligation to take steps to prevent avoidable losses of life",
+          "legal_basis": "art. 2 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A group of 10 migrants (8 men, 2 women) crossed from Turkey to Bulgaria. Two migrants died during a two-day wait in a forest refuge due to cold and exhaustion after being told by Bulgarian authorities to wait. The group was later apprehended and 'pushed back' to Turkey. Bulgarian authorities retrieved the bodies but denied other allegations. FRO could not corroborate the allegations but noted consistency with other reports and expressed concern about the lack of response from Bulgarian authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A group of 10 migrants was arrested [redacted] in a forest in Bulgaria after crossing irregularly the Turkey-Bulgaria border on [redacted]. During the two-day wait, due to cold weather and exhaustion, two migrants [redacted] died.",
+      "confidence": "medium",
+      "evidence_pages": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "sir_id": "12819/2022",
+      "report_date": "2022-07-07",
+      "incident_date": null,
+      "location_details": "Bulgaria-Turkey border, near a Turkish village (name redacted), within the JO Terra 2022 operational area.",
+      "where_clear": "Bulgaria-Turkey border",
+      "location_text_raw": "border from Turkey to Bulgaria in the vicinity of a Turkish village with reported name [redacted]",
+      "country_or_area": "Bulgaria-Turkey border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria-Turkey border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific village name is redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "human dignity",
+          "legal_basis": "art. 1 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "right to life",
+          "legal_basis": "art. 2 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A group of 24 migrants crossing from Turkey to Bulgaria was allegedly attacked by police/military with rifles and a service dog. Several migrants were bitten, with at least one sustaining severe injuries. Bulgarian officers allegedly laughed and provided no medical assistance before rounding up and sending the group back to Turkey on foot. Bulgarian authorities denied the incident, but FRO considers the allegations relatively credible due to consistency with other reports and documented injuries.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "In the early morning hours o[redacted] a group of 24 migrants is alleged to have irregularly crossed the border from Turkey to Bulgaria... Officers carried rifles and as the migrant group dispersed, a dog handler set the service dog on them. Several migrants were bitten by the dog, at least one of them sustained severe injuries.",
+      "confidence": "medium",
+      "evidence_pages": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "sir_id": "13800/2022",
+      "report_date": "2022-08-24",
+      "incident_date": null,
+      "location_details": "Bulgaria-Greece border, specifically the green border area, near a Greek village (name redacted) and involving a crossing of the Evros river. Within the JO Terra 2022 operational area.",
+      "where_clear": "Bulgaria-Greece border (Evros river area)",
+      "location_text_raw": "Bulgaria after irregularly crossing from Greece [redacted]",
+      "country_or_area": "Bulgaria-Greece border",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria Greece border Evros river",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific village name and exact crossing points are redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "Article 1 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A group of 10 migrants was apprehended in Bulgaria after crossing from Greece. They alleged being transported to the Bulgaria-Greece green border, forced to remove clothes and shoes, had mobile phones taken, and were beaten with sticks by Bulgarian police, then forced back to Greece. Greek authorities later apprehended and assisted them. Bulgarian authorities denied the allegations, but FRO found them relatively credible due to consistency with other reports and the substantiated nature of migrant testimonies.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A group of ten (10) migrants was detected and apprehended in Bulgaria after irregularly crossing from Greece [redacted]. Some of the migrants declared they were forced to take off their shoes and clothes and that their mobile phones were taken by Bulgarian police officers. Some of the migrants were allegedly beaten with sticks by Bulgarian police officers.",
+      "confidence": "medium",
+      "evidence_pages": [
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 2,
+  "dead_possible_total_max": 2,
+  "records_invalid_skipped": 0
+}
