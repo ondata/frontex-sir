@@ -1,0 +1,67 @@
+{
+  "source_file": "pdfs/pad-2025-00367/13045_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:22:13.568939+00:00",
+  "records": [
+    {
+      "sir_id": "13045/2022",
+      "report_date": "2023-01-11",
+      "incident_date": "2022-06-05",
+      "location_details": "A white fiberglass boat with over 30 migrants departed from Libya, was initially detected in the Libyan Search and Rescue Region (SRR), and subsequently located and rescued in the Maltese Search and Rescue Region (SRR) by a Libyan vessel. Instances of violence against migrants occurred onboard the Libyan vessel.",
+      "where_clear": "Maltese Search and Rescue Region (SRR)",
+      "location_text_raw": "inside the Libyan Search and Rescue Region (SRR), Maltese SRR, departed from Libya",
+      "country_or_area": "Maltese SRR",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Maltese Search and Rescue Region",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates within the broad Search and Rescue Region are not provided.",
+      "dead_confirmed": null,
+      "injured_confirmed": 2,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights and Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "the prohibition of refoulment and the protection in the event of removal, expulsion or extradition",
+          "legal_basis": "Article 19(2) of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Frontex unmanned aerial aircraft detected a migrant boat in the Libyan SRR, later updated its position in the Maltese SRR. A Libyan vessel performed the rescue, during which instances of violence against migrants by Libyan crew members were observed. The Fundamental Rights Office raised concerns about ill-treatment, the principle of non-refoulement, and the coordination with Libyan authorities, noting that Libya cannot be considered a safe port.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "Frontex surveillance aircraft observed the onboarding of the migrants for approximately 20 minutes and reported instances of violence against two (2) migrants by at least three (3) crew members of the Libyan vessel.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 2,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

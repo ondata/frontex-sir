@@ -1,0 +1,388 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/SIRs_CMU_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:12:38.088953+00:00",
+  "records": [
+    {
+      "sir_id": "10482/2025",
+      "report_date": "2025-03-28",
+      "incident_date": "2025-03-26",
+      "location_details": null,
+      "where_clear": "Serbia",
+      "location_text_raw": "JO Serbia Land 2025",
+      "country_or_area": "Serbia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "EU or international law, Fundamental Rights and international protection obligations",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "Frontex Code of Conduct (CoC)",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "An incident involving armed persons pointing weapons against redacted individuals in Serbia.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 26.03.2025 at [redacted] was informed by the [redacted] that [redacted] identified persons at the [redacted].",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "10395/2025",
+      "report_date": "2025-03-05",
+      "incident_date": "2025-02-28",
+      "location_details": null,
+      "where_clear": "Greece, sea area",
+      "location_text_raw": "JO Greece Sea 2025",
+      "country_or_area": "Greece",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Aegean Sea, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "EU or international law, Fundamental Rights and international protection obligations",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "Frontex Code of Conduct (CoC)",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "An incident concerning a failure to inform about involvement in a visit during a joint operation in the Greek sea area.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 28.02.2024, [redacted] assisted the visit of [redacted] without informing [redacted] about the activity.",
+      "confidence": "medium",
+      "evidence_pages": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "sir_id": "10771/2025",
+      "report_date": "2025-06-04",
+      "incident_date": "2025-06-04",
+      "location_details": null,
+      "where_clear": "Spain",
+      "location_text_raw": "Spain",
+      "country_or_area": "Spain",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Spain",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "EU or international law, Fundamental Rights and international protection obligations",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "Frontex Code of Conduct (CoC)",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A hospitalization incident in Spain during JO Spain 2025 - Indalo.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 04.06.2024 at [redacted] has visited the doctor [redacted]. The doctor decided to direct [redacted] to the hospital.",
+      "confidence": "medium",
+      "evidence_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "sir_id": "10934/2025",
+      "report_date": "2025-07-09",
+      "incident_date": "2025-06-29",
+      "location_details": null,
+      "where_clear": "Bulgaria",
+      "location_text_raw": "Bulgaria",
+      "country_or_area": "Bulgaria",
+      "location_type": "facility",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "EU or international law, Fundamental Rights and international protection obligations",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "Frontex Code of Conduct (CoC)",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Lost luggage by an air company in Bulgaria, containing Frontex equipment and personal belongings.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 29/06/2025, [redacted] informed [redacted] that luggage [redacted] was lost by the flight company, [redacted], at [redacted] together with non-lethal and supportive technical equipment and other personal belongings.",
+      "confidence": "medium",
+      "evidence_pages": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "sir_id": "10830/2025",
+      "report_date": "2025-06-16",
+      "incident_date": "2025-06-14",
+      "location_details": null,
+      "where_clear": "North Macedonia",
+      "location_text_raw": "North Macedonia",
+      "country_or_area": "North Macedonia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "North Macedonia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "EU or international law, Fundamental Rights and international protection obligations",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "Frontex Code of Conduct (CoC)",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A traffic accident involving a motorbike in North Macedonia, resulting in one injured person.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 14/06/2025 [redacted] while off duty, was driving alone [redacted] motorbike on the [redacted] and while approaching a curve, [redacted] lost control of [redacted] motorcycle resulting a traffic accident.",
+      "confidence": "medium",
+      "evidence_pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "sir_id": "10787/2025",
+      "report_date": "2025-06-07",
+      "incident_date": "2025-06-06",
+      "location_details": null,
+      "where_clear": "Serbia",
+      "location_text_raw": "Serbia",
+      "country_or_area": "Serbia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "EU or international law, Fundamental Rights and international protection obligations",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "Frontex Code of Conduct (CoC)",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A medical incident in Serbia leading to hospitalization during JO Serbia Land 2025.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 6 of June 2025, at approximately [redacted] attended medical appointment at [redacted]. After being examined, [redacted] was diagnosed with [redacted] for two days.",
+      "confidence": "medium",
+      "evidence_pages": [
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "sir_id": "10693/2025",
+      "report_date": "2025-05-15",
+      "incident_date": "2025-05-14",
+      "location_details": null,
+      "where_clear": "North Macedonia, near railway tracks",
+      "location_text_raw": "North Macedonia",
+      "country_or_area": "North Macedonia",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "North Macedonia railway",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details are redacted, but 'railway trucks' is mentioned.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "EU or international law, Fundamental Rights and international protection obligations",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "Frontex Code of Conduct (CoC)",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "An encounter with a person carrying a knife near railway tracks in North Macedonia.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The person then pulled out a kitchen knife and threatened [redacted] posture and gesture (pointing the knife).",
+      "confidence": "medium",
+      "evidence_pages": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "sir_id": "10640/2025",
+      "report_date": "2025-05-04",
+      "incident_date": "2025-05-03",
+      "location_details": null,
+      "where_clear": "Austria",
+      "location_text_raw": "Austria",
+      "country_or_area": "Austria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Austria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "EU or international law, Fundamental Rights and international protection obligations",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "Frontex Code of Conduct (CoC) applicable to all persons participating in Frontex operational activities and Policy on the use and management of Frontex rented vehicles for operational activities",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "An incident in Austria involving confiscation and a person leaving the office to buy something.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 03/04/2025 at [redacted] hours was informed by [redacted] that [redacted] from [redacted] and decided to confiscate [redacted] to access [redacted].",
+      "confidence": "medium",
+      "evidence_pages": [
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "sir_id": "10549/2025",
+      "report_date": "2025-04-12",
+      "incident_date": "2025-04-11",
+      "location_details": null,
+      "where_clear": "Serbia",
+      "location_text_raw": "Serbia",
+      "country_or_area": "Serbia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location details are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "EU or international law, Fundamental Rights and international protection obligations",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Redacted",
+          "legal_basis": "Frontex Code of Conduct (CoC) applicable to all persons participating in Frontex operational activities and Policy on the use and management of Frontex rented vehicles for operational activities",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "A traffic accident involving a parked car in Serbia, with no injuries reported.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 11.04.2025 at [redacted] caused a traffic accident with his [redacted] while [redacted] a parked car and [redacted] at the spot established that [redacted] to park car.",
+      "confidence": "medium",
+      "evidence_pages": [
+        36,
+        37,
+        38
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

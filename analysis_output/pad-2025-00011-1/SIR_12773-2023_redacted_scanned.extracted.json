@@ -1,0 +1,52 @@
+{
+  "source_file": "pdfs/pad-2025-00011-1/SIR_12773-2023_redacted_scanned.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:51:17.471156+00:00",
+  "records": [
+    {
+      "sir_id": "12773/2023",
+      "report_date": "2024-12-31",
+      "incident_date": "2023-06-15",
+      "location_details": "The incident involves a group of five Pakistani migrants. They crossed from Greece (Ioannina, Kalpaki) into Albania on 15/06/2023 in a redacted border area. They were apprehended by Albanian police, processed in a migrant camp in Albania, then transported to an unknown forest location and left. After returning to the camp, they were again transported on 16/06/2023 to a redacted location close to the Greek border and instructed to cross. They re-entered Greece and were apprehended by Hellenic police near a redacted village.",
+      "where_clear": "Border area between Greece (Ioannina, Kalpaki) and Albania, including an Albanian migrant camp and a forest, and a Greek village near the border.",
+      "location_text_raw": "border to Albania in the [REDACTED] area, migrant camp in Albania, unknown location in the middle of a forest, place close to the Greek border, re-entered Greece, where they were apprehended... by the Hellenic police near [REDACTED] village.",
+      "country_or_area": "Albania, Greece",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Greece Albania border area near Ioannina Kalpaki",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific locations within the border area, the migrant camp, and the Greek village are redacted or described generally.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A group of five Pakistani migrants alleged being apprehended by Albanian police on 15/06/2023, processed in a camp, then transported to an unknown location and left. After returning to the camp, they were again transported on 16/06/2023 to a location near the Greek border and instructed to cross to Greece. The Fundamental Rights Office found it unclear if a collective expulsion occurred.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office received information from Frontex operational staff about a group of migrants who alleged being apprehended by the Albanian police on 15/06/2023.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

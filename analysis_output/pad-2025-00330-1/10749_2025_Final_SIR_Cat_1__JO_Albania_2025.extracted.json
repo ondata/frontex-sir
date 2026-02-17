@@ -1,0 +1,53 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/10749_2025_Final_SIR_Cat_1__JO_Albania_2025.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:06:28.171016+00:00",
+  "records": [
+    {
+      "sir_id": "10749/2025",
+      "report_date": "2025-06-26",
+      "incident_date": "2025-05-22",
+      "location_details": "The incident occurred near the Albania-Montenegro border, specifically in a specific area in North-western Albania. Similar incidents have occurred in the same area, within an approximate range of 2.5 kilometers, at locations coinciding with where other incidents described in relevant SIRs took place.",
+      "where_clear": "Near the Albania-Montenegro border, North-western Albania",
+      "location_text_raw": "near the Albania-Montenegro border",
+      "country_or_area": "Albania-Montenegro border area",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Albania-Montenegro border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to property",
+          "legal_basis": "Article 1 of Protocol No. 1 of the European Convention on Human Rights (ECHR)",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Three migrants were allegedly robbed by two perpetrators wearing Albanian police uniforms on 22/05/2025 near the Albania-Montenegro border. They were threatened with arrest and deportation to Greece if they did not hand over their money. The migrants were forced to hand over 220 euros. After taking their money, the alleged officers allowed the migrants to proceed, providing guidance on how to cross the border into Montenegro and avoid the border crossing point.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office received information from Frontex about three migrants allegedly robbed by two perpetrators wearing Albanian police uniforms on 22/05/2025. According to the migrants, the group was stopped by the alleged police officers near the Albania-Montenegro border.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

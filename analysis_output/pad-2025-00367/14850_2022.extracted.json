@@ -1,0 +1,60 @@
+{
+  "source_file": "pdfs/pad-2025-00367/14850_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:22:56.439748+00:00",
+  "records": [
+    {
+      "sir_id": "14850/2022",
+      "report_date": "2023-01-24",
+      "incident_date": "2022-10-04",
+      "location_details": "Incident occurred on Serbian territory, approximately 1-2 km from the Serbian-Romanian border, near the A166 border sign. Romanian border police entered Serbian territory and stopped a group of 8 persons near the border line, who were then taken over by a Serbian police patrol.",
+      "where_clear": "Serbian territory, near the Serbian-Romanian border, close to A166 border sign.",
+      "location_text_raw": "Serbian territory",
+      "country_or_area": "Serbia",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Serbian-Romanian border, near A166 border sign, Serbia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights and art. 4 of Protocol No. 4 to the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "art. 47 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of refoulement",
+          "legal_basis": "art. 19 (2) of the EU Charter",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Frontex aerial surveillance observed Romanian border guards and a group of 8 persons in Serbian territory. A second vehicle (Serbian police) arrived and took over the group. Romanian authorities stated this was a 'normal prevention of illegal crossing' and no further investigation is needed. The Fundamental Rights Office noted serious shortcomings in procedural safeguards and potential violations of fundamental rights, including collective expulsion, right to an effective remedy, and non-refoulement.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Frontex aerial surveillance asset (FSA) recorded two alleged Romanian border guards and 6+ persons standing next to a Border Patrol vehicle within Serbian territory.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

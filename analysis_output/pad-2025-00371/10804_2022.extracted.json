@@ -1,0 +1,66 @@
+{
+  "source_file": "pdfs/pad-2025-00371/10804_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:29:30.247511+00:00",
+  "records": [
+    {
+      "sir_id": "10804/2022",
+      "report_date": "2022-03-25",
+      "incident_date": "2022-02-23",
+      "location_details": "Interception of ten migrants who illegally crossed the land border from Belarus into Latvia, followed by their return to Belarus without individual assessment.",
+      "where_clear": "Latvia-Belarus land border",
+      "location_text_raw": "border from Belarus to Latvia",
+      "country_or_area": "Latvia, Belarus",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Latvia Belarus border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19(1) of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "art. 19 (2) of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Ten migrants were intercepted by a Frontex SCO and Latvian Border Guards after illegally crossing the border from Belarus to Latvia. They were provided with medical checks, food, and warm clothes, but subsequently returned to Belarus without an individual assessment of their situation, in application of a Cabinet of Ministers Order.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 24.02, ten migrants were returned to Belarus in application of paragraph no.4 from the Cabinet of Ministers Order No.518/10.08.2021",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

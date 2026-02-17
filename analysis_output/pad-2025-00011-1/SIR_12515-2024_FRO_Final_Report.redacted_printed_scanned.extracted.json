@@ -1,0 +1,51 @@
+{
+  "source_file": "pdfs/pad-2025-00011-1/SIR_12515-2024_FRO_Final_Report.redacted_printed_scanned.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:50:53.031365+00:00",
+  "records": [
+    {
+      "sir_id": "12515/2024",
+      "report_date": "2024-12-17",
+      "incident_date": "2024-06-02",
+      "location_details": "Incident occurred on the Kula - Vidiv road, Bulgaria, near the Border Control Unit (BCU), at coordinates 43 54.828 N 22 33.822 E.",
+      "where_clear": "Kula - Vidiv road, Bulgaria",
+      "location_text_raw": "on the Kula - Vidiv road (in position 43 54.828 N 22 33.822 E)",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "43.9138, 22.5637",
+      "lat": 43.9138,
+      "lon": 22.5637,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of torture and inhuman or degrading treatment or punishment",
+          "legal_basis": "Article 4 of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A Frontex officer reported that on 02/06/2024 after the apprehension of five migrants in the area of the Border Control Unit (BCU), one of them alleged that he was bitten by a service dog of the Bulgarian patrol during apprehension. The Frontex officer described the injury as a severe dog bite on the migrant's left shoulder. The migrant was referred to a doctor, and a medical certificate confirmed an hematoma and wounds. However, the Bulgarian authorities denied the dog bite and stated no injuries from animal bites were found, though they confirmed the use of a service dog. The Fundamental Rights Office considers the migrant was injured but the cause of the injury is unclear, and cannot verify if excessive force was used.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Frontex officer described the injury as a dog bite on the migrant's left shoulder, resulting in injury and bleeding in this area, along with several other less serious injuries on the migrant's back and legs which were probably caused by the rocks and vegetation in the area.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

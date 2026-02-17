@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2025-00085/14278_2024_SI_Report_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:58:07.129840+00:00",
+  "records": [
+    {
+      "sir_id": "14278/2024",
+      "report_date": "2024-10-02",
+      "incident_date": "2024-09-29",
+      "location_details": null,
+      "where_clear": "A village in Greece within the operational area of JO Greece 2024 Land.",
+      "location_text_raw": "Greece, village [REDACTED], JO Greece 2024 Land",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific village name is redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Violation of Code of Conduct applicable to all persons participating in Frontex operational activities",
+          "legal_basis": "Art. 6 - Performance of duties",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Irresponsible use of a Transportation Vehicle by SC officers to travel outside their place of duty. Two SC officers left their working place for approx. 2 hours, visited a village in a Frontex provided vehicle, were spotted by a Frontex patrol, and their presence was not justified. They did not duly inform about their absence.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Irresponsible use of a Transportation Vehicle by SC officers to travel outside their place of duty",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

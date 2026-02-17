@@ -1,0 +1,57 @@
+{
+  "source_file": "pdfs/pad-2025-00011-1/Final_SIR_15957-2023_SPed.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:49:33.290566+00:00",
+  "records": [
+    {
+      "sir_id": "15957/2023",
+      "report_date": "2024-12-21",
+      "incident_date": "2023-06-20",
+      "location_details": "The migrant alleged four instances of attempted irregular entry to Greece from Türkiye in the summer 2023, specifically in the Evros region around Soufli. Incidents involved crossing the Evros river, apprehension near Soufli, detention in facilities (one described as near a highway and football field, possibly BCU Soufli or Isaakio detention center), and subsequent pushbacks to Türkiye. The migrant mentioned crossing from the Ipsala area in Türkiye.",
+      "where_clear": "Evros region, near Soufli, Greece/Türkiye border",
+      "location_text_raw": "Evros region around Soufli, river Evros from Türkiye (near Soufli), Ipsala area, BCU Soufli, Isaakio detention center",
+      "country_or_area": "Greece, Türkiye, Evros region",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros river, Soufli, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The Fundamental Rights Office could not precisely geolocate the places of the incidents, but descriptions generally match the geography of the Greek territory in the Evros region near Soufli and the border with Türkiye.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A migrant reported four instances of attempted irregular entry and subsequent pushbacks from Greece to Türkiye in the Evros region during summer 2023. These incidents allegedly involved apprehension by Hellenic Police and masked individuals, detention, and forced return across the Evros river. The Fundamental Rights Office found the testimony credible but could not independently verify specific allegations due to lack of evidence.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office finds the migrant's testimony to be credible, given its coherence, detailed nature, and consistency with documented patterns of alleged collective expulsion of migrants in the Evros region.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

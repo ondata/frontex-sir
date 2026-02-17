@@ -1,0 +1,48 @@
+{
+  "source_file": "pdfs/pad-2025-00339/10175-2017_redacted-ptp.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:14:01.064467+00:00",
+  "records": [
+    {
+      "sir_id": "10175/2017",
+      "report_date": "2017-05-13",
+      "incident_date": "2017-05-12",
+      "location_details": "Kos Island",
+      "where_clear": "Kos Island",
+      "location_text_raw": "Kos Island",
+      "country_or_area": "Kos Island",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Kos Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Sexual abuse of unaccompanied minor",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Last night (12/13.05.2017 the exact time is not confirmed) in [redacted] 01 [redacted] UAM (year old) was rapped by an adult [redacted] migrant. As initially reported there were 3 [redacted] adults involved in the incident (2 of them bound minor's hands and the third one rapped the UAM). The 3 [redacted] alleged perpetrators have been apprehended and transferred to the HP Station in Kos. The UAM is going to be examined by doctors and receive adequate medical and psychological assistance.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Sexual abuse of unaccompanied minor... UAM (year old) was rapped by an adult migrant.",
+      "confidence": "high",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

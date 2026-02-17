@@ -1,0 +1,75 @@
+{
+  "source_file": "pdfs/pad-2025-00371/10194-2019.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:25:31.771513+00:00",
+  "records": [
+    {
+      "sir_id": "10194/2019",
+      "report_date": "2019-10-04",
+      "incident_date": "2019-10-03",
+      "location_details": "Near Kastoria city (Greece)",
+      "where_clear": "Near Kastoria city, Greece",
+      "location_text_raw": "Kastoria, Kastoria, Greece",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kastoria, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": 1,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "right to life",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "integrity",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "human dignity",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of torture and inhuman, and degrading treatment",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "right to human dignity",
+          "legal_basis": "Article 1 of the EU Charter",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Minor migrant (child) allegedly hit with a baton by a Greek Police officer near Kastoria, Greece, leading to pain in hand and leg. The migrant and cousin were arrested and later released, then crossed the Greek-Albanian border illegally. Albanian Police provided medical care, but a doctor found no external injuries. Hellenic authorities denied any maltreatment reports for the specified dates. FRO concluded that alleged facts could amount to serious breaches of fundamental rights but lacked sufficient corroborating evidence from Hellenic authorities to confirm or refute.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Minor migrant allegedly hit with baton by Greek Police officer",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

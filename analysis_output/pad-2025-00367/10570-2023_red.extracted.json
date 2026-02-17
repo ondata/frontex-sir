@@ -1,0 +1,64 @@
+{
+  "source_file": "pdfs/pad-2025-00367/10570-2023_red.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:21:01.181498+00:00",
+  "records": [
+    {
+      "sir_id": "10570/2023",
+      "report_date": "2023-07-11",
+      "incident_date": "2022-10-16",
+      "location_details": "Frankfurt Airport, Germany, involving transit from Cuba/Serbia and Venezuela/Turkey.",
+      "where_clear": "Frankfurt Airport, Germany",
+      "location_text_raw": "Frankfurt airport",
+      "country_or_area": "Germany",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Frankfurt Airport, Germany",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "article 18 of the EU Charter of Fundamental Rights",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "article 47 of the EU Charter of Fundamental Rights",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prohibition of torture and inhuman or degrading treatment or punishment",
+          "legal_basis": "article 4 of the EU Charter of Fundamental Rights",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "This SIR details two incidents at Frankfurt Airport in October and November 2022 where Cuban and Venezuelan nationals, despite explicitly requesting international protection/asylum, were denied access to the asylum procedure by German Federal Police and subsequently returned to their countries of origin. The Fundamental Rights Office found that border guards were involved in assessing the substance of asylum claims, a task requiring specialist expertise, and highlighted the need for effective access to asylum procedures and procedural safeguards.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "In the cases under scrutiny, the Fundamental Rights Office observed that the persons concerned were interviewed by members of the Federal Police and although they explicitly requested access to the asylum procedure, were denied such by the German Federal Police based on their findings that they had not identified fear of political persecution and claims were not sufficiently consistent.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

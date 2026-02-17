@@ -1,0 +1,293 @@
+{
+  "source_file": "pdfs/pad-2025-00371/10548_12480_12816_12941_13269-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:28:48.556995+00:00",
+  "records": [
+    {
+      "sir_id": "10548/2022",
+      "report_date": null,
+      "incident_date": "2022-02-05",
+      "location_details": "Albanian territory, near a detention centre and an abandoned area 5 minutes' walk close to the BCP, pushed back to Greece.",
+      "where_clear": "Albanian territory, near the border with Greece",
+      "location_text_raw": "Albanian territory via [redacted] area, detention centre [redacted], abandoned area [redacted] 5 minutes' walk close to the BCP",
+      "country_or_area": "Albania, Greece border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific locations are redacted, making precise geocoding impossible.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to human dignity",
+          "legal_basis": "Article 1 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to integrity of the person",
+          "legal_basis": "Article 3 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of torture and inhuman or degrading treatment or punishment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "Article 18 of EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "Article 19 (2) of EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Fundamental rights",
+          "legal_basis": "Article 4 of the Frontex Code of Conduct",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Responsibility",
+          "legal_basis": "Article 7 of the Frontex Code of Conduct",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Behavioural standards",
+          "legal_basis": "Article 10 (a) of the Frontex Code of Conduct",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of abuse of authority and position",
+          "legal_basis": "Article 11 of the Frontex Code of Conduct",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Excessive use of force",
+          "legal_basis": "Article 18 (3) of the Frontex Code of Conduct",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Migrant entered Albania irregularly, was apprehended by Albanian police, fingerprinted, detained overnight, and then pushed back to Greece from an abandoned area near a BCP.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On the 5 February 2022, after entering irregularly the Albanian territory via [redacted] area, the migrant was travelling alone towards this area. Around [redacted] on that day the Albanian police found him and brought him to a service car. Afterwards he was escorted to the detention centre [redacted] indicated by the migrant), where he spent the night. On the same day, on 5 February 2022, the Albanian authorities took his fingerprints, as well as a profile picture, and the migrant filled and signed some forms. The next day, around [redacted] in the morning, the Albanian authorities brought them to an abandoned area [redacted] (the migrant pointed the exact location on a map) 5 minutes' walk close to the BCP, and then pushed him back to Greece.",
+      "confidence": "low",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "12480/2022",
+      "report_date": "2022-12-22",
+      "incident_date": "2022-06-14",
+      "location_details": "Albanian territory, near the Albanian-Greek border, involving a temporary center for foreign citizens and various apprehension locations.",
+      "where_clear": "Albanian territory, near the border with Greece",
+      "location_text_raw": "Albanian territory, temporary center for the foreign citizens in [redacted] located close to the Albanian-Greek border between the [redacted], apprehended 14 at [redacted], group that ran away at location [redacted], apprehended 16 migrants at said location [redacted]",
+      "country_or_area": "Albania, Greece border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific locations are redacted, making precise geocoding impossible.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Apprehension of 16 migrants by Albanian and Frontex officers. Allegations of excessive force (kick) by Albanian officer and previous pushbacks to Greece. FRO notes consistency with other SIRs regarding pushbacks.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 14 June 2022, the Frontex [redacted] documented the apprehension of a group of 16 migrants by one Albanian and one Frontex [redacted]. During the apprehension, the [redacted] an instance of potential use of excessive force by the Albanian officer in form of a kick. In addition, other migrants apprehended by the same team few hours earlier had claimed that they had been apprehended in the same area on 11 June 2022 by the Albanian authorities who had subsequently escorted them to the border with Greece.",
+      "confidence": "low",
+      "evidence_pages": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "sir_id": "12816/2022",
+      "report_date": "2022-11-14",
+      "incident_date": "2022-06-11",
+      "location_details": "Albanian territory, near Kakavia, close to the Greek border, with migrants transferred to Greece.",
+      "where_clear": "Albanian territory, near Kakavia (border with Greece)",
+      "location_text_raw": "Albanian territory, area of [redacted], Kakavia, [redacted] (Greece)",
+      "country_or_area": "Albania, Greece border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia border crossing, Albania-Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 4 of Protocol no. 4 to the European Convention on Human Rights hereinafter ECHR",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the ECHR",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "Article 13 of the ECHR taken in conjunction with Article 3 of the ECHR and Article 4 of Protocol No. 4 to the ECHR",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Migrants apprehended by Albanian Police, not informed about asylum, not registered/fingerprinted, and allegedly forced to cross to Greece near Kakavia. FRO notes consistency with other pushback allegations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A migrant claimed that he entered illegally the Albanian territory on 11 June 2022 with a group of migrants. According to his account, after hiding in the forest for four consecutive days, seven of them were apprehended by the Albanian Police on 15 June 2022 in the area of [redacted]. Reportedly, the migrants were not informed about asylum procedures. He also claimed they hadn't been registered or fingerprinted and that two days later, on 17 June 2022, they were allegedly forced to take the path leading to the Greek border by Albanian Police officers.",
+      "confidence": "medium",
+      "evidence_pages": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "sir_id": "12941/2022",
+      "report_date": "2022-11-23",
+      "incident_date": "2022-06-17",
+      "location_details": "Albanian territory, near the border with Greece (Kakavia BCU area), with migrants transported to a police station and later to Delvinaki, Greece.",
+      "where_clear": "Albanian territory, near Kakavia BCU and Delvinaki, Greece",
+      "location_text_raw": "border line between Albania and Greece, police station, Kakavia BCU, Delvinaki (Greece)",
+      "country_or_area": "Albania, Greece border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia border crossing, Albania-Greece; Delvinaki, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 4 of Protocol no. 4 to the European Convention on Human Rights hereinafter ECHR",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the ECHR",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "Article 13 of the ECHR taken in conjunction with Article 3 of the ECHR and Article 4 of Protocol No. 4 to the ECHR",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Migrants entered Albania, were apprehended by Albanian Police, registered/fingerprinted, but not informed about asylum. Allegedly forced to cross to Greece and later apprehended by Greek authorities and transported to Delvinaki. FRO notes consistency with other pushback allegations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A man claimed that he entered illegally the Albanian territory with a group of 12 migrants. According to his account, he was dropped off by smugglers near the border line between Albania and Greece on the evening of 17.06.2022 and 10 hours later he crossed into the Albanian territory. He said that after four (4) days of walking (namely on 21.06.2022), they had been apprehended by Albanian Police officers and brought to a police station. Allegedly, the migrants were registered and fingerprinted but they were not informed about asylum procedures. The migrant also stated that on 21.06.2022 at 23:00 the Albanian police officers had forced them to take the path leading to the Greek border and after walking for one (1) hour they had been apprehended by Greek law enforcement officers. Reportedly, on 22.06.2022 the whole group was transported to Delvinaki (Greece).",
+      "confidence": "medium",
+      "evidence_pages": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "sir_id": "13269/2022",
+      "report_date": "2022-11-23",
+      "incident_date": "2022-07-22",
+      "location_details": "Albanian territory, near the Greek border, involving an unknown location and a local border police station.",
+      "where_clear": "Albanian territory, near the border with Greece",
+      "location_text_raw": "Albanian territory, unknown location, possibly near [redacted], path leading to the Greek border, local border police station in [redacted]",
+      "country_or_area": "Albania, Greece border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific locations are redacted or described as 'unknown', making precise geocoding impossible.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 4 of Protocol no. 4 to the European Convention on Human Rights hereinafter ECHR",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the ECHR",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "Article 13 of the ECHR taken in conjunction with Article 4 of Protocol No. 4 to the ECHR",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to property",
+          "legal_basis": "Article 17 of the Charter of Fundamental Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Migrants entered Albania, apprehended by Albanian Police, alleged theft of 300 EUR, forced to take path to Greek border. Some returned to Albania, others continued to Greece and were apprehended by Greek authorities. FRO notes consistency with other pushback allegations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A man claimed that he had entered illegally the Albanian territory on 22 July 2022 with a group of 11 migrants. According to his account, after walking for two consecutive days, they were apprehended by the Albanian Police on 23 July 2022, [redacted]. Reportedly, law enforcement officers checked their belongings and stole 300 EUR from them. The migrant said that afterwards they were taken to an unknown location, possibly near [redacted] and that they were forced to take the path leading to the Greek border.",
+      "confidence": "low",
+      "evidence_pages": [
+        17,
+        18,
+        19
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

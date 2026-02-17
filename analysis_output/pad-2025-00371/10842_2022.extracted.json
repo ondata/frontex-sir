@@ -1,0 +1,61 @@
+{
+  "source_file": "pdfs/pad-2025-00371/10842_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:29:54.000335+00:00",
+  "records": [
+    {
+      "sir_id": "10842/2022",
+      "report_date": "2022-03-07",
+      "incident_date": "2022-02-27",
+      "location_details": "Six migrants illegally crossed the border from Belarus to Latvia and were intercepted by Frontex officers and Latvian Border Guards. They were subsequently redirected to Belarus without individual assessment, based on Latvian Order No. 518/10.08.2021.",
+      "where_clear": "Latvia-Belarus border",
+      "location_text_raw": "border from Belarus to Latvia",
+      "country_or_area": "Latvia, Belarus",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Latvia Belarus border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19(1) of the EU Charter of Fundamental Rights, Article 4 of Protocol No. 4 to the ECHR",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "art. 19 (2) of the EU Charter of Fundamental Rights, Article 3 of the ECHR",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "The incident involved the interception and redirection of six migrants from Latvia back to Belarus by Latvian Border Guards, with Frontex officers present, under a state of emergency order (Cabinet of Ministers Order No.518/10.08.2021) that allowed for redirection without individual assessment. The Fundamental Rights Office assessed this action as potentially amounting to serious breaches of fundamental rights obligations, including collective expulsion, denial of asylum rights, and non-refoulement, due to the lack of individual assessment and the risk of 'chain-refoulement' to Belarus.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Six migrants were redirected to Belarus without individual assessment in application of paragraph no.4 from the Cabinet of Ministers Order No.518/10.08.2021",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

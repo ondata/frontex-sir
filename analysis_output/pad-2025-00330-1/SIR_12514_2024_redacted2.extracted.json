@@ -1,0 +1,72 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/SIR_12514_2024_redacted2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:10:38.408828+00:00",
+  "records": [
+    {
+      "sir_id": "12514/2024",
+      "report_date": "2025-05-30",
+      "incident_date": "2024-05-29",
+      "location_details": "Multiple attempts to enter Poland at the Terespol-Brest Border Crossing Point on the Poland-Belarus border, including crossing the bridge over the Bug river.",
+      "where_clear": "Terespol-Brest Border Crossing Point, Poland-Belarus border",
+      "location_text_raw": "BCP Brest (border crossing point in Belarus, opposite of Terespol), bridge crossing the river Bug (and border between the two countries)",
+      "country_or_area": "Poland-Belarus border",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Terespol-Brest border crossing point",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "Article 18 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "Article 47 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office (FRO) was informed by an NGO about a family of [redacted] nationals who were repeatedly denied access to asylum procedures at the Terespol-Brest Border Crossing Point on the Poland-Belarus border between May and June 2024. Despite multiple attempts and prior notifications to Polish authorities, the family's wish to apply for international protection was disregarded, and they were denied entry without individual assessment or written decisions. The FRO concluded that this likely constitutes violations of the right to asylum, prohibition of collective expulsion, prohibition of inhuman or degrading treatment, and the right to an effective remedy. The family eventually entered Poland on 26/06/2024.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The migrants were denied access to the Polish territory and did not receive any written decision on the refusal of entry, nor were their passports stamped accordingly.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

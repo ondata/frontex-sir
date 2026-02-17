@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2025-00339/11934-2020_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:16:44.678960+00:00",
+  "records": [
+    {
+      "sir_id": "11934/2020",
+      "report_date": "2020-08-07",
+      "incident_date": "2020-08-04",
+      "location_details": "Lesvos, Lesvos, Greece; Greek territorial waters Lesvos; sea area Lesvos Island inside TTW",
+      "where_clear": "Lesvos, Greek territorial waters",
+      "location_text_raw": "Lesvos, Lesvos, Greece",
+      "country_or_area": "Lesvos, Greece",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Lesvos, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Unprocessed return",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Violation of the principle of non-refoulement",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A migrant boat with approximately 30 people was sighted in Greek territorial waters near Lesvos and reportedly towed eastwards towards Turkish territorial waters by a Greek Coast Guard patrol vessel, with instructions not to monitor. Another rubber boat with approximately 60 migrants was detected in the sea area of Lesvos Island inside TTW, did not comply with HCG commands, and exited HTW, with two TCG patrol boats taking over. Turkish Coast Guard later rescued 60 migrants. Turkish media reported 74 migrants pushed back by Greek Coast Guard and rescued by Turkish Coast Guard near Ayvalık. Based on video footage, reconstruction of events, and inconsistent statements, it cannot be excluded that the incident involved an unprocessed return and a violation of the principle of non-refoulement.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Based on the video footage, the reconstruction of the sequence of events based on the actual time and place, and the inconsistent statements provided in the verification process by the Hellenic Coast Guard, it cannot be excluded that the incident has the characteristics of a case of unprocessed return and violation of the principle of non-refoulement.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,56 @@
+{
+  "source_file": "pdfs/pad-2025-00085/10261_2025_redacted-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:56:53.327938+00:00",
+  "records": [
+    {
+      "sir_id": "10261/2025",
+      "report_date": "2025-02-07",
+      "incident_date": null,
+      "location_details": null,
+      "where_clear": "Joint Return Operation from Greece to Georgia and Pakistan",
+      "location_text_raw": "The Joint Return Operation to Pakistan and Georgia organized by Greece was implemented final destinations Georgia and Pakistan. A Frontex Representative onboard Aircraft, deployed in the Operational Area, was the first person to receive the information that triggered this SIR. During the operations on the ground, the presence of staff equipped with cameras, was noticed.",
+      "country_or_area": "Greece, Georgia, Pakistan",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The incident concerns a media leak from a Joint Return Operation spanning multiple countries (Greece, Georgia, Pakistan), involving activities both on the ground and onboard aircraft. The precise location where the pictures were taken or the leak originated is not specified.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Code of Conduct for return operations and return intervention, art. 13 (recording)",
+          "legal_basis": "Frontex Code of Conduct (CoC)",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Implementation Plan par. 14 (media activities coordination)",
+          "legal_basis": "Implementation Plan",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "The incident involves pictures from a Joint Return Operation (JRO) reaching media outlets. Frontex team members wearing Frontex vests were visible in the pictures without blurred faces. The presence of staff with cameras was noticed during ground operations, and their presence was approved locally as observers. The SIR was triggered when a Frontex Representative onboard an aircraft was informed of the online articles.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "RET Division ascertained the presence in open sources/media outlets of pictures from the ongoing Joint Return Operation GEO&PAK by GR showing Frontex Team's members, wearing Frontex vests, without blurred faces, during the boarding",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

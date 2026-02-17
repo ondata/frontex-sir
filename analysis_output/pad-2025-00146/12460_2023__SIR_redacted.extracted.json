@@ -1,0 +1,60 @@
+{
+  "source_file": "pdfs/pad-2025-00146/12460_2023__SIR_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:58:50.715955+00:00",
+  "records": [
+    {
+      "sir_id": "12460/2023",
+      "report_date": "2023-07-27",
+      "incident_date": "2023-05-28",
+      "location_details": "In the Libyan Search and Rescue Region (SRR), near an overcrowded wooden boat.",
+      "where_clear": "Libyan Search and Rescue Region",
+      "location_text_raw": "Libyan Search and Rescue Region (SRR)",
+      "country_or_area": "Libyan SRR",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Libyan Search and Rescue Region",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 4,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Frontex surveillance aircraft detected an overcrowded migrant boat and a Libyan Coast Guard (CG) vessel in proximity. The Libyan CG vessel dispatched a fast rigid inflatable boat (RIB) whose crew members pursued, boarded, and physically abused migrants, including the person steering the boat, and during onboarding onto the CG vessel. The Fundamental Rights Office considers excessive force was used and notes this is not an isolated case of ill-treatment by Libyan officers, indicating frequent non-compliance with international law during SAR operations and systematic ill-treatment in Libyan prisons.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "The recording also shows incidents of physical abuse against migrants by the crew of the Libyan CG vessel during onboarding.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 4,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

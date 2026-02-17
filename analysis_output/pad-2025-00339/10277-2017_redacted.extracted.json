@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2025-00339/10277-2017_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:15:33.638343+00:00",
+  "records": [
+    {
+      "sir_id": "10277/2017",
+      "report_date": "2017-02-08",
+      "incident_date": "2017-02-05",
+      "location_details": "Bulgarian Turkish land border (unknown location)",
+      "where_clear": "Near Svilengrad, Bulgarian-Turkish land border",
+      "location_text_raw": "Bulgarian Turkish land border (unknown location), reported in Svilengrad (BGR)",
+      "country_or_area": "Bulgaria, Turkey",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Svilengrad, Bulgaria, near Turkish border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Migrant's statement does not indicate exact time or place of incident and therefore it cannot be confirmed, where the incident happened and which authority has used the force.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violation of Fundamental Rights - Use of force against migrant",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Lack of food and water during detention",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Migrant was interviewed in Svilengrad and complained about use of force by local authorities (beaten with a wire) and lack of food/water during detention. The exact location and time of the incident could not be confirmed, and the investigation was obstructed due to insufficient details.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Alleged violation of Fundamental Rights - Use of force against migrant, reported in Svilengrad",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

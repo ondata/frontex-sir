@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2025-00339/Redacted_13019-2020.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:18:39.889018+00:00",
+  "records": [
+    {
+      "sir_id": "13019/2020",
+      "report_date": "2020-12-17",
+      "incident_date": "2019-08-18",
+      "location_details": "Assumed location in accordance with the interview performed to the migrant. Precise location is unknown.",
+      "where_clear": "Orestiada, Evros, Greece",
+      "location_text_raw": "Orestiada, Evros, Greece",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Orestiada, Evros, Greece",
+      "lat": 41.503333,
+      "lon": 26.5325,
+      "uncertainty_note": "Assumed location in accordance with the interview performed to the migrant. Precise location is unknown.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violation of Fundamental Rights",
+          "legal_basis": null,
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Situations of alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "On 16.12.2020 informed that during a debriefing interview performed in Crotone on 27.11.2020 (under JO Themis 2020) a migrant reported an alleged push back from Greece to Turkey occurred in August 2019. On 18.08.2019, the interviewed migrant departed from Edirne - Turkey, towards Greece. After irregularly crossing the Turkish-Greek border (Evros River) along with a group of approximately 80 people and 12 facilitators, he was allegedly discovered by Greek police officers and sent back to Turkey by using a motorboat across the river. The police officers reportedly used force against migrants and facilitators. Some people wearing a uniform with a German flag allegedly witnessed the scene. Later on the migrant was arrested by the Turkish authorities and taken to a detention centre, registered and notified to leave the country. Afterwards he took a bus and travelled to Istanbul. In September 2019, the interviewed migrant crossed once again the border and entered Greece. One year later he travelled to Italy and landed in Crotone. On 07.01.2021, the Hellenic authorities provided with the assessment of the case. On 18.08.2019 the Hellenic Police did not identify any recorded interceptions related to irregular entry of migrants. A Frontex team was patrolling the Greek-Turkish land border in the wider area of jurisdiction and reported no migrant detection incidents. The final assessment concluded that there was no evidence or proof that allegations from the incident are grounded and that the reported incident took place.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 18.08.2019, the interviewed migrant departed from Edirne - Turkey, towards Greece; After irregularly crossing the Turkish-Greek border (Evros River) along with a group of approximately 80 people and 12 facilitators, he was allegedly discovered by Greek police officers and sent back to Turkey by using a motorboat across the river; The police officers reportedly used force against migrants and facilitators;",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

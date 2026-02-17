@@ -1,0 +1,42 @@
+{
+  "source_file": "pdfs/pad-2025-00146/SIR_12388_2023_Redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:00:35.075051+00:00",
+  "records": [
+    {
+      "sir_id": "12388/2023",
+      "report_date": "2023-06-12",
+      "incident_date": "2023-06-12",
+      "location_details": null,
+      "where_clear": "Accommodation in Italy",
+      "location_text_raw": "Italy",
+      "country_or_area": "Italy",
+      "location_type": "facility",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Italy",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A crew member was late for duty and unresponsive to calls. Another crew member located them in their accommodation.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "In the morning of 12.06.2023, [redacted] was late for duty and wasn't answering his phone. Another crew member went to [redacted] room [redacted] found [redacted] in [redacted] accommodation.",
+      "confidence": "high",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

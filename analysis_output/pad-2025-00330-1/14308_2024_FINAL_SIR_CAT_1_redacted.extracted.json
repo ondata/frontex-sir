@@ -1,0 +1,53 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/14308_2024_FINAL_SIR_CAT_1_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:07:22.255020+00:00",
+  "records": [
+    {
+      "sir_id": "14308/2024",
+      "report_date": "2025-05-16",
+      "incident_date": "2024-09-27",
+      "location_details": "The incident occurred close to the Albania-Montenegro border, approximately one kilometer from the border, in a specific area in North-western Albania, near the Albania-Montenegro railway line. This location is identified as a possible crossing point for irregular immigrants and is occasionally patrolled by border police.",
+      "where_clear": "Near the Albania-Montenegro border, approximately one kilometer from the border, in North-western Albania.",
+      "location_text_raw": "close to the Albania-Montenegro border, in the area; approximately one kilometer from the Albania-Montenegro border; geographical coordinates [redacted] are a possible crossing point for immigrants who follow the route of the Albania-Montenegro railway line; a specific area in the North-western Albania, near the Albania-Montenegro border.",
+      "country_or_area": "Albania-Montenegro border area",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Albania-Montenegro border, near Bozaj",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact geographical coordinates are redacted in the document. However, the general area is consistently described across multiple reports as a specific border region in North-western Albania.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to property",
+          "legal_basis": "Article 1 of Protocol No. 1 of the European Convention on Human Rights (ECHR)",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Four Syrian migrants were allegedly robbed by three men in Albanian police uniforms on 27/09/2024 near the Albania-Montenegro border. The men threatened to arrest and deport the migrants if they did not hand over money. The migrants paid 200 € and were allowed to continue. The Fundamental Rights Office considers the account credible and notes similarities with other incidents, suggesting a pattern of exploitation.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "four migrants were stopped by three men allegedly in Albanian police uniforms, while walking on a road approximately one kilometer from the Albania-Montenegro border",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

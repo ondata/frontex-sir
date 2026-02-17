@@ -1,0 +1,59 @@
+{
+  "source_file": "pdfs/pad-2025-00076_157/SIR_14377-2024_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:56:15.310849+00:00",
+  "records": [
+    {
+      "sir_id": "14377/2024",
+      "report_date": "2025-01-28",
+      "incident_date": "2024-09-21",
+      "location_details": "The incident occurred in the Libyan search and rescue region (SRR). Frontex aircraft sighted the migrant boat in the Central Mediterranean prior to the incident. The migrant boat was attempting to reach the Italian island of Lampedusa. Migrants were disembarked in Libya.",
+      "where_clear": "Libyan Search and Rescue Region (SRR)",
+      "location_text_raw": "Libyan search and rescue region (SRR)",
+      "country_or_area": "Libyan SRR",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Libyan Search and Rescue Region",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific points (Point 1, Point 2, etc.) are mentioned but their coordinates are redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 6 of the International Covenant on Civil and Political Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Principle of disembarkation and delivery to a \"place of safety\"",
+          "legal_basis": "Annex 34 of the Resolution MSC. 167(78), Guidelines on the Treatment of Persons Rescued at Sea of the International Maritime Organization",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "On 21/09/2024, a Libyan Coast Guard vessel fired shots at a migrant boat in the Libyan SRR. An NGO aircraft witnessed the event and reported it. Frontex aircraft had sighted the migrant boat approximately 50 minutes prior to the incident and transmitted information to relevant rescue coordination centers, including Libyan. Frontex assets were not on site during the shooting. The Fundamental Rights Office concluded that shots were likely fired in close proximity to the migrant boat, endangering lives. All migrants were subsequently disembarked in Libya, which is not considered a place of safety.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "On 21/09/2024, at 11:37 UTC, at least two men on board of a Libyan Coast Guard vessel fired shots at a migrant boat.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

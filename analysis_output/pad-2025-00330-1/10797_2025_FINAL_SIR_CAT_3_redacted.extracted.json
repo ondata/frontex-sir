@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/10797_2025_FINAL_SIR_CAT_3_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:06:44.269863+00:00",
+  "records": [
+    {
+      "sir_id": "10797/2025",
+      "report_date": "2025-07-10",
+      "incident_date": null,
+      "location_details": "A serious incident occurred in a Frontex office.",
+      "where_clear": "Frontex office in Warsaw",
+      "location_text_raw": "in the office of [redacted]",
+      "country_or_area": "Poland",
+      "location_type": "facility",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Frontex Headquarters, Warsaw, Poland",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific address of the office is redacted, but location in Warsaw is inferred from the report's origin.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A serious incident occurred in a Frontex office involving persons during Frontex activities, leading to negative implications on Frontex core tasks. The incident was initially not reported by one individual but later officially reported. Psychological support was offered.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "serious incident occurred in the office of [redacted]",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

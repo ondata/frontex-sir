@@ -1,0 +1,50 @@
+{
+  "source_file": "pdfs/pad-2024-00429/Redacted_SIR_12021_2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:45:40.692012+00:00",
+  "records": [
+    {
+      "sir_id": "12021/2024",
+      "report_date": "2024-05-18",
+      "incident_date": "2024-05-17",
+      "location_details": null,
+      "where_clear": "North Macedonia",
+      "location_text_raw": "North Macedonia",
+      "country_or_area": "North Macedonia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "North Macedonia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Codes of Conduct provisions",
+          "legal_basis": "Articles 3 and 10",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "On 15 May 2024, a female [REDACTED] presented herself at Police station [REDACTED] claiming she is in relationship with above Frontex SC Officer with whom she periodically has arguments. According to her statement, on 15 May 2024, they had another argument resulting in her attacking above SC Officer. However, she did not have intention to sue him and, subsequently, no report was filed by the local Police. Above statement was made in the presence of the [REDACTED] who was asked to support MKD Police with translation. After being informed by [REDACTED] competent [REDACTED] contacted SC Officer in subject for the reason of welfare and clarification, who ensured that he did not wish any kind of support since it is a private issue. Moreover, he confirmed [REDACTED] to have recently moved to another apartment without having any further contact to his live-in partner. Since the female [REDACTED] could not find and present any identity document, she stated to the local authorities that her intention is to visit [REDACTED] Embassy in North Macedonia to support her issuing temporary travel documents to return to [REDACTED]. The case was not initially assessed as a SIR since it didn't meet the threshold of SOP on Serious Incident Reporting. According to further developments provided by [REDACTED] on 17 May 2024, a/m female reported at the Police Station of [REDACTED] a case of domestic violence against SC Officer in question deployed at [REDACTED] which resulted to body injuries and is against the penal law of North Macedonia. SC Officer [REDACTED] turned up to the Police Station of [REDACTED] after respective invitation by MKD Police, where he was interviewed by the HTC authorities. Afterwards, SC Officer in question left, claiming that his live-in partner did not press charges against him, which is obligatory for the criminal procedure to be initiated. To this end, [REDACTED] additionally informed [REDACTED] that the case will not be prosecuted ex officio by the Public Prosecutor and no further measures will be taken by the HTC authorities. [REDACTED] will request from [REDACTED] official documentation on the case filed. [REDACTED] reported immediately to the case [REDACTED] were informed and further instructed [REDACTED] in this regard [REDACTED] has been also notified respectively. [REDACTED] requested the official documents that have been drafted at Police Station of [REDACTED] related to the case, however [REDACTED] refused to provide them, demanding as an official request to be addressed from Frontex central level [REDACTED]. According to assessment by [REDACTED], the incident needs to be prossessed as SIR Cat. 2 Situations of potential violations of Code of Conduct (Articles 3 and 10). Considering the outcome of the investigation carried out by [REDACTED] Police Station, this kind of \"bodily harm\" for crimes prosecuted by private action, but considering the lack of the private notification towards the local Police, this event cannot be considered as a criminal case in accordance the applicable penal code in force. Since the official documentation, received from MKD police, doesn't provide any tangible evidence for the case, no further action from side of Sl-handler at this stage are expected, therefore I propose to close the SIR.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "JO North Macedonia: Reported case of domestic violence against SC Officer in question deployed at [REDACTED] which resulted to body injuries.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

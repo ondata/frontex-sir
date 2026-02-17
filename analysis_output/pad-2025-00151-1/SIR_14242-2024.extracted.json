@@ -1,0 +1,70 @@
+{
+  "source_file": "pdfs/pad-2025-00151-1/SIR_14242-2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:04:00.091881+00:00",
+  "records": [
+    {
+      "sir_id": "14242/2024",
+      "report_date": "2025-03-31",
+      "incident_date": "2024-09-16",
+      "location_details": "Incident occurred at the border fence in Bulgaria, near a redacted village. Migrants were initially spotted kneeling behind Bulgarian officers by the border fence. They were later transported to a redacted location and then to another redacted detention facility.",
+      "where_clear": "Bulgarian border fence, near a village",
+      "location_text_raw": "border fence, in the area of the [REDACTED], territory of the village of [REDACTED], detention facility located in the building of [REDACTED]",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific village name and coordinates are redacted. General area is the Bulgarian border fence.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to property",
+          "legal_basis": "Article 17(1) of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "Article 18 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Frontex officers observed Bulgarian officers treating migrants harshly, confiscating belongings, and attempting to collectively expel them to Türkiye. Bulgarian officers tried to block Frontex access to migrants and created a hostile work environment, including instructing Frontex officers not to report incidents and subjecting them to repercussions for reporting. The Fundamental Rights Office notes recurring similar incidents and concerns about systemic issues. While migrants showed visible bruises, they claimed these were from time spent in the forest, making the direct cause of injury unclear, though ill-treatment is considered likely by FRO.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Based on the available information, the Fundamental Rights Office considers it likely that the migrants were treated by the Bulgarian officers with unnecessary force and their belongings were confiscated.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

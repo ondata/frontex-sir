@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2025-00339/10652-2020_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:16:22.382960+00:00",
+  "records": [
+    {
+      "sir_id": "10652/2020",
+      "report_date": "2020-03-04",
+      "incident_date": "2020-02-25",
+      "location_details": "Wooded area near the T-junction Riha- Ujmohacs- Sarhat",
+      "where_clear": "Hercegszántó, Bács-Kiskun, Hungary, wooded area",
+      "location_text_raw": "Hercegszántó, Bács-Kiskun, Hungary",
+      "country_or_area": "Hungary",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Hercegszántó, Bács-Kiskun, Hungary",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violation of Fundamental Rights",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Apprehension of a group of migrants by Hungarian Police and Frontex. A juvenile migrant (allegedly 14-18 years old) from the group, claiming Serbian nationality and showing a Serbian refugee camp document, requested to remain in Hungary and be brought to a refugee camp. Hungarian authorities stated no special treatment is foreseen for people of this age. An internal investigation was initiated by Hungarian authorities to clarify possible lack of rule of law regarding the treatment of juveniles/UAMs, as Hungarian regulations differentiate procedures for juveniles (14-18) and UAMs (below 14).",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "At the moment to move the group to another assembly point, the juvenile migrant asked to Hungarian Police Officers to allow him to remain in Hungary and to be brought in a Hungarian refugee's camp. Hungarian counterpart stated no special treatment is foreseen for people with this age.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

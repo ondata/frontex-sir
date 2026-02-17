@@ -1,0 +1,52 @@
+{
+  "source_file": "pdfs/pad-2025-00220/FINAL_SIR_CAT_1_14791_2024_-_Lithuania_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:04:39.434557+00:00",
+  "records": [
+    {
+      "sir_id": "14791/2024",
+      "report_date": "2025-04-30",
+      "incident_date": "2024-10-21",
+      "location_details": "Border Crossing Point (BCP) in Lithuania, specifically at the border with Belarus, where a family was refused entry.",
+      "where_clear": "Border Crossing Point, Lithuania-Belarus border",
+      "location_text_raw": "Border Crossing Point (BCP) Lithuania",
+      "country_or_area": "Lithuania",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Border Crossing Point Lithuania Belarus",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific BCP name is redacted in the document.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "Article 18 of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office received a report describing two occasions (21/10/2024 and 28/10/2024) when a family of three nationals was reportedly refused entry at a Border Crossing Point (BCP) in Lithuania, despite allegedly asking for asylum. The family was issued formal decisions for refusal of entry and turned back to Belarus. Lithuanian authorities stated they had no record of an asylum application. The FRO notes concern about shrinking access to asylum procedures at Lithuania's borders and regrets that Lithuanian authorities decided not to investigate the incident.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office received a report describing two occasions when persons reportedly asking for asylum at the Border Crossing Point (BCP) Lithuania were refused entry.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

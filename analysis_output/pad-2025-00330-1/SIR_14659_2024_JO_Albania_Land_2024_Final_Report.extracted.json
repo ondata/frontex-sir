@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/SIR_14659_2024_JO_Albania_Land_2024_Final_Report.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:11:20.492674+00:00",
+  "records": [
+    {
+      "sir_id": "14659/2024",
+      "report_date": "2025-06-06",
+      "incident_date": "2024-10-08",
+      "location_details": "The incident occurred close to the Albania-Montenegro border, along a road where the migrant was walking. The location is described as having a railway and a car road visible, with a container nearby. This area is consistent with other reported incidents in North-western Albania, with approximate coordinates showing a maximum distance of 2.5 km among incidents.",
+      "where_clear": "Near Albania-Montenegro border, along a road with railway and a container nearby.",
+      "location_text_raw": "close to the Albania-Montenegro border",
+      "country_or_area": "Albania-Montenegro border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Albania-Montenegro border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific GPS coordinates were mentioned but redacted in the document. However, the general area is consistently described and cross-referenced with other SIRs, indicating a known approximate location.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to property",
+          "legal_basis": "Article 1 of Protocol No. 1 of the European Convention on Human Rights (ECHR)",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office assesses that it is likely that the migrant was a victim of robbery, although the involvement of Albanian law enforcement officials in the incident remains unclear. The incident is part of a pattern of systematic exploitation and abuse of migrants by a group of unknown perpetrators in the North-western Albania, near the Albania-Montenegro border. Six similar reports have been received since August 2024.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office received information from Frontex operational staff about a migrant allegedly being robbed by three men in seemingly Albanian police uniforms on 08/10/2024.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

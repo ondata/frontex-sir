@@ -1,0 +1,204 @@
+{
+  "source_file": "pdfs/pad-2025-00339/10437-2019_redacted2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:16:03.933753+00:00",
+  "records": [
+    {
+      "sir_id": "10437/2019",
+      "report_date": "2019-10-24",
+      "incident_date": "2019-10-21",
+      "location_details": "Hamburg Airport",
+      "where_clear": "Hamburg Airport, Germany",
+      "location_text_raw": "Hamburg, Hamburg, Germany",
+      "country_or_area": "Germany",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Hamburg Airport, Germany",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Art. 28 (6)",
+          "legal_basis": "REGULATION (EU) 2016/1624",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 8 (6)",
+          "legal_basis": "DIRECTIVE 2008/115/EC",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 13",
+          "legal_basis": "CoC for FRONTEX JRO",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 14",
+          "legal_basis": "CoC for FRONTEX JRO",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 4",
+          "legal_basis": "CoC for FRONTEX JRO",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 5",
+          "legal_basis": "CoC for FRONTEX JRO",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 7",
+          "legal_basis": "CoC for FRONTEX JRO",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 1",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 4",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 6 (security)",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 7",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 17",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 20",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 21",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 24 (removal of parent)",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 33",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 35",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 41",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 47",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 51",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 52",
+          "legal_basis": "CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION (2000/C 364/01)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 1 (discrimination because of gender)",
+          "legal_basis": "UN GENERAL ASSEMBLY RESOLUTION 217 A",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 2 (degrading treatment and human dignity)",
+          "legal_basis": "UN GENERAL ASSEMBLY RESOLUTION 217 A",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 3 (property)",
+          "legal_basis": "UN GENERAL ASSEMBLY RESOLUTION 217 A",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 5 (family)",
+          "legal_basis": "UN GENERAL ASSEMBLY RESOLUTION 217 A",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 7 (health access)",
+          "legal_basis": "UN GENERAL ASSEMBLY RESOLUTION 217 A",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 9 (right to good administration)",
+          "legal_basis": "UN GENERAL ASSEMBLY RESOLUTION 217 A",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 12",
+          "legal_basis": "UN GENERAL ASSEMBLY RESOLUTION 217 A",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 16",
+          "legal_basis": "UN GENERAL ASSEMBLY RESOLUTION 217 A",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 17",
+          "legal_basis": "UN GENERAL ASSEMBLY RESOLUTION 217 A",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 25",
+          "legal_basis": "UN GENERAL ASSEMBLY RESOLUTION 217 A",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Art. 28",
+          "legal_basis": "UN GENERAL ASSEMBLY RESOLUTION 217 A",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A return operation from Hamburg, Germany, involving 26 returnees faced significant organizational challenges and alleged fundamental rights violations. Issues included lack of proper documentation, medication, belongings, and medical attention for vulnerable individuals, leading to a chaotic situation, time delays, and disputes among authorities. Some returnees were sent back due to various issues.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "suspected multiple violations of the Fundamental Rights of each of the (quote!) \"unplanned\" Returnees",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

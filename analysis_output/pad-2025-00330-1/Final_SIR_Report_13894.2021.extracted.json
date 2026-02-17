@@ -1,0 +1,51 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/Final_SIR_Report_13894.2021.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:09:23.131771+00:00",
+  "records": [
+    {
+      "sir_id": "13894/2021",
+      "report_date": "2025-07-04",
+      "incident_date": "2021-10-08",
+      "location_details": "The incident occurred in the sea area south of Lesvos Island, near Agrilia, within Hellenic Territorial Waters. The boat was initially detected 2 miles south of Agrilia.",
+      "where_clear": "Sea area south of Lesvos Island, Greece",
+      "location_text_raw": "near Lesvos Island, 2 miles south of Agrilia, inside the Hellenic Territorial Waters, sea area south-east of Lesvos island, inside the Hellenic Territorial Waters",
+      "country_or_area": "Greece (Lesvos Island, Aegean Sea)",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Agrilia, Lesvos Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The number of people on board varies across different reports, ranging from approximately 20 to 40 migrants.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 20,
+      "dead_possible_max": 40,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "(Article 19(1) of EU Charter)",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Allegations of destruction of migrant boat's engine and towing to Turkish territorial waters by Hellenic Coast Guard. No corroborating evidence available, but if confirmed, it would amount to collective expulsion. Concerns raised about attempts by Hellenic authorities to influence Italian authorities' reporting, specifically regarding incident coordinates, which Italian authorities refused. FRO recommends Greek authorities to support SAR, review reporting systems, and investigate allegations of collective expulsion, and Frontex to sensitize officers on reporting serious incidents.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 08/10/2021 the Italian Frontex vessel operating near Lesvos Island intercepted a rubber boat with approx. 25/30 people on board. Hellenic Coast Guard was informed and its asset arrived on scene, and took over the incident from Frontex.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 20,
+  "dead_possible_total_max": 40,
+  "records_invalid_skipped": 0
+}

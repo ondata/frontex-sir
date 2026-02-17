@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2025-00339/12790-2020redacted2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:17:20.617492+00:00",
+  "records": [
+    {
+      "sir_id": "12790/2020",
+      "report_date": "2020-11-21",
+      "incident_date": "2020-11-09",
+      "location_details": null,
+      "where_clear": "Sea area NE of Kos island, Dodecanese, Greece",
+      "location_text_raw": "Kos, Dodekaniso, Greece",
+      "country_or_area": "Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "NE of Kos island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "On 20 November 2020, 36 migrants arrived from 3 incidents. In one incident on 9 November 2020, a rubber boat with thirty (30) migrants on board was detected by HCG CPB 150 at the sea area NE of Kos island inside TTW. Migrants alleged that the Hellenic Coast Guard (HCG) created large waves and gesticulated for them to turn back to Turkey. The HCG stopped after 40 minutes when the Turkish Coast Guard (TUR CG) arrived. The TUR CG then escorted the boat towards HTW, obstructing HCG actions and endangering migrants. Subsequently, the TUR CG left, and HCG escorted the boat to Kos where migrants were taken into custody. One facilitator was arrested. Migrants mentioned these allegations during screening. Greek authorities are not aware of any complaint and are not investigating the case as of 21/11.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "upon entering Greek waters monday 9th of November they were met by Hellenic Coast Guard who sailed around them creating large waves making the boat rock from side to side.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

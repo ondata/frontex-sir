@@ -1,0 +1,64 @@
+{
+  "source_file": "pdfs/pad-2025-00146/13079_2023_SIR_cat._1,_3_-_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:59:13.936779+00:00",
+  "records": [
+    {
+      "sir_id": "13079/2023",
+      "report_date": "2024-03-13",
+      "incident_date": "2023-07-07",
+      "location_details": "The incident involved a migrant boat initially sighted by Frontex in the Libyan Search and Rescue Zone. A distress call was later reported from the Maltese Search and Rescue Region, with coordinates 34°34'24.08\"N 16°21'34\"E. The boat was subsequently intercepted by a vessel belonging to the Tareq Bin Zeyad armed group, reportedly inside the Maltese Search and Rescue Zone, against instructions from a Maltese Military aerial asset.",
+      "where_clear": "Maltese Search and Rescue Zone, near 34.573356 N, 16.359444 E",
+      "location_text_raw": "Libyan Search and Rescue Region, Maltese Search and Rescue Zone, position 34 34 24 08N 016 21 34E",
+      "country_or_area": "Maltese Search and Rescue Zone",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "34.573356, 16.359444",
+      "lat": 34.573356,
+      "lon": 16.359444,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of torture and inhuman or degrading treatment or punishment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to liberty and security",
+          "legal_basis": "Article 6 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Principle of non-refoulment",
+          "legal_basis": "Article 19 (2) of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office (FRO) investigated the interception of a migrant boat, initially sighted by Frontex, by the Tareq Bin Zeyad armed group. FRO identified 8 confirmed occasions where this militia intervened after Frontex sightings, including this event in the Maltese Search and Rescue Region, allegedly against instructions from Maltese authorities. FRO has consistently warned Frontex about human rights risks associated with interventions by Libyan actors, especially the Tareq Bin Zeyad group, known for severe fundamental rights violations. While Frontex is legally obliged to notify rescue coordination centers, FRO recommends strong safeguards to mitigate risks when sharing sightings, given the lack of human rights compliance by Libyan authorities and militias.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "The Fundamental Rights Office determined that the migrant boat in question was sighted by Frontex in the Libyan Search and Rescue Zone and later intercepted by the Tareq Bin Zeyad vessel.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

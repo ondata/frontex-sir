@@ -1,0 +1,59 @@
+{
+  "source_file": "pdfs/pad-2025-00339/10137-2020_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:13:35.815457+00:00",
+  "records": [
+    {
+      "sir_id": "10137/2020",
+      "report_date": "2020-01-13",
+      "incident_date": "2019-11-01",
+      "location_details": "Lesvos",
+      "where_clear": "Lesvos island, Greece",
+      "location_text_raw": "Lesvos",
+      "country_or_area": "Lesvos island",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Lesvos, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Latitude and Longitude are 0.000000, indicating placeholder values. Location is specified as Lesvos, which is an island.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Protection of personal data",
+          "legal_basis": "EU Charter of Fundamental Rights and its Article 8 (2)",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of torture and inhuman or degrading treatment or punishment",
+          "legal_basis": "EU Charter of Fundamental Rights and its Article 4",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Behavioural Standards",
+          "legal_basis": "Frontex Code of Conduct applicable to all persons participating in Frontex operational activities: Article 10 (b)",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A complaint was forwarded to Human Resources regarding a cultural mediator's alleged improper behaviour from November 2019 to January 2020 on Lesvos. The mediator was accused of humiliating migrants, taking copies of travel documents with a mobile phone, and searching bags. Legal provisions allegedly violated include the EU Charter of Fundamental Rights (Article 8(2) on personal data, Article 4 on torture/inhuman treatment) and Frontex Code of Conduct (Article 10 on Behavioural Standards). The cultural mediator was suspended from future Frontex deployments following conversations, and a final report was produced on 15.04.2021.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The alleged improper behaviour of the cultural mediator concerned was observed while interacting with migrants performing alleged actions of humiliation, taking copies of migrant's travel documents with a mobile phone, searching the migrants' bags, etc.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

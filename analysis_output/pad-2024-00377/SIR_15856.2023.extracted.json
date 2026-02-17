@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2024-00377/SIR_15856.2023.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:44:31.995856+00:00",
+  "records": [
+    {
+      "sir_id": "15856/2023",
+      "report_date": "2023-12-18",
+      "incident_date": "2023-12-17",
+      "location_details": null,
+      "where_clear": "Bulgaria",
+      "location_text_raw": "Bulgaria",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "Warning shots were fired during the apprehension of irregular migrants transported by a facilitator in Bulgaria. A group of persons was detected, and during interception, the facilitator managed to escape but was later found in the forest. No one was injured.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Warning shots fired during the apprehension of irregular migrants transported by a facilitator. No one was injured.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

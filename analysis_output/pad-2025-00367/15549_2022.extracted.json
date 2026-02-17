@@ -1,0 +1,56 @@
+{
+  "source_file": "pdfs/pad-2025-00367/15549_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:24:20.017967+00:00",
+  "records": [
+    {
+      "sir_id": "15549/2022",
+      "report_date": "2023-04-21",
+      "incident_date": "2022-10-03",
+      "location_details": "The incident occurred close to the Bulgarian border fence in Türkiye, near 'concrete pyramid Nr 92' and Belevren. The migrant was injured on Turkish territory.",
+      "where_clear": "Near border pyramid 92, close to Belevren, on the Bulgarian-Turkish border, on Turkish territory.",
+      "location_text_raw": "close to the Bulgarian border fence in Türkiye, concrete pyramid Nr 92, close to Belevren, Turkish territory",
+      "country_or_area": "Türkiye",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Border pyramid 92, Belevren, Bulgaria-Turkey border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "art. 2 of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A media report alleged that live ammunition was used against a migrant on 3 October 2022 near the Bulgarian border fence in Türkiye. The migrant claimed he was shot by Bulgarian border police after his group was pushed back, following an argument over alleged 'sexual' searches of women. Mobile phone footage showed migrants throwing stones. The migrant stated Bulgarian officers fired shots, with one hitting him in the hand and chest. Bulgarian authorities denied firing shots from their side, stating the group was aggressive, threw stones, injured an officer, and damaged a vehicle. The Fundamental Rights Office considers it credible that shots were fired and a migrant was injured, but could not conclusively establish who was responsible.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "While the Fundamental Rights Office considers it credible that shots were fired and a migrant was injured as a result, it could not conclusively establish who was responsible for the incident.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

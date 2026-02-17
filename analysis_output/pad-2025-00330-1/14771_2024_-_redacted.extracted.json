@@ -1,0 +1,60 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/14771_2024_-_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:08:34.353319+00:00",
+  "records": [
+    {
+      "sir_id": "14771/2024",
+      "report_date": "2025-05-26",
+      "incident_date": "2024-10-15",
+      "location_details": "The incident occurred in the Greek Search and Rescue Region (SRR), specifically in the sea area south of Crete Island, near Gavdos Island.",
+      "where_clear": "Sea area south of Crete Island, Greece",
+      "location_text_raw": "in Greek search and rescue region (SRR)",
+      "country_or_area": "Greece SRR",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Sea area south of Crete Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 1,
+      "injured_confirmed": 0,
+      "missing_confirmed": 2,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Obligation to conduct rescue operations",
+          "legal_basis": "international human rights standards and maritime law obligations (SAR and SOLAS conventions)",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Frontex surveillance aircraft detected a migrant boat in the Greek SRR, south of Crete Island, and issued a Mayday Relay. The boat initially headed north, then changed course south towards a container ship. Migrants attempted to disembark onto the container ship, during which the migrant boat sank. Frontex aircraft assisted in the search. Ultimately, 97 people were rescued, one body was recovered, and two people were declared missing. The SIR was launched to clarify the reasons for the rescue occurring several hours after initial detection.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 15/10/2024, a Frontex surveillance aircraft detected a migrant boat in Greek search and rescue region (SRR) and issued a Mayday Relay. ... On 16/10/2025, the Greek authorities reported that 97 people were rescued, one body recovered and two people declared missing.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 2,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

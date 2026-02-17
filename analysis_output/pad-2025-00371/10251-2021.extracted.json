@@ -1,0 +1,76 @@
+{
+  "source_file": "pdfs/pad-2025-00371/10251-2021.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:26:48.887833+00:00",
+  "records": [
+    {
+      "sir_id": "10251/2021",
+      "report_date": "2021-02-01",
+      "incident_date": "2020-12-18",
+      "location_details": "A boat carrying 34 people landed south of Vokaria, Chios, Greece. Some were found in Nenita, Chios, and 8 were taken to Lefkonia, Chios. The remaining 26 were allegedly transported back to the sea by the Hellenic Coast Guard and later rescued off the coast of Kusadasi/Güzelçamlı, Aydın, Turkey.",
+      "where_clear": "Chios Island, Greece and off the coast of Kusadasi, Turkey",
+      "location_text_raw": "south of Vokaria, Chios south-east; village of Nenita; quarantine site in Lefkonia; outside Kusadasi, Turkey; off the coast of Aydın's Kuşadası district/Güzelçamlı",
+      "country_or_area": "Greece (Chios Island), Turkey (Aegean Sea near Kusadasi)",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Vokaria, Chios, Greece; Nenita, Chios, Greece; Lefkonia, Chios, Greece; Kusadasi, Turkey",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life and human dignity",
+          "legal_basis": "Articles 1 and 2 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to integrity of the person",
+          "legal_basis": "Article 3 of EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19(1) of EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "Article 18 of EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "Article 19 (2) of EU Charter",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A boat carrying 34 people landed on Chios, Greece. 8 were registered, while the remaining 26 were allegedly pushed back to sea by the Hellenic Coast Guard and later rescued by the Turkish Coast Guard off the coast of Turkey. FRO considers the alleged facts could amount to serious breaches of fundamental rights, including collective expulsion and non-refoulement, but recommends closure of the SIR due to insufficient information from Hellenic authorities.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A boat carrying 34 people landed south of Vokaria, Chios south-east just before midnight on 17 December. [...] 26 people were found and taken to an unknown location, probably out of sight of the public, held in this area until dark, before transported back to the sea by a vessel from the Hellenic Coast Guard.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

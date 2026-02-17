@@ -1,0 +1,48 @@
+{
+  "source_file": "pdfs/pad-2025-00339/Serious_incident_report_no_-10026_2019.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:20:37.130194+00:00",
+  "records": [
+    {
+      "sir_id": "10026/2019",
+      "report_date": "2019-04-09",
+      "incident_date": "2019-04-09",
+      "location_details": "Alleged push-backs from Croatia to Bosnia and Herzegovina and Serbia, specifically at the borders between these countries.",
+      "where_clear": "Borders between Croatia, Bosnia and Herzegovina, and Serbia",
+      "location_text_raw": null,
+      "country_or_area": "Croatia, Bosnia and Herzegovina, Serbia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Borders of Croatia, Bosnia and Herzegovina, Serbia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The specific location is broad, referring to the borders between three countries. Latitude and Longitude fields show 0.0000000000, which is a placeholder.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "NGOs allegedly pushed back from Croatia to Bosnia and Herzegovina and Serbia. A group of 30 MEPs called upon the Commission to take action against alleged push-backs based on reports from various NGOs (No Name Kitchen, Are you Syrious, Human Rights Watch, Border Violence Monitoring, Amnesty International, Médecins sans Frontières). One NGO claimed 10,000 migrants were ejected from Croatia in 2018, and testimonies indicate systematic collective push-backs from EU territory.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "NGOs allegedly pushed back from Croatia to Bosnia and Herzegovina and Serbia",
+      "confidence": "medium",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

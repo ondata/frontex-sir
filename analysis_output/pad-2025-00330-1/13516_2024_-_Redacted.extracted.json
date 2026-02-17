@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/13516_2024_-_Redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:07:00.091097+00:00",
+  "records": [
+    {
+      "sir_id": "13516/2024",
+      "report_date": "2024-08-21",
+      "incident_date": "2024-08-20",
+      "location_details": "A Standing Corps Officer (SCO) was detained following a domestic altercation at their accommodation, then transferred to a local Police Station, and later escorted to court before the Judicial Authority.",
+      "where_clear": "Accommodation, local Police Station, and court in an unspecified location.",
+      "location_text_raw": "accommodation, local Police Station, court",
+      "country_or_area": null,
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific city and country are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Violation of Code of Conduct provisions",
+          "legal_basis": "art. 10 section 1",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A Standing Corps Officer (SCO) was temporarily detained by police following a domestic altercation with his spouse, leading to allegations of domestic violence. The SCO was transferred to a police station and later escorted to court.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Alleged domestic violence by SC. SCO was detained due to alleged domestic altercation with his wife.",
+      "confidence": "low",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

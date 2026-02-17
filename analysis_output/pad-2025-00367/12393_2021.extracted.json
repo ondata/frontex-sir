@@ -1,0 +1,65 @@
+{
+  "source_file": "pdfs/pad-2025-00367/12393_2021.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:21:49.954167+00:00",
+  "records": [
+    {
+      "sir_id": "12393/2021",
+      "report_date": "2021-07-02",
+      "incident_date": "2021-07-01",
+      "location_details": "On 1 July, a rubber boat with approximately 40 migrants onboard was detected by the Hellenic Coast Guard (HCG) at the sea area of Samos Island inside Turkish territorial waters. The Turkish Coast Guard (TCG) patrol boats tried to escort the boat towards Hellenic territorial waters. JRCC Piraeus informed MRCC Ankara three times, and eventually two TCG patrol boats took over responsibility. HCG maritime assets remained close to the border line inside Hellenic territorial waters.",
+      "where_clear": "Sea area near Samos Island, within Turkish territorial waters",
+      "location_text_raw": "sea area of Samos Island inside Turkish territorial waters",
+      "country_or_area": "Aegean Sea, Samos Island, Turkish territorial waters",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Samos Island, Aegean Sea, Turkish territorial waters",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Location described as 'sea area of Samos Island inside Turkish territorial waters' which is broad.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life and human dignity",
+          "legal_basis": "Articles 1 and 2 of the EU Charter of Fundamental Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to integrity of the person",
+          "legal_basis": "Article 3 of EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Obligation to conduct rescue operations",
+          "legal_basis": "international human rights standards and maritime law obligations (SAR and SOLAS Conventions)",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A rubber boat with approximately 40 migrants was detected by the Hellenic Coast Guard (HCG) in Turkish territorial waters near Samos Island. The Turkish Coast Guard (TCG) attempted to escort the boat towards Hellenic territorial waters, putting migrants' lives at imminent risk. JRCC Piraeus repeatedly informed MRCC Ankara. FRO considers potential fundamental rights violations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 1 July at [redacted] a rubber boat with approximately 40 migrants onboard was early detected by the Hellenic Coast Guard (HCG) [redacted] at the sea area [redacted] of Samos Island inside Turkish territorial waters.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

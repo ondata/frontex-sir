@@ -1,0 +1,58 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/14453__2024_Final_SIR_Cat_1_-_JO_Greece_2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:07:46.941616+00:00",
+  "records": [
+    {
+      "sir_id": "14453/2024",
+      "report_date": "2025-06-20",
+      "incident_date": "2024-09-27",
+      "location_details": "The incident occurred near Kos island, Greece. The migrant boat started its journey from Bodrum, Türkiye, and was intercepted by the Hellenic Coast Guard near the shore of Kos, in the sea area East of Kos island, within Hellenic territorial waters, specifically in the maritime area of Cape Fokas.",
+      "where_clear": "Near Kos island, Greece, in the sea area East of Kos island, within Hellenic territorial waters, near Cape Fokas.",
+      "location_text_raw": "near Kos island",
+      "country_or_area": "Greece (Kos island)",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Cape Fokas, Kos island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 1,
+      "injured_confirmed": 2,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 (1) of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office received information that a migrant boat carrying approximately 12-15 people was intercepted by a Hellenic Coast Guard (HCG) vessel near Kos island. Migrants alleged HCG officers boarded their boat, broke down the engine, confiscated phones, tied the boat to the HCG vessel, and towed it to open sea despite rough weather. The boat capsized, resulting in one drowning and 14 survivors. The FRO considers the migrants' account credible and the interception, engine destruction, and towing likely. The capsizing is also considered likely due to HCG actions, potentially violating the right to life. Collective expulsion remains unclear due to insufficient information.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office received information that during [redacted] migrants alleged that their boat, carrying approximately 12-15 people, was intercepted by a Hellenic Coast Guard (HCG) vessel near Kos island on 27/09/2024. According to the migrants, the HCG officers boarded their boat, broke down the engine, and confiscated their mobile phones. The migrants further alleged that the HCG officers tied their boat to the HCG vessel and towed it for approximately 30 minutes to the open sea, despite rough weather conditions. The boat eventually capsized, resulting in the drowning of one migrant and the rescue of 14 survivors by the HCG.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 2,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

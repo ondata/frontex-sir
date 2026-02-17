@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2025-00371/10941-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:30:44.368014+00:00",
+  "records": [
+    {
+      "sir_id": "10941/2022",
+      "report_date": "2022-07-13",
+      "incident_date": "2022-03-02",
+      "location_details": "Migrants were allegedly transported by Albanian authorities to the border crossing point Kakavia, on the Albanian side, and instructed to cross into Greece. Frontex officers observed them crossing from Albania to Greece at Kakavia border crossing point.",
+      "where_clear": "Border crossing point Kakavia, between Albania and Greece",
+      "location_text_raw": "border crossing point Kakavia by the Albanian police where they were shown to follow a path to cross to Greece territory.",
+      "country_or_area": "Albania, Greece",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Kakavia border crossing point, Albania-Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A group of seven migrants was allegedly transported by Albanian authorities to the border near Kakavia and instructed to cross into Greece irregularly. Frontex officers observed them crossing. Albanian authorities provided a conflicting timeline and denied involvement in collective expulsions, stating the migrants were released after voluntary departure orders. The Fundamental Rights Office found inconsistencies in timelines and could not establish the veracity for this specific group, but noted the allegations were consistent with other SIRs and considered them credible in general.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Interviewed migrants claim to have been apprehended, brought to a police station and later transported to a place near border crossing point Kakavia by the Albanian police where they were shown to follow a path to cross to Greece territory.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

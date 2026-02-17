@@ -1,0 +1,94 @@
+{
+  "source_file": "pdfs/pad-2025-00339/10064-2019_redacted2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:12:59.558039+00:00",
+  "records": [
+    {
+      "sir_id": "10064/2019",
+      "report_date": "2019-08-26",
+      "incident_date": "2019-07-26",
+      "location_details": "n/a",
+      "where_clear": "Croatia-Bosnia and Herzegovina border area",
+      "location_text_raw": "Croatia, , Croatia",
+      "country_or_area": "Croatia / Bosnia and Herzegovina",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Croatia Bosnia border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The exact point of the incident is not specified, only the general border area between Croatia and Bosnia.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 7,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to life",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Integrity",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Asylum",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "Article 1 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of torture and inhuman and degrading treatment",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Degrading treatment of persons in a vulnerable situation (including children)",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of refoulement",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "Article 47 of the EU Charter",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Migrant interviewed in Vidin reported physical abuse and violence by Croatian border guards after crossing the border. Allegations include beating with batons, confiscation of valuables, separation of children from mothers, and forced return to the Bosnian side of the border (pushback). Interviewee also reported witnessing drownings. Previous attempts involved similar treatment. Incidents in Usivak Camp (Bosnia) with Bosnian Police also mentioned.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Migrant informed FX about potential violation of human rights in HRV and BHI. FRO considers that the alleged facts could amount to serious breaches of the right to life, integrity, asylum, human dignity, the prohibition of torture and inhuman and degrading treatment, and of collective expulsion.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 7,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

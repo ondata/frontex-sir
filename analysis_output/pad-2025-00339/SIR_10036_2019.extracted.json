@@ -1,0 +1,69 @@
+{
+  "source_file": "pdfs/pad-2025-00339/SIR_10036_2019.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:19:19.491762+00:00",
+  "records": [
+    {
+      "sir_id": "10036/2019",
+      "report_date": "2019-05-07",
+      "incident_date": "2019-05-06",
+      "location_details": "Incident at the GRC-TUR border section, involving alleged pushback from Greece to Turkey.",
+      "where_clear": "GRC-TUR border section",
+      "location_text_raw": "Greece, -, Greece",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "39.0, 22.0",
+      "lat": 39.0,
+      "lon": 22.0,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 2,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Pushback",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Collective expulsion",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Lack of access to effective remedy",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Ill-treatment/Physical violence",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Confiscation of belongings",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Human Resources informs TR media reported possible push back incidents at the Turkish Greek Land border. According to Evrensel Gazetesi, Greek police reportedly beat up two Pakistani refugees and confiscated their money and belongings before forcibly deporting them to Turkey. The incident involves allegations on so called 'pushback' of 2 persons by the Hellenic police to the border with Turkey without taking into consideration their personal circumstances. Such police action may amount to collective expulsion, which Article 19 of the EU Charter explicitly prohibits. Furthermore, in the course of aforementioned police actions, it is clear that the persons subjected to these actions did not have access to an effective remedy when transferred to the border with Turkey. Frontex emphasizes the importance of conducting an efficient investigation in incidents involving violations of fundamental rights. Frontex recommends that the investigative procedure should be conducted in full compliance with the principles of impartiality, objectivity and confidentiality.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Greek police reportedly beat up two Pakistani refugees and confiscated their money and belongings before forcibly deporting them to Turkey.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 2,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

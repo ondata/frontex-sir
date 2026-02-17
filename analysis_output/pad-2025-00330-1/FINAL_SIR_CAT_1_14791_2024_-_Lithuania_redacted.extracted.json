@@ -1,0 +1,52 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/FINAL_SIR_CAT_1_14791_2024_-_Lithuania_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:09:01.683731+00:00",
+  "records": [
+    {
+      "sir_id": "14791/2024",
+      "report_date": "2025-04-30",
+      "incident_date": "2024-10-21",
+      "location_details": "Incident occurred at a Border Crossing Point (BCP) in Lithuania, on the border with Belarus. The specific BCP name is redacted. The family was turned back to Belarus on both occasions.",
+      "where_clear": "Border Crossing Point on Lithuania-Belarus border",
+      "location_text_raw": "Border Crossing Point (BCP) Lithuania, BCP, Lithuanian side, border crossing points with Belarus and Russia",
+      "country_or_area": "Lithuania",
+      "location_type": "facility",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Border Crossing Point Lithuania Belarus border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific Border Crossing Point name is redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "Article 18 of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A family of three nationals attempted to seek asylum at a Border Crossing Point in Lithuania on two separate occasions (21/10/2024 and 28/10/2024) after arriving from Belarus. On both occasions, they were refused entry due to lack of valid visas/residence permits and turned back to Belarus. The family claims to have asked for asylum, but Lithuanian authorities state no such application was submitted. The Fundamental Rights Office notes concerns about shrinking access to asylum procedures at Lithuania's borders and the authorities' decision not to investigate the incident.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office considers it established that three nationals were present at BCP on 21/10/2024 and 28/10/2024 but cannot confirm with certainty whether they voiced their intention to apply for international protection and whether access to the asylum procedure was denied.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

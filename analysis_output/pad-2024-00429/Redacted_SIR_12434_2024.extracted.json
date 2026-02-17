@@ -1,0 +1,51 @@
+{
+  "source_file": "pdfs/pad-2024-00429/Redacted_SIR_12434_2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:45:58.901191+00:00",
+  "records": [
+    {
+      "sir_id": "12434/2024",
+      "report_date": "2024-06-14",
+      "incident_date": "2024-06-04",
+      "location_details": null,
+      "where_clear": "North Macedonia",
+      "location_text_raw": "North Macedonia",
+      "country_or_area": "North Macedonia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "North Macedonia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of potential violations of Codes of Conduct provisions",
+          "legal_basis": "Article 6, point c",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Missing light technical equipment from JO North Macedonia. The loss/theft of the equipment seems to have occurred between 23.05.2024 and 04.06.2024, or between 10.04.2024 and 04.06.2024. No police statement was submitted despite being requested.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Missing light technical equipment from JO North Macedonia",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

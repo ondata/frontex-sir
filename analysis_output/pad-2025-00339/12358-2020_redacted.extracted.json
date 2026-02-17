@@ -1,0 +1,59 @@
+{
+  "source_file": "pdfs/pad-2025-00339/12358-2020_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:16:59.878854+00:00",
+  "records": [
+    {
+      "sir_id": "12358/2020",
+      "report_date": "2020-09-30",
+      "incident_date": "2020-09-29",
+      "location_details": "Evros, Greece",
+      "where_clear": "Evros region, Greece, near the Bulgarian border",
+      "location_text_raw": "Evros, Greece",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Evros, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific village name is redacted, but the region is clear.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 15,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Violation of Fundamental Rights",
+          "legal_basis": null,
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Collective push-back",
+          "legal_basis": null,
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Threats and robbery",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "15 migrants (7 IRN, 8 SYR) apprehended in Evros, Greece, alleged collective push-back from Bulgaria, threats, robbery, and being left with only underwear and shaved heads. Bulgarian authorities denied any involvement or observation of fundamental rights violations after internal investigations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Alleged violation of fundamental rights for 15 Illegal migrants on entry in Greece from Bulgaria",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 15,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,60 @@
+{
+  "source_file": "pdfs/pad-2025-00367/13497-2021.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:22:34.021428+00:00",
+  "records": [
+    {
+      "sir_id": "13497/2021",
+      "report_date": "2023-09-29",
+      "incident_date": "2021-09-17",
+      "location_details": "Incident occurred near the Bulgarian-Turkish border, along a road between redacted villages. The man was found walking along the road between redacted locations and the Turkish border.",
+      "where_clear": "Near the Bulgarian-Turkish border, along a road between villages.",
+      "location_text_raw": "along the road between [REDACTED] and the Turkish border (a spot located between [REDACTED] villages).",
+      "country_or_area": "Bulgaria / Turkey border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific locations are redacted, only general area near Bulgarian-Turkish border is mentioned.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to human dignity",
+          "legal_basis": "Article 2 of the EU Charter",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to integrity of the person",
+          "legal_basis": "Article 3 of the EU Charter",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A Frontex officer and Bulgarian Border Police found a man near the Bulgarian-Turkish border. The man, who spoke Arabic, claimed to have crossed the border through a fence and had scratches. Another patrol of Bulgarian officers arrived, and one allegedly assaulted the man by pounding his head and kicking him. The man was then taken towards the Turkish border. Conflicting reports exist, with Bulgarian authorities claiming the man was a Bulgarian national and denied abuse, while the Frontex officer reported mistreatment of an Arabic-speaking migrant.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "One of the Bulgarian Officers pounded the man's head from behind and kicked him in the leg.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

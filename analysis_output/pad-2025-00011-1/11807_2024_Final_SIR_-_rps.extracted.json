@@ -1,0 +1,51 @@
+{
+  "source_file": "pdfs/pad-2025-00011-1/11807_2024_Final_SIR_-_rps.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:46:23.294864+00:00",
+  "records": [
+    {
+      "sir_id": "11807/2024",
+      "report_date": "2024-11-27",
+      "incident_date": "2024-04-23",
+      "location_details": "A migrant was detected by Frontex and Serbian officers near the border with Bulgaria in Serbian territory. The migrant reported being beaten by three police officers in the forest after getting separated from a group, then found an abandoned building for the night, and apprehended the next morning on the road.",
+      "where_clear": "Serbian territory near the border with Bulgaria",
+      "location_text_raw": "near the border with Bulgaria",
+      "country_or_area": "Serbia",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia Bulgaria border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location within the border area is not provided, only general vicinity.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A migrant, who had crossed from Bulgaria, was found injured by Frontex and Serbian officers in Serbian territory near the border. The migrant reported being severely beaten by three police officers the previous day, resulting in visible bruises and swellings. The Fundamental Rights Office concluded that violence was used against the migrant, though unable to independently corroborate all details or the affiliation of the masked officers. Serbian authorities denied the allegations.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The migrant was barefoot, wearing only a t-shirt and underwear, had visible bruises and swellings, had difficulties walking. According to his account shared with the Frontex officers, on 23/04/2024, he got separated from other six migrants and shortly after he was beaten by three police officers, who also took his clothes and shoes.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

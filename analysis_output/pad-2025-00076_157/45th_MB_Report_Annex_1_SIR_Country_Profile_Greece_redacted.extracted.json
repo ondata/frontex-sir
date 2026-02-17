@@ -1,0 +1,228 @@
+{
+  "source_file": "pdfs/pad-2025-00076_157/45th_MB_Report_Annex_1_SIR_Country_Profile_Greece_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:52:54.986411+00:00",
+  "records": [
+    {
+      "sir_id": "13400/2022",
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Migrants stranded on islets in Evros over extended period.",
+      "where_clear": "Evros river islets, Greece",
+      "location_text_raw": "on islets in Evros",
+      "country_or_area": "Evros, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros river, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Delayed rescue",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Pushback",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Migrants stranded on islets in the Evros river for extended periods, experiencing delayed rescue and sometimes pushed back and forth.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "migrants on islets in Evros over extended period delayed rescue sometimes pushed back and forth",
+      "confidence": "medium",
+      "evidence_pages": [
+        1
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Apprehension by police, detention in police facility, abuse and pushback by masked third country nationals, often with no official record.",
+      "where_clear": "Evros region, Greece (land border)",
+      "location_text_raw": "Evros",
+      "country_or_area": "Evros, Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros region, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Abuse and pushback by masked third country nationals",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "No official record",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Apprehension and detention by police, followed by abuse and pushback by masked individuals, often without official record, occurring on land in the Evros region.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "aprehension by police detention in police facility abuse and pushback by masked third country nationals no official record",
+      "confidence": "medium",
+      "evidence_pages": [
+        1
+      ]
+    },
+    {
+      "sir_id": "12070/2023",
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Apprehension by masked armed men, transport by unmarked van and Coast Guard boat to the border, followed by abandonment in life rafts. Occurred from Greek islands, with main island pushbacks ceasing by July 2023 but continuing from smaller islands.",
+      "where_clear": "Greek islands (Aegean Sea)",
+      "location_text_raw": "from the islands",
+      "country_or_area": "Aegean Sea, Greece",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Aegean Sea, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Refers to 'the islands' generally, with specific mention of 'main islands' and 'smaller islands' without naming them.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Apprehension by masked armed men",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Abandonment in life raft",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "No official record",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Apprehension by masked armed men, transport by unmarked van and Coast Guard boat to the border, followed by abandonment in life rafts. Occurred from Greek islands, with main island pushbacks ceasing by July 2023 but continuing from smaller islands.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "aprehension by masked armed men in dark clothes driven in a van (no plates), Coast Guard boat to border, abandoned in life raft no official record",
+      "confidence": "medium",
+      "evidence_pages": [
+        1
+      ]
+    },
+    {
+      "sir_id": "10463/2024",
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Interception within territorial waters involving threats, violence, shots, dangerous maneuvers, engine damage, sinking or towing of migrant boats, and abandonment of migrants in life rafts, effectively preventing departure.",
+      "where_clear": "Greek territorial waters",
+      "location_text_raw": "intercept inside territorial waters",
+      "country_or_area": "Aegean Sea, Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Greek territorial waters",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Use of threats, shots, violence, dangerous maneuvers",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Break engine",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Sink or tow the migrant boat",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Abandon migrants in life raft",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Prevention of departure",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Interception within territorial waters involving threats, violence, shots, dangerous maneuvers, engine damage, sinking or towing of migrant boats, and abandonment of migrants in life rafts, effectively preventing departure.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "intercept inside territorial waters use of threats, shots, violence, dangerous maneuvers, break engine sink or tow the migrant boat, abandon migrants in life raft",
+      "confidence": "medium",
+      "evidence_pages": [
+        1
+      ]
+    },
+    {
+      "sir_id": "12595/2023",
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Cases involving delayed or ineffective Search and Rescue (SAR) operations, and other incidents occurring upon exit from the country, exemplified by the Adriana/Pylos case.",
+      "where_clear": "Pylos, Greece (sea area)",
+      "location_text_raw": "Adriana/Pylos case",
+      "country_or_area": "Pylos, Greece",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Pylos, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Delayed or ineffective SAR",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Cases involving delayed or ineffective Search and Rescue (SAR) operations, and other incidents occurring upon exit from the country, exemplified by the Adriana/Pylos case.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Delayed or ineffective SAR Incidents on exit from country",
+      "confidence": "high",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

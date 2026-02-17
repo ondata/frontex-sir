@@ -1,0 +1,48 @@
+{
+  "source_file": "pdfs/pad-2025-00339/Redacted_10230-2017-ptp.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:18:16.560553+00:00",
+  "records": [
+    {
+      "sir_id": "10230/2017",
+      "report_date": "2017-10-24",
+      "incident_date": "2017-06-12",
+      "location_details": "Hungarian-Serbian border",
+      "where_clear": "Hungarian-Serbian border",
+      "location_text_raw": "Hungarian-Serbian border",
+      "country_or_area": "Hungary, Serbia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Hungarian-Serbian border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "MSF reports violence at the Hungarian-Serbian border. The Médecins Sans Frontières (MSF) published on their Twitter account photos and testimonies of migrants who allegedly had been violently pushed back off the HUN-SRB border by Hungarian border officials. The Frontex Fundamental Rights Officer is proposed to act as the coordinator.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Médecins Sans Frontières (MSF) published on their Twitter account photos and testimonies of migrants who allegedly had been violently pushed back off the HUN-SRB border by Hungarian border officials.",
+      "confidence": "high",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

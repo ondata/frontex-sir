@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/SIR_14629_2024__redacted_2.0_final.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:10:58.464726+00:00",
+  "records": [
+    {
+      "sir_id": "14629/2024",
+      "report_date": "2025-06-03",
+      "incident_date": "2024-10-08",
+      "location_details": "A Fundamental Rights Monitor observed two debriefing interviews conducted by a Frontex debriefer on Lanzarote Island, Spain, during a Frontex joint operation (Canary Islands 2024).",
+      "where_clear": "Lanzarote Island, Spain",
+      "location_text_raw": "Lanzarote Island",
+      "country_or_area": "Spain",
+      "location_type": "land",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Lanzarote Island, Spain",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Safeguards linked to the right to respect for privacy and family life",
+          "legal_basis": "art. 7 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Safeguards linked to the right to protection of personal data",
+          "legal_basis": "art. 8 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A Fundamental Rights Monitor observed two debriefing interviews conducted by a Frontex debriefer on Lanzarote Island, reporting alleged violations of privacy and personal data protection safeguards. The debriefer reportedly did not ask for specific consent or provide full explanations, nor offered an opportunity to stop the interviews.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The report describes alleged violations of privacy and personal data protection safeguards during these debriefing interviews.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

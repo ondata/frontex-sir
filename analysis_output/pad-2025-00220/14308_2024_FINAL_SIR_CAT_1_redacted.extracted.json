@@ -1,0 +1,52 @@
+{
+  "source_file": "pdfs/pad-2025-00220/14308_2024_FINAL_SIR_CAT_1_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:04:21.288717+00:00",
+  "records": [
+    {
+      "sir_id": "14308/2024",
+      "report_date": "2025-05-16",
+      "incident_date": "2024-09-27",
+      "location_details": "Four Syrian migrants were stopped by alleged police officers close to the Albania-Montenegro border, approximately one kilometer from the border, on a road. They were then taken to an abandoned building nearby. The incident occurred in North-western Albania, along the Albania-Montenegro railway line, within an approximate range of 2.5 kilometers from the border.",
+      "where_clear": "North-western Albania, near the Albania-Montenegro border, approximately 1 km from the border, on a road near an abandoned building.",
+      "location_text_raw": "close to the Albania-Montenegro border, in the area, approximately one kilometer from the Albania-Montenegro border, a little further from the main road to an abandoned building, geographical coordinates [redacted] are a possible crossing point for immigrants who follow the route of the Albania-Montenegro railway line, North-western Albania, near the Albania-Montenegro border, in the same area of approximate range of 2,5 kilometres.",
+      "country_or_area": "Albania-Montenegro border area",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Albania Montenegro border, North-western Albania",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific geographical coordinates were redacted in the document.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to property",
+          "legal_basis": "Article 1 of Protocol No. 1 of the European Convention on Human Rights (ECHR)",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Four Syrian migrants were allegedly robbed by three men in Albanian police uniforms near the Albania-Montenegro border. The migrants were threatened with arrest and deportation if they did not hand over money. They gave 200 € and were then allowed to continue their travel. The Fundamental Rights Office assesses it is likely the migrants were victims of robbery, but the involvement of Albanian law enforcement officials remains unclear. Similar incidents have been reported in the same area, suggesting a pattern of exploitation.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office received information from Frontex operational staff about four migrants allegedly being robbed by three men in Albanian police uniforms on 27/09/2024. According to the migrants the group was stopped by the alleged police officers close to the Albania-Montenegro border.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

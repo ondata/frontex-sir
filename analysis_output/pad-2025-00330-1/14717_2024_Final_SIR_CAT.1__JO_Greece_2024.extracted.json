@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/14717_2024_Final_SIR_CAT.1__JO_Greece_2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:08:10.814803+00:00",
+  "records": [
+    {
+      "sir_id": "14717/2024",
+      "report_date": "2025-06-25",
+      "incident_date": "2024-10-15",
+      "location_details": "A migrant boat was intercepted by a Hellenic Coast Guard vessel near Kos island, Greece.",
+      "where_clear": "Near Kos island",
+      "location_text_raw": "near Kos island",
+      "country_or_area": "Kos island",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kos island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 4,
+      "injured_confirmed": 6,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A migrant boat with approximately 30 people was intercepted near Kos island by the Hellenic Coast Guard. Migrants alleged HCG actions, including creating waves and firing shots, led to the boat swamping and 4 deaths. FRO found migrant accounts credible regarding the swamping and deaths, but gunshots remain unconfirmed.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office considers it likely that the actions by the Hellenic authorities caused the swamping of the migrant boat and therefore led to the death of four migrants.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "dead_confirmed_total": 4,
+  "injured_confirmed_total": 6,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

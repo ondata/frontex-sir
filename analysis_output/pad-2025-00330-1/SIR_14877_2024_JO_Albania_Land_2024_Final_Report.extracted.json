@@ -1,0 +1,59 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/SIR_14877_2024_JO_Albania_Land_2024_Final_Report.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:11:42.843980+00:00",
+  "records": [
+    {
+      "sir_id": "14877/2024",
+      "report_date": "2025-06-17",
+      "incident_date": "2024-11-07",
+      "location_details": "Close to the Albania-Montenegro border, in the area of Hani - I - Hotit. Migrants were walking on the railroad track. Approximate GPS coordinates were indicated, but not precise. The incident took place in the same area as previous SIRs, specifically in North-western Albania, near the Albania-Montenegro border.",
+      "where_clear": "Hani i Hotit, Albania-Montenegro border area",
+      "location_text_raw": "close to the Albania-Montenegro border, in the area of Hani - I - Hotit.",
+      "country_or_area": "Albania-Montenegro border area",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Hani i Hotit, Albania-Montenegro border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Coordinates provided were not precise and were redacted. Location is described as 'close to' and 'in the area of'.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to property",
+          "legal_basis": "Article 1 of Protocol No. 1 of the European Convention on Human Rights (ECHR)",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights (ECHR)",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Four migrants were allegedly robbed by three men in seemingly Albanian police uniforms near the Albania-Montenegro border. Money and cell phones were taken, and one migrant was slapped. The Fundamental Rights Office assesses it is likely the migrants were victims of robbery and degrading treatment. The incident shows similarities with other SIRs in the same area, suggesting a pattern of exploitation and abuse by unknown perpetrators, possibly impersonating law enforcement.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office received information from Frontex operational staff about four migrants allegedly robbed by three men in seemingly Albanian police uniforms on 07/11/2024. According to the migrants the group was stopped by the alleged police officers close to the Albania-Montenegro border, in the area of Hani - I - Hotit. The men in uniforms took the cell phones from the migrants, searched and ordered them to hand over their money. Three of the migrants handed all their money over to the three men, which amounted to 150 €. The fourth migrant had no money and was slapped in the face by one of the men.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

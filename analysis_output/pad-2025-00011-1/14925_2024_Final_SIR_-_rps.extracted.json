@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2025-00011-1/14925_2024_Final_SIR_-_rps.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:47:30.961896+00:00",
+  "records": [
+    {
+      "sir_id": "14925/2024",
+      "report_date": "2024-11-29",
+      "incident_date": "2024-10-14",
+      "location_details": "Incident occurred in the Libyan Search and Rescue Region (SRR) involving a Libyan Coast Security vessel P301 and a migrant boat with approximately 60 people. The mistreatment of a migrant took place on the Libyan Coast Security vessel.",
+      "where_clear": "Libyan Search and Rescue Region (SRR)",
+      "location_text_raw": "Libyan Search and Rescue Region (SRR)",
+      "country_or_area": "Libyan Search and Rescue Region",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Libyan Search and Rescue Region",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": 1,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of torture or cruel, inhuman or degrading treatment or punishment",
+          "legal_basis": "Article 7 of the International Covenant on Civil and Political Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Principle of disembarkation and delivery to a \"place of safety\"",
+          "legal_basis": "Annex 34 of the Resolution MSC.167(78), Guidelines on the Treatment of Persons Rescued at Sea of the International Maritime Organization",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A Frontex surveillance aircraft observed a Libyan Coast Security vessel P301 mistreating a migrant during a rescue operation in the Libyan SRR. The migrant was forcibly removed from a boat and beaten with a yellow rope. This incident highlights a pattern of violence by Libyan authorities during rescues and subsequent disembarkation in unsafe places, as Libya cannot be considered a place of safety.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "A recording made shows at least two crew members of the Libyan Coast Security vessel mistreating a migrant while forcibly removing him from the migrant boat. ... one crew member hits the lying person with a yellow rope seven times, then passes the rope to another member who hits the victim another five times.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

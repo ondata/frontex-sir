@@ -1,0 +1,60 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/10528_2025_-_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:05:25.337803+00:00",
+  "records": [
+    {
+      "sir_id": "10528/2025",
+      "report_date": "2025-06-30",
+      "incident_date": "2025-03-01",
+      "location_details": "The Miskar gas platform is registered under the flag of Tunisia, with Tunisian registration (Maritime Mobile Service Identity is 672700000). The platform is situated in the Gulf of Gabès, approximately 75 NM off the Tunisian coast, and is operated by BG Group and Entreprise Tunisienne d'Activités Pétrolières (ETAP), Tunisia's national oil and gas company. It is a fully manned installation, accommodating up to 24-person offshore crew, highly equipped gas facility designed for offshore processing, compression, and export. The platform is located in international waters within overlapping Tunisian and Maltese search and rescue regions.",
+      "where_clear": "Miskar gas platform in overlapping Maltese and Tunisian SAR regions, Gulf of Gabès",
+      "location_text_raw": "Libyan search and rescue region, Miskar gas platform in Maltese and Tunisian search and rescue regions (the two countries' search and rescue regions overlap in this area), Gulf of Gabès, approximately 75 NM off the Tunisian coast",
+      "country_or_area": "Tunisia (Miskar gas platform), Maltese and Tunisian SAR regions, Libyan SAR region",
+      "location_type": "mixed",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Miskar gas platform, Gulf of Gabès, Tunisia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 1,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Obligation to conduct rescue operations",
+          "legal_basis": "international human rights standards and maritime law obligations (SAR and SOLAS conventions)",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union, and Article 6 of the International Covenant on Civil and Political Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "On 01/03/2025, a migrant boat was detected by Frontex in Libyan SAR, then reached the Miskar gas platform in overlapping Maltese and Tunisian SAR regions. 32 people were stranded on the platform for four days. Despite regular updates to MRCCs, no rescue was coordinated. On 04/03/2025, NGO Sea-Watch rescued 32 people, reporting one casualty. The SIR investigates the delay in rescue.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "On 04/03/2025, the NGO's Sea-Watch rescue vessel Aurora in coordination with the Tunisian authorities rescued 32 people from the Miskar gas platform and reported one casualty.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

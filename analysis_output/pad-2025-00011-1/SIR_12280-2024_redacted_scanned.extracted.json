@@ -1,0 +1,63 @@
+{
+  "source_file": "pdfs/pad-2025-00011-1/SIR_12280-2024_redacted_scanned.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:50:26.075486+00:00",
+  "records": [
+    {
+      "sir_id": "12280/2024",
+      "report_date": "2024-12-20",
+      "incident_date": "2024-05-23",
+      "location_details": "According to an NGO report, on 23/05/2024, a group of 25 migrants was in Greek territorial waters, six kilometers from the north-western shore of Samos, northwest of Karlovasi. A potentially matching incident was detected by HCG CPB 604 at the sea area North East of Samos island, inside TTW in position: 37°57'18\"N, 027°00'00\"E. The Turkish Coast Guard later rescued 18 irregular migrants (along with 7 children) off the coast of İzmir's Menderes district, stating they were in a lifeboat \"that was pushed back into Turkish territorial waters by Greek assets\".",
+      "where_clear": "Greek territorial waters, near Samos island, northwest of Karlovasi, at approximately 37.955 N, 27.000 E.",
+      "location_text_raw": "Greek territorial waters, six kilometers from the north-western shore of Samos, northwest of Karlovasi; sea area North East of Samos island, inside TTW in position: 3757'18\"N, 02700'00\"E; off the coast of İzmir's Menderes district.",
+      "country_or_area": "Greece, Aegean Sea, Samos",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "37.955, 27.000, Samos, Greece",
+      "lat": 37.955,
+      "lon": 27.0,
+      "uncertainty_note": "The Office finds the exact location of HCG CPB 604's encounter with the migrant boat unclear. While the Fundamental Rights Office could not verify the timeline of events, it considers it likely that the migrant group was subject to collective expulsion, and by being abandoned adrift at sea in a life raft, the Office considers it likely that their lives were at risk. It remains unclear whether the migrant boat was still in this position when the videos showing the encounter between the migrant boat and the coast guard vessel were recorded.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office established that videos from migrants and pictures from the Turkish Coast Guard relate to the same group of 25 migrants. The HCG CPB 604 vessel is identified as involved. The Office considers it likely that the migrant group was subject to collective expulsion and their lives were at risk by being abandoned adrift at sea in a life raft. Allegations of holding migrants at gunpoint, searching them, and taking belongings could not be verified, but the modus operandi is consistent with HCG practices. The Greek authorities' reporting of the incident is considered incorrect as it omitted key facts, and their response to the FRO's enquiry was deemed insufficient.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "According to an NGO report, on 23/05/2024, a group of 25 migrants was in Greek territorial waters, six kilometers from the north-western shore of Samos, northwest of Karlovasi, when a Hellenic Coast Guard vessel approached their boat.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

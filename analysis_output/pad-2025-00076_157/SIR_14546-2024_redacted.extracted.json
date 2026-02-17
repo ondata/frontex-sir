@@ -1,0 +1,53 @@
+{
+  "source_file": "pdfs/pad-2025-00076_157/SIR_14546-2024_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:56:33.688014+00:00",
+  "records": [
+    {
+      "sir_id": "14546/2024",
+      "report_date": "2025-02-28",
+      "incident_date": "2024-09-30",
+      "location_details": "Migrants were held in a garage adjacent to the main building of a Border Crossing Unit (BCU) in Serbia, near Pirot. The garage dimensions are 8.5m x 8.5m x 4m. It is not adapted for holding people, lacks furniture, ventilation, natural light, and sanitary facilities. Registration and office rooms are air-conditioned. The facility is located at Serbia's border.",
+      "where_clear": "Garage at a Border Crossing Unit (BCU) building in Serbia, near Pirot.",
+      "location_text_raw": "garage adjacent to the main building of [REDACTED]",
+      "country_or_area": "Serbia",
+      "location_type": "facility",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Border Crossing Unit building, Pirot, Serbia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific facility name and exact border crossing location are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of torture or inhuman or degrading treatment or punishment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office was made aware of Frontex operational reporting about apprehended migrants being brought to a redacted location for registration and allegedly held for hours in degrading conditions. On 30/09/2024, one migrant fainted while being locked in a garage-like structure with other 30 migrants for at least 14 hours. It was also reported that the same day at around 17:00 at least 45 migrants were held in the garage, with 30 of them already being there no less than 20 hours. The Office considers it established that migrants were held in the garage adjacent to the main building of a BCU on a regular basis over 2023-2024, on occasion even up to 20 hours. The detention of migrants in such conditions, considering the general conditions of the garage, the size of migrant groups, and long waiting hours, likely amounts to degrading treatment.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 30/09/2024, one migrant fainted while being locked in a garage-like structure with other 30 migrants for at least 14 hours.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

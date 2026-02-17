@@ -1,0 +1,64 @@
+{
+  "source_file": "pdfs/pad-2025-00339/10070-2019_redacted-ptp2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:13:17.531749+00:00",
+  "records": [
+    {
+      "sir_id": "10070/2019",
+      "report_date": "2019-09-13",
+      "incident_date": "2019-09-12",
+      "location_details": null,
+      "where_clear": "Near the Greece-Bulgaria border, in Bulgaria",
+      "location_text_raw": "Bulgaria,, Bulgaria; [redacted] village, close to GRC-BGR borders; forest (in BGR); near the GRC border",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Greece Bulgaria border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific village name redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 26,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Threats, beating, dog biting, robbery and violent deportation",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Forced nudity and humiliation",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Theft of phones and burning of belongings",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "26 irregular migrants (24 men, 2 women) were apprehended by Bulgarian border police near the Greece-Bulgaria border. They alleged being victims of threats, beating, dog biting, robbery, forced nudity, humiliation, theft of phones, burning of belongings, and violent deportation by Bulgarian authorities. Frontex team members were not involved and were not on duty in the area at the time of the incident.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "All of them: i) Declared as victims of threats, beating, dog biting, robbery and violent deportation from BGR to GRC, from the side of the Bulgarian authorities. ii) Were naked, wearing only their underwear.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 26,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

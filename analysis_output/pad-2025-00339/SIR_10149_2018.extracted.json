@@ -1,0 +1,48 @@
+{
+  "source_file": "pdfs/pad-2025-00339/SIR_10149_2018.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:20:21.998415+00:00",
+  "records": [
+    {
+      "sir_id": "10149/2018",
+      "report_date": "2018-12-05",
+      "incident_date": "2018-12-04",
+      "location_details": "Bodies of three migrants found in Turkey close to the Greek border, allegedly after being forced back by Greek Police across the Evros River.",
+      "where_clear": "Turkey, near the Greek border, by the Evros River",
+      "location_text_raw": "in Turkey close to the Greek border. According to a migrant apprehended by Turkish authorities at least one of the dead migrants was part of a group of migrants who were forced back to Turkey by Greek Police after having reached Greece by crossing the Evros River.",
+      "country_or_area": "Turkey (near Greek border)",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Evros River border Turkey Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 3,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged pushback by Greek Police resulting in deaths",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Bodies of three migrants found in Turkey close to the Greek border, allegedly after being forced back by Greece.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "3 dead migrants found in Turkey close to the Greek border. According to a migrant apprehended by Turkish authorities at least one of the dead migrants was part of a group of migrants who were forced back to Turkey by Greek Police after having reached Greece by crossing the Evros River.",
+      "confidence": "high",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 3,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,53 @@
+{
+  "source_file": "pdfs/pad-2025-00339/Redacted_10187-2017.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:17:59.918457+00:00",
+  "records": [
+    {
+      "sir_id": "10187/2017",
+      "report_date": "2017-06-08",
+      "incident_date": "2017-05-24",
+      "location_details": "Evros River, Didymoteicho",
+      "where_clear": "Evros River, near Didymoteicho, Greece",
+      "location_text_raw": "Evros River, Didymoteicho",
+      "country_or_area": "Greece / Turkey border (Evros River)",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros River, Didymoteicho, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Coordinates are default 0.000000, actual location is inferred from text.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Refoulement",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "An unofficial refoulement from Greece to Turkey took place along the Evros River on May 24th. It concerns Turkish citizens seeking asylum in Greece, including a journalist, Murat Çapan, who was previously sentenced in Turkey. A family of six, including an infant, and three men were handed over by Greek police to masked gunmen. The Hellenic League for Human Rights (HLHR) has evidence and is bringing the matter to UN High Commissioner for Refugees and Greek courts.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "An unofficial refoulement from Greece to Turkey took place along the Evros River on May 24th. This time, it concerns Turkish citizens seeking asylum in Greece, among them Murat Çapan, who was a journalist... were handed over by Greek police to a group of masked gunmen.",
+      "confidence": "high",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2025-00371/10942-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:31:05.998924+00:00",
+  "records": [
+    {
+      "sir_id": "10942/2022",
+      "report_date": "2022-05-12",
+      "incident_date": "2022-03-02",
+      "location_details": "Migrants were allegedly apprehended by Albanian authorities and transported to a place near BCP Kakavia, Albania, close to the border with Greece, where they were shown a path to cross into Greek territory. The incident is linked to the Gjirokaster Region and Temporary Accommodation and Registration Centers in Gjirokaster or Kakavija.",
+      "where_clear": "Near BCP Kakavia, Albania, close to the border with Greece",
+      "location_text_raw": "place near BCP Kakavia by the Albanian police where they were shown to follow a path to cross to Greece territory.",
+      "country_or_area": "Albania",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "BCP Kakavia, Albania",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Location is described as 'near BCP Kakavia' and 'close to the border area' without exact coordinates.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Art. 4 of Protocol no. 4 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "Interviewed migrants claimed they were apprehended by Albanian authorities, brought to a police station, and then transported to a location near BCP Kakavia, Albania, where they were instructed to cross into Greece. The Fundamental Rights Office could not establish the veracity of these allegations but noted their consistency with other Serious Incident reports. Albanian authorities denied transporting migrants to the border or instructing them to cross, stating they issue voluntary departure orders.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Interviewed migrants claim to have been apprehended, brought to a police station and later transported to a place near BCP Kakavia by the Albanian police where they were shown to follow a path to cross to Greece territory.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

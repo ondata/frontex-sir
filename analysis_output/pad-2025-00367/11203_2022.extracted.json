@@ -1,0 +1,61 @@
+{
+  "source_file": "pdfs/pad-2025-00367/11203_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:21:30.071943+00:00",
+  "records": [
+    {
+      "sir_id": "11203/2022",
+      "report_date": "2023-07-28",
+      "incident_date": "2022-09-15",
+      "location_details": "The incident occurred close to an island in the vicinity of Samos Island, Greece, in the Aegean Sea. A group of migrants was allegedly pushed back to Türkiye from this area after one migrant reported sexual assault.",
+      "where_clear": "Near Samos Island, Greece",
+      "location_text_raw": "close to an island in the vicinity of Samos Island",
+      "country_or_area": "Samos Island, Greece, Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Samos Island, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The Office notes small inconsistencies in reported locations and could not establish the exact location of the reported incident, although the reported locations are overall in the same area.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A migrant reported being part of a group (29-30 individuals) pushed back to Türkiye from near Samos Island on 15 September 2022, after being sexually assaulted by masked men. The Fundamental Rights Office considers the pushback credible and plausible, potentially involving the Hellenic Coast Guard. While unable to independently corroborate the sexual violence and perpetrator identity, the allegations are deemed relatively credible.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "a migrant stated that during the previous attempt to cross border to Greece on 15 September 2022, she, together with a group of other migrants was pushed back to Türkiye, after being sexually assaulted by masked men in dark uniforms close to an island in the vicinity of Samos.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

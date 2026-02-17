@@ -1,0 +1,53 @@
+{
+  "source_file": "pdfs/pad-2025-00085/13471-2024_SIR_CAT1_-_Final_Report_rps.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:57:50.296244+00:00",
+  "records": [
+    {
+      "sir_id": "13471/2024",
+      "report_date": "2025-01-30",
+      "incident_date": "2024-08-08",
+      "location_details": "The incident was reported to occur northeast of Rhodes Island, inside Turkish territorial waters, with specific coordinates provided for detection and rescue points. The alleged interception and towing occurred in a disputed area.",
+      "where_clear": "Sea area northeast of Rhodes Island, within Turkish territorial waters (near Muğla's Fethiye district)",
+      "location_text_raw": "northeast of Rhodes Island, inside Turkish territorial waters in position 36°25'48.0\"N 28° 49'48.0\"Ε.",
+      "country_or_area": "Turkish territorial waters, Aegean Sea",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "36.43, 28.83",
+      "lat": 36.43,
+      "lon": 28.83,
+      "uncertainty_note": "Multiple locations and movements (detection, alleged interception, towing, rescue) are described by different sources (NGO, Greek authorities, Turkish Coast Guard), spanning both Greek and Turkish territorial waters. The provided coordinates correspond to the location of detection and rescue in Turkish territorial waters, which is the final known position before rescue.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "An NGO reported that 64 migrants sailing from Türkiye to Rhodes were intercepted by the Hellenic Coast Guard (HCG) in a RHIB, their engine destroyed, belongings taken, and then towed by HCG vessel OPV 080 into Turkish territorial waters. The Turkish Coast Guard later rescued 64 migrants (51 irregular migrants and 13 children) from a drifting motor yacht in the same area. The Fundamental Rights Office finds it likely that the HCG was involved and that the motor yacht was in Greek territorial waters at some point, but could not independently corroborate the alleged interception and towing details. The modus operandi is consistent with HCG practices.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "the Fundamental Rights Office considers it likely that the Hellenic Coast Guard was involved in the incident but could not independently corroborate the facts as alleged in relation to interception, towing of the motor yacht and subsequent irregular return to Turkish territorial waters.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

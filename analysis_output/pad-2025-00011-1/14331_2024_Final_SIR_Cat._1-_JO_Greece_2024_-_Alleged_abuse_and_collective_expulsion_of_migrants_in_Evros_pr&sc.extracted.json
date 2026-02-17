@@ -1,0 +1,57 @@
+{
+  "source_file": "pdfs/pad-2025-00011-1/14331_2024_Final_SIR_Cat._1-_JO_Greece_2024_-_Alleged_abuse_and_collective_expulsion_of_migrants_in_Evros_pr&sc.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:47:08.513548+00:00",
+  "records": [
+    {
+      "sir_id": "14331/2024",
+      "report_date": "2024-12-17",
+      "incident_date": "2024-08-01",
+      "location_details": "A group of ten migrants crossed the Evros river from Türkiye to Greece on 01/08/2024. They were apprehended on 02/08/2024 near Didymoteicho, Greece, and later transferred to an area near the Evros river for forced return to the Turkish side of the river. Specific points of entry and arrest were known but redacted.",
+      "where_clear": "Evros river border area between Greece and Türkiye, near Didymoteicho, Greece",
+      "location_text_raw": "Evros river from Türkiye to Greece, an area near the Evros river, Turkish side of the river, near the town of Didymoteicho, Evros region",
+      "country_or_area": "Greece, Türkiye",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Evros river border Greece Turkey near Didymoteicho",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates for crossing and apprehension are redacted in the document.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19(1) of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A migrant reported mistreatment and collective expulsion after crossing the Evros river. The group of ten migrants was apprehended by Greek police, handed over to unidentified individuals (Afghan nationals) wearing masks, subjected to invasive body searches, sexual harassment, and then forced back to Türkiye in an inflatable boat. The Fundamental Rights Office finds the migrant's account credible.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "a migrant informed Frontex about mistreatment and collective expulsion they had been allegedly subjected to on 01/08/2024 when a group of ten migrants had crossed the Evros river from Türkiye to Greece, and subsequently got apprehended on 02/08/2024 by a Greek police patrol.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

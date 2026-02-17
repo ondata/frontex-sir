@@ -1,0 +1,94 @@
+{
+  "source_file": "pdfs/pad-2025-00371/10064-2019.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:24:43.641629+00:00",
+  "records": [
+    {
+      "sir_id": "10064/2019",
+      "report_date": "2019-08-26",
+      "incident_date": "2019-07-26",
+      "location_details": "n/a",
+      "where_clear": "Croatia",
+      "location_text_raw": "Croatia, , Croatia",
+      "country_or_area": "Croatia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Croatia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 7,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 1,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "potential violation of human rights",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "right to life",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "integrity",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "asylum",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "human dignity",
+          "legal_basis": "Article 1 of the EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "prohibition of torture and inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "prohibition of refoulement",
+          "legal_basis": "Article 19 of the EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "access to an effective remedy",
+          "legal_basis": "Article 47 of the EU Charter",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "An interview was performed with a male migrant apprehended in Vidin, who showed clear signs of physical abuse and violence. He claimed these injuries were from Croatian border guards. He reported multiple unsuccessful attempts to cross the border. During one attempt, a group of migrants (around thirty) was stopped by Croatian officers who beat them with police batons, confiscated valuables (phones), and left them standing for hours. They were then put into a truck, taken to a forest, and beaten again upon disembarking. The interviewee's friend allegedly suffered a dislocated shoulder. Previous attempts involved similar routes, with migrants being robbed, humiliated, and beaten, and children separated from mothers. The interviewee also claimed to have seen migrants drown in a river while trying to escape police brutality. FRO considers these allegations could amount to serious breaches of the right to life, integrity, asylum, human dignity, the prohibition of torture and inhuman and degrading treatment, and collective expulsion, as well as a lack of access to an effective remedy.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Croatian border guards stop them and steal from them. After crossing the border with a group of migrants (around thirty), using the off line map application, they were stopped by seven/eight Croatian officers, who after a few words started to beat them with police batons.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 7,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 1,
+  "records_invalid_skipped": 0
+}

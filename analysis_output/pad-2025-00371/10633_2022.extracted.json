@@ -1,0 +1,78 @@
+{
+  "source_file": "pdfs/pad-2025-00371/10633_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:29:10.895603+00:00",
+  "records": [
+    {
+      "sir_id": "10633/2022",
+      "report_date": null,
+      "incident_date": "2022-02-13",
+      "location_details": "Apprehension by a joint Polish-Latvian patrol at the border of Latvia and Belarus. The person was identified, checked for health, provided with food, and then ordered to return to the country of departure (Belarus) based on a Ministerial Order related to an emergency situation.",
+      "where_clear": "Latvia-Belarus border",
+      "location_text_raw": "at the border of Latvia and Belarus",
+      "country_or_area": "Latvia",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Latvia Belarus border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact location along the border is redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life and human dignity",
+          "legal_basis": "Articles 1 and 2 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to integrity of the person",
+          "legal_basis": "Article 3 of EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 4 of EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19(1) of EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "Article 18 of EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "Article 19 (2) of EU Charter",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A person was apprehended by a joint Polish-Latvian patrol at the Latvia-Belarus border. The person was identified, checked for health, provided with food, and then ordered to return to the country of departure (Belarus) based on a Ministerial Order related to an emergency situation. The report highlights potential violations of fundamental rights, including the right to asylum and non-refoulement, due to the lack of individual assessment and effective access to asylum procedures.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The migrant was intercepted inside the territory of Latvia. However, the Latvian authorities ordered the person to return to the territory of the country of departure. The event could be classified as potential violation of EU or international law, in particular, related to fundamental rights and international protections obligations.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

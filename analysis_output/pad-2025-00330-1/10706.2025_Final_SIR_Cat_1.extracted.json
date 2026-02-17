@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/10706.2025_Final_SIR_Cat_1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:05:50.122120+00:00",
+  "records": [
+    {
+      "sir_id": "10706/2025",
+      "report_date": "2025-06-20",
+      "incident_date": "2025-05-16",
+      "location_details": "The incident occurred near the Albania-Montenegro border, close to the railway track, approximately at specific coordinates (redacted in the document). The terrain is described as mountainous and covered with shrubs, accessible only on foot. The location is also near a main road, contradicting Albanian authorities' claims of a non-vehicle-accessible, mountainous area.",
+      "where_clear": "Albania-Montenegro border area near railway track",
+      "location_text_raw": "close to the Albania-Montenegro border, in the area [redacted] near the railway track close to the Albania-Montenegro border, approximately at coordinates [redacted]",
+      "country_or_area": "Albania-Montenegro border area",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Albania-Montenegro border, near railway track",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates are redacted, but the general area near the Albania-Montenegro border and railway tracks is described and mapped in the annex.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to property",
+          "legal_basis": "Article 1 of Protocol No. 1 of the European Convention on Human Rights (ECHR)",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "This report details an incident where two migrants were allegedly robbed by individuals in Albanian police uniforms near the Albania-Montenegro border. The Fundamental Rights Office assesses it as likely that a robbery occurred, noting similarities with other incidents in the area, suggesting a pattern of exploitation. Albanian authorities' investigation did not confirm police involvement and provided a misleading location description, raising concerns about its accuracy. The Office recommends a thorough investigation by Albanian authorities and measures to prevent future incidents.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office received information from Frontex operational staff about two migrants allegedly robbed by two perpetrators in Albanian police uniforms on 16/05/2025.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

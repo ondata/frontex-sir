@@ -1,0 +1,51 @@
+{
+  "source_file": "pdfs/pad-2025-00011-1/SIR_12929-2024_redacted_scanned.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:51:42.246867+00:00",
+  "records": [
+    {
+      "sir_id": "12929/2024",
+      "report_date": "2024-11-29",
+      "incident_date": "2024-06-10",
+      "location_details": "Multiple instances of alleged refusal of entry at border crossing points between Croatia and Bosnia and Herzegovina.",
+      "where_clear": "Border crossing points between Croatia and Bosnia and Herzegovina",
+      "location_text_raw": "at [redacted], BCP, other border police stations",
+      "country_or_area": "Croatia, Bosnia and Herzegovina",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific border crossing points are redacted in the document.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "Article 18 of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "The Fundamental Rights Office investigated multiple instances of alleged refusal of entry for persons seeking asylum at border crossing points between Croatia and Bosnia and Herzegovina on 10/06/2024. This involved two separate groups of two citizens each, and a group of 17 citizens (four families including six minors). While some individuals voiced an intention to seek asylum, the Office could not independently corroborate that access to asylum procedures was denied, noting that the group of 17 eventually applied for international protection in Croatia on 11/06/2024 at different border police stations after being initially turned back due to long waiting times.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office received a report describing multiple instances of refusal entry of persons reportedly asking for asylum at [redacted] on 10/06/2024.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

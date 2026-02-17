@@ -1,0 +1,64 @@
+{
+  "source_file": "pdfs/pad-2025-00339/SIR_10142_2018.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:20:00.393598+00:00",
+  "records": [
+    {
+      "sir_id": "10142/2018",
+      "report_date": "2018-11-18",
+      "incident_date": "2018-11-06",
+      "location_details": "The incident occurred in the Evros area, involving multiple pushbacks across a border river. Specific location within the operational area is redacted.",
+      "where_clear": "Evros area, border river between Greece and Turkey",
+      "location_text_raw": "Text Removed - Operational Area, Evros area",
+      "country_or_area": "Evros area (Greece/Turkey border)",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Evros River border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific location within Evros area is redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Push Back",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Assault",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Theft",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "An interviewee reported two incidents in the Evros area. On November 7th, 2018, after landing, he and other migrants were attacked, forced back across the river, stripped, beaten, and robbed of valuables. On November 10th, 2018, after crossing the river again, he and others were intercepted, beaten, robbed, forced to undress, and pushed back. The interviewee was apprehended on November 14th, 2018, and interviewed on November 16th, 2018. He did not wish to file a complaint and provided limited details, possibly due to fear, and there were doubts about translation accuracy.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "the interviewee stated that he was pushed back, assaulted, treated inhumanly and robbed... forced to go back through the river after their valuables were taken away, after the men were stripped naked and after they were beaten.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

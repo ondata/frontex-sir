@@ -1,0 +1,74 @@
+{
+  "source_file": "pdfs/pad-2025-00371/10232-2019.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:26:22.083473+00:00",
+  "records": [
+    {
+      "sir_id": "10232/2019",
+      "report_date": "2019-10-08",
+      "incident_date": "2019-10-01",
+      "location_details": "Near Kastoria city Greece",
+      "where_clear": "Near Kastoria city, Greece",
+      "location_text_raw": "Near Kastoria city Greece",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kastoria, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Provided latitude and longitude are 0.000000, indicating unknown specific coordinates.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Integrity",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of torture and inhuman, and degrading treatment",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Degrading treatment",
+          "legal_basis": "Article 4 of the EU Charter",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to human dignity",
+          "legal_basis": "Article 1 of the EU Charter",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "3 migrants apprehended by Greek police near Kastoria city, kept 3 days without food, lost approx 1160 Euro and 2 phones. Physical force used during apprehension. Released after 3 days with 100 Euro and one phone returned. FRO considers potential serious breaches of fundamental rights including right to life, integrity, human dignity, and prohibition of torture and inhuman/degrading treatment, as well as violations of Article 1 and 4 of the EU Charter.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "3 migrants apprehended, kept 3 days without food, lost approx 1160 Euro and 2 phones",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

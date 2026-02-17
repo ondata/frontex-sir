@@ -1,0 +1,66 @@
+{
+  "source_file": "pdfs/pad-2025-00371/10208_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:25:59.802934+00:00",
+  "records": [
+    {
+      "sir_id": "10208/2022",
+      "report_date": null,
+      "incident_date": "2022-01-13",
+      "location_details": "Incidents occurred at the Lithuanian border where 15 migrants were detected in Lithuanian territory and subsequently directed from the territory. Lithuanian authorities applied preventive measures to 8 persons and 7 persons separately, directing them from the territory of Lithuania.",
+      "where_clear": "Lithuanian border",
+      "location_text_raw": "Lithuanian territory, at the border signal",
+      "country_or_area": "Lithuania",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Lithuanian border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life and human dignity",
+          "legal_basis": "Article 1 and 2 of the EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "Article 19 (1) of the EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "Article 18 of the EU Charter",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Non-refoulement",
+          "legal_basis": "Article 19 (2) of the EU Charter",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "The SIR concerns incidents on 13 January 2022 where Lithuanian authorities applied 'preventive measures' to 15 migrants (8 and 7 persons in two separate incidents) who had crossed into Lithuanian territory, directing them back from the territory. This practice is linked to a new national border management procedure from August 2021, which prevents asylum seekers from being admitted if they cross outside designated border crossing points. The Fundamental Rights Officer assesses these actions as likely violating several fundamental rights, including the right to asylum, prohibition of collective expulsion, non-refoulement, and right to life and human dignity, due to lack of individual assessment and effective access to asylum procedures, and the risk of chain-refoulement.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 13 January 2022 preventive measures were applied to 8 persons, and they were directed from the territory of Lithuania... On 13 January 2022, the preventive measures were applied to 7 persons, and they were directed from the territory of Lithuania.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

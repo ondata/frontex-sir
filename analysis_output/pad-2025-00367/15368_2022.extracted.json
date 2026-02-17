@@ -1,0 +1,78 @@
+{
+  "source_file": "pdfs/pad-2025-00367/15368_2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:23:47.300348+00:00",
+  "records": [
+    {
+      "sir_id": "15368/2022",
+      "report_date": "2023-04-14",
+      "incident_date": "2022-09-13",
+      "location_details": "Border police station in Sredets, Bulgaria, specifically a poorly maintained garage/shed on its premises, located approximately 40 kilometres from the Turkish border.",
+      "where_clear": "BCU Sredets, Bulgaria",
+      "location_text_raw": "border police station in Sredets",
+      "country_or_area": "Bulgaria",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "BCU Sredets, Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "art. 1 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Right to liberty and security",
+          "legal_basis": "art. 6 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "art. 18 of the EU Charter of Fundamental Rights",
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "art. 47 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Media reports alleged inhuman detention conditions in a 'cage-like structure' at BCU Sredets, Bulgaria, and forced returns to Türkiye. Frontex presence was noted. FRO found people were held in the structure, likely amounting to inhuman/degrading treatment and breach of liberty rights. Frontex staff were not aware of the structure's use for detention.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office finds that the treatment of migrants in detention as evidenced by the media reporting very likely amounted to inhuman and degrading treatment and was in breach of the principle of human dignity.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

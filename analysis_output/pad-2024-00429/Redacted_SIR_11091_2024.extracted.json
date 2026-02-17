@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2024-00429/Redacted_SIR_11091_2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:44:49.986979+00:00",
+  "records": [
+    {
+      "sir_id": "11091/2024",
+      "report_date": "2024-03-15",
+      "incident_date": "2023-12-27",
+      "location_details": "Incident occurred on a highway in North Macedonia, involving a vehicle parked on a stop lane and passing a tunnel.",
+      "where_clear": "Highway in North Macedonia, near a tunnel.",
+      "location_text_raw": "North Macedonia, on the highway, parked on a stop lane on the highway, passing the tunnel",
+      "country_or_area": "North Macedonia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "highway near tunnel, North Macedonia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific highway and tunnel name are not provided, only the country and general type of location.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Misconduct by SC Officer and MKD Officer",
+          "legal_basis": "Articles 3, 10 and 17 of Code of Conduct",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A complaint was filed regarding alleged misconduct by a Frontex SC Officer and an MKD Officer. The officers reportedly accepted 40 euros as a fine without providing a receipt from a citizen who was stopped on a highway. The SC Officer admitted the incident took place but stated the check was conducted by the MKD Officer while he remained in the patrol car.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "According to the complaint, the citizen was brought under control by the officers, and during the course of checks, the officers reportedly accepted 40 euros from the individual as a fine without providing a receipt for the transaction.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

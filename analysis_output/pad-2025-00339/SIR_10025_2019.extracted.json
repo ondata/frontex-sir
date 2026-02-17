@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2025-00339/SIR_10025_2019.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:19:00.281823+00:00",
+  "records": [
+    {
+      "sir_id": "10025/2019",
+      "report_date": "2019-04-08",
+      "incident_date": "2019-04-08",
+      "location_details": "Border with Greece, specifically on the Greek side of a river (likely Evros) after crossing from Turkey.",
+      "where_clear": "Greek side of the Evros river border",
+      "location_text_raw": "border with Greece, the river, Greek side of the river",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros river border Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific point on the river border not identified, but clearly on the Greek side.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Confiscation of mobile phones without protocol",
+          "legal_basis": "Fundamental Rights",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "An Afghan male migrant and 11 others traveled from Istanbul to the Greek border. They crossed a river and were apprehended on the Greek side. Mobile phones were confiscated from 6 migrants without any protocol or document, leading to an alleged Fundamental Right violation report.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "While they were crossing the river, they were apprehended by Text Removed - Reporting Tools. On the Greek side of the river Text Removed - Human Resources took from migrants their mobile phones. The interviewee emphasized that he didn't want to give them phone, because it was new one. Moreover, the Text Removed - Reporting Tools took mobile phones from 6 migrants, without giving any protocol or document describing that confiscation.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

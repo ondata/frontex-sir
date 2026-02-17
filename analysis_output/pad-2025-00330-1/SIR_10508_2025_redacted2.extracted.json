@@ -1,0 +1,52 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/SIR_10508_2025_redacted2.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:10:12.552395+00:00",
+  "records": [
+    {
+      "sir_id": "10508/2025",
+      "report_date": "2025-06-25",
+      "incident_date": "2025-02-19",
+      "location_details": "Incident occurred at the Kybartai Border Crossing Point in Lithuania, where a person arriving from the Russian Federation was refused entry despite expressing a wish for asylum.",
+      "where_clear": "Kybartai Border Crossing Point, Lithuania",
+      "location_text_raw": "BCP Kybartai",
+      "country_or_area": "Lithuania",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Kybartai Border Crossing Point, Lithuania",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to asylum",
+          "legal_basis": "Article 18 of the EU Charter of Fundamental Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "A national arriving from the Russian Federation at the Kybartai Border Crossing Point in Lithuania on 19/02/2025 requested asylum orally and in writing but was refused entry. The person was turned back to the Russian Federation. The Regional Administrative Court later annulled the refusal of entry decision, stating the person clearly expressed a wish for asylum and that SBGS officers failed to register the application or take appropriate actions. The Fundamental Rights Office concluded that the right to asylum was violated.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office received information about an incident when a person reportedly asking for asylum at the [REDACTED] Lithuania was refused entry.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2025-00146/13681_2024_SIR__redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:00:17.661137+00:00",
+  "records": [
+    {
+      "sir_id": "13681/2024",
+      "report_date": "2025-04-15",
+      "incident_date": "2024-03-08",
+      "location_details": "Migrant boat detected in Libyan SRR at 33°54'00.0\"N 12°35'00.0\"E (Point 1), later rescued at 34°01'00.0″N 12°23'00.0″E (Point 3). All positions reported in this SIR are in Libyan search and rescue region, approx. 60 NM from the shore of Libya.",
+      "where_clear": "Libyan Search and Rescue Region, near 33.9N 12.583E",
+      "location_text_raw": "position 33°54'00.0\"N 12°35'00.0\"E at 00:54 UTC, Point 1 [Note. All positions reported in this SIR are in Libyan search and rescue region. Note Ends.]",
+      "country_or_area": "Libyan SRR",
+      "location_type": "sea",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "33.9N 12.583E, Libyan SRR",
+      "lat": 33.9,
+      "lon": 12.583333,
+      "uncertainty_note": null,
+      "dead_confirmed": 1,
+      "injured_confirmed": 1,
+      "missing_confirmed": null,
+      "dead_possible_min": 50,
+      "dead_possible_max": 60,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union, and Article 6 of the International Covenant on Civil and Political Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Frontex surveillance aircraft sighted a migrant boat with 50+ people on board in the Libyan SRR on 08/03/2024, issued a Mayday Relay, but the search was suspended on 11/03/2024. The boat was rescued by an NGO on 13/03/2024, after allegedly 50 deaths. One of the two evacuated injured persons later died in hospital. The FRO concludes Libyan authorities failed to act, and Frontex's follow-up was insufficient, contributing to loss of life.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "On 22/08/2024, the Fundamental Rights Office was made aware of the incident when 25 migrants were rescued in Libyan search and rescue region by an NGO rescue vessel after allegedly spending six days at sea, which voyage reportedly resulted in at least 50 deaths.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "dead_confirmed_total": 1,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 50,
+  "dead_possible_total_max": 60,
+  "records_invalid_skipped": 0
+}

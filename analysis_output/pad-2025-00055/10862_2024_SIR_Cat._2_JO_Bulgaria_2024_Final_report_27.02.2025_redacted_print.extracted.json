@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2025-00055/10862_2024_SIR_Cat._2_JO_Bulgaria_2024_Final_report_27.02.2025_redacted_print.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:51:59.788009+00:00",
+  "records": [
+    {
+      "sir_id": "10862/2024",
+      "report_date": "2024-12-10",
+      "incident_date": "2024-02-27",
+      "location_details": "The incident involved an SC Officer redeployed from a Border Crossing Point (BCP) to a Border Control Unit (BCU) within an unspecified operational area. The exact location is redacted.",
+      "where_clear": "Unspecified Border Control Unit (BCU) within an operational area",
+      "location_text_raw": "BCP to BCU",
+      "country_or_area": "unknown",
+      "location_type": "land",
+      "precision_level": "unknown",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Location details are heavily redacted in the document, only mentioning BCP and BCU within an operational area.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Potential violations of Codes of Conduct provisions",
+          "legal_basis": "Codes of Conduct provisions",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "An SC Officer was deployed without a service weapon, ammunition, and non-lethal equipment. The officer failed to report this through the chain of command. The issue was discovered during a weapons inspection, leading to the officer's shift termination and subsequent provision of the necessary equipment. The report identifies procedural failures in communication and equipment checks during redeployment.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "SiR category 2 - Situations of potential violations of Codes of Conduct provisions. The incident involves SC officer. SC Officer started to work without weapon and equipment failing to report within the respective chain of command.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

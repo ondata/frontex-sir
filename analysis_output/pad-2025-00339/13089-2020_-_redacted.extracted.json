@@ -1,0 +1,49 @@
+{
+  "source_file": "pdfs/pad-2025-00339/13089-2020_-_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:17:43.441591+00:00",
+  "records": [
+    {
+      "sir_id": "13089/2020",
+      "report_date": "2020-12-23",
+      "incident_date": "2020-12-19",
+      "location_details": "The Waiting Room next to The Room for Registration Activities.",
+      "where_clear": "A waiting room in Almeria, Spain, located next to a registration room within a facility where Frontex operations are conducted.",
+      "location_text_raw": "Location of the incident: [redacted] Operational area x4. Location details: The Waiting Room next to The Room for Registration Activities. Place of Incident: In the waiting room at [redacted] (place of work) next to where [redacted] are conducted by Frontex. Subject: deployed in Almeria.",
+      "country_or_area": "Almeria, Spain",
+      "location_type": "facility",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Waiting room next to registration room, Almeria, Spain",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 1,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Situations of alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A Frontex staff member deployed in Almeria overheard 3 slaps from a waiting room where 7 migrants were present. Upon checking, one migrant was observed with a bloodshot eye, which was not present before processing. Two Spanish local police officers were also in the room. Migrants had recently arrived after being at sea. The Spanish Police authorities later stated that officers intervened because the migrant ignored COVID-19 safety measures and did not respect social distancing, claiming the migrant suffered no injury. This contradicts the initial observation of a bloodshot eye.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Out of nowhere, we hear 3 slaps (like the open hand to face). Shortly after I pass by the room holding the arrivals and look at the seven men sitting there. One now has a bloodshot eye. None of the seven men had this whilst being processed.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 1,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

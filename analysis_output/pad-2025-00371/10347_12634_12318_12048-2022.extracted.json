@@ -1,0 +1,200 @@
+{
+  "source_file": "pdfs/pad-2025-00371/10347_12634_12318_12048-2022.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:27:22.994298+00:00",
+  "records": [
+    {
+      "sir_id": "10347/2022",
+      "report_date": "2022-10-27",
+      "incident_date": "2022-01-24",
+      "location_details": null,
+      "where_clear": "Migrant boat detected in Tunisian SAR zone, then Maltese SAR zone, eventually rescued in Italian SAR region.",
+      "location_text_raw": "Tunisian SAR zone and later in the Maltese SAR zone, TUN SAR region at position [redacted], crossed from the Tunisian into the Maltese Search and Rescue Zone, Italian SAR region at [redacted]",
+      "country_or_area": "Tunisian SAR zone, Maltese SAR zone, Italian SAR region",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Tunisian SAR zone, Maltese SAR zone, Italian SAR region",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates are redacted.",
+      "dead_confirmed": 7,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Right to integrity of the person",
+          "legal_basis": "Article 3 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "The obligation to conduct rescue operations in accordance with international human rights standards and maritime law obligations",
+          "legal_basis": "SAR and SOLAS Conventions",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A migrant boat with 280+ persons was detected adrift in Tunisian and Maltese SAR zones. Rescue took over 17 hours, resulting in 7 deaths. FRO notes the need for prompt SAR coordination.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A boat adrift was detected by a Frontex Surveillance Aircraft detected in the Tunisian SAR zone and later in the Maltese SAR zone with 280 + persons on board. The migrant boat was eventually rescued by the Italian authorities. During the rescue operations 7 people on board were found dead.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "sir_id": "12634/2022",
+      "report_date": "2022-08-02",
+      "incident_date": "2022-06-02",
+      "location_details": null,
+      "where_clear": "Migrant boat sighted in Tunisian SAR zone, then in Libyan SAR zone where interception occurred.",
+      "location_text_raw": "Tunisian SAR zone, Libyan SAR zone, heading north, into the Libyan SAR zone",
+      "country_or_area": "Tunisian SAR zone, Libyan SAR zone",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Tunisian SAR zone, Libyan SAR zone",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates are redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "right to integrity of the person",
+          "legal_basis": "Article 3 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union, Article 7 of the International Covenant on Civil and Political Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "the obligation to conduct rescue operations in accordance with international human rights standards and maritime law obligations, including disembarkation in a place of safety",
+          "legal_basis": "SAR and SOLAS conventions",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A migrant boat with approx. 50 migrants was sighted in Tunisian and Libyan SAR zones. Libyan Coast Guard intercepted the boat, and physical violence was recorded during the rescue. Migrants were returned to Libya. FRO notes excessive force and concerns about disembarkation safety.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "On 02/06/2022, Frontex surveillance aircraft sighted in the Tunisian SAR zone an overcrowded migrant boat with approx. 50 migrants on board, headed north, into the Libyan SAR zone. Tunisian and Libyan MRCCs were notified. Three hours later, the boat was sighted in Libyan SAR zone, with Libyan coast guard boat conducting rescue of the migrants. Frontex aircraft monitored the interception of the boat and embarkation of migrants, during which it recorded instances of physical violence by the Libyan Coast Guard vessel's crew against the people from the migrant boat.",
+      "confidence": "high",
+      "evidence_pages": [
+        4,
+        5
+      ]
+    },
+    {
+      "sir_id": "12318/2022",
+      "report_date": "2022-09-16",
+      "incident_date": "2022-05-25",
+      "location_details": null,
+      "where_clear": "Alleged shipwreck inside Maltese SRR - Tunisian Territorial Waters.",
+      "location_text_raw": "Maltese SRR - Tunisian Territorial Waters, inside the Maltese SRR - Tunisian Territorial Waters, Tunisian Territorial Water, Maltese SRR, Tunisian Territorial Seas",
+      "country_or_area": "Maltese SRR, Tunisian Territorial Waters",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Maltese SRR, Tunisian Territorial Waters",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates are redacted. Overlapping zones of responsibility.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": 100,
+      "dead_possible_max": 100,
+      "possible_violations": [
+        {
+          "violation_name": "Threat to right to life",
+          "legal_basis": "Article 2 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "possible violations of human dignity",
+          "legal_basis": "Article 1 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "prohibition of inhuman and degrading treatment",
+          "legal_basis": "Article 4 of the Charter of Fundamental Rights of the European Union",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "An alleged shipwreck with 110+ people was reported in Maltese SRR/Tunisian Territorial Waters. Maltese authorities denied responsibility due to location. Frontex assets were discouraged from attending. FRO highlights challenges in SAR coordination and state obligations to protect life.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 25/05/2022, Frontex Surveillance Aircraft team leaders (FSA TLs) diverted Heron 1 to an alleged shipwreck inside the Maltese SRR - Tunisian Territorial Waters based on information received from the Italian expert in EMT. Throughout the correspondence of the case, Maltese MRCC made clear that it had no duty to coordinate given the position inside the Tunisian Territorial Water with the Maltese Liaison Officer further insisting that a deployment of Heron 1 to the location would constitute a breach of the [redacted].",
+      "confidence": "high",
+      "evidence_pages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "sir_id": "12048/2022",
+      "report_date": "2022-05-18",
+      "incident_date": "2022-05-12",
+      "location_details": "Maltese Search and Rescue area",
+      "where_clear": "Migrant boat sighted in Maltese Search and Rescue area, previously in Libyan SAR zone.",
+      "location_text_raw": "Maltese Search and Rescue area, at [redacted] (reference: FSA [redacted]), Libyan search and rescue zone, Maltese search and rescue zone",
+      "country_or_area": "Maltese Search and Rescue area, Libyan search and rescue zone",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Maltese Search and Rescue area, Libyan search and rescue zone",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific coordinates are redacted.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [],
+      "context_note": "A wooden boat with 20+ migrants was sighted adrift in the Maltese SAR area. Maltese authorities were informed but denied responsibility. NGO Sea-Eye 4 eventually rescued the migrants. FRO notes the time elapsed between alerts and rescue, and Maltese authorities' refusal to provide information.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 12/05/2022 at 09:40 UTC, Eagle 1 spotted a blue wooden boat with 20+ migrants on board (overcrowded) adrift at [redacted] (reference: FSA [redacted]).",
+      "confidence": "high",
+      "evidence_pages": [
+        13,
+        14
+      ]
+    }
+  ],
+  "dead_confirmed_total": 7,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 100,
+  "dead_possible_total_max": 100,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,227 @@
+{
+  "source_file": "pdfs/pad-2025-00011-1/44th_MB_Report_PAD_redactions_redacted_applied_print_and_SCANNED.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:48:41.914902+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": "2024-09-30",
+      "incident_date": null,
+      "location_details": "on either side of the Serbia-Bulgaria border",
+      "where_clear": "Serbia-Bulgaria border",
+      "location_text_raw": "Serbia-Bulgaria border",
+      "country_or_area": "Serbia, Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia-Bulgaria border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "ill-treatment",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "theft or destruction of property",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "migrants were rounded up driven to the border with Bulgaria and encouraged to cross it.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "In one case, the Office assesses the allegation as likely to have occurred as reported by a Frontex debriefing officer - that migrants were rounded up driven to the border with Bulgaria and encouraged to cross it.",
+      "confidence": "high",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": "2024-09-30",
+      "incident_date": null,
+      "location_details": "on either side of the Serbia-Bulgaria border",
+      "where_clear": "Serbia-Bulgaria border",
+      "location_text_raw": "Serbia-Bulgaria border",
+      "country_or_area": "Serbia, Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia-Bulgaria border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "ill-treatment",
+          "legal_basis": null,
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": null,
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "2. Serbia: ill-treatment, collective expulsion (violation unclear)",
+      "confidence": "high",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": "2024-09-30",
+      "incident_date": null,
+      "location_details": "on either side of the Serbia-Bulgaria border",
+      "where_clear": "Serbia-Bulgaria border",
+      "location_text_raw": "Serbia-Bulgaria border",
+      "country_or_area": "Serbia, Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia-Bulgaria border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "ill-treatment",
+          "legal_basis": null,
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": null,
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "3. Serbia: ill-treatment, collective expulsion (violation unclear)",
+      "confidence": "high",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": "2024-09-30",
+      "incident_date": null,
+      "location_details": "maritime operations in Greece, pushed back to the territorial waters of Türkiye",
+      "where_clear": "Sea area between Greece and Türkiye",
+      "location_text_raw": "maritime operations in Greece",
+      "country_or_area": "Aegean Sea, Greece, Türkiye",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Aegean Sea between Greece and Turkey",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": null,
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "ill-treatment",
+          "legal_basis": null,
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "incorrect operational reporting",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "involvement of a Frontex-financed Bulgarian vessel, filmed by migrants in the vicinity of their boat, prior to it being allegedly pushed back to the territorial waters of Türkiye. The serious incident procedure did not confirm the violation of migrants' fundamental rights. It identified, however, serious shortcomings in the operational reporting of the incident by both Frontex officers and the Hellenic Coast Guard.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "One of them saw the involvement of a Frontex-financed Bulgarian vessel, filmed by migrants in the vicinity of their boat, prior to it being allegedly pushed back to the territorial waters of Türkiye.",
+      "confidence": "high",
+      "evidence_pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": "2024-09-30",
+      "incident_date": null,
+      "location_details": "at sea",
+      "where_clear": "Sea area off Greece",
+      "location_text_raw": "at sea",
+      "country_or_area": "Aegean Sea, Greece",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Aegean Sea off Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "collective expulsion",
+          "legal_basis": null,
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "ill-treatment",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "reported by a Frontex debriefer, concerned two alleged pushbacks at sea of which one was not substantiated during the investigation while the other was assessed as likely to have occurred.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The second case, reported by a Frontex debriefer, concerned two alleged pushbacks at sea of which one was not substantiated during the investigation while the other was assessed as likely to have occurred.",
+      "confidence": "high",
+      "evidence_pages": [
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

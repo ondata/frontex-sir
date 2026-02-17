@@ -1,0 +1,89 @@
+{
+  "source_file": "pdfs/pad-2025-00371/10070-2019.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:25:07.097294+00:00",
+  "records": [
+    {
+      "sir_id": "10070/2019",
+      "report_date": "2019-09-13",
+      "incident_date": "2019-09-12",
+      "location_details": "Bulgaria,, Bulgaria",
+      "where_clear": "Near the Greece-Bulgaria border, in Bulgaria, close to a village and an old train station.",
+      "location_text_raw": "Bulgaria,, Bulgaria; village, close to GRC-BGR borders; forest (in BGR); open place near the GRC border; old train station",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Greece Bulgaria border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific village name and coordinates are redacted.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 26,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Threats",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Beating",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Dog biting",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Robbery",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Violent deportation",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Forced nudity/humiliation",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Confiscation of personal belongings (phones)",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Burning of personal belongings",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "On 12.09.2019, at [redacted] in [redacted] village, close to GRC-BGR borders, HP officers from [redacted] apprehended twenty six (26) irregular migrants. All of them declared as victims of threats, beating, dog biting, robbery and violent deportation from BGR to GRC, from the side of the Bulgarian authorities. They were naked, wearing only their underwear. An irregular migrant speaking for the group stated they were apprehended by BGR police in a forest, beaten by officers and bitten by police dogs. They were forced to walk, then taken by car to a police station for body and luggage search. They were then driven to an open place near the GRC border around 5:00 A.M. They were asked for money, and when none was given, they were forced to take off their clothes and humiliated. BGR officers searched clothes and bags, took all phones, beat them with batons, burned belongings, and told them to go straight to Greece. The migrants followed orders, went into a ditch, and eventually reached an old train station in Greece. Hellenic Police provided clothes, water, and food to the apprehended migrants. Frontex team members deployed in the operational area (neither in GRC nor in BGR) were not involved in this case and had no contact with any migrants on the relevant dates.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Declared as victims of threats, beating, dog biting, robbery and violent deportation from BGR to GRC, from the side of the Bulgarian authorities. ii) Were naked, wearing only their underwear.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 26,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

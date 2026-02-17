@@ -1,0 +1,55 @@
+{
+  "source_file": "pdfs/pad-2025-00011-1/13654-2024_Final_SIR_-_rps.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:46:49.818235+00:00",
+  "records": [
+    {
+      "sir_id": "13654/2024",
+      "report_date": "2024-10-31",
+      "incident_date": "2024-08-23",
+      "location_details": "An overcrowded migrant boat was detected by Frontex in the Libyan Search and Rescue Region (SRR). The Libyan Coast Security vessel P301 approached and performed the rescue. The incident occurred at sea within the Libyan SRR, approximately 20 NM from an unknown ship.",
+      "where_clear": "Libyan Search and Rescue Region (SRR)",
+      "location_text_raw": "Libyan Search and Rescue Region (SRR)",
+      "country_or_area": "Libyan SRR",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Libyan Search and Rescue Region",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Prohibition of torture or cruel, inhuman or degrading treatment or punishment",
+          "legal_basis": "Article 7 of the International Covenant on Civil and Political Rights",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Violation of the principle of non-refoulement",
+          "legal_basis": "International human rights law",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Video evidence established that violence was used by the Libyan Coast Security against people on board a migrant boat during onboarding, including hitting, kicking, and slapping. This is a frequent practice by Libyan authorities during rescue and interception. The subsequent disembarkation in Libya, an unsafe place, clearly violates the principle of non-refoulement.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "A recording made by [redacted] shows at least four crew members of the Libyan Coast Security vessel mistreating migrants during onboarding or immediately after.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

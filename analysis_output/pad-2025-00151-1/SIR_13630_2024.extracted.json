@@ -1,0 +1,53 @@
+{
+  "source_file": "pdfs/pad-2025-00151-1/SIR_13630_2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:03:09.104213+00:00",
+  "records": [
+    {
+      "sir_id": "13630/2024",
+      "report_date": "2025-03-27",
+      "incident_date": "2024-08-16",
+      "location_details": "The incident occurred near the Albania-Montenegro border, close to a railroad, with GPS coordinates [redacted] as identified by the migrants. Migrants were walking along a railroad near the Albania-Montenegro border when they were stopped. This location is consistent with other similar incidents in the North-western Albania, near the Albania-Montenegro border, within approximately 2.5 km of each other.",
+      "where_clear": "Along a railroad near the Albania-Montenegro border in North-western Albania.",
+      "location_text_raw": "along a railroad near the Albania-Montenegro border",
+      "country_or_area": "Albania-Montenegro border area",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "railroad near Albania-Montenegro border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "GPS coordinates were identified by migrants but are redacted in the document.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to property",
+          "legal_basis": "[Article 1 of Protocol No. 1 of the European Convention on Human Rights (ECHR)]",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "Six migrants were allegedly robbed of 150€ each by three men in Albanian police uniforms near the Albania-Montenegro border. The incident occurred around midnight on 16/08/2024. The Fundamental Rights Office assesses the migrants' accounts as credible and notes similarities with other incidents in the area, suggesting a pattern of exploitation. Albanian authorities' investigation did not confirm police involvement but the possibility of off-duty officers or civilians dressed as police is considered.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office received information from Frontex operational staff about six migrants who alleged being robbed by three men in Albanian police uniforms on 16/08/2024... while walking along a railroad near the Albania-Montenegro border.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,218 @@
+{
+  "source_file": "pdfs/pad-2025-00076_157/45th_MB_Report_Annex_2_SIR_Country_Profile_Serbia_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:53:27.383592+00:00",
+  "records": [
+    {
+      "sir_id": "10392/2023",
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Incident at Belgrade airport concerning ignored asylum applications and attempted removal of asylum applicants from Serbia.",
+      "where_clear": "Belgrade airport, Serbia",
+      "location_text_raw": "Belgrade airport",
+      "country_or_area": "Serbia",
+      "location_type": "facility",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Belgrade Nikola Tesla Airport, Serbia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "ignored asylum application",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "attempted removal of asylum applicants from Serbia",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Incident at Belgrade airport concerning asylum procedures.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Type 1: Belgrade airport - asylum e.g. 10392/2023 ... ignored asylum application ... attempted removal of asylum applicants from Serbia",
+      "confidence": "high",
+      "evidence_pages": [
+        1
+      ]
+    },
+    {
+      "sir_id": "11694/2023",
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Abuse incident at a Border Crossing Point (BCP) on the Serbia-Bosnia and Herzegovina (BiH) border, involving the beating of a migrant by uniformed Serbian officers.",
+      "where_clear": "Serbia-Bosnia and Herzegovina border crossing point",
+      "location_text_raw": "BCP on Serbia-BiH border",
+      "country_or_area": "Serbia-Bosnia and Herzegovina border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia Bosnia and Herzegovina border crossing",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Specific BCP not identified.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "beating of migrant by uniformed Serbian officers",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Abuse incident at a border crossing point between Serbia and BiH.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Type 2: Abuse at BCP on Serbia-BiH border e.g. 11694/2023 ... beating of migrant by uniformed Serbian officers",
+      "confidence": "medium",
+      "evidence_pages": [
+        1
+      ]
+    },
+    {
+      "sir_id": "11807/2024",
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Incident of violence near the Serbia-Bulgaria border, involving apprehension by Frontex or Serbian officers and documented photos of injuries.",
+      "where_clear": "Near Serbia-Bulgaria border",
+      "location_text_raw": "near Serbia-Bulgaria border",
+      "country_or_area": "Serbia-Bulgaria border area",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia Bulgaria border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact location along the border is not specified.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "apprehension by Frontex or Serbian officers",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "violence resulting in injuries",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Incident of violence and apprehension near the Serbia-Bulgaria border.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Type 3: Violence near Serbia-Bulgaria border e.g. 11807/2024 ... apprehension by Frontex or Serbian officers ... photos of injuries",
+      "confidence": "medium",
+      "evidence_pages": [
+        1
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Pushback incidents from Serbia to Bulgaria, involving apprehension by Frontex or Serbian authorities, abuse by masked Serbian officers (forced nudity, violence, theft), pushback of registered and screened migrants, and migrants being directed to cross to Bulgaria then walk. Stated as 'ongoing investigation'.",
+      "where_clear": "Serbia-Bulgaria border area",
+      "location_text_raw": "Pushback from Serbia to Bulgaria",
+      "country_or_area": "Serbia-Bulgaria border",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia Bulgaria border",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact location along the border is not specified, and it's a general description of a type of incident.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "apprehension by Frontex or Serbian authorities",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "abuse by masked Serbian officers: forced nudity, violence, theft",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "pushback of registered and screened migrants",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "directing migrants to cross to Bulgaria, then walk",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "Description of pushback incidents from Serbia to Bulgaria, including various forms of abuse and procedural violations. Stated as 'ongoing investigation'.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Type 4: Pushback from Serbia to Bulgaria e.g. ... apprehension by Frontex or Serbian authorities ... abuse by masked Serbian officers: forced nudity, violence, theft ... registered and screened migrants also pushed back ... migrants shown the direction to cross to Bulgaria, then walk",
+      "confidence": "medium",
+      "evidence_pages": [
+        1
+      ]
+    },
+    {
+      "sir_id": "14546/2024",
+      "report_date": null,
+      "incident_date": null,
+      "location_details": "Various incidents categorized as 'Other cases', including detention conditions at Border Crossing Units and incidents on exit from the country.",
+      "where_clear": "Border Crossing Units and exit points from Serbia",
+      "location_text_raw": "detention conditions at Border Crossing Unit ... Incidents on exit from country",
+      "country_or_area": "Serbia",
+      "location_type": "mixed",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Border Crossing Units, Serbia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Covers multiple, unspecified locations within Serbia related to border crossing and exit.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "detention conditions at Border Crossing Unit",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        },
+        {
+          "violation_name": "incidents on exit from country",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "General category for other types of incidents, including detention conditions and issues during exit from Serbia.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Type 5: Other cases e.g. 14546/2024 ... detention conditions at Border Crossing Unit ... Incidents on exit from country",
+      "confidence": "low",
+      "evidence_pages": [
+        1
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

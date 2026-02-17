@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2025-00330-1/10739_2025__FINAL_SIR_Cat._2-3_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:06:07.922324+00:00",
+  "records": [
+    {
+      "sir_id": "10739/2025",
+      "report_date": "2025-06-18",
+      "incident_date": null,
+      "location_details": "Location of incident heavily redacted; related to a return operation to the individual's home country.",
+      "where_clear": "Location of incident heavily redacted; related to a return operation to the individual's home country.",
+      "location_text_raw": "home country, deployments in [redacted], serious problem occurred at [redacted]",
+      "country_or_area": null,
+      "location_type": "unknown",
+      "precision_level": "unknown",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The specific location where the 'serious problem occurred' or where the individual 'unexpectedly informed the service' is redacted. Only the general context of a 'return operation' to a 'home country' is provided.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Violation of Behavior standards",
+          "legal_basis": "Art. 10 (Behavior standards) of Code of Conduct",
+          "assessment": "likely"
+        },
+        {
+          "violation_name": "Impact on operational activities and image of organization",
+          "legal_basis": "SIR Category 3 requirements",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "An individual involved in the RA FOA Return 2025 operation unexpectedly informed the service of their return to their home country, which had an extremely negative impact on operational requirements. An inquiry revealed issues with communication and informing the Chain of Command. The incident was assessed as a violation of Art. 10 (Behavior standards) of the Code of Conduct (SIR Category 2) and also met requirements for SIR Category 3 due to its impact on Frontex operational activities and image. No further actions will be taken against the individual, and the case is closed.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "unexpectedly informed the service at that and returned to home country. had an extremely negative impact to the operational requirements. concludes that art. 10 (Behavior standards) of Code of Conduct applicable to all people participation in Frontex activities was violated.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

@@ -1,0 +1,54 @@
+{
+  "source_file": "pdfs/pad-2025-00339/10267-2017_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:15:13.089267+00:00",
+  "records": [
+    {
+      "sir_id": "10267/2017",
+      "report_date": "2017-12-12",
+      "incident_date": "2017-12-11",
+      "location_details": "Alleged Evros River",
+      "where_clear": "Evros River border between Greece and Turkey",
+      "location_text_raw": "Alleged Evros River",
+      "country_or_area": "Evros River",
+      "location_type": "mixed",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros River border Greece Turkey",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 4,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violation of fundamental rights - unprocessed return",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Ill-treatment / Violence",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A Turkish news magazine article alleged that 4 irregular migrants, including one woman, were captured and beaten by Greek police at the Evros River border and subsequently pushed back to Turkey in a boat. A medical check reportedly confirmed they had been battered. Frontex's assessment notes that the article lacks concrete date/location details and doesn't mention Frontex assets. Photos and video accompanying the article show a boat with 5 persons but no clear signs of law enforcement or violence.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Irregulars in Edirne, illegally crossing over to Greece, were captured and beaten at the border by the Greek police, and then sent back to Turkey in a boat.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 4,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

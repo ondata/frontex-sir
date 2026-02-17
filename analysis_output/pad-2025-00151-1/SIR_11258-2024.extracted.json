@@ -1,0 +1,64 @@
+{
+  "source_file": "pdfs/pad-2025-00151-1/SIR_11258-2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:02:21.367399+00:00",
+  "records": [
+    {
+      "sir_id": "11258/2024",
+      "report_date": "2025-03-31",
+      "incident_date": "2024-03-03",
+      "location_details": "Sea area near Chios Island, Greece, close to Turkish territorial waters. Conflicting reports on whether the incident occurred in Greek or Turkish territorial waters. Greek authorities reported detection in Turkish Territorial Waters (38° 26′ 00″ N 026° 14' 18\" E), while NGO alleged interception in Greek territorial waters.",
+      "where_clear": "Sea area between Chios Island (Greece) and Çeşme district (Türkiye), near the maritime border.",
+      "location_text_raw": "near Chios to Türkiye",
+      "country_or_area": "Aegean Sea, Greece/Türkiye border",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Chios Island, Aegean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Metadata of videos/photos could not be extracted, preventing geolocation. Unclear if interaction transpired in Greek or Turkish territorial waters. Migrants filmed in life rafts could suggest end phase of expulsion, possibly in TTW. Conflicting reports on initial location.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "art. 2 of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of collective expulsion",
+          "legal_basis": "art. 19 (1) of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Inhuman and degrading treatment",
+          "legal_basis": "art. 4 of the EU Charter of Fundamental Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "NGO reported alleged collective expulsion by Hellenic Coast Guard (HCG) near Chios, Greece, involving a Frontex vessel (Italian Guardia di Finanza) and alleged breaking of a migrant's arm during a body search. Migrants were reportedly abandoned in life rafts and rescued by Turkish Coast Guard (TCG). Frontex Fundamental Rights Office (FRO) found no Frontex vessels deployed, could not confirm initial location in Greek territorial waters, nor definitively link media to the incident. Conflicting reports on incident location (Greek vs. Turkish waters) and number of migrants (35, 24, 60). FRO notes modus operandi resembles previous HCG practices but lacks conclusive evidence for this specific case. Greek authorities denied allegations and provided insufficient information.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office finds it possible that a collective expulsion may have occurred, but the circumstances of the incident remain unclear due to a lack of conclusive evidence.",
+      "confidence": "low",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

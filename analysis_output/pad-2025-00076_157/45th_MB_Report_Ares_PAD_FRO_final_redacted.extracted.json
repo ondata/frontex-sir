@@ -1,0 +1,363 @@
+{
+  "source_file": "pdfs/pad-2025-00076_157/45th_MB_Report_Ares_PAD_FRO_final_redacted.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:55:03.893148+00:00",
+  "records": [
+    {
+      "sir_id": null,
+      "report_date": "2024-11-30",
+      "incident_date": null,
+      "location_details": "sub-optimal conditions for detention of migrants at a Border Control Unit",
+      "where_clear": "Border Control Unit",
+      "location_text_raw": "Border Control Unit",
+      "country_or_area": null,
+      "location_type": "facility",
+      "precision_level": "broad",
+      "geocodable": "no",
+      "geocodable_query": null,
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "No specific country or detailed location for the Border Control Unit is provided.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "sub-optimal conditions for detention",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "One of sixteen new serious incidents launched during the reporting period.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "One deals with sub-optimal conditions for detention of migrants at a Border Control Unit",
+      "confidence": "low",
+      "evidence_pages": [
+        4
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": "2024-11-30",
+      "incident_date": null,
+      "location_details": "Central Mediterranean, during problematic rescues following Frontex aerial surveillance sightings, involving Libyan Coast Guard assets using violence and firing shots.",
+      "where_clear": "Central Mediterranean Sea",
+      "location_text_raw": "Central Mediterranean",
+      "country_or_area": "Central Mediterranean",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Central Mediterranean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "violence and firing shots during rescue",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "One of three new serious incidents launched during the reporting period, involving Frontex aerial surveillance and Libyan Coast Guard.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "Three serious incidents concern sightings by Frontex aerial surveillance aircraft in Central Mediterranean, followed by allegedly problematic rescues with two cases of the Libyan Coast Guard assets using violence and firing shots",
+      "confidence": "medium",
+      "evidence_pages": [
+        4
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": "2024-11-30",
+      "incident_date": null,
+      "location_details": "Central Mediterranean, during problematic rescues following Frontex aerial surveillance sightings, involving Libyan Coast Guard assets using violence and firing shots.",
+      "where_clear": "Central Mediterranean Sea",
+      "location_text_raw": "Central Mediterranean",
+      "country_or_area": "Central Mediterranean",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Central Mediterranean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "violence and firing shots during rescue",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "One of three new serious incidents launched during the reporting period, involving Frontex aerial surveillance and Libyan Coast Guard.",
+      "libyan_coast_guard_involved": true,
+      "evidence_quote": "Three serious incidents concern sightings by Frontex aerial surveillance aircraft in Central Mediterranean, followed by allegedly problematic rescues with two cases of the Libyan Coast Guard assets using violence and firing shots",
+      "confidence": "medium",
+      "evidence_pages": [
+        4
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": "2024-11-30",
+      "incident_date": null,
+      "location_details": "Central Mediterranean, during allegedly problematic rescues following Frontex aerial surveillance sightings.",
+      "where_clear": "Central Mediterranean Sea",
+      "location_text_raw": "Central Mediterranean",
+      "country_or_area": "Central Mediterranean",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Central Mediterranean Sea",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "problematic rescue",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "One of three new serious incidents launched during the reporting period, involving Frontex aerial surveillance.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Three serious incidents concern sightings by Frontex aerial surveillance aircraft in Central Mediterranean, followed by allegedly problematic rescues",
+      "confidence": "medium",
+      "evidence_pages": [
+        4
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": "2024-11-30",
+      "incident_date": null,
+      "location_details": "Evros region, Greece, concerning alleged collective expulsion.",
+      "where_clear": "Evros region, Greece",
+      "location_text_raw": "Evros region",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros region, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "alleged collective expulsion",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "One of four new serious incidents launched during the reporting period in Greece.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Four cases were launched for Greece (alleged collective expulsion in the Evros region;",
+      "confidence": "high",
+      "evidence_pages": [
+        4
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": "2024-11-30",
+      "incident_date": null,
+      "location_details": "Evros region, Greece, concerning alleged collective expulsion.",
+      "where_clear": "Evros region, Greece",
+      "location_text_raw": "Evros region",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros region, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "alleged collective expulsion",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "One of four new serious incidents launched during the reporting period in Greece.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Four cases were launched for Greece (alleged collective expulsion in the Evros region;",
+      "confidence": "high",
+      "evidence_pages": [
+        4
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": "2024-11-30",
+      "incident_date": null,
+      "location_details": "Evros region, Greece, concerning alleged collective expulsion.",
+      "where_clear": "Evros region, Greece",
+      "location_text_raw": "Evros region",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros region, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "alleged collective expulsion",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "One of four new serious incidents launched during the reporting period in Greece.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Four cases were launched for Greece (alleged collective expulsion in the Evros region;",
+      "confidence": "high",
+      "evidence_pages": [
+        4
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": "2024-11-30",
+      "incident_date": null,
+      "location_details": "Evros region, Greece, concerning alleged collective expulsion.",
+      "where_clear": "Evros region, Greece",
+      "location_text_raw": "Evros region",
+      "country_or_area": "Greece",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Evros region, Greece",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "alleged collective expulsion",
+          "legal_basis": null,
+          "assessment": "not_stated"
+        }
+      ],
+      "context_note": "One of four new serious incidents launched during the reporting period in Greece.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "Four cases were launched for Greece (alleged collective expulsion in the Evros region;",
+      "confidence": "high",
+      "evidence_pages": [
+        4
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": "2024-11-30",
+      "incident_date": null,
+      "location_details": "Border crossing point on the Croatia-Bosnia and Herzegovina border.",
+      "where_clear": "Croatia-Bosnia and Herzegovina border crossing point",
+      "location_text_raw": "border crossing point on the Croatia-Bosnia and Herzegovina border",
+      "country_or_area": "Croatia/Bosnia and Herzegovina",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Croatia-Bosnia and Herzegovina border crossing point",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "denied access to asylum procedure",
+          "legal_basis": null,
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "One of five serious incidents closed during the reporting period.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The allegations of denied access to asylum procedure at the border crossing point on the Croatia-Bosnia and Herzegovina border are neither confirmed nor disproved.",
+      "confidence": "high",
+      "evidence_pages": [
+        4
+      ]
+    },
+    {
+      "sir_id": null,
+      "report_date": "2024-11-30",
+      "incident_date": null,
+      "location_details": "Serbia, during a Frontex apprehension of migrants.",
+      "where_clear": "Serbia",
+      "location_text_raw": "Serbia",
+      "country_or_area": "Serbia",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Serbia",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "No specific location within Serbia is provided.",
+      "dead_confirmed": null,
+      "injured_confirmed": null,
+      "missing_confirmed": null,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "ill-treatment (beating of migrants)",
+          "legal_basis": null,
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "One of five serious incidents closed during the reporting period.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "In the inquiry into a Frontex apprehension of migrants in Serbia who alleged to have been beaten, the beating of migrants is likely to have occurred as claimed.",
+      "confidence": "medium",
+      "evidence_pages": [
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 3
+}

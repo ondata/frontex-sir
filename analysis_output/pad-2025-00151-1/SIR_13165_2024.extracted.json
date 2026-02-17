@@ -1,0 +1,66 @@
+{
+  "source_file": "pdfs/pad-2025-00151-1/SIR_13165_2024.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:02:41.974676+00:00",
+  "records": [
+    {
+      "sir_id": "13165/2024",
+      "report_date": "2025-03-31",
+      "incident_date": "2024-07-20",
+      "location_details": "Migrant apprehended by Albanian police near the village of Kapshtice after irregularly crossing the Greece-Albania border, taken to a police station/registration center, and later transported back to the Albania-Greece border.",
+      "where_clear": "Greece-Albania border area, near Kapshtice, Albania",
+      "location_text_raw": "Greece-Albania border, Kapshtice",
+      "country_or_area": "Albania, Greece border",
+      "location_type": "land",
+      "precision_level": "approximate",
+      "geocodable": "yes",
+      "geocodable_query": "Kapshtice, Albania",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "Exact apprehension and return points on the border are not specified, but the general area near Kapshtice is confirmed.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to asylum and principle of non-refoulement",
+          "legal_basis": "Article 33 of the 1951 Convention relating to the Status of Refugees and its 1967 Protocol",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Right to an effective remedy",
+          "legal_basis": "Article 13 the European Convention on Human Rights",
+          "assessment": "unclear"
+        },
+        {
+          "violation_name": "Prohibition of torture or inhuman or degrading treatment or punishment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "unclear"
+        }
+      ],
+      "context_note": "A migrant alleged apprehension by Albanian officers after crossing the Greece-Albania border, denial of asylum request, and subsequent irregular return to the border. The Fundamental Rights Office found conflicting information regarding the asylum request, interpretation, and documentation, leading to an unclear assessment of potential fundamental rights violations, including access to asylum, effective remedy, and irregular return.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "The Fundamental Rights Office received information from Frontex operational staff about a migrant who alleged to have been on 20/07/2024 between [redacted] after irregularly crossing the Greece-Albania border, apprehended by two Albanian officers dressed in fatigues with number tags and carrying handguns.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

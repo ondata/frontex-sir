@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2024-00377/SIR_13910.2023.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:44:17.815857+00:00",
+  "records": [
+    {
+      "sir_id": "13910/2023",
+      "report_date": "2023-09-01",
+      "incident_date": "2023-09-01",
+      "location_details": null,
+      "where_clear": "Bulgaria, at border checks",
+      "location_text_raw": "Bulgaria",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "A citizen presented an expired residence permit at border checks in Bulgaria. The car driver attempted to bribe an official with 70 EUR for safe passage. The official refused the bribe and informed the driver of the legal consequences. Further questioning revealed a previous bribe attempt of 100 EUR on 06/08/2023 during a journey from Germany to Turkey. The residence permit was later verified as valid, allowing entry to Bulgaria and the Schengen area.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "A citizen presented at the border checks travel documents, among which, an expired since beginning of 2023, residence permit. Further, the driver of the car tried to bribe with seventy (70) EUR.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

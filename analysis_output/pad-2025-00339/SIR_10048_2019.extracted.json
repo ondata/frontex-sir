@@ -1,0 +1,59 @@
+{
+  "source_file": "pdfs/pad-2025-00339/SIR_10048_2019.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T12:19:40.160379+00:00",
+  "records": [
+    {
+      "sir_id": "10048/2019",
+      "report_date": "2019-06-14",
+      "incident_date": "2019-06-13",
+      "location_details": "Location of the incident: Bulgaria,, Bulgaria. Latitude: Text Removed - Operational Area. Longitude: Text Removed - Operational Area. Reference to the operational area: Yes. Close to the border between Greece and Bulgaria. Migrants crossed the border from TUR to BGR by rubber boat through a river. The exact area of the border crossing could not have been determined for the time being.",
+      "where_clear": "Border area between Greece and Bulgaria, near the Turkish border, involving a river crossing from Turkey to Bulgaria.",
+      "location_text_raw": "Bulgaria,, Bulgaria; close to the border between Greece and Bulgaria; crossed the border from TUR to BGR by rubber boat through a river",
+      "country_or_area": "Bulgaria, Greece, Turkey border area",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "border area between Greece and Bulgaria near Turkey",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": "The exact area of the border crossing could not be determined for the time being.",
+      "dead_confirmed": 0,
+      "injured_confirmed": 27,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Alleged violations of Fundamental Rights or international protection obligations",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Threats, beating, attack of dogs, robbery and violent deportation from Bulgaria to Greece",
+          "legal_basis": null,
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Physical abuse, including possible dog bites",
+          "legal_basis": null,
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "Twenty-seven irregular migrants (22 AFG, 5 PAK) apprehended near the border between Greece and Bulgaria, after crossing from Turkey by rubber boat. Migrants reported being victims of threats, beating, dog attacks, robbery, and violent deportation by Bulgarian law enforcement authorities, and showed body marks consistent with physical abuse. They were later pushed back to Greece. Frontex resources were not involved in the apprehension or alleged abuse.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "They have declared themselves as vistims of threats, beating, attack of dogs, robbery and violent deportation from Bulgaria to Greece, by the Bukgarian law enforcement authorities. Some of the migrants had body marks, which could indicate physical abuse, including some possible dog bites.",
+      "confidence": "medium",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 27,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}

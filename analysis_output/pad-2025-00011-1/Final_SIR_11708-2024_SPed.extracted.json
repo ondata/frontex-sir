@@ -1,0 +1,58 @@
+{
+  "source_file": "pdfs/pad-2025-00011-1/Final_SIR_11708-2024_SPed.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:49:10.245789+00:00",
+  "records": [
+    {
+      "sir_id": "11708/2024",
+      "report_date": "2024-11-29",
+      "incident_date": "2024-04-15",
+      "location_details": "Ten Nepalese migrants apprehended near the Greece-Albania border and subsequently held at the Qafë-Bôte Border Police Station / Temporary Reception Center in Albania.",
+      "where_clear": "Qafë-Bôte Border Police Station / Temporary Reception Center, Albania",
+      "location_text_raw": "near the Greece-Albania border, in the area under the jurisdiction of the BCU Qafë-Bôte.",
+      "country_or_area": "Albania",
+      "location_type": "mixed",
+      "precision_level": "exact",
+      "geocodable": "yes",
+      "geocodable_query": "Qafë-Bôte, Albania",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [
+        {
+          "violation_name": "Right to life",
+          "legal_basis": "Article 2 of the European Convention on Human Rights",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Prohibition of inhuman or degrading treatment",
+          "legal_basis": "Article 3 of the European Convention on Human Rights",
+          "assessment": "likely"
+        }
+      ],
+      "context_note": "On 15/04/2024, ten Nepalese migrants were apprehended near the Greece-Albania border and taken to Qafë-Bôte Border Police Station/Temporary Reception Center in Albania. During their detention until the morning of 16/04, no food or drinking water was provided by local authorities or other actors, despite migrants claiming to have been without food for up to 84 hours. Frontex staff provided some water and biscuits from their own stocks. The Fundamental Rights Office concluded that the lack of provision amounted to inhuman and degrading treatment and possibly put lives at risk, due to a recent change in the UNHCR/Caritas agreement for food assistance.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "the failure by the authorities to provide food to the migrants in this specific case amounts to inhuman and degrading treatment.",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}
