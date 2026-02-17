@@ -6,6 +6,7 @@
 - Fix prompt `prompts/extract_sir.txt`: accetta SIR senza formato `XXXXX/YYYY`; ID solo numerico → costruisce `NUM/ANNO` da `report_date`
 - Fix validazione `extract_sir_pdf_gemini.py`: `SIR_ID_PATTERN` ora `\d+/\d{4}`, campo `sir_id` diventa `Optional[str]`
 - Eliminati 14 batch di output (10 all-empty + 4 misti) per riprocessamento con nuovo prompt; rimasti 29 JSON validi
+- Audit completo JSON vuoti su `analysis_output/`: 71 vuoti analizzati con `pdftotext` + OCR fallback (sidecar in `tmp/`), esito `63 probabilmente corretti` / `8 da ricontrollare`; report: `docs/empty-json-audit-2026-02-17.md`, liste: `tmp/empty_json_probably_correct.tsv` e `tmp/empty_json_to_review.tsv`
 
 ## 2026-02-16
 

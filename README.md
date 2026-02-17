@@ -143,6 +143,14 @@ Generato processando i 3 ZIP in `zip_urls.txt`:
 - Dettaglio per batch: `analysis_output/<cartella>/summary.csv`
 - Dettaglio per documento: `analysis_output/<cartella>/<file>.extracted.json`
 
+## Audit JSON vuoti
+
+Per la verifica dei file `.extracted.json` con `records: []` (metodo + risultati):
+
+- Report: [`docs/empty-json-audit-2026-02-17.md`](docs/empty-json-audit-2026-02-17.md)
+- Lista `vuoti probabilmente corretti`: `tmp/empty_json_probably_correct.tsv`
+- Lista `da ricontrollare`: `tmp/empty_json_to_review.tsv`
+
 ## Nota su Git LFS
 
 I file PDF e ZIP sono tracciati con [Git LFS](https://git-lfs.com/). Sono documenti statici pubblicati da Frontex: non cambiano nel tempo e non ha senso versionarli. LFS li archivia separatamente, tenendo nel repository solo puntatori leggeri ed evitando di appesantire la storia dei commit.
