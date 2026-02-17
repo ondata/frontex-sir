@@ -1,0 +1,56 @@
+{
+  "source_file": "pdfs/pad-2022-00278-document-1/pad-2022-00278-document-1.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T09:24:06.983308+00:00",
+  "records": [
+    {
+      "sir_id": "12048/2022",
+      "report_date": "2022-05-18",
+      "incident_date": "2022-05-12",
+      "location_details": "Maltese Search and Rescue area",
+      "where_clear": "Maltese Search and Rescue (SAR) area",
+      "location_text_raw": "Maltese Search and Rescue area",
+      "country_or_area": "Maltese SAR area",
+      "location_type": "sea",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Maltese Search and Rescue area",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": null,
+      "dead_possible_max": null,
+      "possible_violations": [
+        {
+          "violation_name": "Potential threat to right to life",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "possible"
+        },
+        {
+          "violation_name": "Potential inhuman or degrading treatment",
+          "legal_basis": "Fundamental Rights or international protection obligations",
+          "assessment": "possible"
+        }
+      ],
+      "context_note": "A Frontex surveillance aircraft (Eagle 1) spotted an overcrowded wooden boat with 20+ migrants in the Maltese Search and Rescue (SAR) area. RCC Malta instructed a commercial vessel (Ross Sea) to contact the boat. An NGO vessel (Sea-Eye 4) later rescued 24 migrants, alleging they had been at sea for days without water/food and were hypothermic. The Fundamental Rights Office (FRO) noted the significant time elapsed between the initial alert to Italian MRCC and the rescue, and regretted the lack of detailed information from Maltese authorities regarding their assessment and actions.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "On 12/05/2022 at 09:40 UTC, Eagle 1 spotted a blue wooden boat with 20+ migrants on board (overcrowded) adrift at",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}
