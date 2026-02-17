@@ -36,7 +36,8 @@ jobs:
         run: |
           python3 extract_sir_pdf_gemini.py pdfs \
             --output-dir analysis_output \
-            --max-new-files ${{ github.event.inputs.max_new_files }}
+            --max-new-files ${{ github.event.inputs.max_new_files }} \
+            --allow-file-failures
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 

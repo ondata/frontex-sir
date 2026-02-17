@@ -657,6 +657,12 @@ def main() -> int:
         action="store_false",
         help="Do not skip annual report PDFs.",
     )
+    parser.add_argument(
+        "--allow-file-failures",
+        action="store_true",
+        default=False,
+        help="Exit with code 0 even if some PDFs fail; failed files are still reported.",
+    )
     args = parser.parse_args()
 
     if args.max_new_files < 0:
@@ -879,7 +885,15 @@ def main() -> int:
         print(f"[SUMMARY ALL] {csv_path}")
         print(f"[SUMMARY ALL] {json_path}")
 
-    return 1 if failures else 0
+    if failures:
+        if args.allow_file_failures:
+            print(
+                f"[WARN] Completed with {failures} failed file(s); exiting 0 because --allow-file-failures is set.",
+                file=sys.stderr,
+            )
+            return 0
+        return 1
+    return 0
 
 
 if __name__ == "__main__":
