@@ -1,0 +1,43 @@
+{
+  "source_file": "pdfs/pad-2024-00377/SIR_13575.2023.pdf",
+  "model": "gemini-2.5-flash",
+  "generated_at_utc": "2026-02-17T11:42:33.233496+00:00",
+  "records": [
+    {
+      "sir_id": "13575/2023",
+      "report_date": "2023-08-16",
+      "incident_date": "2023-08-15",
+      "location_details": null,
+      "where_clear": "Bulgaria",
+      "location_text_raw": "Bulgaria",
+      "country_or_area": "Bulgaria",
+      "location_type": "land",
+      "precision_level": "broad",
+      "geocodable": "yes",
+      "geocodable_query": "Bulgaria",
+      "lat": null,
+      "lon": null,
+      "uncertainty_note": null,
+      "dead_confirmed": 0,
+      "injured_confirmed": 0,
+      "missing_confirmed": 0,
+      "dead_possible_min": 0,
+      "dead_possible_max": 0,
+      "possible_violations": [],
+      "context_note": "An incident involving missing bullets from a weapon, discovered after an individual took a weapon from the weapons room. A subsequent ammunition count confirmed the missing bullets, and an investigation revealed inaccuracies in weapon registration information. The incident had potential negative implications on Frontex core tasks.",
+      "libyan_coast_guard_involved": false,
+      "evidence_quote": "bullets missing from a",
+      "confidence": "high",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    }
+  ],
+  "dead_confirmed_total": 0,
+  "injured_confirmed_total": 0,
+  "missing_confirmed_total": 0,
+  "dead_possible_total_min": 0,
+  "dead_possible_total_max": 0,
+  "records_invalid_skipped": 0
+}
