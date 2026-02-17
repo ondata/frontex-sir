@@ -42,6 +42,8 @@ La lettura del documento avviene caricando direttamente il PDF su Gemini.
   Elenco URL ZIP da scaricare (uno per riga).
 - `extract_sir_pdf_gemini.py`  
   Estrae i dati strutturati dai PDF con Gemini.
+- `build_sir_csv.py`  
+  Consolida tutti i file `.extracted.json` in CSV relazionali (vedere [§ build_sir_csv.py](#build_sir_csvpy)).
 
 ## Requisiti minimi
 
@@ -164,9 +166,11 @@ frontex/
 ├── process_sir_zips.sh
 ├── zip_urls.txt
 ├── extract_sir_pdf_gemini.py
+├── build_sir_csv.py
 ├── rawdata/              # ZIP scaricati
 ├── pdfs/                 # PDF estratti dagli ZIP
-└── analysis_output/      # Output strutturati
+├── analysis_output/      # Output strutturati (JSON, summary CSV)
+└── output_csv/           # CSV relazionali consolidati
 ```
 
 ## Nota operativa
@@ -405,4 +409,107 @@ Quando non ci sono più PDF da processare:
 
 ```
 [DONE] Incremental batch: no new files found.
+```
+
+---
+
+### `build_sir_csv.py`
+
+Consolida tutti i file `.extracted.json` in due CSV relazionali pronti per analisi.
+
+- Legge ricorsivamente tutti i `*.extracted.json` da `analysis_output/`
+- Produce due tabelle linkabili via `record_uid`
+
+```bash
+source .venv/bin/activate
+
+# Usa le cartelle di default (analysis_output → output_csv)
+python3 build_sir_csv.py
+
+# Cartelle personalizzate
+python3 build_sir_csv.py --input-dir analysis_output --output-dir output_csv
+```
+
+Opzioni:
+
+| Opzione | Descrizione |
+|---|---|
+| `--input-dir DIR` | Cartella con i `.extracted.json` (default: `analysis_output`) |
+| `--output-dir DIR` | Cartella di output (default: `output_csv`) |
+
+#### Output: `output_csv/`
+
+**`sir_records.csv`** — una riga per `SirRecord`
+
+| Campo | Note |
+|---|---|
+| `record_uid` | Chiave primaria (intero progressivo) |
+| `batch` | Nome della cartella batch di origine |
+| `source_file` | Path del PDF sorgente |
+| `record_index` | Indice del record nel PDF (utile se un PDF contiene più SIR) |
+| `model` | Modello Gemini usato |
+| `generated_at_utc` | Timestamp di estrazione |
+| `sir_id` | ID del SIR (formato `DDDDD/YYYY`) |
+| `report_date` | Data del rapporto |
+| `incident_date` | Data dell'incidente |
+| `location_details` | Descrizione estesa del luogo |
+| `where_clear` | Luogo sintetico chiaro |
+| `location_text_raw` | Testo grezzo del luogo dal PDF |
+| `country_or_area` | Paese o area geografica |
+| `location_type` | `sea / land / facility / mixed / unknown` |
+| `precision_level` | `exact / approximate / broad / unknown` |
+| `geocodable` | `yes / no` |
+| `geocodable_query` | Query suggerita per geocodifica |
+| `lat` / `lon` | Coordinate (se disponibili) |
+| `uncertainty_note` | Note sull'incertezza della localizzazione |
+| `dead_confirmed` | Morti confermati |
+| `injured_confirmed` | Feriti confermati |
+| `missing_confirmed` | Dispersi confermati |
+| `dead_possible_min/max` | Range di morti possibili |
+| `possible_violations_count` | Numero di violazioni elencate |
+| `context_note` | Nota contestuale |
+| `libyan_coast_guard_involved` | Coinvolgimento guardia costiera libica |
+| `evidence_quote` | Citazione testuale di evidenza |
+| `confidence` | `high / medium / low` |
+| `evidence_pages` | Pagine PDF usate come fonte (es. `"1,2,3"`) |
+
+**`violations.csv`** — una riga per violazione dei diritti fondamentali
+
+| Campo | Note |
+|---|---|
+| `record_uid` | FK → `sir_records.record_uid` |
+| `sir_id` | Per join alternativo |
+| `source_file` | Per join alternativo |
+| `violation_index` | Ordine nella lista |
+| `violation_name` | Nome della violazione |
+| `legal_basis` | Base legale (nullable) |
+| `assessment` | `likely / possible / unclear / not_stated` |
+
+#### Esempio di analisi con DuckDB
+
+```bash
+# Totali generali
+duckdb :memory: "
+SELECT
+  count(*) AS records,
+  count(DISTINCT sir_id) AS unique_sirs,
+  sum(dead_confirmed::int) AS total_dead,
+  sum(missing_confirmed::int) AS total_missing
+FROM 'output_csv/sir_records.csv';
+"
+
+# Violazioni più frequenti
+duckdb :memory: "
+SELECT violation_name, count(*) AS n
+FROM 'output_csv/violations.csv'
+GROUP BY 1 ORDER BY 2 DESC LIMIT 10;
+"
+
+# Join records + violations
+duckdb :memory: "
+SELECT r.sir_id, r.incident_date, v.violation_name, v.assessment
+FROM 'output_csv/sir_records.csv' r
+JOIN 'output_csv/violations.csv' v ON r.record_uid = v.record_uid
+LIMIT 20;
+"
 ```
