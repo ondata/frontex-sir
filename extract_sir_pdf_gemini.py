@@ -29,9 +29,19 @@ ViolationAssessment = Literal["likely", "possible", "unclear", "not_stated"]
 LocationType = Literal["sea", "land", "facility", "mixed", "unknown"]
 PrecisionLevel = Literal["exact", "approximate", "broad", "unknown"]
 Geocodable = Literal["yes", "no"]
-SIR_ID_PATTERN = re.compile(r"\b\d{5}/\d{4}\b")
+SIR_ID_PATTERN = re.compile(r"\b\d+/\d{4}\b")
 ANNUAL_REPORT_PATTERN = re.compile(
     r"(?<![a-z0-9])annual[\s_-]*report(?=[^a-z0-9]|$)", flags=re.IGNORECASE
+)
+UPLOAD_RETRYABLE_ERROR_PATTERNS = (
+    "failed to create file",
+    "429",
+    "500",
+    "503",
+    "resource_exhausted",
+    "unavailable",
+    "deadline_exceeded",
+    "internal",
 )
 
 
@@ -76,7 +86,7 @@ class PossibleViolation(BaseModel):
 
 
 class SirRecord(BaseModel):
-    sir_id: str = Field(pattern=r"^\d{5}/\d{4}$")
+    sir_id: Optional[str] = Field(default=None, pattern=r"^\d+/\d{4}$")
     report_date: Optional[str] = None
     incident_date: Optional[str] = None
     location_details: Optional[str] = None
@@ -317,16 +327,36 @@ def extract_json(text: str) -> dict:
     raise ValueError("Could not parse JSON from model response")
 
 
-def upload_pdf(client: genai.Client, pdf_path: Path) -> types.File:
-    with open(pdf_path, "rb") as fh:
-        uploaded = client.files.upload(
-            file=fh,
-            config=types.UploadFileConfig(
-                mime_type="application/pdf",
-                display_name=pdf_path.name,
-            ),
-        )
-    return uploaded
+def is_retryable_upload_error(exc: Exception) -> bool:
+    message = str(exc).lower()
+    return any(pattern in message for pattern in UPLOAD_RETRYABLE_ERROR_PATTERNS)
+
+
+def upload_pdf(
+    client: genai.Client, pdf_path: Path, max_retries: int = 3
+) -> types.File:
+    for attempt in range(max_retries):
+        try:
+            with open(pdf_path, "rb") as fh:
+                return client.files.upload(
+                    file=fh,
+                    config=types.UploadFileConfig(
+                        mime_type="application/pdf",
+                        display_name=pdf_path.name,
+                    ),
+                )
+        except Exception as exc:
+            last_attempt = attempt == max_retries - 1
+            if last_attempt or not is_retryable_upload_error(exc):
+                raise
+            wait = 5 * 2**attempt
+            print(
+                f"  [RETRY-UPLOAD {attempt + 1}/{max_retries}] {exc} — waiting {wait}s",
+                file=sys.stderr,
+            )
+            time.sleep(wait)
+
+    raise RuntimeError("unreachable")
 
 
 def call_gemini(
@@ -415,13 +445,7 @@ def parse_valid_sir_records(
 
         normalized = raw_rec.copy()
         sir_id = extract_numeric_sir_id(normalized.get("sir_id"))
-        if not sir_id:
-            skipped += 1
-            if len(examples) < 3:
-                raw_id = str(normalized.get("sir_id", "null"))[:60]
-                examples.append(f"#{idx}: invalid sir_id={raw_id!r}")
-            continue
-        normalized["sir_id"] = sir_id
+        normalized["sir_id"] = sir_id  # None if not matched
 
         try:
             valid_records.append(SirRecord.model_validate(normalized))

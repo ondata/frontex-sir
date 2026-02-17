@@ -1,5 +1,12 @@
 # LOG
 
+## 2026-02-17
+
+- Diagnosi output vuoti: 59/118 JSON con `records:[]`; cause: (1) SIR con ID solo numerico senza anno, (2) PDF scansionati con SIR reali, (3) non-SIR correttamente vuoti
+- Fix prompt `prompts/extract_sir.txt`: accetta SIR senza formato `XXXXX/YYYY`; ID solo numerico → costruisce `NUM/ANNO` da `report_date`
+- Fix validazione `extract_sir_pdf_gemini.py`: `SIR_ID_PATTERN` ora `\d+/\d{4}`, campo `sir_id` diventa `Optional[str]`
+- Eliminati 14 batch di output (10 all-empty + 4 misti) per riprocessamento con nuovo prompt; rimasti 29 JSON validi
+
 ## 2026-02-16
 
 - Creato `docs/PRD.md` dedotto dallo stato reale del progetto (obiettivi, scope, requisiti, metriche, rischi, DoD)

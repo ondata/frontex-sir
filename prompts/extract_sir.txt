@@ -4,7 +4,7 @@ Analizza questo documento PDF contenente uno o più Serious Incident Reports Fro
 Obiettivo:
 1) quantificare vittime per ciascun SIR;
 2) definire in modo strutturato il luogo in cui avviene l'incidente.
-3) classificare SOLO record che sono realmente SIR con ID numerico.
+3) classificare SOLO record che sono realmente SIR (con o senza ID numerico).
 
 Restituisci SOLO JSON valido, senza markdown, con questa struttura:
 {
@@ -46,15 +46,18 @@ Restituisci SOLO JSON valido, senza markdown, con questa struttura:
 }
 
 Regole:
-- Identifica ogni blocco "Serious Incident Report no. XXXXX/YYYY".
-- Prima fase di detection: verifica se esistono SIR con ID nel formato numerico `XXXXX/YYYY`.
-- Se nel documento non ci sono SIR numerici validi, restituisci `{"records":[]}`.
+- Identifica ogni blocco "Serious Incident Report" (con o senza numero).
+- Prima fase di detection: cerca sezioni che iniziano con "Serious Incident Report" o equivalente.
+- Se nel documento non ci sono SIR, restituisci `{"records":[]}`.
 - Dai priorità ai campi Dead/Injured/Missing persons nel form.
 - Se i campi non hanno numeri, usa Details / Information/Allegations / Assessment.
 - Non inventare numeri.
 - Distingui confermato vs possibile/non confermato.
 - Se impossibile estrarre un valore, usa null.
-- sir_id deve essere solo nel formato numerico `XXXXX/YYYY`.
+- sir_id: usa il numero del SIR nel formato in cui appare nel documento.
+  - Se il formato è `XXXXX/YYYY`, usalo così (es. `"11013/2019"`).
+  - Se è solo numerico senza anno (es. `no. 911`), costruisci `"911/<anno_da_report_date>"` (es. `"911/2019"`).
+  - Se il numero è assente o illeggibile, usa null.
 - Non usare ID operativi o testuali (es. `POSEIDON_001/2021`, `THEMIS_001/2021`): questi NON sono SIR validi per questo output.
 - evidence_pages: numeri di pagina del PDF dove hai trovato le informazioni.
 - libyan_coast_guard_involved: true se il documento menziona esplicitamente la guardia costiera libica (Libyan Coast Guard, LCG, guardia costiera della Libia) come attore presente o coinvolto nell'incidente; false se l'incidente è descritto senza alcun coinvolgimento libico; null se non è possibile determinarlo.
